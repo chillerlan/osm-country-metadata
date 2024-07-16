@@ -1,0 +1,56 @@
+{
+	"$schema": "https://getcomposer.org/schema.json",
+	"name": "chillerlan/osm-country-metadata",
+	"description": "Country Metadata extracted from OpenStreetMap",
+	"license": "MIT",
+	"type": "library",
+	"keywords": ["osm", "openstreetmap", "country", "countries"],
+	"authors": [
+		{
+			"name": "smiley",
+			"email": "smiley@chillerlan.net",
+			"homepage": "https://github.com/codemasher"
+		},
+		{
+			"name": "Contributors",
+			"homepage":"https://github.com/chillerlan/osm-country-metadata/graphs/contributors"
+		}
+	],
+	"funding": [
+		{
+			"type": "Ko-Fi",
+			"url": "https://ko-fi.com/codemasher"
+		}
+	],
+	"homepage": "https://github.com/chillerlan/osm-country-metadata",
+	"support": {
+		"issues": "https://github.com/chillerlan/osm-country-metadata/issues",
+		"source": "https://github.com/chillerlan/osm-country-metadata"
+	},
+	"minimum-stability": "stable",
+	"prefer-stable": true,
+	"require": {
+		"php": "^8.1"
+	},
+	"require-dev": {
+		"chillerlan/php-httpinterface": "^6.0",
+		"monolog/monolog": "^3.7"
+	},
+	"suggest": {
+	},
+	"autoload": {
+		"psr-4": {
+			"chillerlan\\OSMCountryMetadata\\": "src"
+		}
+	},
+	"autoload-dev": {
+		"psr-4": {
+			"chillerlan\\OSMCountryMetadataTest\\": "tests"
+		}
+	},
+	"config": {
+		"lock": true,
+		"sort-packages": true,
+		"platform-check": true
+	}
+}
