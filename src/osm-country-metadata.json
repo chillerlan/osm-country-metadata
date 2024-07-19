@@ -18642,7 +18642,7 @@
 		"capital": null,
 		"currency": "EUR",
 		"default_language": "de",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Germany.svg",
+		"flag": "File:Flag of Germany.svg",
 		"lang": {
 			"alt_name": {
 				"eo": "Germanujo",
@@ -24817,7 +24817,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": null,
-		"flag": "http://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Guernsey.svg",
+		"flag": "File:Flag_of_Guernsey.svg",
 		"lang": {
 			"alt_name": {
 				"el": "Γκέρνσεϊ",
@@ -29275,7 +29275,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": "en",
-		"flag": "http://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_the_Isle_of_Man.svg",
+		"flag": "File:Flag_of_the_Isle_of_Man.svg",
 		"lang": {
 			"alt_name": {
 				"eo": "Manksio;Manksujo",
@@ -29874,7 +29874,7 @@
 		"capital": "Dublin",
 		"currency": "EUR",
 		"default_language": "en",
-		"flag": "http://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+		"flag": "File:Flag_of_Ireland.svg",
 		"lang": {
 			"alt_name": {
 				"vi": "Ireland;Ái Nhĩ Lan"
@@ -31657,7 +31657,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": null,
-		"flag": "http://upload.wikimedia.org/wikipedia/commons/1/1c/Flag_of_Jersey.svg",
+		"flag": "File:Flag_of_Jersey.svg",
 		"lang": {
 			"alt_name": {
 				"eo": "Ĵersejo",
