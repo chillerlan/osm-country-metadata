@@ -9,46 +9,50 @@
  *
  * @noinspection PhpUndefinedConstantInspection
  */
+declare(strict_types=1);
 
-use chillerlan\HTTP\CurlClient;
-use chillerlan\HTTP\CurlMultiClient;
-use chillerlan\HTTP\HTTPOptions;
-use chillerlan\HTTP\MultiResponseHandlerInterface;
+use chillerlan\HTTP\{CurlClient, CurlMultiClient, HTTPOptions, MultiResponseHandlerInterface};
 use chillerlan\HTTP\Psr7\HTTPFactory;
 use chillerlan\HTTP\Utils\MessageUtil;
 use Monolog\Formatter\LineFormatter;
 use Monolog\Handler\StreamHandler;
 use Monolog\Logger;
-use Psr\Http\Message\RequestInterface;
-use Psr\Http\Message\ResponseInterface;
-use Psr\Log\LoggerInterface;
-use Psr\Log\LogLevel;
+use Psr\Http\Message\{RequestInterface, ResponseInterface};
+use Psr\Log\{LoggerInterface, LogLevel};
 
 require_once __DIR__.'/../vendor/autoload.php';
 
 
-// create some directories
-$directories = [
+const DIRECTORIES = [
 	'BUILDDIR'           => __DIR__.'/../.build',
 	'BUILDDIR_RELATIONS' => __DIR__.'/../.build/relations',
 	'SRCDIR'             => __DIR__.'/../src',
+	'TOOLDIR'            => __DIR__,
 ];
 
-foreach($directories as $const => $dir){
+// create some directories
+foreach(DIRECTORIES as $const => $dir){
 
 	if(!is_dir($dir)){
 		mkdir(directory: $dir, recursive: true);
 	}
 
+	// define the constants with the real path
 	define($const, realpath($dir));
 }
 
 const FILE_RELATIONS = SRCDIR.'/osm-country-relation-ids.json';
 const FILE_METADATA  = SRCDIR.'/osm-country-metadata.json';
+const FILE_CA        = TOOLDIR.'/cacert.pem'; // https://curl.se/ca/cacert.pem
+
+// replaces n spaces with a tab character (to reduce bloat in json prettyprint output)
+function space2tab(string $str, int $spaces = 4):string{
+	return str_replace(str_repeat(' ', $spaces), "\t", $str);
+}
 
 
 // invoke http client
-$httpOptions = new HTTPOptions(['ca_info' => __DIR__.'/cacert.pem', 'sleep' => 250000]);
+$httpOptions = new HTTPOptions(['ca_info' => FILE_CA, 'sleep' => 250000]);
 $factory     = new HTTPFactory;
 $http        = new CurlClient($factory, $httpOptions);
 
@@ -101,9 +105,9 @@ $responseHandler = new class ($logger) implements MultiResponseHandlerInterface{
 
 	public function handleResponse(
 		ResponseInterface $response,
-		RequestInterface $request,
-		int $id,
-		array|null $curl_info,
+		RequestInterface  $request,
+		int               $id,
+		array|null        $curl_info,
 	):RequestInterface|null{
 
 		// return the failed request back to the stack
@@ -157,9 +161,9 @@ $httpMultiClient->process();
 
 // write the relations map
 $relations    = $responseHandler->getRelations();
-$relationData = str_replace('    ', "\t", json_encode($relations, JSON_PRETTY_PRINT));
+$relationData = json_encode($relations, JSON_PRETTY_PRINT);
 
-file_put_contents(FILE_RELATIONS, $relationData);
+file_put_contents(FILE_RELATIONS, space2tab($relationData));
 
 
 // build the data
@@ -247,6 +251,6 @@ foreach($metadata as &$arr){
 	ksort($arr);
 }
 
-$metadata = str_replace('    ', "\t", json_encode($metadata, JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES|JSON_PRETTY_PRINT));
+$metadata = json_encode($metadata, JSON_UNESCAPED_UNICODE|JSON_UNESCAPED_SLASHES|JSON_PRETTY_PRINT);
 
-file_put_contents(FILE_METADATA, $metadata);
+file_put_contents(FILE_METADATA, space2tab($metadata));
