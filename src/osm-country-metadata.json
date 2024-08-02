@@ -1695,6 +1695,7 @@
 				"bpy": "প্রজাতন্ত্রি আলবেনিয়া",
 				"br": "Republik Albania",
 				"bs": "Republika Albanija",
+				"ca": "República d'Albània",
 				"cdo": "Albania Gê̤ṳng-huò-guók",
 				"ce": "Албани Республика",
 				"ceb": "Republika sa Albanya",
@@ -4430,6 +4431,7 @@
 				"zu": "i-Antigua and Barbuda"
 			},
 			"official_name": {
+				"ca": "Estat d’Antigua i Barbuda",
 				"ckb": "کۆماری ئەنتیگوا و بەربوودا",
 				"cs": "Stát Antigua a Barbuda",
 				"de": "Antigua und Barbuda",
@@ -5207,6 +5209,7 @@
 			"official_name": {
 				"be": "Рэспубліка Аўстрыя",
 				"be-tarask": "Рэспубліка Аўстрыя",
+				"ca": "República d'Àustria",
 				"ckb": "کۆماری نەمسا",
 				"cs": "Rakouská republika",
 				"el": "Δημοκρατία της Αυστρίας",
@@ -6004,6 +6007,7 @@
 				"bpy": "প্রজাতন্ত্রি বুরুন্ডি",
 				"br": "Republik Burundi",
 				"bs": "Republika Burundi",
+				"ca": "República de Burundi",
 				"chr": "ᏍᎦᏚᎩ ᎾᎿ ᏋᎷᏂᏗ",
 				"ckb": "کۆماری بوروندی",
 				"crh": "Burundi Cumhuriyeti",
@@ -7451,6 +7455,7 @@
 			"official_name": {
 				"an": "Republica de Burkina Faso",
 				"ar": "جمهورية بوركينا فاسو",
+				"ca": "República Democràtica de Burkina Faso",
 				"ckb": "کۆماری دیموکراتی بورکینافاسۆ",
 				"fr": "République Démocratique du Burkina Faso",
 				"scn": "Ripùbbrica dû Burchina Fasu",
@@ -8415,6 +8420,7 @@
 				"br": "Republik Bulgaria",
 				"bs": "Republika Bugarska",
 				"bxr": "Бүгэдэ Найрамдаха Болгари Улас",
+				"ca": "República de Bulgària",
 				"ce": "Респу́блика Болга́ри",
 				"chr": "ᏍᎦᏚᎩ ᎾᎿ ᏊᎵᎨᎵᎠ",
 				"ckb": "کۆماری بولگاریا",
@@ -8558,6 +8564,9 @@
 				"yue": "保加利亞共和國",
 				"zh": "保加利亚共和国",
 				"zu": "IRiphabliki weBulgariya"
+			},
+			"old_name": {
+				"ca": "República Popular de Bulgària"
 			}
 		},
 		"name": "България",
@@ -9966,6 +9975,7 @@
 		"lang": {
 			"alt_name": {
 				"ar": "بيلاروس",
+				"ca": "Belarús",
 				"ckb": "کۆماری بیلاڕووس",
 				"eo": "Belorusujo;Belarusio;Belarusujo",
 				"vi": "Bạch Nga",
@@ -10184,6 +10194,7 @@
 				"ar": "جمهورية روسيا البيضاء",
 				"be": "Рэспублiка Беларусь",
 				"be-tarask": "Рэспубліка Беларусь",
+				"ca": "República de Belarús",
 				"cs": "Běloruská republika",
 				"de": "Republik Belarus",
 				"en": "Republic of Belarus",
@@ -13256,7 +13267,7 @@
 				"az": "Bechuanaland",
 				"bm": "Bechuanaland",
 				"br": "Bechuanaland",
-				"ca": "Bechuanaland",
+				"ca": "Betxuanalàndia",
 				"cs": "Bečuánsko",
 				"da": "Bechuanaland",
 				"de": "Betschuanaland",
@@ -15932,6 +15943,7 @@
 			"official_name": {
 				"ar": "جمهورية الكاميرون",
 				"azb": "کامرون جومهوریتی",
+				"ca": "Rep´del Camerun",
 				"ckb": "کۆماری کامیروون",
 				"cs": "Kamerunská republika",
 				"de": "Republik Kamerun",
@@ -16168,6 +16180,7 @@
 				"zu": "IRiphabliki Labantu weKongo"
 			},
 			"official_name": {
+				"ca": "República Democràtica del Congo",
 				"en": "Democratic Republic of the Congo",
 				"fr": "République démocratique du Congo",
 				"kg": "Repubilika ya Kongo Demokratiki",
@@ -16264,7 +16277,7 @@
 				"br": "Republik Kongo",
 				"bs": "Republika Kongo",
 				"bxr": "Конго",
-				"ca": "República del Congo",
+				"ca": "Congo",
 				"ce": "Республика Конго",
 				"ceb": "Republika sa Congo",
 				"chy": "Republic of the Congo",
@@ -16412,6 +16425,7 @@
 				"zu": "IKongo"
 			},
 			"official_name": {
+				"ca": "República del Congo",
 				"de": "Departements der Republik Kongo",
 				"din": "Paankɔc de Koŋgo",
 				"en": "Republic of the Congo",
@@ -16849,6 +16863,7 @@
 				"zu": "IKolombiya"
 			},
 			"official_name": {
+				"ca": "República de Colòmbia",
 				"ckb": "کۆماری کۆڵۆمبیا",
 				"cs": "Kolumbijská republika",
 				"en": "Republic of Colombia",
@@ -17115,6 +17130,7 @@
 			},
 			"official_name": {
 				"ar": "الاتّحاد القمريّ",
+				"ca": "Unió de les Comores",
 				"cs": "Komorský svaz",
 				"en": "Union of the Comoros",
 				"es": "Unión de las Comoras",
@@ -18958,6 +18974,7 @@
 				"ar": "جمهورية ألمانيا الاتحادية",
 				"azb": "آلمان فدراتیو جومهوریتی",
 				"be": "Федэратыўная Рэспубліка Германія",
+				"ca": "República Federal d'Alemanya",
 				"cs": "Spolková republika Německo",
 				"de": "Bundesrepublik Deutschland",
 				"el": "Ομοσπονδιακή Δημοκρατία της Γερμανίας",
@@ -19612,6 +19629,7 @@
 				"zu": "IDenimaki"
 			},
 			"official_name": {
+				"ca": "Regne de Dinamarca",
 				"cs": "Dánské království",
 				"de": "Königreich Dänemark",
 				"el": "Βασίλειο της Δανίας",
@@ -21822,6 +21840,7 @@
 			"official_name": {
 				"ar": "مملكة إسبانيا",
 				"be": "Каралеўства Іспанія",
+				"ca": "Regne d’Espanya",
 				"cs": "Španělské království",
 				"el": "Βασίλειο της Ισπανίας",
 				"eo": "Reĝlando Hispanio",
@@ -22090,6 +22109,7 @@
 			"official_name": {
 				"be": "Эстонская Рэспубліка",
 				"be-tarask": "Эстонская Рэспубліка",
+				"ca": "República d'Estònia",
 				"cs": "Estonská republika",
 				"el": "Δημοκρατία της Εσθονίας",
 				"eo": "Respubliko Estonio",
@@ -22408,7 +22428,7 @@
 				"br": "Republik demokratel gevreadel Etiopia",
 				"bs": "Savezna Demokratska Republika Etiopija",
 				"bxr": "Холбооной Бүгэдэ Найрамдаха Арадшалһан Этиопи Улас",
-				"ca": "Ityop'iya Federalawi Demokrasiyawi Ripeblik",
+				"ca": "República Federal Democràtica d'Etiòpia",
 				"ce": "Федерати́вни Демократи́н Респу́блика Эфио́пи",
 				"chr": "ᎠᏰᏟᏥ ᏈᏍᏗᎤᎾᏓᏅᏖᏗ ᏍᎦᏚᎩ ᎾᎿ ᎢᏗᎣᏈᎠ",
 				"ckb": "کۆماری دیموکراتیکی فیدراڵی ئیتیۆپیا",
@@ -22543,6 +22563,7 @@
 			"old_name": {
 				"az": "Həbəşistan",
 				"bar": "Abessinien",
+				"ca": "Abissínia",
 				"ce": "Абиссини",
 				"cs": "Habeš",
 				"de": "Abessinien",
@@ -22851,6 +22872,7 @@
 			"official_name": {
 				"ar": "جمهورية فنلندا",
 				"be": "Фінляндская Рэспубліка",
+				"ca": "República de Finlàndia",
 				"cs": "Finská republika",
 				"da": "Repbulikken Finland",
 				"de": "Republik Finnland",
@@ -23113,6 +23135,7 @@
 		"flag": "http://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg",
 		"lang": {
 			"alt_name": {
+				"ca": "Illes Falkland",
 				"cs": "Malvíny",
 				"de": "Malwinen",
 				"eo": "Malvinoj",
@@ -23238,6 +23261,7 @@
 				"zu": "i-Falkland Islands (i-Islas Malvinas)"
 			},
 			"official_name": {
+				"ca": "Illes Falkland",
 				"cs": "Falklandské ostrovy (Malvíny)",
 				"en": "Falkland Islands",
 				"eo": "Insuloj Falklandoj",
@@ -23817,7 +23841,7 @@
 				"bpy": "মাইক্রোনেশিয়া তিলপারাষ্ট্র",
 				"br": "Mikronezia",
 				"bs": "Savezne Države Mikronezije",
-				"ca": "Estats Federats de Micronèsia",
+				"ca": "Micronèsia",
 				"ce": "Микронезин Федеративни штаташ",
 				"ceb": "Pederadong Estados sa Micronesia",
 				"chr": "ᎠᏰᏟᏧᎾᎵᎪᎯᎾᎿᎹᎢᏉᏂᏏᏯ",
@@ -23970,6 +23994,7 @@
 			},
 			"official_name": {
 				"ar": "ولايات ميكرونيسيا المتحدة",
+				"ca": "Estats Federats de Micronèsia",
 				"cs": "Federativní státy Mikronésie",
 				"en": "Federated States of Micronesia",
 				"eo": "Federaciaj Ŝtatoj de Mikronezio;Federacio de Mikronezio",
@@ -25394,6 +25419,7 @@
 		"flag": "http://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
 		"lang": {
 			"alt_name": {
+				"ca": "Guinea Conakry",
 				"fr": "Guinée-Conakry"
 			},
 			"name": {
@@ -25421,7 +25447,7 @@
 				"br": "Ginea",
 				"bs": "Gvineja",
 				"bxr": "Гвиней",
-				"ca": "República de Guinea",
+				"ca": "Guinea",
 				"ce": "Гвине",
 				"ceb": "Guinea",
 				"ckb": "گینێ",
@@ -25580,6 +25606,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية غينيا",
+				"ca": "República de Guinea",
 				"cs": "Guinejská republika",
 				"fa": "جمهوری گینه",
 				"fr": "République de Guinée",
@@ -25929,6 +25956,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية غامبيا",
+				"ca": "República de Gàmbia",
 				"cs": "Gambijská republika",
 				"de": "Republik Gambia",
 				"en": "Republic of The Gambia",
@@ -26785,6 +26813,7 @@
 				"zu": "IGreki"
 			},
 			"official_name": {
+				"ca": "República Hel·lènica",
 				"cs": "Řecká republika",
 				"eo": "Helena Respubliko",
 				"fi": "Helleenien tasavalta",
@@ -28278,7 +28307,7 @@
 				"br": "Kroatia",
 				"bs": "Hrvatska",
 				"bxr": "Хорват",
-				"ca": "Cròacia",
+				"ca": "Croàcia",
 				"ce": "Хорвати",
 				"ceb": "Krowasya",
 				"chy": "Croatia",
@@ -28468,6 +28497,7 @@
 				"zh-Hant": "克羅地亞"
 			},
 			"official_name": {
+				"ca": "República de Croàcia",
 				"cs": "Chorvatská republika",
 				"el": "Δημοκρατία της Κροατίας",
 				"eo": "Respubliko Kroatio",
@@ -28685,6 +28715,7 @@
 			},
 			"official_name": {
 				"ast": "República d'Haití",
+				"ca": "República d'Haití",
 				"cs": "Republika Haiti",
 				"de": "Republik Haiti",
 				"en": "Republic of Haiti",
@@ -29255,6 +29286,7 @@
 			"official_name": {
 				"ar": "جمهورية إندونيسيا",
 				"bjn": "Ripublik Indunisia",
+				"ca": "República d'Indonèsia",
 				"ckb": "کۆماری ئیندۆنیزیا",
 				"cs": "Indonéská republika",
 				"de": "Republik Indonesien",
@@ -29900,6 +29932,7 @@
 		"flag": "File:Flag_of_Ireland.svg",
 		"lang": {
 			"alt_name": {
+				"ca": "República d’Irlanda",
 				"vi": "Ireland;Ái Nhĩ Lan"
 			},
 			"name": {
@@ -30443,6 +30476,7 @@
 			"official_name": {
 				"ar": "الجمهورية الإسلامية الإيرانية",
 				"azb": "ایران ایسلام جۇمهۇریَّتی",
+				"ca": "República Islàmica de l'Iran",
 				"cs": "Íránská islámská republika",
 				"cv": "Ислам Республики Иран",
 				"de": "Islamische Republik Iran",
@@ -30498,6 +30532,7 @@
 		"flag": "http://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
 		"lang": {
 			"alt_name": {
+				"ca": "Irac",
 				"ckb": "ئێراق",
 				"sdh": "ئێراق",
 				"vi": "I-rắc"
@@ -30733,6 +30768,7 @@
 			"official_name": {
 				"ar": "جمهورية العراق",
 				"be": "Рэспубліка Ірак",
+				"ca": "República de l'Iraq",
 				"ckb": "كۆماری عێراق",
 				"cs": "Irácká republika",
 				"de": "Republik Irak",
@@ -31011,6 +31047,7 @@
 				"zu": "I-Ayisilandi"
 			},
 			"official_name": {
+				"ca": "República d'Islàndia",
 				"cs": "Islandská republika",
 				"de": "Republik Island",
 				"en": "Republic of Iceland",
@@ -31273,6 +31310,7 @@
 			},
 			"official_name": {
 				"ar": "دولة إسرائيل",
+				"ca": "Estat d'Israel",
 				"cs": "Stát Izrael",
 				"en": "State of Israel",
 				"eo": "Ŝtato Israelo",
@@ -31566,6 +31604,7 @@
 				"zu": "ITaliya"
 			},
 			"official_name": {
+				"ca": "República Italiana",
 				"cs": "Italská republika",
 				"de": "Republik Italien",
 				"el": "Ιταλική Δημοκρατία",
@@ -31791,6 +31830,7 @@
 				"zh-Hant": "澤西"
 			},
 			"official_name": {
+				"ca": "Batllia de Jersey",
 				"eo": "Voktujo Ĵerzejo"
 			}
 		},
@@ -32012,6 +32052,7 @@
 			"official_name": {
 				"ang": "Hascemisce Cynerīce þæs Iordanes",
 				"ar": "المملكة الأردنية الهاشمية",
+				"ca": "Regne Haiximita de Jordània",
 				"cs": "Jordánské hášimovské království",
 				"de": "Haschemitisches Königreich Jordanien",
 				"en": "Hashemite Kingdom of Jordan",
@@ -33009,6 +33050,7 @@
 			},
 			"official_name": {
 				"ar": "الجمهورية القيرغيزية",
+				"ca": "República Kirguís",
 				"ckb": "کۆماری قرغیزستان",
 				"cs": "Kyrgyzská republika",
 				"en": "Kyrgyz Republic",
@@ -34364,6 +34406,7 @@
 			},
 			"official_name": {
 				"ar": "الجمهورية اللبنانية",
+				"ca": "República Libanesa",
 				"cs": "Libanonská republika",
 				"de": "Libanesische Republik",
 				"en": "Lebanese Republic",
@@ -34582,6 +34625,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية ليبيريا",
+				"ca": "República de Libèria",
 				"cs": "Liberijská republika",
 				"de": "Republik Liberia",
 				"eo": "Liberia Respubliko",
@@ -34839,6 +34883,7 @@
 			"official_name": {
 				"af": "Staat Libië",
 				"ar": "دولة ليبيا",
+				"ca": "Estat de Líbia",
 				"cs": "Libyjský stát",
 				"de": "Staat Libyen",
 				"es": "Estado de Libia",
@@ -35330,6 +35375,9 @@
 				"ta": "இலங்கை ஜனநாயக சோசலிச குடியரசு",
 				"zh-Hans": "斯里兰卡民主社会主义共和国",
 				"zh-Hant": "斯里蘭卡民主社會主義共和國"
+			},
+			"old_name": {
+				"ca": "Ceilan"
 			},
 			"short_name": {
 				"cs": "Šrí Lanka"
@@ -35830,6 +35878,7 @@
 				"az": "Litva Respublikası",
 				"be": "Літоўская Рэспубліка",
 				"be-tarask": "Летувіская Рэспубліка",
+				"ca": "República de Lituània",
 				"cs": "Litevská republika",
 				"el": "Δημοκρατία της Λιθουανίας",
 				"en": "Republic of Lithuania",
@@ -35849,6 +35898,7 @@
 				"vi": "Cộng hòa Litva"
 			},
 			"old_name": {
+				"ca": "República Socialista Soviètica de Lituània",
 				"ka": "ლიტვა"
 			}
 		},
@@ -36099,6 +36149,7 @@
 				"zh-Hant": "盧森堡"
 			},
 			"official_name": {
+				"ca": "Gran Ducat de Luxemburg",
 				"cs": "Lucemburské velkovévodství",
 				"de": "Großherzogtum Luxemburg",
 				"el": "Μεγάλο Δουκάτο του Λουξεμβούργου",
@@ -36395,6 +36446,7 @@
 				"az": "Latviya Respublikası",
 				"be": "Латвійская Рэспубліка",
 				"be-tarask": "Латвійская Рэспубліка",
+				"ca": "República de Letònia",
 				"cs": "Lotyšská republika",
 				"el": "Δημοκρατία της Λετονίας",
 				"en": "Republic of Latvia",
@@ -36410,6 +36462,9 @@
 				"sv": "Republiken Lettland",
 				"uz": "Latviya Respublikasi",
 				"vi": "Cộng hòa Latvia"
+			},
+			"old_name": {
+				"ca": "Republica Socialista Soviètica de Letònia"
 			}
 		},
 		"name": "Latvija",
@@ -36948,6 +37003,7 @@
 			"official_name": {
 				"ar": "المغرب",
 				"ber": "ⵍⵎⵖⵔⵉⴱ",
+				"ca": "Regne del Marroc",
 				"cs": "Marocké království",
 				"en": "Morocco",
 				"fr": "Maroc",
@@ -37456,6 +37512,9 @@
 				"la": "Res publica Moldavica",
 				"na": "Ripubrikin Mordowa",
 				"ru": "Республика Молдова"
+			},
+			"old_name": {
+				"ca": "República Socialista Soviètica de Moldàvia;"
 			}
 		},
 		"name": "Moldova",
@@ -38124,6 +38183,7 @@
 				"zu": "IMekisiko"
 			},
 			"official_name": {
+				"ca": "Estats Units Mexicans",
 				"cs": "Spojené státy mexické",
 				"cy": "Unol Daleithiau Mecsico",
 				"sv": "Mexikos förenta stater"
@@ -38441,6 +38501,7 @@
 				"ar": "مقدونيا",
 				"bg": "Македония",
 				"bs": "Makedonija",
+				"ca": "Macedònia",
 				"cs": "Makedonie",
 				"cy": "Macedonia",
 				"de": "Mazedonien",
@@ -40041,6 +40102,7 @@
 				"arc": "ܩܘܛܢܝܘܬܐ ܡܫܠܡܢܝܬܐ ܕܡܘܪܝܛܢܝܐ",
 				"az-Arab": "موریتانی ایسلام جومهوریتی",
 				"azb": "موریتانی ایسلام جومهوریتی",
+				"ca": "República Islàmica de Mauritània",
 				"cs": "Mauritánská islámská republika",
 				"de": "Islamische Republik Mauretanien",
 				"es": "República Islámica de Mauritania",
@@ -40475,6 +40537,7 @@
 				"zu": "IMorishisi"
 			},
 			"official_name": {
+				"ca": "República de Maurici",
 				"cs": "Mauricijská republika",
 				"de": "Republik Mauritius",
 				"fr": "République de Maurice",
@@ -42574,6 +42637,7 @@
 		"flag": "http://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
 		"lang": {
 			"alt_name": {
+				"ca": "Norvègia",
 				"eo": "Norvegujo",
 				"sma": "Nøørje"
 			},
@@ -42806,6 +42870,7 @@
 			},
 			"official_name": {
 				"be": "Каралеўства Нарвегія",
+				"ca": "Regne de Noruega",
 				"cs": "Norské království",
 				"de": "Königreich Norwegen",
 				"en": "Kingdom of Norway",
@@ -43670,6 +43735,7 @@
 			},
 			"official_name": {
 				"ar": "سلطنة عمان",
+				"ca": "Sultanat d'Oman",
 				"ckb": "سەڵتەنەتی عومان",
 				"cs": "Sultanát Omán",
 				"eo": "Omana Sultanlando",
@@ -43925,6 +43991,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية باكستان الإسلامية",
+				"ca": "República Islàmica del Pakistan",
 				"cs": "Pákistánská islámská republika",
 				"en": "Islamic Republic of Pakistan",
 				"eo": "Islama Respubliko de Pakistano",
@@ -44452,6 +44519,7 @@
 				"zu": "Peru"
 			},
 			"official_name": {
+				"ca": "República del Perú",
 				"cs": "Peruánská republika",
 				"el": "Δημοκρατία του Περού",
 				"en": "Republic of Peru",
@@ -45262,6 +45330,7 @@
 				"ar": "الجمهورية البولندية",
 				"be": "Рэспубліка Польшча",
 				"be-tarask": "Рэспубліка Польшча",
+				"ca": "República de Polònia",
 				"cs": "Polská republika",
 				"de": "Republik Polen",
 				"el": "Δημοκρατία της Πολωνίας",
@@ -45619,6 +45688,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية كوريا الديمقراطية الشعبية",
+				"ca": "República Popular Democràtica de Corea",
 				"cs": "Korejská lidově demokratická republika",
 				"de": "Demokratische Volksrepublik Korea",
 				"en": "Democratic People's Republic of Korea",
@@ -45909,6 +45979,7 @@
 			},
 			"official_name": {
 				"ar": "الجمهورية البرتغالية",
+				"ca": "República Portuguesa",
 				"ckb": "کۆماری پورتوگال",
 				"cs": "Portugalská republika",
 				"el": "Πορτογαλική Δημοκρατία",
@@ -47346,6 +47417,7 @@
 				"ar": "الاتحاد الروسي",
 				"ast": "Federación Rusa",
 				"be": "Расійская Федэрацыя",
+				"ca": "Federació Russa",
 				"cs": "Ruská federace",
 				"de": "Russische Föderation",
 				"en": "Russian Federation",
@@ -47368,6 +47440,7 @@
 				"zh-Hant": "俄羅斯聯邦"
 			},
 			"old_name": {
+				"ca": "República Socialista Federativa Soviètica de Rússia;Imperi Rus",
 				"is": "Garðaríki"
 			},
 			"old_short_name": {
@@ -47626,6 +47699,7 @@
 		"flag": "http://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
 		"lang": {
 			"alt_name": {
+				"ca": "Aràbia Saudí",
 				"eo": "Sauda Arabujo;Saud-Arabio;Saud-Arabujo",
 				"vi": "Ả Rập Xê Út;A-rập Xê-út"
 			},
@@ -47825,6 +47899,7 @@
 			},
 			"official_name": {
 				"ar": "المملكة العربية السعودية",
+				"ca": "Regne d'Aràbia Saudita",
 				"cs": "Království Saúdská Arábie",
 				"en": "Kingdom of Saudi Arabia",
 				"eo": "Reĝlando Sauda Arabio",
@@ -48081,6 +48156,7 @@
 				"ar": "جمهورية السودان",
 				"azb": "سودان جومهوریتی",
 				"be": "Рэспубліка Судан",
+				"ca": "República del Sudan",
 				"cs": "Súdánská republika",
 				"de": "Republik Sudan",
 				"fa": "جمهوری سودان",
@@ -48553,6 +48629,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية سنغافورة",
+				"ca": "República de Singapur",
 				"cs": "Singapurská republika",
 				"de": "Republik Singapur",
 				"en": "Republic of Singapore",
@@ -50004,6 +50081,7 @@
 				"zu": "ISerbiya"
 			},
 			"official_name": {
+				"ca": "República de Sèrbia",
 				"cs": "Srbská republika",
 				"de": "Republik Serbien",
 				"el": "Δημοκρατία της Σερβίας",
@@ -50546,6 +50624,7 @@
 				"zu": "i-Suriname"
 			},
 			"official_name": {
+				"ca": "República de Surinam",
 				"ckb": "کۆماری سورینام",
 				"cs": "Surinamská republika",
 				"en": "Republic of Surinam",
@@ -50792,6 +50871,7 @@
 			},
 			"official_name": {
 				"be": "Славацкая рэспубліка",
+				"ca": "República Eslovaca",
 				"cs": "Slovenská republika",
 				"de": "Slowakische Republik",
 				"el": "Σλοβακική Δημοκρατία",
@@ -51044,6 +51124,7 @@
 				"zh-TW": "斯洛維尼亞"
 			},
 			"official_name": {
+				"ca": "República d'Eslovènia",
 				"cs": "Slovinská republika",
 				"el": "Δημοκρατία της Σλοβενίας",
 				"eo": "Respubliko Slovenio",
@@ -51316,6 +51397,7 @@
 			},
 			"official_name": {
 				"be": "Каралеўства Швецыя",
+				"ca": "Regne de Suècia",
 				"cs": "Švédské království",
 				"de": "Königreich Schweden",
 				"el": "Βασίλειο της Σουηδίας",
@@ -52034,7 +52116,7 @@
 				"bs": "Sirija",
 				"bug": "Suriah",
 				"bxr": "Сири",
-				"ca": "República Àrab Siriana",
+				"ca": "Síria",
 				"cdo": "Sṳ̆-lê-ā",
 				"ce": "Шема",
 				"ceb": "Siria",
@@ -52204,6 +52286,7 @@
 			},
 			"official_name": {
 				"ar": "الجمهورية العربية السورية",
+				"ca": "República Àrab Siriana",
 				"cs": "Syrská arabská republika",
 				"en": "Syrian Arab Republic",
 				"fa": "جمهوری عربی سوریه",
@@ -52631,6 +52714,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية تشاد",
+				"ca": "República del Txad",
 				"ckb": "کۆماری چاد",
 				"cs": "Čadská republika",
 				"din": "Paankɔc ke Cad",
@@ -52852,6 +52936,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية توغو",
+				"ca": "República Togolesa",
 				"ckb": "کۆماری تۆگۆ",
 				"cs": "Tožská republika",
 				"en": "Togolese Republic",
@@ -53095,6 +53180,7 @@
 			},
 			"official_name": {
 				"ar": "مملكة تايلاند",
+				"ca": "Regne de Tailàndia",
 				"cs": "Thajské království",
 				"en": "Kingdom of Thailand",
 				"eo": "Tajlanda Reĝlando",
@@ -53899,6 +53985,7 @@
 				"zh-Hant": "東帝汶"
 			},
 			"official_name": {
+				"ca": "República Democràtica de Timor-Leste",
 				"cs": "Demokratická republika Východní Timor",
 				"en": "Democratic Republic of Timor-Leste",
 				"es": "República Democrática de Timor Oriental",
@@ -54496,6 +54583,7 @@
 			"official_name": {
 				"ar": "الجمهورية التونسية",
 				"bs": "Republika Tunis",
+				"ca": "República de Tunísia",
 				"cs": "Tuniská republika",
 				"de": "Republik Tunesien",
 				"en": "Republic of Tunisia",
@@ -54815,6 +54903,7 @@
 			},
 			"official_name": {
 				"ar": "الجمهورية التركية",
+				"ca": "República de Turquia",
 				"cs": "Turecká republika",
 				"de": "Republik Turkei",
 				"el": "Δημοκρατία της Τουρκίας",
@@ -55944,6 +56033,7 @@
 			},
 			"official_name": {
 				"be": "Аб'яднаная Рэспубліка Танзанія",
+				"ca": "República Unida de Tanzània",
 				"cs": "Sjednocená tanzanská republika",
 				"en": "United Republic of Tanzania",
 				"es": "República Unida de Tanzania",
@@ -56175,6 +56265,7 @@
 				"zu": "IYuganda"
 			},
 			"official_name": {
+				"ca": "República d'Uganda",
 				"cs": "Ugandská republika",
 				"de": "Republik Uganda",
 				"en": "Republic of Uganda",
@@ -56678,6 +56769,7 @@
 			"official_name": {
 				"be": "Усходняя Рэспубліка Уругвай",
 				"br": "Republik-Reter Uruguay",
+				"ca": "República Oriental de l'Uruguai",
 				"cs": "Uruguayská východní republika",
 				"de": "República Oriental del Uruguay",
 				"en": "Oriental Republic of Uruguay",
@@ -57295,6 +57387,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية أوزبكستان",
+				"ca": "República de l'Uzbekistan",
 				"cs": "Republika Uzbekistán",
 				"en": "Republic of Uzbekistan",
 				"eo": "Uzbeka Respubliko",
@@ -57552,6 +57645,7 @@
 				"zu": "Indolobha yaseVathikhani"
 			},
 			"official_name": {
+				"ca": "Estat de la Ciutat del Vaticà",
 				"cs": "Vatikánský městský stát",
 				"de": "Staat Vatikanstadt",
 				"en": "Vatican City State",
@@ -58389,6 +58483,7 @@
 				"zu": "IViyetnami"
 			},
 			"official_name": {
+				"ca": "República Socialista del Vietnam",
 				"cs": "Vietnamská socialistická republika",
 				"en": "Socialist Republic of Vietnam",
 				"eo": "Socialista Respubliko de Vjetnamio",
@@ -58798,6 +58893,7 @@
 			},
 			"official_name": {
 				"be": "Незалежная Дзяржава Самоа",
+				"ca": "Estat Independent de Samoa",
 				"cs": "Nezávislý stát Samoa",
 				"de": "Unabhängiger Staat Samoa",
 				"en": "Independent State of Samoa",
@@ -58818,6 +58914,7 @@
 				"vi": "Nhà nước Độc lập Samoa"
 			},
 			"old_name": {
+				"ca": "Samoa Occidental ",
 				"cs": "Západní Samoa;Německá Samoa",
 				"de": "Westsamoa",
 				"eo": "Okcidenta Samoo",
@@ -59032,6 +59129,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية كوسوفو",
+				"ca": "República de Kosovo",
 				"cs": "Kosovská republika",
 				"de": "Republik Kosovo",
 				"el": "Δημοκρατία του Κοσσυφοπεδίου",
@@ -59281,6 +59379,7 @@
 			"official_name": {
 				"ar": "الجمهورية اليمنية",
 				"azb": "یمن جومهوریتی",
+				"ca": "República del Iemen",
 				"cs": "Jemenská republika",
 				"eo": "Jemena Respubliko",
 				"fa": "جمهوری یمن",
