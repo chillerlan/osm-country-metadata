@@ -17172,6 +17172,7 @@
 			},
 			"name": {
 				"ar": "الرأس الأخضر",
+				"ca": "Cap Verd",
 				"ckb": "کابۆڤێردێ",
 				"cs": "Kapverdy",
 				"da": "Kap Verde",
@@ -17216,6 +17217,7 @@
 				"zh-Hant-CN": "佛得角"
 			},
 			"official_name": {
+				"ca": "República de Cap Verd",
 				"ckb": "کۆماری کابۆڤێردێ",
 				"cs": "Kapverdská republika",
 				"eo": "Kabo-Verda Respubliko",
@@ -26852,6 +26854,7 @@
 			"name": {
 				"ar": "غرينادا",
 				"br": "Grenada",
+				"ca": "Grenada",
 				"cs": "Grenada",
 				"da": "Grenada",
 				"de": "Grenada",
@@ -27725,7 +27728,7 @@
 				"yi": "גויאנע",
 				"yo": "Gùyánà",
 				"yue": "圭亞那",
-				"zh": "圭亚那 / 蓋亞那 / 圭亞那",
+				"zh": "圭亚那",
 				"zh-HK": "圭亞那",
 				"zh-Hans": "圭亚那",
 				"zh-Hant": "蓋亞那 / 圭亞那",
@@ -31654,6 +31657,7 @@
 				"ar": "جامايكا",
 				"bg": "Ямайка",
 				"br": "Jamaika",
+				"ca": "Jamaica",
 				"ckb": "جامایکا",
 				"cs": "Jamajka",
 				"de": "Jamaika",
@@ -33396,6 +33400,7 @@
 			"name": {
 				"ar": "سانت كيتس ونيفيس",
 				"br": "Saint Kitts-ha-Nevis",
+				"ca": "Saint Kitts i Nevis",
 				"cs": "Svatý Kryštof a Nevis",
 				"de": "St. Kitts und Nevis",
 				"el": "Άγιος Χριστόφορος και Νέβις",
@@ -33434,6 +33439,7 @@
 				"zh": "圣克里斯多福及尼维斯"
 			},
 			"official_name": {
+				"ca": "Federació de Saint Kitts i Nevis",
 				"cs": "Federace Svatý Kryštof a Nevis",
 				"en": "Federation of Saint Kitts and Nevis",
 				"es": "Federación de San Cristóbal y Nieves",
@@ -35060,6 +35066,7 @@
 				"arc": "ܠܝܟܛܢܫܛܝܢ",
 				"be": "Лiхтэнштэйн",
 				"bs": "Lihtenštajn",
+				"ca": "Liechtenstein",
 				"ckb": "لیختنشتاین",
 				"cs": "Lichtenštejnsko",
 				"de": "Liechtenstein",
@@ -35112,6 +35119,7 @@
 				"zh-Hant": "列支敦斯登"
 			},
 			"official_name": {
+				"ca": "Principat de Liechtenstein",
 				"cs": "Lichtenštejnské knížectví",
 				"de": "Fürstentum Liechtenstein",
 				"en": "Principality of Liechtenstein",
@@ -35390,7 +35398,8 @@
 			"admin_level": "2",
 			"alt_name": "Ceylon",
 			"border_type": "nation",
-			"driving_side": "left"
+			"driving_side": "left",
+			"note": "Also Known As Ceylon"
 		},
 		"timezone": "Asia/Colombo",
 		"website": null,
@@ -42262,6 +42271,7 @@
 				"be": "Ніуэ",
 				"bg": "Ниуе",
 				"br": "Niue",
+				"ca": "Niue",
 				"cs": "Niue",
 				"de": "Niue",
 				"dv": "ނީއު",
@@ -43153,6 +43163,7 @@
 				"bn": "নাউরু",
 				"bo": "ནའུ་རུ།",
 				"bpy": "নাউরু",
+				"ca": "Nauru",
 				"cdo": "Nauru",
 				"chr": "ᏃᎤᎷ",
 				"chy": "Nauru",
@@ -43236,6 +43247,7 @@
 				"zh-Hant": "諾魯"
 			},
 			"official_name": {
+				"ca": "República de Nauru",
 				"cs": "Republika Nauru",
 				"en": "Republic of Nauru",
 				"es": "República de Nauru",
@@ -44250,6 +44262,7 @@
 				"ar": "جزر بيتكيرن",
 				"az": "Pitkern adaları",
 				"bg": "Питкерн",
+				"ca": "Illes Pitcairn",
 				"cs": "Pitcairnovy ostrovy",
 				"da": "Pitcairn",
 				"de": "Pitcairninseln",
@@ -44802,6 +44815,7 @@
 		"lang": {
 			"name": {
 				"ar": "بالاو",
+				"ca": "Palau",
 				"cs": "Palau",
 				"de": "Palau",
 				"en": "Palau",
@@ -44841,6 +44855,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية بالاو",
+				"ca": "República de Palau",
 				"cs": "Republika Palau",
 				"de": "Republik Palau",
 				"en": "Republic of Palau",
@@ -49393,6 +49408,7 @@
 				"be": "Сан-Марына",
 				"be-tarask": "Сан-Марына",
 				"bg": "Сан Марино",
+				"ca": "San Marino",
 				"ckb": "سان مارینۆ",
 				"cs": "San Marino",
 				"de": "San Marino",
@@ -49454,6 +49470,7 @@
 			"official_name": {
 				"ar": "جمهورية سان مارينو",
 				"arc": "ܩܘܛܢܝܘܬܐ ܕܣܢ ܡܪܝܢܘ",
+				"ca": "República de San Marino",
 				"cs": "Republika San Marino",
 				"de": "Republik San Marino",
 				"eo": "Respubliko San-Marino",
@@ -50353,6 +50370,7 @@
 			},
 			"name": {
 				"azb": "سائوتومه و پرنسیپ",
+				"ca": "São Tomé i Príncipe",
 				"cs": "Svatý Tomáš a Princův ostrov",
 				"de": "São Tomé und Príncipe",
 				"el": "Ἅγιος Θωμᾶς καὶ Κοίρανος",
@@ -50389,6 +50407,7 @@
 				"zh-Hant": "聖多美普林西比"
 			},
 			"official_name": {
+				"ca": "República Democràtica de São Tomé i Príncipe",
 				"cs": "Demokratická republika Svatý Tomáš a Princův ostrov",
 				"de": "Demokratische Republik São Tomé und Príncipe",
 				"es": "República Democrática de Santo Tomé y Príncipe",
@@ -50615,7 +50634,7 @@
 				"yo": "Sùrìnámù",
 				"yue": "蘇里南",
 				"zea": "Surinaome",
-				"zh": "苏里南 / 蘇利南 / 蘇里南",
+				"zh": "苏里南",
 				"zh-HK": "蘇里南",
 				"zh-Hans": "苏里南",
 				"zh-Hant": "蘇利南 / 蘇里南",
@@ -56024,7 +56043,7 @@
 				"yi": "טאנזאניע",
 				"yo": "Tànsáníà",
 				"yue": "坦桑尼亞",
-				"zh": "坦桑尼亚 / 坦尚尼亞",
+				"zh": "坦桑尼亚",
 				"zh-Hans": "坦桑尼亚",
 				"zh-Hant": "坦尚尼亞",
 				"zh-Hant-CN": "坦桑尼亞",
@@ -56259,7 +56278,7 @@
 				"yi": "אוגאנדע",
 				"yo": "Ùgándà",
 				"yue": "烏干達",
-				"zh": "乌干达 / 烏干達",
+				"zh": "乌干达",
 				"zh-Hans": "乌干达",
 				"zh-Hant": "烏干達",
 				"zu": "IYuganda"
@@ -58092,6 +58111,7 @@
 		"lang": {
 			"name": {
 				"ar": "جزر العذراء البريطانية",
+				"ca": "Illes Verges Britàniques",
 				"chr": "ᏈᏗᏍ ᎠᏒᏂᎸ",
 				"cs": "Britské Panenské ostrovy",
 				"de": "Britische Jungferninseln",
@@ -58529,6 +58549,7 @@
 				"bg": "Вануату",
 				"bn": "ভানুয়াটু",
 				"bo": "ཝ་ནུའ་ཏུ།",
+				"ca": "Vanuatu",
 				"ce": "Вануату",
 				"cs": "Vanuatu",
 				"de": "Vanuatu",
@@ -58602,6 +58623,7 @@
 				"zh-Hant-CN": "瓦努阿圖"
 			},
 			"official_name": {
+				"ca": "República de Vanuatu",
 				"cs": "Republika Vanuatu",
 				"en": "Republic of Vanuatu",
 				"eo": "Respubliko de Vanatuo",
