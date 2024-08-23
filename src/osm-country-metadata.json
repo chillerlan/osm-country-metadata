@@ -21663,9 +21663,9 @@
 				"fur": "Spagne",
 				"fy": "Spanje",
 				"ga": "An Spáinn",
+				"gaceria": "España",
 				"gag": "İspaniya",
 				"gan": "西班牙",
-				"gc": "España",
 				"gd": "An Spàinn",
 				"gl": "España",
 				"glk": "ائسپانيا",
@@ -21849,7 +21849,7 @@
 				"el": "Βασίλειο της Ισπανίας",
 				"eo": "Reĝlando Hispanio",
 				"fa": "پادشاهی اسپانیا",
-				"gc": "Engrullada de España",
+				"gaceria": "Engrullada de España",
 				"gl": "Reino de España",
 				"pt": "Reino de Espanha",
 				"ur": "مملکت ہسپانیہ",
@@ -57445,7 +57445,7 @@
 		"capital": null,
 		"currency": "EUR",
 		"default_language": "it",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_the_Vatican_City.svg",
+		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg",
 		"lang": {
 			"alt_name": {
 				"is": "Páfagarður"
