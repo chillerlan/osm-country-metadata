@@ -1665,7 +1665,7 @@
 				"zh": "阿尔巴尼亚",
 				"zh-Hans": "阿尔巴尼亚",
 				"zh-Hant": "阿爾巴尼亞",
-				"zh_pinyin": "Āěrbāníyà",
+				"zh-Latn-pinyin": "Āěrbāníyà",
 				"zu": "I-Albaniya"
 			},
 			"official_name": {
@@ -3465,7 +3465,7 @@
 				"zh": "亚美尼亚",
 				"zh-Hans": "亚美尼亚",
 				"zh-Hant": "亞美尼亞",
-				"zh_pinyin": "Yàměiníyà",
+				"zh-Latn-pinyin": "Yàměiníyà",
 				"zu": "i-Armenia"
 			},
 			"official_name": {
@@ -5304,6 +5304,7 @@
 				"ceb": "Aserbaiyan",
 				"chr": "ᎠᏎᏆᏣᏂ",
 				"ckb": "ئازەربایجان",
+				"cnr": "Azerbajdžan",
 				"co": "Azerbaighjan",
 				"crh": "Azerbaycan",
 				"cs": "Ázerbájdžán",
@@ -5714,7 +5715,8 @@
 				"za": "Ahsehbaiqgyangh Gunghogzgoz",
 				"zh": "阿塞拜疆共和国 / 亞塞拜然共和國",
 				"zh-Hans": "阿塞拜疆共和国",
-				"zh-Hant": "亞塞拜然共和國"
+				"zh-Hant": "亞塞拜然共和國",
+				"zh-Hant-HK": "阿塞拜疆共和國"
 			}
 		},
 		"name": "Azərbaycan",
@@ -8174,6 +8176,7 @@
 				"ch": "Bulgaria",
 				"chr": "ᏊᎵᎨᎵᎠ",
 				"ckb": "بولگاریا",
+				"cnr": "Bugarska",
 				"co": "Bulgaria",
 				"crh": "Bulğaristan",
 				"cs": "Bulharsko",
@@ -8426,6 +8429,7 @@
 				"ce": "Респу́блика Болга́ри",
 				"chr": "ᏍᎦᏚᎩ ᎾᎿ ᏊᎵᎨᎵᎠ",
 				"ckb": "کۆماری بولگاریا",
+				"cnr": "Republika Bugarska",
 				"co": "Republica di Bulgaria",
 				"crh": "Bulğaristan Cumhuriyeti",
 				"cs": "Bulharská republika",
@@ -8565,6 +8569,8 @@
 				"yo": "Orile-ede Olominira ile Bulgaria",
 				"yue": "保加利亞共和國",
 				"zh": "保加利亚共和国",
+				"zh-Hans": "保加利亚共和国",
+				"zh-Hant": "保加利亞共和國",
 				"zu": "IRiphabliki weBulgariya"
 			},
 			"old_name": {
@@ -18368,7 +18374,8 @@
 		"lang": {
 			"alt_name": {
 				"de": "Tschechei",
-				"eo": "Ĉeĥujo"
+				"eo": "Ĉeĥujo",
+				"gl": "República Checa"
 			},
 			"name": {
 				"ab": "Чехиа",
@@ -18408,6 +18415,7 @@
 				"chr": "ᏤᎩᎠ",
 				"chy": "Czech Republic",
 				"ckb": "کۆماری چیک",
+				"cnr": "Češka",
 				"co": "Cechia",
 				"crh": "Çehiya",
 				"cs": "Česko",
@@ -18441,7 +18449,7 @@
 				"ga": "An tSeic",
 				"gag": "Çehiya",
 				"gd": "An t-Seic",
-				"gl": "República Checa",
+				"gl": "Chequia",
 				"gn": "Cheko",
 				"gv": "Yn Phobblaght Çheck",
 				"ha": "Kazech",
@@ -18618,6 +18626,7 @@
 				"ast": "República Checa",
 				"br": "Republik Tchek",
 				"ca": "República Txeca",
+				"cnr": "Republika Češka",
 				"cs": "Česká republika",
 				"de": "Tschechische Republik",
 				"el": "Τσεχική Δημοκρατία",
@@ -21924,6 +21933,7 @@
 				"ceb": "Estonia",
 				"chr": "ᎡᏍᏙᏂᏱ",
 				"ckb": "ئەستۆنیا",
+				"cnr": "Estonija",
 				"co": "Estonia",
 				"crh": "Estoniya",
 				"cs": "Estonsko",
@@ -23800,7 +23810,7 @@
 				"xmf": "ფარერიშ კოკეფი",
 				"yo": "Àwọn Erékùṣù Fàróè",
 				"yue": "法羅群島",
-				"zh": "法罗群岛 / 法羅群島",
+				"zh": "法罗群岛",
 				"zh-Hans": "法罗群岛",
 				"zh-Hant": "法羅群島"
 			}
@@ -24672,6 +24682,7 @@
 				"ce": "Гуьржийчоь",
 				"ceb": "Georgia",
 				"ckb": "گورجستان",
+				"cnr": "Gruzija",
 				"crh": "Gürcistan",
 				"cs": "Gruzie",
 				"csb": "Grëzóńskô",
@@ -28814,6 +28825,7 @@
 				"ceb": "Unggriya",
 				"chr": "ᎲᏂᎦᎵ",
 				"ckb": "مەجارستان",
+				"cnr": "Mađarska",
 				"co": "Ungheria",
 				"crh": "Macaristan",
 				"cs": "Maďarsko",
@@ -29023,7 +29035,7 @@
 				"zh": "匈牙利",
 				"zh-Hans": "匈牙利",
 				"zh-Hant": "匈牙利",
-				"zh_pinyin": "Xiōngyálì",
+				"zh-Latn-pinyin": "Xiōngyálì",
 				"zu": "i-Hungary"
 			},
 			"old_name": {
@@ -36269,6 +36281,7 @@
 				"ceb": "Latvia",
 				"ch": "Letonia",
 				"ckb": "لاتڤیا",
+				"cnr": "Latvija",
 				"co": "Lettonia",
 				"crh": "Latviya",
 				"cs": "Lotyšsko",
@@ -36466,7 +36479,7 @@
 				"zh": "拉脱维亚 / 拉脫維亞",
 				"zh-Hans": "拉脱维亚",
 				"zh-Hant": "拉脫維亞",
-				"zh_pinyin": "Lātuōwéiyà",
+				"zh-Latn-pinyin": "Lātuōwéiyà",
 				"zu": "ILatviya"
 			},
 			"official_name": {
@@ -37358,6 +37371,7 @@
 				"ceb": "Moldabya",
 				"chr": "ᎼᎵᏙᏩ",
 				"ckb": "مۆلدۆڤا",
+				"cnr": "Moldavija",
 				"co": "Moldavia",
 				"cs": "Moldavsko",
 				"csb": "Mòłdawskô",
@@ -44881,6 +44895,7 @@
 				"is": "Palaú",
 				"ja": "パラオ",
 				"jbo": "belaus",
+				"ko": "팔라우",
 				"lt": "Palau",
 				"mi": "Pārau",
 				"nan": "Palau",
@@ -44914,6 +44929,7 @@
 				"gn": "Tavakuairetã Paláu",
 				"hr": "Republika Palau",
 				"is": "Lýðveldið Palaú",
+				"ko": "팔라우 공화국",
 				"pt": "República de Palau",
 				"ru": "Республика Палау"
 			}
@@ -45184,6 +45200,7 @@
 				"chr": "ᏉᎳᏂ",
 				"chy": "Poland",
 				"ckb": "پۆڵەندا",
+				"cnr": "Poljska",
 				"co": "Polonia",
 				"crh": "Lehistan",
 				"cs": "Polsko",
@@ -45397,6 +45414,7 @@
 				"be": "Рэспубліка Польшча",
 				"be-tarask": "Рэспубліка Польшча",
 				"ca": "República de Polònia",
+				"cnr": "Republika Poljska",
 				"cs": "Polská republika",
 				"de": "Republik Polen",
 				"el": "Δημοκρατία της Πολωνίας",
@@ -46985,6 +47003,7 @@
 				"ceb": "Rumanya",
 				"chr": "ᎶᎹᏂᏯ",
 				"ckb": "ڕۆمانیا",
+				"cnr": "Rumunija",
 				"co": "Romania",
 				"crh": "Romaniya",
 				"cs": "Rumunsko",
@@ -50764,6 +50783,7 @@
 				"ceb": "Eslobakya",
 				"chy": "Slovakia",
 				"ckb": "سلۆڤاکیا",
+				"cnr": "Slovačka",
 				"co": "Sluvacchia",
 				"crh": "Slovakiya",
 				"cs": "Slovensko",
@@ -51191,11 +51211,9 @@
 				"yue": "斯洛文尼亞",
 				"zea": "Slovenië",
 				"zh": "斯洛文尼亞 / 斯洛維尼亞 / 斯洛文尼亚",
-				"zh-HK": "斯洛文尼亞",
 				"zh-Hans": "斯洛文尼亚",
-				"zh-Hant": "斯洛維尼亞 / 斯洛文尼亞",
-				"zh-Hant-CN": "斯洛文尼亞",
-				"zh-TW": "斯洛維尼亞"
+				"zh-Hant": "斯洛維尼亞",
+				"zh-Hant-HK": "斯洛文尼亞"
 			},
 			"official_name": {
 				"ca": "República d'Eslovènia",
@@ -59603,7 +59621,7 @@
 				"kk": "Оңтүстік Африка",
 				"km": "អាព្រិក​ភាគ​ខាង​ត្បូង",
 				"kn": "ದಕ್ಷಿಣ ಆಫ್ರಿಕಾ",
-				"ko": "남아프리카",
+				"ko": "남아프리카 공화국",
 				"krc": "Къыбыла-Африкан Республика",
 				"ks": "جَنوٗبی اَفریٖکا",
 				"ksh": "Södaffrika",
@@ -59814,6 +59832,7 @@
 				"kbd": "Ипшъэ Африкэ Республикэ",
 				"kg": "Repubilika ya Afelika ya Sudi",
 				"kk": "Оңтүстік Африка Республикасы",
+				"ko": "남아프리카 공화국",
 				"krc": "Къыбыла-Африкан Республика",
 				"ku": "Komara Afrîkaya Başûr",
 				"kv": "Лунвыв Африкаса Республика",
@@ -59915,6 +59934,7 @@
 				"en": "RSA",
 				"fr": "RSA",
 				"kbd": "ИАР",
+				"ko": "남아공",
 				"krc": "КъАР",
 				"kv": "ЛАР",
 				"ky": "ТАР",
