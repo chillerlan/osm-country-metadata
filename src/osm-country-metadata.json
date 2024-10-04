@@ -24725,7 +24725,6 @@
 				"fa": "گرجستان",
 				"ff": "Jorjiya",
 				"fi": "Georgia",
-				"fiu_vro": "Gruusia",
 				"fj": "Georgia",
 				"fo": "Georgia",
 				"fr": "Géorgie",
@@ -29572,7 +29571,6 @@
 		"relation_id": 62269,
 		"tags": {
 			"admin_level": "2",
-			"int_name": "Ellan Vannin / Isle of Man",
 			"population": "75049",
 			"source": "landsat;Isle of Man Government aerial imagery (2001)"
 		},
@@ -37904,7 +37902,7 @@
 			"name": {
 				"af": "Maldive",
 				"am": "ማልዲቭስ",
-				"ar": "ملديف",
+				"ar": "المالديف",
 				"ast": "Les Maldives",
 				"az": "Maldiv",
 				"be": "Мальдывы",
@@ -38444,9 +38442,9 @@
 				"el": "Βόρεια Μακεδονία",
 				"en": "Republic of North Macedonia",
 				"es": "Macedonia del Norte",
-				"he": "הרפובליקה היוגוסלבית לשעבר של מקדוניה",
-				"sk": "Bývalá Juhoslovanská Republika Macedónsko",
-				"zh": "前南斯拉夫的马其顿共和国"
+				"he": "רפובליקת מָקֵדוֹנְיָה הצפונית",
+				"sk": "Severomacedónska republika",
+				"zh": "北马其顿共和国"
 			},
 			"name": {
 				"ar": "شمال مقدونيا",
@@ -38582,7 +38580,7 @@
 				"yo": "Orílẹ̀-èdè Olómìnira ilẹ̀ Makẹdóníà",
 				"yue": "北馬其頓共和國",
 				"zea": "Macedonië",
-				"zh": "北马其顿",
+				"zh": "北马其顿 / 北馬其頓",
 				"zh-Hans": "北马其顿",
 				"zh-Hant": "北馬其頓"
 			},
@@ -46505,6 +46503,7 @@
 		"official_name": "دولة فلسطين",
 		"relation_id": 1703814,
 		"tags": {
+			"admin_level": "2",
 			"alt_name": "فلسطين",
 			"description": "מיפוי שטחי הרשות הפלסטינית B + C + עזה, כאשר לכל אחד מהם יש מיפוי משלו. מיקום התגית הוא במרכז הגאוגרפי של כל השטח ולכן נופל מחוץ לשטחי הרשות.",
 			"description:he": "מיפוי שטחי הרשות הפלסטינית B + C + עזה, כאשר לכל אחד מהם יש מיפוי משלו. מיקום התגית הוא במרכז הגאוגרפי של כל השטח ולכן נופל מחוץ לשטחי הרשות.",
@@ -50066,6 +50065,8 @@
 				"chr": "ᏒᏈᏯ",
 				"chy": "Serbia",
 				"ckb": "سربیا",
+				"cnr": "Srbija",
+				"cnr-Cyrl": "Србија",
 				"co": "Serbia",
 				"crh": "Sırbistan",
 				"cs": "Srbsko",
@@ -55122,6 +55123,9 @@
 		"default_language": "en",
 		"flag": "http://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
 		"lang": {
+			"alt_name": {
+				"pl": "Tuwalu"
+			},
 			"name": {
 				"ace": "Tuvalu",
 				"af": "Tuvalu",
@@ -55710,6 +55714,7 @@
 				"sv": "Taiwan",
 				"sw": "Taiwan",
 				"szl": "Tajwan",
+				"ta": "தைவான்",
 				"te": "తైవాన్",
 				"tet": "Taiwán",
 				"tg": "Тайва́н",
@@ -56696,7 +56701,7 @@
 				"yo": "Ukréìn",
 				"yue": "烏克蘭",
 				"zea": "Oekraïne",
-				"zh": "乌克兰",
+				"zh": "乌克兰 / 烏克蘭",
 				"zh-Hans": "乌克兰",
 				"zh-Hant": "烏克蘭"
 			},
