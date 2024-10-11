@@ -1220,10 +1220,10 @@
 				"yo": "Àngúíllà",
 				"yue": "安圭拉",
 				"zh": "安圭拉 / 安吉拉",
-				"zh-HK": "安圭拉",
 				"zh-Hans": "安圭拉",
 				"zh-Hant": "安圭拉 / 安吉拉",
-				"zh-TW": "安吉拉"
+				"zh-Hant-HK": "安圭拉",
+				"zh-Hant-TW": "安吉拉"
 			}
 		},
 		"name": "Anguilla",
@@ -3158,6 +3158,7 @@
 		"tags": {
 			"admin_level": "2",
 			"country_code_fips": "AR",
+			"driving_side": "right",
 			"geonames:id": "3865483",
 			"int_name": "Argentina",
 			"population": "47327407",
@@ -6652,6 +6653,7 @@
 			"TMC:cid_58:tabcd_1:LCLversion": "8.00",
 			"TMC:cid_58:tabcd_1:LocationCode": "3",
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Belgium",
 			"operator": "Belgische Staat / État belge / Belgischer Staat",
 			"operator:de": "Belgischer Staat",
@@ -9760,12 +9762,12 @@
 				"yue": "波斯尼亞黑塞哥維那",
 				"zea": "Bosnië-Hercegovina",
 				"zh": "波斯尼亚和黑塞哥维那",
-				"zh-CN": "波斯尼亚和黑塞哥维那",
-				"zh-HK": "波斯尼亞和黑塞哥維那",
 				"zh-Hans": "波斯尼亚和黑塞哥维那",
+				"zh-Hans-CN": "波斯尼亚和黑塞哥维那",
 				"zh-Hant": "波士尼亞與赫塞哥維納",
+				"zh-Hant-HK": "波斯尼亞和黑塞哥維那",
+				"zh-Hant-TW": "波士尼亞與赫塞哥維納",
 				"zh-Latn-pinyin": "Bōsīníyà hé Hēisāigēwéinà",
-				"zh-TW": "波士尼亞與赫塞哥維納",
 				"zu": "IBhosniya neHerzegovina"
 			},
 			"official_name": {
@@ -10489,10 +10491,10 @@
 				"za": "Belize",
 				"zea": "Belize",
 				"zh": "伯利兹",
-				"zh-HK": "伯利兹",
 				"zh-Hans": "伯利兹",
 				"zh-Hant": "伯利兹 / 貝里斯",
-				"zh-TW": "貝里斯",
+				"zh-Hant-HK": "伯利兹",
+				"zh-Hant-TW": "貝里斯",
 				"zu": "Belize"
 			},
 			"official_name": {
@@ -13866,6 +13868,7 @@
 			"admin_level": "2",
 			"border_type": "national",
 			"country_code_fips": "CA",
+			"driving_side": "right",
 			"int_name": "Canada"
 		},
 		"timezone": null,
@@ -14290,6 +14293,7 @@
 			"TMC:cid_58:tabcd_1:LocationCode": "6",
 			"admin_level": "2",
 			"country_code_fips": "SZ",
+			"driving_side": "right",
 			"int_name": "Schweiz",
 			"land_area": "administrative",
 			"ref:nuts": "CH0",
@@ -14819,6 +14823,7 @@
 		"relation_id": 167454,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Chile"
 		},
 		"timezone": null,
@@ -14929,6 +14934,7 @@
 				"chr": "ᏥᎾ",
 				"chy": "China",
 				"ckb": "چین",
+				"cnr": "Kina",
 				"co": "China",
 				"crh": "Çin",
 				"cs": "Čína",
@@ -15209,6 +15215,7 @@
 				"ceb": "Pangmasang Republika sa Tsina",
 				"chr": "ᏴᏫ ᎤᎾᏤᎵᏍᎦᏚᎩ ᎾᎿ ᏓᎶᏂᎨᏍᏛ",
 				"ckb": "کۆماری خەڵکی چین",
+				"cnr": "Narodna Republika Kina",
 				"co": "Republica Pupulare Chinesa",
 				"crh": "Çin Halq Cumhuriyeti",
 				"cs": "Čínská lidová republika",
@@ -15406,6 +15413,7 @@
 				"bjn": "RRC",
 				"ce": "ЦХР",
 				"ceb": "RPT",
+				"cnr": "NRK",
 				"cs": "ČLR",
 				"cv": "КХР",
 				"cy": "GPT",
@@ -15455,6 +15463,7 @@
 		"relation_id": 270056,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "China",
 			"place": "country",
 			"population": "1425671352",
@@ -17134,7 +17143,7 @@
 				"zh": "科摩罗 / 葛摩 / 科摩洛",
 				"zh-Hans": "科摩罗",
 				"zh-Hant-CN": "科摩羅",
-				"zh-TW": "葛摩",
+				"zh-Hant-TW": "葛摩",
 				"zu": "IsiKhomorosi"
 			},
 			"official_name": {
@@ -17439,11 +17448,11 @@
 				"yue": "哥斯達黎加",
 				"zea": "Costa Rica",
 				"zh": "哥斯达黎加 / 哥斯大黎加",
-				"zh-HK": "哥斯達黎加",
 				"zh-Hans": "哥斯达黎加",
 				"zh-Hant": "哥斯達黎加 / 哥斯大黎加",
 				"zh-Hant-CN": "哥斯達黎加",
-				"zh-TW": "哥斯大黎加",
+				"zh-Hant-HK": "哥斯達黎加",
+				"zh-Hant-TW": "哥斯大黎加",
 				"zu": "Costa Rica"
 			},
 			"official_name": {
@@ -19022,6 +19031,7 @@
 			"admin_level": "2",
 			"border_type": "country",
 			"coat_of_arms": "File:Coat of arms of Germany.svg",
+			"driving_side": "right",
 			"int_name": "Germany",
 			"long_name": "Bundesrepublik Deutschland",
 			"note": "this is the full administrative area including borders in territorial waters",
@@ -20588,7 +20598,7 @@
 				"zh": "厄瓜多尔 / 厄瓜多",
 				"zh-Hans": "厄瓜多尔",
 				"zh-Hant": "厄瓜多",
-				"zh-TW": "厄瓜多"
+				"zh-Hant-TW": "厄瓜多"
 			},
 			"official_name": {
 				"cs": "Ekvádorská republika",
@@ -21145,6 +21155,7 @@
 		"relation_id": 1473947,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"population": "112716599",
 			"source:population": "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
 		},
@@ -21877,6 +21888,7 @@
 		"relation_id": 1311341,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Spain",
 			"source:name:oc": "ieo-bdtopoc"
 		},
@@ -23642,6 +23654,7 @@
 		"tags": {
 			"admin_level": "2",
 			"border_type": "territorial",
+			"driving_side": "right",
 			"euro_const": "FR",
 			"int_name": "France",
 			"note": "this includes the full country (outer roles), i.e. the all territorial waters",
@@ -24247,7 +24260,7 @@
 				"zh-Hans": "加蓬",
 				"zh-Hant": "加蓬 / 加彭",
 				"zh-Hant-CN": "加蓬",
-				"zh-TW": "加彭",
+				"zh-Hant-TW": "加彭",
 				"zu": "IGaboni"
 			},
 			"official_name": {
@@ -24598,6 +24611,7 @@
 				"ru": "Соединённое Королевство Великобритании и Северной Ирландии",
 				"sk": "Spojené kráľovstvo Veľkej Británie a Severného Írska",
 				"sl": "Združeno kraljestvo Velike Britanije in Severne Irske",
+				"uk": "Сполучене Королівство Великої Британії та Північної Ірландії",
 				"vls": "Verênigd Keunienkryk van Grôot-Brittannië en Nôord-Ierland",
 				"wa": "Roéyôme-uni éd Grande-Bretagne pi d'Irlinde-du-Nord",
 				"zh": "大不列顛暨北愛爾蘭聯合王國/大不列颠及北爱尔兰联合王国",
@@ -27386,12 +27400,12 @@
 				"yo": "Guatẹmálà",
 				"yue": "危地馬拉",
 				"zea": "Guatemala",
-				"zh": "危地马拉",
-				"zh-HK": "危地馬拉",
+				"zh": "危地马拉 / 危地馬拉 / 瓜地馬拉",
 				"zh-Hans": "危地马拉",
 				"zh-Hant": "危地馬拉 / 瓜地馬拉",
 				"zh-Hant-CN": "危地馬拉",
-				"zh-TW": "瓜地馬拉",
+				"zh-Hant-HK": "危地馬拉",
+				"zh-Hant-TW": "瓜地馬拉",
 				"zu": "Guatemala"
 			},
 			"official_name": {
@@ -27550,6 +27564,7 @@
 			"country_code_fips": "FG",
 			"description": "France, départements et régions d'outre-mer, territoires régis par l’article 73 de la Constitution",
 			"description:en": "French overseas regions and departements",
+			"driving_side": "right",
 			"int_name": "French Guiana",
 			"is_in:country": "France",
 			"is_in:country_code": "FR",
@@ -27828,10 +27843,10 @@
 				"yo": "Gùyánà",
 				"yue": "圭亞那",
 				"zh": "圭亚那",
-				"zh-HK": "圭亞那",
 				"zh-Hans": "圭亚那",
 				"zh-Hant": "蓋亞那 / 圭亞那",
-				"zh-TW": "蓋亞那"
+				"zh-Hant-HK": "圭亞那",
+				"zh-Hant-TW": "蓋亞那"
 			},
 			"official_name": {
 				"cs": "Guyanská kooperativní republika",
@@ -27975,9 +27990,9 @@
 				"ms": "Hong Kong",
 				"my": "ဟောင်ကောင်",
 				"nan": "Hiong-káng",
-				"nan-HJ": "香港",
-				"nan-POJ": "Hiong-káng",
-				"nan-TL": "Hiong-káng",
+				"nan-Hant": "香港",
+				"nan-Latn-pehoeji": "Hiong-káng",
+				"nan-Latn-tailo": "Hiong-káng",
 				"ne": "हङकङ",
 				"nl": "Hongkong",
 				"nn": "Hongkong",
@@ -28051,16 +28066,16 @@
 				"fr": "Région administrative spéciale de Hong Kong",
 				"hr": "Posebna upravna regija Hong Kong",
 				"nan": "hiong-káng Tek-pia̍t Hêng-chèng-khu",
-				"nan-HJ": "香港特別行政區",
-				"nan-POJ": "Hiong-káng Te̍k-pia̍t Hêng-chèng-khu",
-				"nan-TL": "Hiong-káng Ti̍k-pia̍t Hîng-tsìng-khu",
+				"nan-Hant": "香港特別行政區",
+				"nan-Latn-pehoeji": "Hiong-káng Te̍k-pia̍t Hêng-chèng-khu",
+				"nan-Latn-tailo": "Hiong-káng Ti̍k-pia̍t Hîng-tsìng-khu",
 				"nl": "Speciale Administratieve Regio Hongkong",
 				"short_name": "香港特區 Hong Kong SAR",
 				"short_name:en": "Hong Kong SAR",
 				"short_name:nan": "Hiong-káng Te̍k-khu",
-				"short_name:nan-HJ": "香港特區",
-				"short_name:nan-POJ": "Hiong-káng Te̍k-khu",
-				"short_name:nan-TL": "Hiong-káng Ti̍k-khu",
+				"short_name:nan-Hant": "香港特區",
+				"short_name:nan-Latn-pehoeji": "Hiong-káng Te̍k-khu",
+				"short_name:nan-Latn-tailo": "Hiong-káng Ti̍k-khu",
 				"short_name:zh": "香港特區",
 				"uk": "Особливий адміністративний район Гонконґ",
 				"za": "Yanghgangj Dwzbez Hingzcwnggih",
@@ -29145,6 +29160,7 @@
 		"tags": {
 			"admin_level": "2",
 			"country_code_fips": "HU",
+			"driving_side": "right",
 			"int_name": "Hungary",
 			"land_area": "administrative"
 		},
@@ -30610,6 +30626,7 @@
 		"tags": {
 			"admin_level": "2",
 			"border_type": "nation",
+			"driving_side": "right",
 			"int_name": "Iran",
 			"population": "79926270",
 			"population:date": "2016",
@@ -31430,6 +31447,7 @@
 		"relation_id": 1473946,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "ישראל",
 			"sqkm": "20770"
 		},
@@ -36689,9 +36707,9 @@
 				"ms": "Makau",
 				"my": "မကာအို",
 				"nan": "Ò-mn̂g",
-				"nan-HJ": "澳門",
-				"nan-POJ": "Ò-mn̂g",
-				"nan-TL": "Ò-mn̂g",
+				"nan-Hant": "澳門",
+				"nan-Latn-pehoeji": "Ò-mn̂g",
+				"nan-Latn-tailo": "Ò-mn̂g",
 				"ne": "मकाउ",
 				"nl": "Macau",
 				"nn": "Macao",
@@ -36742,9 +36760,9 @@
 				"eo": "Speciala Administra Divido de Makao",
 				"fr": "Région administrative spéciale de Macao",
 				"nan": "Ò-mn̂g Tek-pia̍t Hêng-chèng-khu",
-				"nan-HJ": "澳門特別行政區",
-				"nan-POJ": "Ò-mn̂g Tek-pia̍t Hêng-chèng-khu",
-				"nan-TL": "Ò-mn̂g Ti̍k-pia̍t Hîng-tsìng-khu",
+				"nan-Hant": "澳門特別行政區",
+				"nan-Latn-pehoeji": "Ò-mn̂g Tek-pia̍t Hêng-chèng-khu",
+				"nan-Latn-tailo": "Ò-mn̂g Ti̍k-pia̍t Hîng-tsìng-khu",
 				"nl": "Speciale Administratieve Regio Macau",
 				"pl": "Specjalny Region Administracyjny Makau",
 				"pt": "Região Administrativa Especial de Macau da República Popular da China",
@@ -38027,6 +38045,7 @@
 				"be": "Мальдыўская Рэспубліка",
 				"ckb": "کۆماری مالدیڤ",
 				"cs": "Maledivská republika",
+				"en": "Republic of Maldives",
 				"eo": "Respubliko de Maldivoj",
 				"es": "República de Maldivas",
 				"et": "Maldiivi Vabariik",
@@ -38046,7 +38065,7 @@
 			}
 		},
 		"name": "ދިވެހިރާއްޖެ",
-		"official_name": null,
+		"official_name": "ދިވެހިރާއްޖޭގެ ޖުމްހޫރިއްޔާ",
 		"relation_id": 536773,
 		"tags": {
 			"admin_level": "2",
@@ -39051,12 +39070,12 @@
 				"vo": "Malteän",
 				"yo": "Orílẹ́ède Malata",
 				"zh": "马耳他 / 馬爾他 / 馬耳他",
-				"zh-HK": "馬耳他",
 				"zh-Hans": "马耳他",
 				"zh-Hant": "馬爾他 / 馬耳他",
 				"zh-Hant-CN": "馬耳他",
+				"zh-Hant-HK": "馬耳他",
+				"zh-Hant-TW": "馬爾他",
 				"zh-Latn-pinyin": "Mǎěrtā",
-				"zh-TW": "馬爾他",
 				"zu": "i-Malta"
 			},
 			"official_name": {
@@ -45519,6 +45538,7 @@
 			"TMC:cid_58:tabcd_1:LocationCode": "8",
 			"admin_level": "2",
 			"daytime_headlight": "yes",
+			"driving_side": "right",
 			"int_name": "Polska",
 			"short_name": "RP",
 			"source": "geoportal.gov.pl;PRG;Urząd Morski w Gdyni;Ustawa o obszarach morskich Rzeczypospolitej Polskiej i Administracji Morskiej;Act on maritime areas of the Republic of Poland and Maritime Administration;United Nations Convention on the Law of the Sea",
@@ -46508,6 +46528,7 @@
 			"description": "מיפוי שטחי הרשות הפלסטינית B + C + עזה, כאשר לכל אחד מהם יש מיפוי משלו. מיקום התגית הוא במרכז הגאוגרפי של כל השטח ולכן נופל מחוץ לשטחי הרשות.",
 			"description:he": "מיפוי שטחי הרשות הפלסטינית B + C + עזה, כאשר לכל אחד מהם יש מיפוי משלו. מיקום התגית הוא במרכז הגאוגרפי של כל השטח ולכן נופל מחוץ לשטחי הרשות.",
 			"disputed": "yes",
+			"driving_side": "right",
 			"image": "https://upload.wikimedia.org/wikipedia/commons/1/12/IHM_השטחים_הפלסטיניים.jpeg",
 			"note": "Additional relations: https://wiki.openstreetmap.org/wiki/WikiProject_Israel#Palestine_Related"
 		},
@@ -47272,6 +47293,7 @@
 		"relation_id": 90689,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Romania"
 		},
 		"timezone": "Europe/Bucharest",
@@ -50786,11 +50808,11 @@
 				"yue": "蘇里南",
 				"zea": "Surinaome",
 				"zh": "苏里南",
-				"zh-HK": "蘇里南",
 				"zh-Hans": "苏里南",
 				"zh-Hant": "蘇利南 / 蘇里南",
 				"zh-Hant-CN": "蘇里南",
-				"zh-TW": "蘇利南",
+				"zh-Hant-HK": "蘇里南",
+				"zh-Hant-TW": "蘇利南",
 				"zu": "i-Suriname"
 			},
 			"official_name": {
@@ -52473,6 +52495,7 @@
 		"tags": {
 			"admin_level": "2",
 			"alt_name": "سورية",
+			"driving_side": "right",
 			"int_name": "Syria",
 			"population": "17951639",
 			"population:date": "2014",
@@ -52656,11 +52679,11 @@
 				"yo": "Orílẹ́ède Tọọki ati Etikun Kakọsi",
 				"yue": "特克斯與凱科斯群島",
 				"zh": "特克斯和凱科斯群島",
-				"zh-HK": "特克斯和凱科斯群島",
 				"zh-Hans": "特克斯和凯科斯群岛",
 				"zh-Hant": "土克凱可群島 / 特克斯和凱科斯群島",
 				"zh-Hant-CN": "特克斯和凱科斯群島",
-				"zh-TW": "土克凱可群島",
+				"zh-Hant-HK": "特克斯和凱科斯群島",
+				"zh-Hant-TW": "土克凱可群島",
 				"zu": "i-Turks and Caicos Islands"
 			},
 			"official_name": {
@@ -54843,8 +54866,8 @@
 				"chr": "ᎬᏂᏱ",
 				"chy": "Turkey",
 				"ckb": "تورکیا",
-				"cnr": "Турска",
-				"cnr-Latn": "Turska",
+				"cnr": "Turska",
+				"cnr-Cyrl": "Турска",
 				"co": "Turchia",
 				"cr": "ᑐᕒᑭ",
 				"crh": "Türkiye",
@@ -55102,6 +55125,7 @@
 		"relation_id": 174737,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Türkiye",
 			"population": "85279553",
 			"population:date": "2022"
@@ -55983,6 +56007,7 @@
 			"admin_level": "2",
 			"alt_name": "中華民國",
 			"description": "ISO3166-2 code is CN-71 or CN-TW, but not use by Taiwan Government, and the territory size is not the same as China think",
+			"driving_side": "right",
 			"int_name": "Taiwan",
 			"short_name": "TW",
 			"wikimedia_commons": "Category:Taiwan"
@@ -57348,6 +57373,7 @@
 			"abbr_name:en": "U.S.A",
 			"admin_level": "2",
 			"border_type": "national",
+			"driving_side": "right",
 			"int_name": "United States of America",
 			"int_name:ko": "아메리카합중국",
 			"not:official_name:vi": "Hợp chủng quốc Hoa Kỳ;Hợp chúng quốc Hoa Kì;Hợp chủng quốc Hoa Kỳ;Hợp chủng quốc Hoa Kì",
@@ -58685,6 +58711,7 @@
 		"relation_id": 49915,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Viet Nam",
 			"note": "the boundary of Vietnam is partly based on straight baselines"
 		},
