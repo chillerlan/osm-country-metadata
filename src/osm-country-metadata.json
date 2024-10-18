@@ -71,7 +71,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": "ps",
-		"flag": "http://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Afghanistan.svg",
+		"flag": "File:Flag_of_the_Taliban.svg",
 		"lang": {
 			"alt_name": {
 				"af": "Afganistan",
@@ -906,7 +906,7 @@
 				"zh": "安哥拉",
 				"zh-Hans": "安哥拉",
 				"zh-Hant": "安哥拉",
-				"zh_pinyin": "Āngēlā",
+				"zh-Latn-pinyin": "Āngēlā",
 				"zu": "I-Angola"
 			},
 			"official_name": {
@@ -1243,7 +1243,7 @@
 			"alpha3": "ALA",
 			"numeric": "248"
 		},
-		"ISO3166-2": null,
+		"ISO3166-2": "FI-01",
 		"capital": null,
 		"currency": null,
 		"default_language": null,
@@ -2203,7 +2203,7 @@
 				"zh": "安道尔 / 安道爾",
 				"zh-Hans": "安道尔",
 				"zh-Hant": "安道爾",
-				"zh_pinyin": "Āndàoěr",
+				"zh-Latn-pinyin": "Āndàoěr",
 				"zu": "I-Andora"
 			},
 			"official_name": {
@@ -6459,7 +6459,7 @@
 				"zh": "比利时 / 比利時",
 				"zh-Hans": "比利时",
 				"zh-Hant": "比利時",
-				"zh_pinyin": "Bǐlìshí",
+				"zh-Latn-pinyin": "Bǐlìshí",
 				"zu": "i-Belgium"
 			},
 			"official_name": {
@@ -8860,7 +8860,7 @@
 				"zh": "巴林",
 				"zh-Hans": "巴林",
 				"zh-Hant": "巴林",
-				"zh_pinyin": "Bālín",
+				"zh-Latn-pinyin": "Bālín",
 				"zu": "i-Bahrain"
 			},
 			"official_name": {
@@ -12213,7 +12213,7 @@
 				"zh": "文莱 / 汶萊",
 				"zh-Hans": "文莱",
 				"zh-Hant": "汶萊",
-				"zh_pinyin": "Wénlái",
+				"zh-Latn-pinyin": "Wénlái",
 				"zu": "i-Brunei"
 			},
 			"official_name": {
@@ -13760,6 +13760,7 @@
 				"nds-nl": "Kannede",
 				"ne": "क्यानाडा",
 				"new": "क्यानाडा",
+				"nez": "kincocnim wéetes",
 				"nl": "Canada",
 				"nn": "Canada",
 				"no": "Canada",
@@ -13850,7 +13851,7 @@
 				"yue": "加拿大",
 				"zea": "Canada",
 				"zh": "加拿大",
-				"zh_pinyin": "Jiānádà",
+				"zh-Latn-pinyin": "Jiānádà",
 				"zu": "IKhanada"
 			},
 			"official_name": {
@@ -14862,9 +14863,9 @@
 				"ln": "Shína",
 				"min": "Tiongkok",
 				"nan": "Tiong-kok",
-				"nan-HJ": "中国",
-				"nan-POJ": "Tiong-kok",
-				"nan-TL": "Tiong-kok",
+				"nan-Hans": "中国",
+				"nan-Latn-pehoeji": "Tiong-kok",
+				"nan-Latn-tailo": "Tiong-kok",
 				"nds": "Schina",
 				"nrm": "Chinne;Chène",
 				"qu": "Chunwakuk",
@@ -15056,9 +15057,9 @@
 				"na": "Tsiene",
 				"nah": "China",
 				"nan": "Tiong-kok",
-				"nan-HJ": "中国",
-				"nan-POJ": "Tiong-kok",
-				"nan-TL": "Tiong-kok",
+				"nan-Hans": "中国",
+				"nan-Latn-pehoeji": "Tiong-kok",
+				"nan-Latn-tailo": "Tiong-kok",
 				"nap": "Cina",
 				"nb": "Kina",
 				"nds": "Kina",
@@ -15313,9 +15314,9 @@
 				"mzn": "چین مردم جمهوری",
 				"nah": "Tlācatlahtocāyōtl Āltepēhuahcāyōtl China",
 				"nan": "Tiong-hoâ Jîn-bîn Kiōng-hô-kok",
-				"nan-HJ": "中华人民共和国",
-				"nan-POJ": "Tiong-hoâ Jîn-bîn Kiōng-hô-kok",
-				"nan-TL": "Tiong-huâ Jîn-bîn Kiōng-hô-kok",
+				"nan-Hans": "中华人民共和国",
+				"nan-Latn-pehoeji": "Tiong-hoâ Jîn-bîn Kiōng-hô-kok",
+				"nan-Latn-tailo": "Tiong-huâ Jîn-bîn Kiōng-hô-kok",
 				"nap": "Repubbreca Populare Cinese",
 				"nds": "Volksrepubliek China",
 				"nds-nl": "Volksrippebliek China",
@@ -15435,9 +15436,9 @@
 				"mt": "RPĊ",
 				"mwl": "RPC",
 				"nan": "Tiong-kok",
-				"nan-HJ": "中国",
-				"nan-POJ": "Tiong-kok",
-				"nan-TL": "Tiong-kok",
+				"nan-Hans": "中国",
+				"nan-Latn-pehoeji": "Tiong-kok",
+				"nan-Latn-tailo": "Tiong-kok",
 				"ne": "PRC",
 				"pl": "ChRL",
 				"pt": "RPC",
@@ -17891,9 +17892,9 @@
 				"ms": "Pulau Krismas",
 				"my": "ခရစ်စမတ် ကျွန်း",
 				"nan": "Christmas-tó",
-				"nan-HJ": "圣诞岛 / 聖誕島",
-				"nan-POJ": "Christmas-tó",
-				"nan-TL": "Christmas-tó",
+				"nan-Hans": "圣诞岛 / 聖誕島",
+				"nan-Latn-pehoeji": "Christmas-tó",
+				"nan-Latn-tailo": "Christmas-tó",
 				"ne": "क्रिष्टमस टापु",
 				"nl": "Christmaseiland",
 				"nn": "Christmasøya",
@@ -18627,7 +18628,7 @@
 				"zh": "捷克",
 				"zh-Hans": "捷克",
 				"zh-Hant": "捷克",
-				"zh_pinyin": "Jiékè",
+				"zh-Latn-pinyin": "Jiékè",
 				"zu": "ITsheki"
 			},
 			"official_name": {
@@ -20953,7 +20954,7 @@
 				"zh": "埃及",
 				"zh-Hans": "埃及",
 				"zh-Hant": "埃及",
-				"zh_pinyin": "Āijí",
+				"zh-Latn-pinyin": "Āijí",
 				"zu": "iGibhithe"
 			},
 			"official_name": {
@@ -21614,7 +21615,7 @@
 		"capital": null,
 		"currency": "EUR",
 		"default_language": "es",
-		"flag": "http://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Spain_%28Civil%29.svg",
+		"flag": "File:Bandera_de_España.svg",
 		"lang": {
 			"alt_name": {
 				"eo": "Hispanujo",
@@ -22262,7 +22263,7 @@
 				"ga": "an Aetóip",
 				"gag": "Efiopiya",
 				"gan": "埃塞俄比亞",
-				"gd": "An Aetiòp",
+				"gd": "An Itiop",
 				"gl": "Etiopía - Ityop'iya",
 				"gn": "Etiopia",
 				"gom": "इथिओपिया",
@@ -22433,7 +22434,10 @@
 				"zh": "埃塞俄比亚",
 				"zh-Hans": "埃塞俄比亚",
 				"zh-Hant": "衣索比亞",
-				"zh_pinyin": "Āisàiébǐyà",
+				"zh-Hant-CN": "埃塞俄比亞",
+				"zh-Hant-HK": "埃塞俄比亞",
+				"zh-Hant-TW": "衣索比亞",
+				"zh-Latn-pinyin": "Āisàiébǐyà",
 				"zu": "i-Ithiopia"
 			},
 			"official_name": {
@@ -22486,7 +22490,7 @@
 				"fy": "Federale Demokratyske Republyk Etioopje",
 				"ga": "Poblacht Dhaonlathach Fheidearálach na hAetóipe",
 				"gan": "埃塞俄比亞聯邦民主共和國",
-				"gd": "Poblachd Fheadarail Dheamocratach na h-Aetiòp",
+				"gd": "Poblachd Fheadarail Dheamocratach na h-Itiop",
 				"gl": "República Democrática Federal de Etiopía",
 				"gn": "Tetã Etiopia",
 				"gu": "સંઘીય અને લોકતાંત્રિક ઇથિયોપિયાનું ગણરાજ્ય",
@@ -22897,7 +22901,7 @@
 				"zh": "芬兰",
 				"zh-Hans": "芬兰",
 				"zh-Hant": "芬蘭",
-				"zh_pinyin": "Fēnlán",
+				"zh-Latn-pinyin": "Fēnlán",
 				"zu": "IFinlandi"
 			},
 			"official_name": {
@@ -23599,7 +23603,7 @@
 				"zh": "法国",
 				"zh-Hans": "法国",
 				"zh-Hant": "法國",
-				"zh_pinyin": "Fǎguó",
+				"zh-Latn-pinyin": "Fǎguó",
 				"zu": "IFulansi"
 			},
 			"official_name": {
@@ -26534,7 +26538,10 @@
 				"zh": "赤道几内亚",
 				"zh-Hans": "赤道几内亚",
 				"zh-Hant": "赤道幾內亞",
-				"zh_pinyin": "Chìdào Jīnèiyà",
+				"zh-Hant-CN": "赤道幾內亞",
+				"zh-Hant-HK": "赤道畿內亞",
+				"zh-Hant-TW": "赤道幾內亞",
+				"zh-Latn-pinyin": "Chìdào Jīnèiyà",
 				"zu": "iGini Enkabazwe"
 			},
 			"official_name": {
@@ -27092,7 +27099,7 @@
 				"frr": "Greenlun",
 				"fy": "Grienlân",
 				"ga": "An Ghraonlainn",
-				"gd": "A' Ghraonlainn",
+				"gd": "A' Ghraonlann",
 				"gl": "Grenlandia",
 				"gn": "Kyoẽlándia",
 				"gsw": "Grönlànd",
@@ -27203,7 +27210,8 @@
 				"yo": "Grínlándì",
 				"yue": "格陵蘭",
 				"zea": "Hroenland",
-				"zh": "格陵兰"
+				"zh": "格陵兰",
+				"zh-Hant": "格陵蘭"
 			}
 		},
 		"name": "Kalaallit Nunaat",
@@ -29980,9 +29988,9 @@
 				"ms": "Wilayah Lautan Hindi British",
 				"my": "ဗြိတိသျှ အိန္ဒြိယ သမုဒ္ဒရာ ပိုင်နက်",
 				"nan": "Eng-siok Ìn-tō͘-iûⁿ Léng-tōe",
-				"nan-HJ": "英屬印度洋領地",
-				"nan-POJ": "Eng-sio̍k Ìn-tō͘-iûⁿ Léng-tōe",
-				"nan-TL": "Ing-sio̍k Ìn-tōo-iûnn Líng-tuē",
+				"nan-Hant": "英屬印度洋領地",
+				"nan-Latn-pehoeji": "Eng-sio̍k Ìn-tō͘-iûⁿ Léng-tōe",
+				"nan-Latn-tailo": "Ing-sio̍k Ìn-tōo-iûnn Líng-tuē",
 				"ne": "बेलायती हिन्द महासागर क्षेत्र",
 				"nl": "Brits Territorium in de Indische Oceaan",
 				"nn": "Britiske område i Det indiske hav",
@@ -30016,7 +30024,7 @@
 				"zh": "英属印度洋领地 | 英屬印度洋領地",
 				"zh-Hans": "英属印度洋领地",
 				"zh-Hant": "英屬印度洋領地",
-				"zh_pinyin": "Yīngshǔ Yìndùyáng Lǐngdì",
+				"zh-Latn-pinyin": "Yīngshǔ Yìndùyáng Lǐngdì",
 				"zu": "i-British Indian Ocean Territory"
 			}
 		},
@@ -30219,7 +30227,7 @@
 				"mzn": "ایرلند جمهوری",
 				"na": "Ripubrikit Airerand",
 				"nah": "Irtlālpan",
-				"nan": "Éire",
+				"nan": "Ài-ní-lân",
 				"nds": "Irland",
 				"nds-nl": "Ierlaand",
 				"ne": "आइरल्याण्ड",
@@ -30325,8 +30333,7 @@
 				"zh": "爱尔兰 / 愛爾蘭",
 				"zh-Hans": "爱尔兰",
 				"zh-Hant": "愛爾蘭",
-				"zh-min-nan": "Ài-ní-lân",
-				"zh_pinyin": "Àiěrlán",
+				"zh-Latn-pinyin": "Àiěrlán",
 				"zu": "i-Ireland"
 			},
 			"official_name": {
@@ -30882,7 +30889,7 @@
 				"zh": "伊拉克",
 				"zh-Hans": "伊拉克",
 				"zh-Hant": "伊拉克",
-				"zh_pinyin": "Yīlākè",
+				"zh-Latn-pinyin": "Yīlākè",
 				"zu": "I-Iraki"
 			},
 			"official_name": {
@@ -38485,6 +38492,7 @@
 				"et": "Põhja-Makedoonia",
 				"eu": "Ipar Mazedonia",
 				"fa": "مقدونیه شمالی",
+				"fi": "Pohjois-Makedonia",
 				"fr": "Macédoine du Nord",
 				"fy": "Noard-Masedoanje",
 				"gd": "Masadoinia a Tuath",
@@ -38619,6 +38627,7 @@
 				"es": "República de Macedonia del Norte",
 				"eu": "Ipar Mazedoniako Errepublika",
 				"fa": "جمهوری مقدونیه شمالی",
+				"fi": "Pohjois-Makedonian tasavalta",
 				"fr": "République de Macédoine du Nord",
 				"gl": "República de Macedonia do Norte",
 				"he": "רפובליקת מקדוניה הצפונית",
@@ -38657,6 +38666,7 @@
 				"en": "Macedonia",
 				"eu": "Mazedonia",
 				"fa": "مقدونیه",
+				"fi": "Makedonia",
 				"fr": "Macédoine",
 				"fy": "Masedoanje",
 				"he": "מקדוניה",
@@ -38692,6 +38702,7 @@
 				"en": "Republic of Macedonia",
 				"eu": "Mazedoniako Errepublika",
 				"fa": "جمهوری مقدونیه",
+				"fi": "Makedonian tasavalta",
 				"fr": "République de Macédoine",
 				"he": "רפובליקת מקדוניה",
 				"hr": "Republika Makedonija",
@@ -41045,9 +41056,9 @@
 				"na": "Maraidja",
 				"nah": "Malasia",
 				"nan": "Má-lâi-se-a",
-				"nan-HJ": "马来西亚",
-				"nan-POJ": "Má-lâi-se-a",
-				"nan-TL": "Má-lâi-se-a",
+				"nan-Hans": "马来西亚",
+				"nan-Latn-pehoeji": "Má-lâi-se-a",
+				"nan-Latn-tailo": "Má-lâi-se-a",
 				"nds": "Malaysia",
 				"ne": "मलेशिया",
 				"new": "मलेसिया",
@@ -43261,6 +43272,7 @@
 				"fa": "جمهوری فدرال دموکراتیک نپال",
 				"fr": "République démocratique fédérale du Népal",
 				"gn": "Nepal Tavakuairetã Ñembyatypyre Jekopytyjojáva",
+				"ne": "सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल",
 				"pl": "Federalna Demokratyczna Republika Nepalu",
 				"pt": "República Democrática Federal do Nepal",
 				"ru": "Федеративная Демократическая Республика Непал",
@@ -43268,7 +43280,7 @@
 			}
 		},
 		"name": "नेपाल",
-		"official_name": null,
+		"official_name": "सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल",
 		"relation_id": 184633,
 		"tags": {
 			"admin_level": "2",
@@ -43593,9 +43605,9 @@
 				"na": "Niu Djiran",
 				"nah": "Yancuīc Zetlālpan",
 				"nan": "Sin Jia̍t-lân-jia",
-				"nan-HJ": "新熱蘭遮",
-				"nan-POJ": "Sin Jia̍t-lân-jia",
-				"nan-TL": "Sin Jia̍t-lân-jia",
+				"nan-Hans": "新熱蘭遮",
+				"nan-Latn-pehoeji": "Sin Jia̍t-lân-jia",
+				"nan-Latn-tailo": "Sin Jia̍t-lân-jia",
 				"nap": "Nòva Zelanna",
 				"nds": "Niegseeland",
 				"nds-nl": "Ni'j-Zeelaand",
@@ -43698,6 +43710,9 @@
 				"zh": "紐西蘭/新西兰",
 				"zh-Hans": "新西兰",
 				"zh-Hant": "紐西蘭",
+				"zh-Hant-CN": "新西蘭",
+				"zh-Hant-HK": "新西蘭",
+				"zh-Hant-TW": "紐西蘭",
 				"zu": "INyuzilandi"
 			}
 		},
@@ -44848,9 +44863,9 @@
 				"na": "Eben Piripin",
 				"nah": "Filipinas",
 				"nan": "Hui-li̍p-pin",
-				"nan-HJ": "菲律賓",
-				"nan-POJ": "Hui-li̍p-pin",
-				"nan-TL": "Hui-li̍p-pin",
+				"nan-Hans": "菲律賓",
+				"nan-Latn-pehoeji": "Hui-li̍p-pin",
+				"nan-Latn-tailo": "Hui-li̍p-pin",
 				"nds": "Philippinen",
 				"ne": "फिलिपिन्स",
 				"new": "फिलिपिन्स",
@@ -45403,9 +45418,9 @@
 				"na": "Poran",
 				"nah": "Polonia",
 				"nan": "Polska",
-				"nan-HJ": "波蘭",
-				"nan-POJ": "Polska",
-				"nan-TL": "Pó-lân",
+				"nan-Hans": "波蘭",
+				"nan-Latn-pehoeji": "Polska",
+				"nan-Latn-tailo": "Pó-lân",
 				"nap": "Pulonnia",
 				"nds": "Polen",
 				"nds-nl": "Pooln",
@@ -47026,7 +47041,7 @@
 				"wo": "Reiñõo",
 				"yo": "Orílẹ́ède Riuniyan",
 				"zh": "留尼汪",
-				"zh_pinyin": "Liúníwāng",
+				"zh-Latn-pinyin": "Liúníwāng",
 				"zu": "i-Réunion"
 			}
 		},
@@ -48732,9 +48747,9 @@
 				"na": "Tsingapoar",
 				"nah": "Singapur",
 				"nan": "Sin-ka-pho",
-				"nan-HJ": "新加坡",
-				"nan-POJ": "Sin-ka-pho",
-				"nan-TL": "Sin-ka-pho",
+				"nan-Hans": "新加坡",
+				"nan-Latn-pehoeji": "Sin-ka-pho",
+				"nan-Latn-tailo": "Sin-ka-pho",
 				"nds": "Singapur",
 				"ne": "सिंगापुर",
 				"nl": "Singapore",
@@ -51167,7 +51182,7 @@
 				"fy": "Sloveenje",
 				"ga": "An tSlóivéin",
 				"gag": "Sloveniya",
-				"gd": "Sloibhìnia",
+				"gd": "An t-Slòbhain",
 				"gl": "Eslovenia",
 				"gn": "Eloveña",
 				"gu": "સ્લોવેનિયા",
@@ -59152,7 +59167,7 @@
 			"alpha2": "XK",
 			"alpha3": "XKK"
 		},
-		"ISO3166-2": "RS-KO",
+		"ISO3166-2": "RS-KM",
 		"capital": "Prishtina",
 		"currency": "EUR",
 		"default_language": null,
@@ -59862,7 +59877,7 @@
 				"zh": "南非",
 				"zh-Hans": "南非",
 				"zh-Hant": "南非",
-				"zh_pinyin": "Nán Fēi",
+				"zh-Latn-pinyin": "Nán Fēi",
 				"zu": "iNingizimu Afrika"
 			},
 			"official_name": {
