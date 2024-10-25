@@ -8159,8 +8159,8 @@
 				"bar": "Buigarien",
 				"bat-smg": "Bulgarėjė",
 				"bcl": "Bulgarya",
-				"be": "Балга́рыя",
-				"be-tarask": "Баўга́рыя",
+				"be": "Балгарыя",
+				"be-tarask": "Баўгарыя",
 				"bg": "България",
 				"bh": "बुल्गारिया",
 				"bi": "Bulgaria",
@@ -8419,7 +8419,7 @@
 				"ba": "Болга́рия Респу́бликаһы",
 				"bar": "Republik Buigarien",
 				"bat-smg": "Bulgarėjės Respoblėka",
-				"be": "Рэспу́бліка Балга́рыя",
+				"be": "Рэспубліка Балгарыя",
 				"be-tarask": "Рэспу́бліка Баўга́рыя",
 				"bg": "Репу̀блика Бълга̀рия",
 				"bn": "বুলগেরিয়া প্রজাতন্ত্র",
@@ -17191,6 +17191,7 @@
 			},
 			"name": {
 				"ar": "الرأس الأخضر",
+				"be": "Каба-Вердэ",
 				"ca": "Cap Verd",
 				"ckb": "کابۆڤێردێ",
 				"cs": "Kapverdy",
@@ -27050,6 +27051,7 @@
 				"ca": "Grenlàndia",
 				"eo": "Grenlando",
 				"fa": "گروئنلند",
+				"gd": "An Graonlainn",
 				"gl": "Groenlandia",
 				"pt": "Groenlândia"
 			},
@@ -27099,7 +27101,7 @@
 				"frr": "Greenlun",
 				"fy": "Grienlân",
 				"ga": "An Ghraonlainn",
-				"gd": "A' Ghraonlann",
+				"gd": "A' Ghraonlainn",
 				"gl": "Grenlandia",
 				"gn": "Kyoẽlándia",
 				"gsw": "Grönlànd",
@@ -35520,7 +35522,7 @@
 				"cs": "Šrí Lanka"
 			}
 		},
-		"name": "ශ්‍රී ලංකාව இலங்கை",
+		"name": "Sri Lanka",
 		"official_name": null,
 		"relation_id": 536807,
 		"tags": {
@@ -35736,6 +35738,7 @@
 				"zu": "OSotho"
 			},
 			"official_name": {
+				"be": "Каралеўства Лесота",
 				"cs": "Lesothské království",
 				"de": "Königreich Lesotho",
 				"en": "Kingdom of Lesotho",
@@ -38050,6 +38053,7 @@
 			},
 			"official_name": {
 				"be": "Мальдыўская Рэспубліка",
+				"ca": "República de les Maldives",
 				"ckb": "کۆماری مالدیڤ",
 				"cs": "Maledivská republika",
 				"en": "Republic of Maldives",
@@ -43263,6 +43267,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية نيبال الديمقراطية الاتحادية",
+				"ca": "República Federal Democràtica del Nepal",
 				"ckb": "کۆماری دیموکراتیی فیدراڵیی نیپال",
 				"cs": "Nepálská federativní demokratická republika",
 				"de": "Demokratische Bundesrepublik Nepal",
@@ -51839,6 +51844,7 @@
 				"zu": "ISwazilandi"
 			},
 			"official_name": {
+				"be": "Каралеўства Эсваціні",
 				"bg": "Кралство Есватини",
 				"cs": "Svazijské království",
 				"cy": "Teyrnas Eswatini",
@@ -55588,8 +55594,8 @@
 				"azb": "تایوان",
 				"bar": "Taiwan",
 				"bcl": "Taiwan",
-				"be": "Тайв́ань",
-				"be-tarask": "Тайва́нь",
+				"be": "Тайвань",
+				"be-tarask": "Тайвань",
 				"bg": "Тайван",
 				"bh": "ताइवान",
 				"bm": "Tayiwani",
