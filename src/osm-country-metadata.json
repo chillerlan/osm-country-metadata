@@ -15742,7 +15742,8 @@
 		"relation_id": 192779,
 		"tags": {
 			"admin_level": "2",
-			"alt_name": "Côte d'Ivoire"
+			"alt_name": "Côte d'Ivoire",
+			"short_name": "RCI"
 		},
 		"timezone": "Africa/Abidjan",
 		"website": null,
@@ -17268,6 +17269,9 @@
 		"default_language": "es",
 		"flag": "http://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
 		"lang": {
+			"alt_name": {
+				"it": "Costarica"
+			},
 			"name": {
 				"ab": "Коста-Рика",
 				"ace": "Kosta Rika",
@@ -32253,6 +32257,7 @@
 				"ch": "Chapan",
 				"chr": "ᏣᏆᏂᏱ",
 				"ckb": "ژاپۆن",
+				"cnr": "Japan",
 				"crh": "Yaponiya",
 				"cs": "Japonsko",
 				"csb": "Japòńskô",
