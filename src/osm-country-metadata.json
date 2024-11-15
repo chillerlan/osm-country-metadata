@@ -37155,8 +37155,8 @@
 		"tags": {
 			"admin_level": "2",
 			"old_name": "مراكش",
-			"population": "33848242",
-			"population:date": "2014",
+			"population": "36828330",
+			"population:date": "2024",
 			"source:population": "https://www.hcp.ma/"
 		},
 		"timezone": null,
@@ -45883,6 +45883,7 @@
 			"official_name": {
 				"ar": "جمهورية كوريا الديمقراطية الشعبية",
 				"ca": "República Popular Democràtica de Corea",
+				"cnr": "Demokratska Narodna Republika Koreja",
 				"cs": "Korejská lidově demokratická republika",
 				"de": "Demokratische Volksrepublik Korea",
 				"en": "Democratic People's Republic of Korea",
