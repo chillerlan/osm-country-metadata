@@ -19666,7 +19666,8 @@
 				"de": "Königreich Dänemark",
 				"el": "Βασίλειο της Δανίας",
 				"en": "Kingdom of Denmark",
-				"eo": "Reĝlando Danio"
+				"eo": "Reĝlando Danio",
+				"pl": "Królestwo Danii"
 			},
 			"wikipedia": {
 				"en": "en:Denmark"
@@ -22931,6 +22932,7 @@
 				"lt": "Suomijos Respublika",
 				"nn": "Republikken Finland",
 				"no": "Republikken Finland",
+				"pl": "Republika Finlandii",
 				"pt": "República da Finlândia",
 				"ru": "Финляндская Республика",
 				"se": "Suoma dásseváldi",
@@ -27879,7 +27881,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": null,
-		"flag": null,
+		"flag": "File:Flag_of_Hong_Kong.svg",
 		"lang": {
 			"alt_name": {
 				"cs": "Siang-kang;Voňavý přístav",
@@ -32719,6 +32721,7 @@
 				"en": "Republic of Kazakhstan",
 				"eo": "Respubliko Kazaĥio",
 				"es": "República de Kazajistán",
+				"pl": "Republika Kazachstanu",
 				"ru": "Республика Казахстан",
 				"zh": "哈萨克斯坦共和国",
 				"zh-Hans": "哈萨克斯坦共和国",
@@ -36630,7 +36633,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": null,
-		"flag": null,
+		"flag": "File:Flag_of_Macau.svg",
 		"lang": {
 			"alt_name": {
 				"en": "Macao",
@@ -43034,6 +43037,7 @@
 				"en": "Kingdom of Norway",
 				"eo": "Reĝlando Norvegio",
 				"fr": "Royaume de Norvège",
+				"pl": "Królestwo Norwegii",
 				"sv": "Konungariket Norge"
 			}
 		},
@@ -50549,7 +50553,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": "pt",
-		"flag": "http://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Sao_Tome_and_Principe.svg",
+		"flag": "Flag:Flag_of_São_Tomé_and_Príncipe.svg",
 		"lang": {
 			"alt_name": {
 				"eo": "Santomeo kaj Principeo",
@@ -51609,6 +51613,7 @@
 				"de": "Königreich Schweden",
 				"el": "Βασίλειο της Σουηδίας",
 				"eo": "Reĝlando Svedio",
+				"pl": "Królestwo Szwecji",
 				"sv": "Konungariket Sverige"
 			}
 		},
@@ -51634,7 +51639,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": null,
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Flag_of_Swaziland_%281968%E2%80%932011%29.svg",
+		"flag": "File:Flag_of_Eswatini.svg",
 		"lang": {
 			"alt_name": {
 				"be": "Свазіленд",
@@ -57615,6 +57620,7 @@
 				"eo": "Uzbeka Respubliko",
 				"fa": "جمهوری ازبکستان",
 				"gn": "Tavakuairetã Uvekitã",
+				"pl": "Republika Uzbekistanu",
 				"pt": "República do Uzbequistão",
 				"ru": "Республика Узбекистан",
 				"ur": "جمہوریہ ازبکستان"
