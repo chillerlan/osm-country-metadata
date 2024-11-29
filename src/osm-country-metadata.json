@@ -25369,7 +25369,6 @@
 				"az": "Cəbəli-Tariq",
 				"ba": "Гибралтар",
 				"bar": "Gibraltar",
-				"be": "Гібралтар",
 				"be-tarask": "Гібральтар",
 				"bg": "Гибралтар",
 				"bn": "জিব্রাল্টার",
@@ -25414,7 +25413,6 @@
 				"id": "Gibraltar",
 				"ie": "Gibraltar",
 				"io": "Gibraltar",
-				"is": "Gíbraltar",
 				"it": "Gibilterra",
 				"ja": "ジブラルタル",
 				"jv": "Gibraltar",
@@ -25442,7 +25440,6 @@
 				"nan": "Gibraltar",
 				"nds": "Gibraltar",
 				"nds-nl": "Gibraltar",
-				"ne": "गिब्राल्टार",
 				"new": "जिब्राल्टर",
 				"nl": "Gibraltar",
 				"nn": "Gibraltar",
@@ -25506,8 +25503,8 @@
 			"description": "Considered a Non-Self-Governing Territory by the United Nations.",
 			"int_name": "Gibraltar",
 			"note": "maritime boundary may be wrong;is an approximate equidistance line",
-			"population": "32194",
-			"population:date": "2015",
+			"population": "32688",
+			"population:date": "2022",
 			"source": "CIA World Databank II (+Yahoo images)",
 			"source:name:br": "ofis publik ar brezhoneg",
 			"source:population": "wikipedia",
@@ -27651,6 +27648,7 @@
 			"admin_level": "4",
 			"driving_side": "right",
 			"is_in:country": "United States",
+			"place": "state",
 			"ref": "GU",
 			"ref:USCG": "GU",
 			"ref:USPS": "GU",
@@ -37160,7 +37158,7 @@
 			"old_name": "مراكش",
 			"population": "36828330",
 			"population:date": "2024",
-			"source:population": "https://www.hcp.ma/"
+			"source:population": "Haut-Commissariat au Plan"
 		},
 		"timezone": null,
 		"website": null,
@@ -51904,7 +51902,7 @@
 				"yi": "קעניגרייך פון סוואַזילאַנד"
 			}
 		},
-		"name": "eSwatini",
+		"name": "Eswatini",
 		"official_name": null,
 		"relation_id": 88210,
 		"tags": {
