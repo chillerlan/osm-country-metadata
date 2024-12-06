@@ -7878,7 +7878,7 @@
 				"yue": "孟加拉國",
 				"za": "Bangladesh",
 				"zea": "Bangladesh",
-				"zh": "孟加拉国 / 孟加拉",
+				"zh": "孟加拉国",
 				"zh-Hans": "孟加拉国",
 				"zh-Hant": "孟加拉",
 				"zh-Latn-pinyin": "Mèngjiālāguó",
@@ -23297,7 +23297,7 @@
 				"ur": "فاکلینڈ آئلینڈز (ازلاس مالوینس)",
 				"vi": "Quần đảo Falkland",
 				"yo": "Orílẹ́ède Etikun Fakalandi",
-				"zh": "福克兰群岛 / 福克蘭群島",
+				"zh": "福克兰群岛",
 				"zh-Hans": "福克兰群岛",
 				"zh-Hant": "福克蘭群島",
 				"zu": "i-Falkland Islands (i-Islas Malvinas)"
@@ -48904,7 +48904,7 @@
 				"tr": "Güney Georgia ve Güney Sandwich Adaları",
 				"uk": "Південна Джорджія та Південні Сандвічеві острови",
 				"vi": "Nam Georgia và Quần đảo Nam Sandwich",
-				"zh": "南喬治亞和南桑威奇群島",
+				"zh": "南乔治亚和南桑威奇群岛",
 				"zh-Hans": "南乔治亚和南桑威奇群岛",
 				"zh-Hant": "南喬治亞和南桑威奇群島"
 			}
@@ -51643,6 +51643,7 @@
 				"be": "Свазіленд",
 				"be-tarask": "Сўазілэнд",
 				"bg": "Свазиленд;Суазиленд",
+				"ca": "Swazilàndia",
 				"cs": "Svazijsko",
 				"da": "Swaziland",
 				"de": "Swasiland",
@@ -51685,7 +51686,7 @@
 				"br": "Eswatini",
 				"bs": "Svazilend",
 				"bxr": "Свазиланд",
-				"ca": "Swazilàndia",
+				"ca": "Eswatini",
 				"ceb": "Suwasilandiya",
 				"ckb": "سوازیلاند",
 				"crh": "Svaziland",
@@ -51843,6 +51844,7 @@
 			"official_name": {
 				"be": "Каралеўства Эсваціні",
 				"bg": "Кралство Есватини",
+				"ca": "Regne d'Eswatini",
 				"cs": "Svazijské království",
 				"cy": "Teyrnas Eswatini",
 				"de": "Königreich von Eswatini",
@@ -51891,6 +51893,7 @@
 				"zh-Hant-TW": "史瓦濟蘭"
 			},
 			"old_official_name": {
+				"ca": "Regne de Swazilàndia",
 				"fr": "Royaume du Swaziland",
 				"pt": "Reino da Suazilândia",
 				"ro": "Regatul Swaziland",
