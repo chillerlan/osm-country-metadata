@@ -18559,7 +18559,8 @@
 				"pnb": "چیک لوکراج",
 				"pnt": "Τσεχία",
 				"ps": "چېک جمهوريت",
-				"pt": "Tcheca",
+				"pt": "Chéquia",
+				"pt-BR": "Tchéquia",
 				"qu": "Chiksuyu",
 				"rm": "Tschechia",
 				"rmy": "Chexiya",
@@ -18662,6 +18663,7 @@
 				"mi": "Whenua Tīeke",
 				"pl": "Republika Czeska",
 				"pt": "República Checa",
+				"pt-BR": "República Tcheca",
 				"ru": "Чешская Республика",
 				"sk": "Česká republika",
 				"sl": "Repúblika Čéška;Republika Češka",
@@ -24355,7 +24357,7 @@
 				"csb": "Wiôlgô Britanijô",
 				"cu": "Вєлика Британїꙗ",
 				"cv": "Аслă Британи",
-				"cy": "Deyrnas Unedig",
+				"cy": "Y Deyrnas Unedig",
 				"da": "Storbritannien",
 				"de": "Vereinigtes Königreich",
 				"din": "Amatnhom Mäcŋaknhom",
@@ -24592,6 +24594,7 @@
 				"cnr": "Ujedinjeno Kraljevstvo Velike Britanije i Śeverne Irske",
 				"cnr-Cyrl": "Уједињено Краљевство Велике Британије и С́еверне Ирске",
 				"cs": "Spojené království Velké Británie a Severního Irska",
+				"cy": "Teyrnas Unedig Prydain Fawr a Gogledd Iwerddon",
 				"de": "Vereinigtes Königreich Großbritannien und Nordirland",
 				"din": "Amatnhom Mäcŋaknhom në Britain Dït ku Parut Ireland",
 				"el": "Ηνωμένο Βασίλειο της Μεγάλης Βρετανίας και της Βόρειας Ιρλανδίας",
@@ -24617,6 +24620,7 @@
 				"zh-Hant": "大不列顛暨北愛爾蘭聯合王國"
 			},
 			"short_name": {
+				"cy": "Y DU",
 				"el": "ΗΒ",
 				"fr": "RU",
 				"nl": "VK",
@@ -30323,7 +30327,7 @@
 				"yue": "愛爾蘭共和國",
 				"za": "Aiwjlanz Gunghozgoz",
 				"zea": "Ierland",
-				"zh": "爱尔兰 / 愛爾蘭",
+				"zh": "爱尔兰",
 				"zh-Hans": "爱尔兰",
 				"zh-Hant": "愛爾蘭",
 				"zh-Latn-pinyin": "Àiěrlán",
@@ -32733,7 +32737,10 @@
 			"admin_level": "2",
 			"int_name": "Kazakhstan",
 			"int_ref": "KZ",
-			"source:name:oc": "Lo Congrès"
+			"population": "20223218",
+			"population:date": "2024",
+			"source:name:oc": "Lo Congrès",
+			"sqkm": "2724902"
 		},
 		"timezone": null,
 		"website": null,
@@ -47664,8 +47671,8 @@
 			"int_ref": "RU",
 			"old_name": "Московия;Русское Царство;Российская Империя;Российская Советская Федеративная Социалистическая Республика",
 			"old_short_name": "РСФСР",
-			"population": "146447424",
-			"population:date": "2023-01-01",
+			"population": "146150789",
+			"population:date": "2024-01-01",
 			"short_name": "РФ"
 		},
 		"timezone": null,
@@ -48457,6 +48464,7 @@
 				"fy": "Senegal",
 				"ga": "An tSeineagáil",
 				"gag": "Senegal",
+				"gcf": "Sennengal",
 				"gd": "Seanagal",
 				"gl": "Senegal",
 				"gn": "Senegal",
@@ -57695,7 +57703,7 @@
 				"csb": "Watikan",
 				"cu": "Ватиканъ",
 				"cv": "Ватикан",
-				"cy": "Y Fatican",
+				"cy": "Dinas y Fatican",
 				"da": "Vatikanstaten",
 				"de": "Staat Vatikanstadt",
 				"diq": "Vatikan",
@@ -57876,6 +57884,7 @@
 			"official_name": {
 				"ca": "Estat de la Ciutat del Vaticà",
 				"cs": "Vatikánský městský stát",
+				"cy": "Gwladwriaeth Dinas y Fatican",
 				"de": "Staat Vatikanstadt",
 				"en": "Vatican City State",
 				"eo": "Ŝtato Vatikano",
@@ -57886,6 +57895,7 @@
 				"pt": "Estado da Cidade do Vaticano"
 			},
 			"short_name": {
+				"cy": "Y Fatican",
 				"en": "Vatican",
 				"it": "Vaticano"
 			}
