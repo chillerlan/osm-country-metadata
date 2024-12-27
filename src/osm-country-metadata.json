@@ -3799,6 +3799,7 @@
 		"relation_id": 2177187,
 		"tags": {
 			"admin_level": "4",
+			"border_type": "territorial",
 			"is_in:country": "United States",
 			"ref": "AS",
 			"ref:USCG": "AS",
@@ -13916,7 +13917,7 @@
 				"el": "Νησιά Κόκος",
 				"en": "Cocos (Keeling) Islands",
 				"eo": "Kokosinsuloj",
-				"es": "Islas Cocos (Keeling)",
+				"es": "Islas Cocos",
 				"et": "Kookossaared",
 				"eu": "Cocos (Keeling) uharteak",
 				"fa": "جزایر کوکوس",
@@ -27651,9 +27652,9 @@
 		"relation_id": 306001,
 		"tags": {
 			"admin_level": "4",
+			"border_type": "territorial",
 			"driving_side": "right",
 			"is_in:country": "United States",
-			"place": "state",
 			"ref": "GU",
 			"ref:USCG": "GU",
 			"ref:USPS": "GU",
@@ -33559,6 +33560,7 @@
 				"pt": "São Cristóvão e Neves",
 				"ru": "Сент-Китс и Невис",
 				"se": "Saint Kitts ja Nevis",
+				"sk": "Svätý Krištof a Nevis",
 				"sl": "Sveti Krištof in Nevis",
 				"smn": "Saint Kitts já Nevis",
 				"sms": "Saint Kitts da Nevis",
@@ -39871,6 +39873,7 @@
 		"tags": {
 			"admin_level": "4",
 			"alt_name": "CNMI",
+			"border_type": "territorial",
 			"driving_side": "right",
 			"is_in:country": "United States",
 			"ref": "MP",
@@ -45634,8 +45637,8 @@
 		"relation_id": 4422604,
 		"tags": {
 			"admin_level": "4",
+			"border_type": "territorial",
 			"is_in:country": "United States",
-			"place": "state",
 			"ref": "PR",
 			"ref:USCG": "PR",
 			"ref:USPS": "PR",
@@ -47318,7 +47321,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "right",
-			"int_name": "Romania"
+			"int_name": "Romania",
+			"population": "19064409"
 		},
 		"timezone": "Europe/Bucharest",
 		"website": null,
@@ -50326,9 +50330,9 @@
 			"headlight": "required",
 			"int_name": "Serbia",
 			"land_area": "administrative",
-			"population": "6647003",
+			"population": "6605168",
 			"population:census:2022": "6647003",
-			"population:date": "2022",
+			"population:date": "2024-01-01",
 			"ref:RS:drzave": "RS",
 			"source:population": "RZS"
 		},
@@ -55141,6 +55145,7 @@
 				"ko": "튀르키예 공화국",
 				"ku": "Komara Tirkiyeyê",
 				"ky": "Түркия Республикасы",
+				"nl": "Republiek Turkije",
 				"ru": "Турецкая Республика",
 				"xal": "Түргүдин Орн",
 				"zh": "土耳其共和國 / 土耳其共和国",
@@ -58446,9 +58451,9 @@
 		"tags": {
 			"admin_level": "4",
 			"alt_name": "U.S. Virgin Islands",
+			"border_type": "territorial",
 			"driving_side": "left",
 			"is_in:country": "United States",
-			"place": "state",
 			"ref": "VI",
 			"ref:USCG": "VI",
 			"ref:USPS": "VI",
