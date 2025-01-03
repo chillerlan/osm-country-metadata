@@ -22642,7 +22642,7 @@
 				"es": "RDFE"
 			}
 		},
-		"name": "ኢትዮጵያ",
+		"name": "ኢትዮጵያ إثيوبيا",
 		"official_name": "የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
 		"relation_id": 192800,
 		"tags": {
@@ -26796,6 +26796,7 @@
 				"jv": "Yunani",
 				"ka": "საბერძნეთი",
 				"kaa": "Gretsiya",
+				"kab": "Legrig",
 				"kbd": "Алыджей",
 				"kg": "Gelesi",
 				"ki": "Ngiriki",
@@ -29280,6 +29281,7 @@
 				"jbo": "bidgu'e",
 				"jv": "Indonésia",
 				"ka": "ინდონეზია",
+				"kab": "Indunisya",
 				"kbd": "Индонезиэ",
 				"ki": "Indonesia",
 				"kk": "Индонезия",
@@ -36055,8 +36057,7 @@
 			"country_code_fips": "LH",
 			"geonames:id": "597427",
 			"int_name": "Lithuania",
-			"ref:nuts:1": "LT0",
-			"watch:hakan": "countries"
+			"ref:nuts:1": "LT0"
 		},
 		"timezone": "Europe/Vilnius",
 		"website": null,
@@ -44842,6 +44843,7 @@
 				"jbo": "pilipinas",
 				"jv": "Filipina",
 				"ka": "ფილიპინები",
+				"kab": "Filippin",
 				"kbd": "Филипинхэр",
 				"kk": "Филиппиндер",
 				"kl": "Philippines",
@@ -52309,7 +52311,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": "ar",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg",
+		"flag": "File:Flag of the Syrian revolution.svg",
 		"lang": {
 			"alt_name": {
 				"ar": "سورية",
