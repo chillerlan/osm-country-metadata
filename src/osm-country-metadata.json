@@ -1168,6 +1168,7 @@
 				"ja": "アンギラ",
 				"jv": "Anguilla",
 				"ka": "ანგილია",
+				"kab": "Ungiya",
 				"ko": "앵귈라",
 				"kw": "Angwilla",
 				"lb": "Anguilla",
@@ -3728,6 +3729,7 @@
 				"jv": "Samoa Amérika",
 				"ka": "ამერიკის სამოა",
 				"kaa": "Amerikalıq Samoa",
+				"kab": "Samwa Tamarikanit",
 				"kk": "Америка Самоасы",
 				"ko": "아메리칸사모아",
 				"kw": "아메리칸사모아",
@@ -19529,6 +19531,7 @@
 				"jv": "Denmark",
 				"ka": "დანია",
 				"kaa": "Daniya",
+				"kab": "Danmaṛk",
 				"kbd": "Даниэ",
 				"kg": "Danemark",
 				"ki": "Denmark",
@@ -20728,7 +20731,7 @@
 				"chr": "ᎢᏥᏈᎢ",
 				"chy": "Egypt",
 				"ckb": "میسر",
-				"cop": "ⲭⲏⲙⲓ",
+				"cop": "Ⲭⲏⲙⲓ",
 				"crh": "Mısır",
 				"cs": "Egypt",
 				"csb": "Egipt",
@@ -23209,7 +23212,7 @@
 				"chr": "ᏩᎩ ᎤᎦᏚᏛ (ᎢᏍᎳᏍ ᎹᎸᏫᎾᏍ)",
 				"ckb": "دوورگەکانی فۆڵکلاند",
 				"cs": "Falklandy",
-				"cy": "Ynysoedd y Falklands",
+				"cy": "Ynysoedd Falkland",
 				"da": "Falklandsøerne",
 				"de": "Falklandinseln",
 				"dz": "ཕལྐ་ལནྜ་གླིང་ཚོམ (ཨིས་ལཱས་མལ་བི་ཎཱས)",
@@ -23309,6 +23312,7 @@
 			"official_name": {
 				"ca": "Illes Falkland",
 				"cs": "Falklandské ostrovy (Malvíny)",
+				"cy": "Ynysoedd Falkland",
 				"en": "Falkland Islands",
 				"eo": "Insuloj Falklandoj",
 				"es": "Islas Malvinas",
@@ -26700,6 +26704,7 @@
 			"alt_name": {
 				"be": "Элада",
 				"br": "Bro-C'hres",
+				"cop": "ϯⲈⲗⲗⲁⲥ",
 				"eo": "Grekujo;Helenio;Helenujo"
 			},
 			"name": {
@@ -31218,6 +31223,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
 		"lang": {
 			"alt_name": {
+				"cop": "ⲡⲒⲥⲣⲁⲏⲗ",
 				"vi": "Ixraen;Do Thái"
 			},
 			"name": {
@@ -32028,7 +32034,7 @@
 				"cs": "Jordánsko",
 				"csb": "Jordaniô",
 				"cv": "Иордани",
-				"cy": "Gwlad Iorddonen",
+				"cy": "Gwlad yr Iorddonen",
 				"da": "Jordan",
 				"de": "Jordanien",
 				"diq": "Urdun",
@@ -32185,6 +32191,7 @@
 				"ar": "المملكة الأردنية الهاشمية",
 				"ca": "Regne Haiximita de Jordània",
 				"cs": "Jordánské hášimovské království",
+				"cy": "Teyrnas Hashimaidd Gwlad yr Iorddonen",
 				"de": "Haschemitisches Königreich Jordanien",
 				"en": "Hashemite Kingdom of Jordan",
 				"eo": "Haŝemida Reĝlando Jordanio",
@@ -32507,6 +32514,7 @@
 		"lang": {
 			"alt_name": {
 				"ar": "قزخستان;قزاقستان",
+				"br": "Kazac'hstan",
 				"eo": "Kazaĥujo;Kazaĥstano",
 				"vi": "Ca-dắc-xtan"
 			},
@@ -32994,6 +33002,7 @@
 		"lang": {
 			"alt_name": {
 				"ar": "قرغيزيا",
+				"cy": "Cirgistan",
 				"de": "Kirgisien",
 				"eo": "Kirgizujo;Kirgizistano",
 				"la": "Kyrgyzstania",
@@ -33190,6 +33199,7 @@
 				"ca": "República Kirguís",
 				"ckb": "کۆماری قرغیزستان",
 				"cs": "Kyrgyzská republika",
+				"cy": "Gweriniaeth Kyrgyzstan",
 				"en": "Kyrgyz Republic",
 				"eo": "Kirgiza Respubliko",
 				"es": "República Kirguisa",
@@ -34839,7 +34849,7 @@
 				"ce": "Ливи",
 				"ceb": "Libya",
 				"ckb": "لیبیا",
-				"cop": "ⲧⲉⲙⲫⲁⲓⲁⲧ",
+				"cop": "ϯⲖⲩⲃⲏ",
 				"crh": "Libiya",
 				"cs": "Libye",
 				"cv": "Ливи",
@@ -35636,6 +35646,7 @@
 				"jv": "Lesotho",
 				"ka": "ლესოთო",
 				"kaa": "Lesoto",
+				"kab": "Lesoto",
 				"kg": "Lesotho",
 				"kk": "Лесото",
 				"kn": "ಲೆಸೊಥೊ",
@@ -39233,6 +39244,7 @@
 				"jbo": "mianmar",
 				"jv": "Myanmar",
 				"ka": "მიანმარი",
+				"kab": "Birmanya",
 				"kbd": "Миянмэ",
 				"ki": "Myanmar",
 				"kk": "Мианма",
@@ -39475,6 +39487,7 @@
 				"jv": "Montenégro",
 				"ka": "ჩერნოგორია",
 				"kaa": "Shernogoriya",
+				"kab": "Montinegro",
 				"kbd": "КъущхьэфӀыцӀэ",
 				"kg": "Monte Negro",
 				"kk": "Черногория",
@@ -44008,7 +44021,7 @@
 				"cs": "Pákistán",
 				"csb": "Pakistan",
 				"cv": "Пакистан",
-				"cy": "Pakistan",
+				"cy": "Pacistan",
 				"da": "Pakistan",
 				"de": "Pakistan",
 				"din": "Pakätän",
@@ -44190,6 +44203,7 @@
 				"ar": "جمهورية باكستان الإسلامية",
 				"ca": "República Islàmica del Pakistan",
 				"cs": "Pákistánská islámská republika",
+				"cy": "Gweriniaeth Islamaidd Pacistan",
 				"en": "Islamic Republic of Pakistan",
 				"eo": "Islama Respubliko de Pakistano",
 				"es": "República Islámica del Pakistán",
@@ -44310,6 +44324,7 @@
 				"jbo": "panamas",
 				"jv": "Panama",
 				"ka": "პანამა",
+				"kab": "Panama",
 				"ki": "Panama",
 				"kk": "Панама",
 				"kn": "ಪನಾಮಾ",
@@ -44449,6 +44464,7 @@
 				"bg": "Питкерн",
 				"ca": "Illes Pitcairn",
 				"cs": "Pitcairnovy ostrovy",
+				"cy": "Ynysoedd Pitcairn, Henderson, Ducie ac Oeno",
 				"da": "Pitcairn",
 				"de": "Pitcairninseln",
 				"en": "Pitcairn Islands",
@@ -44483,6 +44499,12 @@
 				"zh": "皮特凯恩群岛 / 皮特肯群島",
 				"zh-Hans": "皮特凯恩群岛",
 				"zh-Hant": "皮特肯群島"
+			},
+			"official_name": {
+				"cy": "Ynysoedd Pitcairn, Henderson, Ducie ac Oeno"
+			},
+			"short_name": {
+				"cy": "Ynysoedd Pitcairn"
 			}
 		},
 		"name": "Pitcairn Islands",
@@ -47188,6 +47210,7 @@
 				"jv": "Rumania",
 				"ka": "რუმინეთი",
 				"kaa": "Rumıniya",
+				"kab": "Rumani",
 				"kbd": "Румыниэ",
 				"kg": "Romania",
 				"kk": "Румыния",
@@ -48889,6 +48912,7 @@
 				"br": "Inizi Georgia ar Su hag Inizi Sandwich ar Su",
 				"ca": "Illes Geòrgia del Sud i Sandwich del Sud",
 				"cs": "Jižní Georgie a Jižní Sandwichovy ostrovy",
+				"cy": "De Georgia ac Ynysoedd Sandwich y De",
 				"da": "South Georgia og South Sandwich Islands",
 				"de": "Südgeorgien und die Südlichen Sandwichinseln",
 				"el": "Νήσοι Νότια Γεωργία και Νότιες Σάντουιτς",
@@ -48922,6 +48946,9 @@
 				"zh": "南乔治亚和南桑威奇群岛",
 				"zh-Hans": "南乔治亚和南桑威奇群岛",
 				"zh-Hant": "南喬治亞和南桑威奇群島"
+			},
+			"official_name": {
+				"cy": "De Georgia ac Ynysoedd Sandwich y De"
 			}
 		},
 		"name": "South Georgia and the South Sandwich Islands",
@@ -48952,6 +48979,7 @@
 				"ar": "سانت هيلينا، أسينسيون وتريستان دا كونها",
 				"ca": "Santa Helena, Ascensió i Tristan da Cunha",
 				"cs": "Svatá Helena, Ascension a Tristan da Cunha",
+				"cy": "Saint Helena, Ascension a Tristan da Cunha",
 				"de": "St. Helena, Ascension und Tristan da Cunha",
 				"el": "Αγία Ελένη, Ασενσιόν και Τριστάν ντα Κούνια",
 				"en": "Saint Helena, Ascension and Tristan da Cunha",
@@ -48977,6 +49005,9 @@
 				"uk": "Острови Святої Єлени, Вознесіння і Тристан-да-Кунья",
 				"vi": "Saint Helena, Ascension và Tristan da Cunha",
 				"zh": "圣赫勒拿、阿森松和特里斯坦-达库尼亚"
+			},
+			"official_name": {
+				"cy": "Saint Helena, Ascension a Tristan da Cunha"
 			},
 			"old_name": {
 				"eo": "Sankta Heleno kaj Dependaĵoj",
@@ -50175,7 +50206,7 @@
 				"jv": "Serbia",
 				"ka": "სერბეთი",
 				"kaa": "Serbiya",
-				"kab": "Serbi",
+				"kab": "Serbya",
 				"kbd": "Сербиэ",
 				"kg": "Serbie",
 				"kk": "Сербия",
@@ -50386,7 +50417,7 @@
 				"crh": "Cenübiy Sudan",
 				"cs": "Jižní Súdán",
 				"cv": "Кӑнтӑр Судан",
-				"cy": "De Swdan",
+				"cy": "De Sudan",
 				"da": "Sydsudan",
 				"de": "Südsudan",
 				"din": "Paguot Thudän",
@@ -50533,6 +50564,7 @@
 			"official_name": {
 				"ar": "جمهورية جنوب السودان",
 				"cs": "Jihosúdánská republika",
+				"cy": "Gweriniaeth De Sudan",
 				"din": "Paankɔc Paguot Thudän",
 				"en": "Republic of South Sudan",
 				"es": "República de Sudán del Sur",
@@ -53535,6 +53567,7 @@
 				"jbo": "tadjikistan",
 				"jv": "Tajikistan",
 				"ka": "ტაჯიკეთი",
+				"kab": "Tajikistan",
 				"kbd": "Таджыкыстэн",
 				"kk": "Тәжікстан",
 				"km": "តាជីគីស្ថាន",
@@ -53863,6 +53896,7 @@
 				"jbo": "turkmenistan",
 				"jv": "Turkmenistan",
 				"ka": "თურქმენეთი",
+				"kab": "Turkmenistan",
 				"kbd": "Туркменстэн",
 				"kk": "Түрікменстан",
 				"km": "តួរមិនីស្ថាន",
@@ -60209,6 +60243,7 @@
 				"jv": "Zambia",
 				"ka": "ზამბია",
 				"kaa": "Zambiya",
+				"kab": "Zambya",
 				"kg": "Zambia",
 				"kk": "Замбия",
 				"km": "ប្រទេសហ្សំប៊ី",
