@@ -4067,7 +4067,8 @@
 			"fixme": "Neneŭtra enhavo de la etikedoj “name” k “wikipedia”. | Nieneutralna zawartość znaczników „name” i „wikipedia”. | Non-neutral content of the \"name\" and \"wikipedia\" tags. (https://lists.openstreetmap.org/pipermail/talk/2019-December/083609.html)",
 			"not:place": "continent",
 			"note:not:place": "place=continent is set on the label node, so similar to other place=*, it should not be set on the relation too.",
-			"population": "0"
+			"population": "0",
+			"sqkm": "14200000"
 		},
 		"timezone": null,
 		"website": null,
@@ -12824,6 +12825,7 @@
 			"name": {
 				"ar": "جزيرة بوفيه",
 				"bn": "বোভেত দ্বীপ",
+				"br": "Enez Bouvet",
 				"cs": "Bouvetův ostrov",
 				"da": "Bouvetøen",
 				"de": "Bouvetinsel",
@@ -16197,7 +16199,7 @@
 				"yo": "Orílẹ̀-èdè Olómìnira Olóṣèlú ilẹ̀ Kóngò",
 				"yue": "剛果民主共和國",
 				"za": "Ganggoj Minzcuj Gunghozgoz",
-				"zh": "刚果民主共和国 / 剛果民主共和國",
+				"zh": "刚果民主共和国",
 				"zh-Hans": "刚果民主共和国",
 				"zh-Hant": "剛果民主共和國",
 				"zu": "IRiphabliki Labantu weKongo"
@@ -29938,7 +29940,7 @@
 				"ca": "Territori Britànic de l'Oceà Índic",
 				"chr": "ᏈᏗᏏ ᏴᏫᏯ ᎠᎺᏉ ᎢᎬᎾᏕᏅ",
 				"cs": "Britské indickooceánské území",
-				"cy": "Tiriogaeth Prydain yng Nghefnfor India",
+				"cy": "Tiriogaeth Brydeinig Cefnfor India",
 				"da": "Britiske Indiske Ocean",
 				"de": "Britisches Territorium im Indischen Ozean",
 				"dz": "བྲི་ཊིཤ་རྒྱ་གར་གྱི་རྒྱ་མཚོ་ས་ཁོངས",
@@ -30032,6 +30034,9 @@
 				"zh-Hant": "英屬印度洋領地",
 				"zh-Latn-pinyin": "Yīngshǔ Yìndùyáng Lǐngdì",
 				"zu": "i-British Indian Ocean Territory"
+			},
+			"official_name": {
+				"cy": "Tiriogaeth Brydeinig Cefnfor India"
 			}
 		},
 		"name": "British Indian Ocean Territory",
@@ -33319,6 +33324,7 @@
 				"jbo": "kamputceas",
 				"jv": "Kamboja",
 				"ka": "კამბოჯა",
+				"kab": "Cambudya",
 				"kbd": "Камбоджэ",
 				"kk": "Камбоджа",
 				"km": "ព្រះរាជាណាចក្រកម្ពុជា",
@@ -38526,6 +38532,7 @@
 				"is": "Norður-Makedónía",
 				"it": "Macedonia del Nord",
 				"ja": "北マケドニア",
+				"kab": "Masidunya n Ugafa",
 				"ko": "북마케도니아",
 				"ku": "Komara Makedonyayê",
 				"kv": "Македония Республика",
@@ -39947,7 +39954,7 @@
 				"crh": "Mozambik",
 				"cs": "Mosambik",
 				"cv": "Мозамбик",
-				"cy": "Mosambic",
+				"cy": "Mozambique",
 				"da": "Mozambique",
 				"de": "Mosambik",
 				"diq": "Mozambik",
@@ -40093,7 +40100,7 @@
 				"yi": "מאזאמביק",
 				"yo": "Mòsámbìk",
 				"yue": "莫三鼻給",
-				"zh": "莫桑比克 / 莫三比克",
+				"zh": "莫桑比克",
 				"zh-Hans": "莫桑比克",
 				"zh-Hant": "莫三比克",
 				"zh-Hant-CN": "莫桑比克",
@@ -40101,7 +40108,8 @@
 				"zu": "IMozambiki"
 			},
 			"official_name": {
-				"cs": "Mosambická republika"
+				"cs": "Mosambická republika",
+				"cy": "Gweriniaeth Mozambique"
 			}
 		},
 		"name": "Moçambique",
@@ -40924,7 +40932,7 @@
 				"yi": "מאלאווי",
 				"yo": "Màláwì",
 				"yue": "馬拉維",
-				"zh": "马拉维 / 馬拉威",
+				"zh": "马拉维",
 				"zh-Hans": "马拉维",
 				"zh-Hant": "馬拉威",
 				"zh-Hant-CN": "馬拉維",
@@ -45408,6 +45416,7 @@
 				"jv": "Polandia",
 				"ka": "პოლონეთი",
 				"kaa": "Polsha",
+				"kab": "Bulunda",
 				"kbd": "Лахь жылэ",
 				"kg": "Pologne",
 				"kk": "Польша",
@@ -47485,7 +47494,7 @@
 				"jv": "Rusia",
 				"ka": "რუსეთი",
 				"kaa": "Rossiya",
-				"kab": "Rrus",
+				"kab": "Rusya",
 				"kbd": "Урысей",
 				"kg": "Rusia",
 				"ki": "Russia",
