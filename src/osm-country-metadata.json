@@ -18496,6 +18496,7 @@
 				"jv": "Céko",
 				"ka": "ჩეხეთი",
 				"kaa": "Shexiya",
+				"kab": "Čik",
 				"kbd": "Чех",
 				"kg": "République tchèque",
 				"kk": "Чехия",
@@ -18662,6 +18663,7 @@
 				"hsb": "Čěska republika",
 				"it": "Repubblica Ceca",
 				"ja": "チェコ共和国",
+				"kab": "Tagduda Tačikit",
 				"lb": "Tschechesch Republik",
 				"lt": "Čekijos Respublika",
 				"lv": "Čehijas Republika",
@@ -38124,7 +38126,7 @@
 			"alt_name": {
 				"chr": "ᎺᏏᎪ",
 				"nv": "Méhigo",
-				"vi": "Mê-hi-cô;Mễ Tây Cơ;Mễ"
+				"vi": "Mễ Tây Cơ;Mễ;Mexico;Mê-hi-cô"
 			},
 			"name": {
 				"ace": "Meksiko",
@@ -41079,7 +41081,7 @@
 				"mn": "Малайз",
 				"mr": "मलेशिया",
 				"ms": "Malaysia",
-				"ms-Arab": "مليسيا‎‎",
+				"ms-Arab": "مليسيا",
 				"mt": "Malażja",
 				"my": "မလေးရှားနိုင်ငံ",
 				"na": "Maraidja",
@@ -46962,7 +46964,7 @@
 			"alpha2": "RE",
 			"alpha3": "REU"
 		},
-		"ISO3166-2": "FR-974",
+		"ISO3166-2": "FR-RE",
 		"capital": null,
 		"currency": "EUR",
 		"default_language": null,
