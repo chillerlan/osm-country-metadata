@@ -1223,6 +1223,7 @@
 				"zh": "安圭拉 / 安吉拉",
 				"zh-Hans": "安圭拉",
 				"zh-Hant": "安圭拉 / 安吉拉",
+				"zh-Hant-CN": "安圭拉",
 				"zh-Hant-HK": "安圭拉",
 				"zh-Hant-TW": "安吉拉"
 			}
@@ -4434,7 +4435,10 @@
 				"zea": "Antigua en Barbuda",
 				"zh": "安提瓜和巴布达",
 				"zh-Hans": "安提瓜和巴布达",
-				"zh-Hant": "安提瓜巴布達",
+				"zh-Hant": "安地卡及巴布達",
+				"zh-Hant-CN": "安提瓜和巴布達",
+				"zh-Hant-HK": "安提瓜和巴布達",
+				"zh-Hant-TW": "安地卡及巴布達",
 				"zu": "i-Antigua and Barbuda"
 			},
 			"official_name": {
@@ -10497,6 +10501,7 @@
 				"zh": "伯利兹",
 				"zh-Hans": "伯利兹",
 				"zh-Hant": "伯利兹 / 貝里斯",
+				"zh-Hant-CN": "伯利兹",
 				"zh-Hant-HK": "伯利兹",
 				"zh-Hant-TW": "貝里斯",
 				"zu": "Belize"
@@ -19880,7 +19885,9 @@
 				"yue": "多明尼加",
 				"zh": "多明尼加",
 				"zh-Hans": "多米尼加",
-				"zh-Hant": "多明尼加"
+				"zh-Hant": "多明尼加",
+				"zh-Hant-CN": "多米尼加",
+				"zh-Hant-TW": "多明尼加"
 			},
 			"official_name": {
 				"ar": "جمهورية الدومينيكان",
@@ -20616,6 +20623,8 @@
 				"zh": "厄瓜多尔 / 厄瓜多",
 				"zh-Hans": "厄瓜多尔",
 				"zh-Hant": "厄瓜多",
+				"zh-Hant-CN": "厄瓜多爾",
+				"zh-Hant-HK": "厄瓜多爾",
 				"zh-Hant-TW": "厄瓜多"
 			},
 			"official_name": {
@@ -23705,6 +23714,9 @@
 		"default_language": "fo",
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
 		"lang": {
+			"alt_name": {
+				"hr": "Farski otoci"
+			},
 			"name": {
 				"ace": "Pulo-pulo Faroe",
 				"af": "Faroëreilande",
@@ -23758,7 +23770,7 @@
 				"gv": "Ellanyn ny Geyrragh",
 				"he": "איי פארו",
 				"hi": "फ़रो द्वीपसमूह",
-				"hr": "Ferojski Otoci",
+				"hr": "Ferojski otoci",
 				"hsb": "Fereje",
 				"hu": "Feröer szigetek",
 				"hy": "Ֆարերյան կղզիներ",
@@ -27862,6 +27874,7 @@
 				"zh": "圭亚那",
 				"zh-Hans": "圭亚那",
 				"zh-Hant": "蓋亞那 / 圭亞那",
+				"zh-Hant-CN": "圭亞那",
 				"zh-Hant-HK": "圭亞那",
 				"zh-Hant-TW": "蓋亞那"
 			},
@@ -28380,6 +28393,9 @@
 				"zh": "洪都拉斯",
 				"zh-Hans": "洪都拉斯",
 				"zh-Hant": "宏都拉斯",
+				"zh-Hant-CN": "洪都拉斯",
+				"zh-Hant-HK": "洪都拉斯",
+				"zh-Hant-TW": "宏都拉斯",
 				"zu": "Honduras"
 			},
 			"official_name": {
@@ -33590,7 +33606,10 @@
 				"tr": "Saint Kitts ve Nevis",
 				"uk": "Сент-Кiтс i Невiс",
 				"vo": "Sankiteän e Neviseän",
-				"zh": "圣克里斯多福及尼维斯"
+				"zh-Hans": "圣基茨和尼维斯",
+				"zh-Hant-CN": "聖基茨和尼維斯",
+				"zh-Hant-HK": "聖基茨和尼維斯",
+				"zh-Hant-TW": "聖克里斯多福及尼維斯"
 			},
 			"official_name": {
 				"ca": "Federació de Saint Kitts i Nevis",
@@ -35184,9 +35203,11 @@
 				"vi": "Saint Lucia",
 				"vo": "Sanlusiyän",
 				"yo": "Orílẹ́ède Luṣia",
-				"zh": "圣卢西亚岛",
-				"zh-Hans": "圣卢西亚岛",
+				"zh-Hans": "圣卢西亚",
 				"zh-Hant": "聖露西亞",
+				"zh-Hant-CN": "聖盧西亞",
+				"zh-Hant-HK": "聖盧西亞",
+				"zh-Hant-TW": "聖露西亞",
 				"zu": "i-Saint Lucia"
 			}
 		},
@@ -40425,7 +40446,10 @@
 				"wo": "Montserrat",
 				"yo": "Montserrat",
 				"yue": "蒙塞拉特島",
-				"zh": "蒙塞拉特岛"
+				"zh-Hans": "蒙特塞拉特",
+				"zh-Hant-CN": "蒙特塞拉特",
+				"zh-Hant-HK": "蒙特塞拉特",
+				"zh-Hant-TW": "蒙哲臘"
 			}
 		},
 		"name": "Montserrat",
@@ -43493,7 +43517,8 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
 		"lang": {
 			"alt_name": {
-				"ko": "아오테아로아"
+				"ko": "아오테아로아",
+				"uk-t-mi": "Аотераоа"
 			},
 			"name": {
 				"ace": "Seulandia Barô",
@@ -43722,6 +43747,7 @@
 				"udm": "Выль Зеландия",
 				"ug": "يېڭى زېلاندىيە",
 				"uk": "Нова Зеландія",
+				"uk-t-en": "Нова Зеландія",
 				"ur": "نیوزی لینڈ",
 				"uz": "Yangi Zelandiya",
 				"vec": "Nova Zełanda",
@@ -44985,7 +45011,7 @@
 				"yue": "菲律賓/菲律宾",
 				"za": "Feihlizbinh",
 				"zea": "Filepijn’n",
-				"zh": "菲律宾 / 菲律賓",
+				"zh": "菲律宾",
 				"zh-Hans": "菲律宾",
 				"zh-Hant": "菲律賓"
 			},
@@ -45033,6 +45059,8 @@
 		"lang": {
 			"name": {
 				"ar": "بالاو",
+				"az": "Palau",
+				"bs": "Palau",
 				"ca": "Palau",
 				"cs": "Palau",
 				"de": "Palau",
@@ -47347,7 +47375,7 @@
 				"yo": "Románíà",
 				"yue": "羅馬尼亞",
 				"zea": "Roemenië",
-				"zh": "罗马尼亚 / 羅馬尼亞",
+				"zh": "罗马尼亚",
 				"zh-Hans": "罗马尼亚",
 				"zh-Hant": "羅馬尼亞"
 			}
@@ -51732,7 +51760,7 @@
 				"arz": "سوازيلاندا",
 				"ast": "Suazilandia",
 				"ay": "Suasïsuiu",
-				"az": "Svazilend",
+				"az": "Esvatini",
 				"ba": "Свазиленд",
 				"bat-smg": "Svazėlands",
 				"bcl": "Swasilandya",
@@ -51902,6 +51930,7 @@
 				"zu": "ISwazilandi"
 			},
 			"official_name": {
+				"az": "Esvatini Krallığı",
 				"be": "Каралеўства Эсваціні",
 				"bg": "Кралство Есватини",
 				"ca": "Regne d'Eswatini",
@@ -51930,6 +51959,7 @@
 				"vi": "Vương quốc Eswatini"
 			},
 			"old_name": {
+				"az": "Svazilend",
 				"be": "Свазіленд",
 				"be-tarask": "Сўазілэнд",
 				"br": "Swaziland",
@@ -53424,6 +53454,7 @@
 				"te": "థాయిలాండ్",
 				"tg": "Таиланд",
 				"th": "ประเทศไทย",
+				"th-Latn": "Prathed Thai",
 				"tk": "Tailand",
 				"tl": "Taylandiya",
 				"tpi": "Tailan",
@@ -56810,7 +56841,7 @@
 				"yo": "Ukréìn",
 				"yue": "烏克蘭",
 				"zea": "Oekraïne",
-				"zh": "乌克兰 / 烏克蘭",
+				"zh": "乌克兰",
 				"zh-Hans": "乌克兰",
 				"zh-Hant": "烏克蘭"
 			},
@@ -58415,7 +58446,10 @@
 				"uk": "Британські Віргінські острови",
 				"zh": "英属维尔京群岛 / 英屬維京群島",
 				"zh-Hans": "英属维尔京群岛",
-				"zh-Hant": "英屬維京群島"
+				"zh-Hant": "英屬維京群島",
+				"zh-Hant-CN": "英屬維爾京群島",
+				"zh-Hant-HK": "英屬處女群島",
+				"zh-Hant-TW": "英屬維京群島"
 			},
 			"official_name": {
 				"lt": "Didžiosios Britanijos Mergelių Salos"
@@ -58487,7 +58521,11 @@
 				"vi": "Quần đảo Virgin thuộc Mỹ",
 				"war": "Kapuropud-an Birhen han Estados Unidos",
 				"yo": "Àwọn Erékùṣù Wúndíá ti Amẹ́ríkà",
-				"zh": "美屬維爾京群島"
+				"zh": "美屬維爾京群島",
+				"zh-Hans": "美属维尔京群岛",
+				"zh-Hant-CN": "美屬維爾京群島",
+				"zh-Hant-HK": "美屬處女群島",
+				"zh-Hant-TW": "美屬維京群島"
 			},
 			"official_name": {
 				"en": "Virgin Islands of the United States"
