@@ -16012,6 +16012,7 @@
 		"lang": {
 			"alt_name": {
 				"crh": "Kongo-Kinşasa",
+				"cs": "Demokratická republika Kongo;Kongo-Kinshasa",
 				"en": "Congo-Kinshasa",
 				"eo": "Kongo Kinŝasa",
 				"es": "Congo-Kinsasa",
@@ -16223,6 +16224,8 @@
 			},
 			"old_name": {
 				"1971-1997": "Zaïre",
+				"cs:1908-1960": "Belgické Kongo",
+				"cs:1971-1997": "Zair",
 				"du:1908-1960": "Belgisch-Congo",
 				"en:1885-1908": "Congo Free State",
 				"en:1908-1960": "Belgian Congo",
@@ -16234,8 +16237,7 @@
 				"sk:1971-1997": "Zair"
 			},
 			"short_name": {
-				"1": "DRC",
-				"2": "RDC",
+				"cs": "DR Kongo",
 				"de": "DR Kongo",
 				"en": "DR Congo",
 				"es": "RD Congo",
@@ -16259,7 +16261,7 @@
 		"tags": {
 			"admin_level": "2",
 			"alt_name": "Congo-Kinshasa",
-			"short_name": "RD Congo"
+			"short_name": "RD Congo;DR Congo;RDC;DRC"
 		},
 		"timezone": null,
 		"website": null,
@@ -16908,8 +16910,7 @@
 		"official_name": "República de Colombia",
 		"relation_id": 120027,
 		"tags": {
-			"admin_level": "2",
-			"int_name": "Colombia"
+			"admin_level": "2"
 		},
 		"timezone": "America/Bogota",
 		"website": null,
@@ -58401,7 +58402,7 @@
 		"timezone": "America/Caracas",
 		"website": null,
 		"wikidata": "Q717",
-		"wikipedia": "en:Es:Venezuela"
+		"wikipedia": "es:Venezuela"
 	},
 	"VGB": {
 		"ISO3166-1": {
@@ -58824,7 +58825,7 @@
 				"es": "República Socialista de Vietnam",
 				"hr": "Socijalistička Republika Vijetnam",
 				"ru": "Социалистическая Республика Вьетнам",
-				"vi": "Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam",
+				"vi": "Cộng hòa xã hội chủ nghĩa Việt Nam",
 				"vi-Hani": "共和社會主義越南",
 				"zh": "越南社会主义共和国 / 越南社會主義共和國",
 				"zh-Hans": "越南社会主义共和国",
@@ -58832,7 +58833,7 @@
 			}
 		},
 		"name": "Việt Nam",
-		"official_name": "Cộng Hòa Xã Hội Chủ Nghĩa Việt Nam",
+		"official_name": "Cộng hòa xã hội chủ nghĩa Việt Nam",
 		"relation_id": 49915,
 		"tags": {
 			"admin_level": "2",
