@@ -22659,7 +22659,7 @@
 				"es": "RDFE"
 			}
 		},
-		"name": "ኢትዮጵያ إثيوبيا",
+		"name": "ኢትዮጵያ",
 		"official_name": "የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
 		"relation_id": 192800,
 		"tags": {
@@ -46493,7 +46493,7 @@
 		"timezone": "America/Asuncion",
 		"website": null,
 		"wikidata": "Q733",
-		"wikipedia": "en:Paraguay"
+		"wikipedia": "es:Paraguay"
 	},
 	"PSE": {
 		"ISO3166-1": {
@@ -49654,7 +49654,7 @@
 		"tags": {
 			"admin_level": "2",
 			"denomination": "roman_catholic",
-			"population": "6000000",
+			"population": "6029976",
 			"religion": "christian"
 		},
 		"timezone": "America/El_Salvador",
@@ -59319,7 +59319,7 @@
 				"crh": "Kosovo",
 				"cs": "Kosovo",
 				"cv": "Косово",
-				"cy": "Cosofo",
+				"cy": "Kosovo",
 				"da": "Kosovo",
 				"de": "Kosovo",
 				"diq": "Kosova",
@@ -59471,6 +59471,7 @@
 				"ca": "República de Kosovo",
 				"cnr": "Republika Kosovo",
 				"cs": "Kosovská republika",
+				"cy": "Gweriniaeth Kosovo",
 				"de": "Republik Kosovo",
 				"el": "Δημοκρατία του Κοσσυφοπεδίου",
 				"en": "Republic of Kosovo",
