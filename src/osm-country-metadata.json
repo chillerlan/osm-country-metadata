@@ -10129,8 +10129,8 @@
 				"ne": "बेलारुस",
 				"new": "बेलारुस",
 				"nl": "Belarus",
-				"nn": "Kviterussland",
-				"no": "Hviterussland",
+				"nn": "Belarus",
+				"no": "Belarus",
 				"nov": "Belarus",
 				"oc": "Bielorussia",
 				"or": "ବେଲାଋଷ",
@@ -10238,6 +10238,8 @@
 				"eo": "Bjelorusio;Bjelorusujo",
 				"es": "Bielorrusia",
 				"fr": "Biélorussie",
+				"nn": "Kviterussland",
+				"no": "Hviterussland",
 				"ru": "Белоруссия",
 				"sv": "Vitryssland"
 			}
@@ -51914,6 +51916,7 @@
 				"en": "eSwatini;Swaziland",
 				"eo": "Svaziujo",
 				"es": "Suazilandia",
+				"fi": "Eswatini",
 				"fr": "Swaziland",
 				"gl": "Eswatini",
 				"it": "Suazilandia",
@@ -58163,6 +58166,8 @@
 				"yue": "梵蒂岡",
 				"zea": "Vaticaânstad",
 				"zh": "梵蒂冈",
+				"zh-Hans": "梵蒂冈",
+				"zh-Hant": "梵蒂岡",
 				"zu": "Indolobha yaseVathikhani"
 			},
 			"official_name": {
