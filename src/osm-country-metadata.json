@@ -10256,8 +10256,8 @@
 			"headlight:conditional": "required @ 25 Aug - 5 Sept",
 			"int_name": "Belarus",
 			"int_ref": "BY",
-			"population": "9491823",
-			"population:date": "2018-01-01",
+			"population": "9109280",
+			"population:date": "2025-01-01",
 			"source:population": "Белстат"
 		},
 		"timezone": "Europe/Minsk",
@@ -10840,7 +10840,7 @@
 		"capital": null,
 		"currency": "BOB",
 		"default_language": "es",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg",
+		"flag": "File:Flag of Bolivia.svg",
 		"lang": {
 			"alt_name": {
 				"bo": "བོ་ལི་བི་ཡ",
@@ -11209,6 +11209,8 @@
 		"relation_id": 252645,
 		"tags": {
 			"admin_level": "2",
+			"coat_of_arms": "File:Escudo de Bolivia.svg",
+			"driving_side": "right",
 			"int_name": "Bolivia",
 			"source": "wikipedia, 2019"
 		},
@@ -18374,7 +18376,7 @@
 				"xal": "Кипрудин Орн"
 			}
 		},
-		"name": "Kıbrıs - Κύπρος",
+		"name": "Κύπρος - Kıbrıs",
 		"official_name": "Κυπριακή Δημοκρατία - Kıbrıs Cumhuriyeti",
 		"relation_id": 307787,
 		"tags": {
@@ -44955,7 +44957,7 @@
 		"ISO3166-2": null,
 		"capital": null,
 		"currency": null,
-		"default_language": "tl",
+		"default_language": "en",
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
 		"lang": {
 			"alt_name": {
@@ -45191,7 +45193,7 @@
 				"zh-Hant": "菲律賓共和國"
 			}
 		},
-		"name": "Pilipinas",
+		"name": "Philippines",
 		"official_name": "Repúblika ng Pilipinas",
 		"relation_id": 443174,
 		"tags": {
@@ -45201,7 +45203,8 @@
 			"old_name": "Las Felipinas",
 			"population": "113757002",
 			"population:date": "2023-04-11",
-			"source:population": "https://www.worldometers.info/world-population/philippines-population/"
+			"source:population": "https://www.worldometers.info/world-population/philippines-population/",
+			"wikimedia_commons": "Category:Philippines"
 		},
 		"timezone": "Asia/Manila",
 		"website": null,
