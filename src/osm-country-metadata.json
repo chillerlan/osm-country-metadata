@@ -29307,6 +29307,7 @@
 				"ceb": "Indya",
 				"chr": "ᎢᏅᏗᎾ",
 				"ckb": "ھیندستان",
+				"cnr": "Indija",
 				"co": "India",
 				"crh": "İndistan",
 				"cs": "Indie",
@@ -32206,6 +32207,7 @@
 				"ceb": "Kasahistan",
 				"chr": "ᎧᏌᎩᏍᏔᏂ",
 				"ckb": "کازاخستان",
+				"cnr": "Kazahstan",
 				"crh": "Qazahistan",
 				"cs": "Kazachstán",
 				"csb": "Kazachstan",
@@ -38901,6 +38903,7 @@
 				"ce": "Мьянма",
 				"ceb": "Birmanya",
 				"ckb": "میانمار",
+				"cnr": "Mjanmar",
 				"crh": "Myanmar",
 				"cs": "Myanmar",
 				"csb": "Myanmar",
@@ -39077,6 +39080,7 @@
 			"official_name": {
 				"bn": "প্রজাতান্ত্রিক ঐক্যতন্ত্রী মিয়ানমার",
 				"ca": "República de la Unió de Myanmar",
+				"cnr": "Republika Unija Mjanmar",
 				"cs": "Republika Myanmarský svaz",
 				"da": "Unionen Myanmar",
 				"de": "Republik der Union Myanmar",
@@ -39336,7 +39340,8 @@
 				"zea": "Montenehro",
 				"zh": "黑山 / 蒙特內哥羅",
 				"zh-Hans": "黑山",
-				"zh-Hant": "蒙特內哥羅"
+				"zh-Hant": "蒙特內哥羅",
+				"zh-Hant-HK": "黑山"
 			}
 		},
 		"name": "Crna Gora / Црна Гора",
