@@ -35465,6 +35465,7 @@
 			"admin_level": "2",
 			"border_type": "country",
 			"driving_side": "left",
+			"fixme": "Official Lesotho constituencies (admin level 6): https://iec.org.ls/maps/\nList: https://www.gov.ls/wp-content/uploads/2022/04/Constituency-Delimitation-Order.pdf\nhttps://iec.org.ls/download/list-of-constituencies/",
 			"land_area": "administrative"
 		},
 		"timezone": "Africa/Maseru",
