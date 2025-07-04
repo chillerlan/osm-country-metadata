@@ -10201,7 +10201,9 @@
 				"zea": "Wit-Rusland",
 				"zh": "白俄罗斯",
 				"zh-Hans": "白俄罗斯",
+				"zh-Hans-BY": "白罗斯",
 				"zh-Hant": "白俄羅斯",
+				"zh-Hant-BY": "白羅斯",
 				"zu": "IBelarusi"
 			},
 			"official_name": {
@@ -10223,9 +10225,10 @@
 				"sl": "Republika Belorusija",
 				"sv": "Republiken Belarus",
 				"uk": "Республіка Білорусь",
-				"zh": "白罗斯共和国",
-				"zh-Hans": "白罗斯共和国",
-				"zh-Hant": "白羅斯共和國"
+				"zh-Hans": "白俄罗斯共和国",
+				"zh-Hans-BY": "白罗斯共和国",
+				"zh-Hant": "白俄羅斯共和國",
+				"zh-Hant-BY": "白羅斯共和國"
 			},
 			"old_name": {
 				"de": "Weißrussland",
@@ -22659,7 +22662,7 @@
 				"es": "RDFE"
 			}
 		},
-		"name": "ኢትዮጵያ",
+		"name": "ኢትዮጵያ إثيوبيا",
 		"official_name": "የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
 		"relation_id": 192800,
 		"tags": {
@@ -41337,7 +41340,7 @@
 				"ru": "Федерация Малайзия"
 			}
 		},
-		"name": "Malaysia مليسيا",
+		"name": "Malaysia",
 		"official_name": null,
 		"relation_id": 2108121,
 		"tags": {
