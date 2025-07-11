@@ -23205,7 +23205,7 @@
 				"cs": "Malvíny",
 				"de": "Malwinen",
 				"eo": "Malvinoj",
-				"es": "Islas Malvinas",
+				"es": "Islas Falkland",
 				"fr": "Îles Malouines",
 				"it": "Isole Malvine",
 				"mk": "Малвински Острови",
@@ -23239,7 +23239,7 @@
 				"el": "Νήσοι Φώκλαντ",
 				"en": "Falkland Islands",
 				"eo": "Falklandoj",
-				"es": "Islas Falkland",
+				"es": "Islas Malvinas",
 				"et": "Falklandi saared",
 				"eu": "Falkland uharteak (Malvina uharteak)",
 				"fa": "جزایر فالکلند",
@@ -28164,6 +28164,7 @@
 			"name": {
 				"ar": "جزيرة هيرد وجزر ماكدونالد",
 				"be": "Востраў Херд і Астравы Мак-Доналд",
+				"br": "Inizi Heard ha McDonald",
 				"de": "Heard und McDonaldinseln",
 				"el": "Νήσοι Χερντ και Μακντόναλντ",
 				"en": "Heard Island and McDonald Islands",
@@ -57947,7 +57948,7 @@
 		"timezone": null,
 		"website": null,
 		"wikidata": "Q265",
-		"wikipedia": "en:Uzbekistan"
+		"wikipedia": "uz:Oʻzbekiston"
 	},
 	"VAT": {
 		"ISO3166-1": {
