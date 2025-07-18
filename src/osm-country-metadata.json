@@ -18422,7 +18422,6 @@
 				"az": "Çexiya",
 				"ba": "Чехия",
 				"bar": "Tschechische Republik",
-				"bat-smg": "Čekėjė",
 				"bcl": "Tsekang Republika",
 				"be": "Чэхія",
 				"be-tarask": "Чэхія",
@@ -18591,6 +18590,7 @@
 				"sco": "Czech Republic",
 				"sd": "جمهوريه چيڪ",
 				"se": "Čeahkka",
+				"sgs": "Čekėjė",
 				"sh": "Češka Republika",
 				"si": "චෙක් ජනරජය",
 				"sk": "Česko",
@@ -32591,6 +32591,7 @@
 				"ar": "قزخستان;قزاقستان",
 				"br": "Kazac'hstan",
 				"eo": "Kazaĥujo;Kazaĥstano",
+				"it": "Cazachistan",
 				"vi": "Ca-dắc-xtan"
 			},
 			"name": {
@@ -34000,6 +34001,7 @@
 		"relation_id": 307756,
 		"tags": {
 			"admin_level": "2",
+			"alt_name": "한국",
 			"country_code_fips": "KR",
 			"driving_side": "right",
 			"geonames:id": "1835841",
