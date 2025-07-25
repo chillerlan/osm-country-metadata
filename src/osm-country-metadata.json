@@ -35350,6 +35350,7 @@
 				"ku": "Lînxiniştayn",
 				"la": "Lichtenstenum",
 				"lt": "Lichtenšteinas",
+				"lv": "Lihtenšteina",
 				"mi": "Rīkeneteina",
 				"mk": "Лихтенштајн",
 				"nds": "Liechtensteen",
@@ -37905,7 +37906,7 @@
 				"it": "Madagascar",
 				"ja": "マダガスカル",
 				"jbo": "madagaskar",
-				"jv": "Madagaskar",
+				"jv": "Madagasikoro",
 				"ka": "მადაგასკარი",
 				"kg": "Malagasi",
 				"ki": "Madagascar",
@@ -38040,7 +38041,7 @@
 		"timezone": "Indian/Antananarivo",
 		"website": null,
 		"wikidata": "Q1019",
-		"wikipedia": "fr:Madagascar"
+		"wikipedia": "id:Madagaskar"
 	},
 	"MDV": {
 		"ISO3166-1": {
@@ -43510,6 +43511,9 @@
 		"default_language": null,
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
 		"lang": {
+			"alt_name": {
+				"cy": "Nawrw"
+			},
 			"name": {
 				"ab": "Науру",
 				"ace": "Nauru",
@@ -43531,6 +43535,7 @@
 				"chy": "Nauru",
 				"cs": "Nauru",
 				"cu": "Наоуроу",
+				"cy": "Nauru",
 				"de": "Nauru",
 				"dty": "नाउरु",
 				"dv": "ނައުރޫ",
@@ -43619,6 +43624,7 @@
 				"ab": "Науру Ареспублика",
 				"ca": "República de Nauru",
 				"cs": "Republika Nauru",
+				"cy": "Gweriniaeth Nauru",
 				"de": "Republik Nauru",
 				"en": "Republic of Nauru",
 				"es": "República de Nauru",
@@ -50262,7 +50268,7 @@
 				"kl": "Saint Pierre aamma Miquelon",
 				"km": "សង់ព្យែរ និង​មីគីឡុង",
 				"kn": "ಸೇಂಟ್ ಪಿಯರೆ ಮತ್ತು ಮಿಕೆಲನ್",
-				"ko": "세인트피에르-미케롱",
+				"ko": "생피에르 미클롱",
 				"ks": "سینٛٹ پیٖری تہٕ موکیلِیَن",
 				"ksh": "Zint Pjäär un Mikelong",
 				"lg": "Senti Piyere ne Mikeloni",
@@ -55476,6 +55482,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
 		"lang": {
 			"alt_name": {
+				"cy": "Twfalw",
 				"pl": "Tuwalu"
 			},
 			"name": {
@@ -55515,7 +55522,7 @@
 				"crh": "Tuvalu",
 				"cs": "Tuvalu",
 				"cv": "Тувалу",
-				"cy": "Twfalw",
+				"cy": "Tuvalu",
 				"da": "Tuvalu",
 				"de": "Tuvalu",
 				"diq": "Tuvalu",
