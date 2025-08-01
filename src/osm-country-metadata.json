@@ -2392,6 +2392,7 @@
 		"relation_id": 9407,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Principat d'Andorra",
 			"land_area": "administrative",
 			"source:name:oc": "ieo-bdtopoc"
@@ -17200,6 +17201,7 @@
 		"lang": {
 			"alt_name": {
 				"eo": "Kabo-Verdo",
+				"kea": "Kab Verd",
 				"mk": "Зелено’ртски Острови",
 				"sk": "Zelený mys"
 			},
@@ -17223,6 +17225,7 @@
 				"is": "Grænhöfðaeyjar",
 				"it": "Capo Verde",
 				"ja": "カーボベルデ",
+				"kea": "Kabu Verdi",
 				"ko": "카보베르데",
 				"mi": "Te Kūrae Matomato",
 				"mk": "Зелен ’Рт",
@@ -17255,7 +17258,9 @@
 				"ckb": "کۆماری کابۆڤێردێ",
 				"cs": "Kapverdská republika",
 				"eo": "Kabo-Verda Respubliko",
-				"gn": "Tavakuairetã Kávo Véyde"
+				"gn": "Tavakuairetã Kávo Véyde",
+				"kea": "Repúblika di Kabu Verdi",
+				"pt": "República de Cabo Verde"
 			}
 		},
 		"name": "Cabo Verde",
@@ -19700,6 +19705,7 @@
 			"TMC:cid_58:tabcd_1:LCLversion": "8.00",
 			"TMC:cid_58:tabcd_1:LocationCode": "13",
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Denmark",
 			"ref:nuts": "DK0",
 			"ref:nuts:1": "DK0"
@@ -22183,6 +22189,7 @@
 		"relation_id": 79510,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Estonia",
 			"ref:nuts": "EE0;EE00",
 			"ref:nuts:1": "EE0",
@@ -23696,7 +23703,7 @@
 			"euro_const": "FR",
 			"int_name": "France",
 			"note": "this includes the full country (outer roles), i.e. the all territorial waters",
-			"note:population": "somme des populations de tous les territoires (départements, COM, etc)",
+			"note:population": "somme des populations de tous les territoires (départements, COM, etc.)",
 			"population": "67852556",
 			"source:euro_const": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000037102048",
 			"source:name:br": "ofis publik ar brezhoneg",
@@ -23874,6 +23881,7 @@
 		"relation_id": 52939,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Faroe Islands"
 		},
 		"timezone": "Atlantic/Faroe",
@@ -25533,6 +25541,7 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"description": "Considered a Non-Self-Governing Territory by the United Nations.",
+			"driving_side": "right",
 			"int_name": "Gibraltar",
 			"note": "maritime boundary may be wrong;is an approximate equidistance line",
 			"population": "32688",
@@ -27245,6 +27254,7 @@
 		"relation_id": 2184073,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"population": "57564",
 			"sqkm": "2166086"
 		},
@@ -31269,6 +31279,7 @@
 		"relation_id": 299133,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Iceland",
 			"population": "383726",
 			"population:date": "2024-01-01",
@@ -33644,7 +33655,8 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
 		"lang": {
 			"alt_name": {
-				"eo": "Sankta-Kito kaj Neviso"
+				"eo": "Sankta-Kito kaj Neviso",
+				"ro": "Sfântul Kitts și Nevis"
 			},
 			"name": {
 				"ar": "سانت كيتس ونيفيس",
@@ -33674,6 +33686,7 @@
 				"no": "St Kitts og Nevis",
 				"pl": "Saint Kitts i Nevis",
 				"pt": "São Cristóvão e Neves",
+				"ro": "Saint Kitts și Nevis",
 				"ru": "Сент-Китс и Невис",
 				"se": "Saint Kitts ja Nevis",
 				"sk": "Svätý Krištof a Nevis",
@@ -35181,6 +35194,9 @@
 		"default_language": "en",
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
 		"lang": {
+			"alt_name": {
+				"ro": "Sfânta Lucia"
+			},
 			"name": {
 				"af": "Sint Lucia",
 				"am": "ሴንት ሉቺያ",
@@ -35263,7 +35279,7 @@
 				"pl": "Saint Lucia",
 				"pt": "Santa Lúcia",
 				"rn": "Selusiya",
-				"ro": "Sfânta Lucia",
+				"ro": "Saint Lucia",
 				"ru": "Сент-Люсия",
 				"se": "Saint Lucia",
 				"sg": "Sênt-Lisïi",
@@ -36181,6 +36197,7 @@
 		"tags": {
 			"admin_level": "2",
 			"country_code_fips": "LH",
+			"driving_side": "right",
 			"geonames:id": "597427",
 			"int_name": "Lithuania",
 			"ref:nuts:1": "LT0"
@@ -36447,6 +36464,7 @@
 			"TMC:cid_58:tabcd_1:LCLversion": "8.00",
 			"TMC:cid_58:tabcd_1:LocationCode": "5",
 			"admin_level": "2",
+			"driving_side": "right",
 			"emergency:phone": "112;113",
 			"int_name": "Luxembourg",
 			"land_area": "administrative",
@@ -36747,6 +36765,7 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"country_code_fips": "LG",
+			"driving_side": "right",
 			"geonames:id": "458258",
 			"int_name": "Latvia",
 			"ref:nuts": "LV0;LV00",
@@ -38776,6 +38795,7 @@
 				"nn": "Republikken Nord-Makedonia",
 				"no": "Republikken Nord-Makedonia",
 				"pl": "Republika Macedonii Północnej",
+				"ro": "Republica Macedonia de Nord",
 				"se": "Dásseváldi Davvi-Makedonia",
 				"sk": "Republika Severné Macedónsko",
 				"sl": "Republika Severna Makedonija",
@@ -38845,6 +38865,7 @@
 				"hr": "Republika Makedonija",
 				"it": "Repubblica di Macedonia",
 				"mk": "Република Македонија",
+				"ro": "Republica Macedonia de Nord",
 				"sl": "Republika Makedonija",
 				"sq": "Republika e Maqedonisë",
 				"sr": "Република Македонија",
@@ -39444,7 +39465,7 @@
 				"qu": "Myanmar",
 				"quz": "Myanmar",
 				"rm": "Myanmar (Burma)",
-				"ro": "Birmania",
+				"ro": "Myanmar",
 				"ru": "Мьянма",
 				"rw": "Mayanimari",
 				"sa": "म्यान्मार",
@@ -39534,6 +39555,7 @@
 				"ko": "버마",
 				"mt": "Burma",
 				"nb": "Burma",
+				"ro": "Birmania",
 				"se": "Burma",
 				"sv": "Burma",
 				"vi": "Miến Điện;Diến Điện"
@@ -41284,7 +41306,7 @@
 				"pt": "Malásia",
 				"qu": "Malasya",
 				"quz": "Malasya",
-				"ro": "Malaezia",
+				"ro": "Malaysia",
 				"ru": "Малайзия",
 				"rw": "Malesiya",
 				"sa": "मलयेशिया",
@@ -41342,6 +41364,9 @@
 			},
 			"official_name": {
 				"ru": "Федерация Малайзия"
+			},
+			"old_name": {
+				"ro": "Malaezia"
 			}
 		},
 		"name": "Malaysia",
@@ -43253,6 +43278,7 @@
 		"relation_id": 2978650,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Norway",
 			"note": "This relation represents the full country, including its dependencies; different timezones are observed",
 			"population": "5594340",
@@ -44654,6 +44680,7 @@
 				"ar": "جزر بيتكيرن",
 				"az": "Pitkern adaları",
 				"bg": "Питкерн",
+				"br": "Inizi Pitcairn",
 				"ca": "Illes Pitcairn",
 				"cs": "Pitcairnovy ostrovy",
 				"cy": "Ynysoedd Pitcairn, Henderson, Ducie ac Oeno",
@@ -44693,6 +44720,7 @@
 				"zh-Hant": "皮特肯群島"
 			},
 			"official_name": {
+				"br": "Inizi Pitcairn, Henderson, Ducie hag Oeno",
 				"cy": "Ynysoedd Pitcairn, Henderson, Ducie ac Oeno"
 			},
 			"short_name": {
@@ -45265,6 +45293,8 @@
 				"mi": "Pārau",
 				"nan": "Palau",
 				"oc": "Belau",
+				"pa": "ਪਲਾਊ",
+				"pau": "Belau",
 				"pl": "Palau",
 				"pt": "Palau",
 				"ru": "Палау",
@@ -45275,6 +45305,7 @@
 				"sms": "Palau",
 				"sr": "Палау",
 				"ta": "பலாவு",
+				"th": "ประเทศปาเลา",
 				"uk": "Палау",
 				"vi": "Palau",
 				"vo": "Palauäns",
@@ -45295,12 +45326,14 @@
 				"hr": "Republika Palau",
 				"is": "Lýðveldið Palaú",
 				"ko": "팔라우 공화국",
+				"pau": "Beluu er a Belau",
 				"pt": "República de Palau",
-				"ru": "Республика Палау"
+				"ru": "Республика Палау",
+				"th": "สาธารณรัฐปาเลา"
 			}
 		},
 		"name": "Belau",
-		"official_name": null,
+		"official_name": "Beluu er a Belau",
 		"relation_id": 571805,
 		"tags": {
 			"admin_level": "2",
@@ -46694,6 +46727,7 @@
 			"alt_name": {
 				"ar": "فلسطين",
 				"bn": "ফিলিস্তিন",
+				"br": "Palestina;Palestin",
 				"ca": "Palestina",
 				"cs": "Palestina",
 				"de": "Palästina",
@@ -46731,6 +46765,7 @@
 			"name": {
 				"ar": "الأراضي الفلسطينية",
 				"bn": "ফিলিস্তিন অঞ্চল",
+				"br": "Tiriadoù Palestina",
 				"ca": "Territoris Palestins",
 				"cdo": "Palestine Guók",
 				"ckb": "خاکی فەڵەستین",
@@ -46772,6 +46807,7 @@
 			},
 			"official_name": {
 				"ar": "دولة فلسطين",
+				"br": "Stad Palestina",
 				"ca": "Estat de Palestina",
 				"cs": "Stát Palestina",
 				"de": "Bundesstaat Palästina",
@@ -47927,8 +47963,8 @@
 			"int_ref": "RU",
 			"old_name": "Московия;Русское Царство;Российская Империя;Российская Советская Федеративная Социалистическая Республика",
 			"old_short_name": "РСФСР",
-			"population": "146150789",
-			"population:date": "2024-01-01",
+			"population": "146119928",
+			"population:date": "2025-01-01",
 			"short_name": "РФ"
 		},
 		"timezone": null,
@@ -49178,6 +49214,7 @@
 				"sk": "Južná Georgia a Južné Sandwichove ostrovy",
 				"sl": "Južna Georgija in Južni Sandwichevi otoki",
 				"sr": "Јужна Џорџија и Јужна Сендвичка Острва",
+				"sv": "Sydgeorgien och Sydsandwichöarna",
 				"ta": "தெற்கு யோர்சியா மற்றும் தெற்கு சண்ட்விச் தீவுகள்",
 				"tr": "Güney Georgia ve Güney Sandwich Adaları",
 				"uk": "Південна Джорджія та Південні Сандвічеві острови",
@@ -51907,6 +51944,7 @@
 		"relation_id": 52822,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"int_name": "Sweden"
 		},
 		"timezone": "Europe/Stockholm",
@@ -58248,7 +58286,8 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
 		"lang": {
 			"alt_name": {
-				"cs": "Svatý Vincenc a Grenadiny"
+				"cs": "Svatý Vincenc a Grenadiny",
+				"ro": "Sfântul Vincent și Grenadine"
 			},
 			"name": {
 				"af": "Sint Vincent en die Grenadines",
@@ -58341,7 +58380,7 @@
 				"pt": "São Vicente e Granadinas",
 				"rm": "Saint Vincent e las Grenadinas",
 				"rn": "Sevensa na Gerenadine",
-				"ro": "Sfântul Vincent și Grenadine",
+				"ro": "Saint Vincent și Grenadine",
 				"ru": "Сент-Винсент и Гренадины",
 				"se": "Saint Vincent ja Grenadiinnat",
 				"sg": "Sên-Vensäan na âGrenadîni",
