@@ -624,7 +624,8 @@
 		"relation_id": 303427,
 		"tags": {
 			"admin_level": "2",
-			"coat_of_arms": "File:Arms of the Islamic Emirate of Afghanistan.svg"
+			"coat_of_arms": "File:Arms of the Islamic Emirate of Afghanistan.svg",
+			"driving_side": "right"
 		},
 		"timezone": "Asia/Kabul",
 		"website": null,
@@ -26754,7 +26755,6 @@
 				"az": "Yunanıstan",
 				"ba": "Греция",
 				"bar": "Griachaland",
-				"bat-smg": "Graikėjė",
 				"bcl": "Gresya",
 				"be": "Грэцыя",
 				"be-tarask": "Грэцыя",
@@ -26903,10 +26903,10 @@
 				"rm": "Grezia",
 				"rn": "Grecia",
 				"ro": "Grecia",
-				"roa-rup": "Gârția",
 				"roa-tara": "Grecie",
 				"ru": "Греция",
 				"rue": "Ґреція",
+				"rup": "Gârția",
 				"rw": "Ubugereki",
 				"sa": "यवनदेशः",
 				"sah": "Греция",
@@ -26914,6 +26914,7 @@
 				"scn": "Grecia",
 				"sco": "Greece",
 				"se": "Greika",
+				"sgs": "Graikėjė",
 				"sh": "Grčka",
 				"si": "ග්‍රීසිය",
 				"sk": "Grécko",
@@ -35907,7 +35908,7 @@
 			"fixme": "Official Lesotho constituencies (admin level 6): https://iec.org.ls/maps/\nList: https://www.gov.ls/wp-content/uploads/2022/04/Constituency-Delimitation-Order.pdf\nhttps://iec.org.ls/download/list-of-constituencies/",
 			"land_area": "administrative"
 		},
-		"timezone": "Africa/Maseru",
+		"timezone": null,
 		"website": null,
 		"wikidata": "Q1013",
 		"wikipedia": "en:Lesotho"
@@ -41468,7 +41469,7 @@
 			"ref:nuts:3": "FRY50"
 		},
 		"timezone": null,
-		"website": null,
+		"website": "https://mayotte.fr/",
 		"wikidata": "Q17063",
 		"wikipedia": "fr:Mayotte"
 	},
@@ -42431,7 +42432,7 @@
 		"tags": {
 			"admin_level": "2"
 		},
-		"timezone": "Africa/Lagos",
+		"timezone": null,
 		"website": null,
 		"wikidata": "Q1033",
 		"wikipedia": "en:Nigeria"
@@ -49181,6 +49182,8 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_South_Georgia_and_the_South_Sandwich_Islands.svg",
 		"lang": {
 			"name": {
+				"af": "Suid-Georgië en die Suidelike Sandwicheilande",
+				"ar": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
 				"az": "Cənubi Georgiya və Cənubi Sandviç adaları",
 				"be": "Паўднёвая Джорджыя і Паўднёвыя Сандвічавы астравы",
 				"bg": "Южна Джорджия и Южни Сандвичеви острови",
@@ -49196,28 +49199,38 @@
 				"es": "Islas Georgias del Sur y Sandwich del Sur",
 				"et": "Lõuna-Georgia ja Lõuna-Sandwichi saared",
 				"eu": "Hegoaldeko Georgiak eta Hegoaldeko Sandwich uharteak",
-				"fo": "Suðursandwichoyggjar og Suðurgeorgia",
+				"fi": "Etelä-Georgia ja Eteläiset Sandwichsaaret",
 				"fr": "Géorgie du Sud-et-les Îles Sandwich du Sud",
 				"fy": "Súd-Georgje en de Súdlike Sandwicheilannen",
 				"hak": "Nàm Georgia lâu Nàm Sandwich Khiùn-tó",
 				"hi": "दक्षिण जॉर्जिया एवं दक्षिण सैंडविच द्वीप समूह",
 				"hr": "Južna Georgija i Otočje Južni Sandwich",
+				"hu": "Déli-Georgia és Déli-Sandwich-szigetek",
+				"is": "Suðursandwichoyggjar og Suðurgeorgia",
 				"it": "Georgia del Sud e Isole Sandwich Australi",
 				"ja": "サウスジョージア・サウスサンドウィッチ諸島",
+				"lt": "Pietų Džordžijos ir Pietų Sandvičo Salos",
+				"lv": "Dienviddžordžija un Dienvidsendviču Salas",
 				"mk": "Јужна Џорџија и Јужни Сендвички Острови",
 				"nan": "Lâm Georgia kap Lâm Sandwich Kûn-tó",
 				"nl": "Zuid-Georgia en de Zuidelijke Sandwicheilanden",
 				"nn": "Sør-Georgia og Sør-Sandwichøyane",
 				"pl": "Georgia Południowa i Sandwich Południowy",
 				"pt": "Ilhas Geórgia do Sul e Sanduíche do Sul",
+				"ro": "Georgia de Sud și Insulele Sandwich de Sud",
 				"ru": "Южная Георгия и Южные Сандвичевы Острова",
+				"se": "Lulli Georgia ja Lulli Sandwich-sullot",
 				"sk": "Južná Georgia a Južné Sandwichove ostrovy",
 				"sl": "Južna Georgija in Južni Sandwichevi otoki",
+				"smn": "Maadâ-Georgia já Máddááh Sandwichsuolluuh",
+				"so": "Koonfur Joorjiya iyo Koonfurta Jasiiradaha Sanwij",
 				"sr": "Јужна Џорџија и Јужна Сендвичка Острва",
 				"sv": "Sydgeorgien och Sydsandwichöarna",
 				"ta": "தெற்கு யோர்சியா மற்றும் தெற்கு சண்ட்விச் தீவுகள்",
+				"th": "เกาะเซาท์จอร์เจียและหมู่เกาะเซาท์แซนด์วิช",
 				"tr": "Güney Georgia ve Güney Sandwich Adaları",
 				"uk": "Південна Джорджія та Південні Сандвічеві острови",
+				"ur": "جنوبی جارجیا و جزائر جنوبی سینڈوچ",
 				"vi": "Nam Georgia và Quần đảo Nam Sandwich",
 				"zh": "南乔治亚和南桑威奇群岛",
 				"zh-Hans": "南乔治亚和南桑威奇群岛",
@@ -49228,7 +49241,7 @@
 			}
 		},
 		"name": "South Georgia and the South Sandwich Islands",
-		"official_name": null,
+		"official_name": "South Georgia and the South Sandwich Islands",
 		"relation_id": 1983628,
 		"tags": {
 			"admin_level": "2",
@@ -49268,6 +49281,7 @@
 				"hu": "Szent Ilona, Ascension és Tristan da Cunha",
 				"it": "Sant'Elena, Ascensione e Tristan da Cunha",
 				"ja": "セントヘレナ・アセンションおよびトリスタンダクーニャ",
+				"ko": "세인트헬레나 어센션 트리스탄다쿠냐",
 				"lt": "Šventoji Elena, Dangun Žengimo ir Tristanas da Kunja",
 				"mk": "Света Елена, Успение и Тристан да Куња",
 				"nl": "Sint-Helena, Ascension en Tristan da Cunha",
@@ -52247,7 +52261,7 @@
 			"source:official_name:de": "https://www.auswaertiges-amt.de/blob/215256/e505c18e9cd162813a29f4e5a4ec8e07/laenderverzeichnis-data.pdf (2019-12-24)",
 			"source:official_name:en": "https://www.un.org/en/member-states/index.html (2019-12-24)"
 		},
-		"timezone": "Africa/Mbabane",
+		"timezone": null,
 		"website": null,
 		"wikidata": "Q1050",
 		"wikipedia": "en:Eswatini"
@@ -57987,6 +58001,7 @@
 		"relation_id": 196240,
 		"tags": {
 			"admin_level": "2",
+			"driving_side": "right",
 			"population": "35727181",
 			"population:date": "2022-09-01",
 			"source": "maplibrary.org",
@@ -60475,7 +60490,7 @@
 			"population": "49991300",
 			"source:population": "https://www.statssa.gov.za/publications/P0302/P03022010.pdf 2010-08-10"
 		},
-		"timezone": "Africa/Johannesburg",
+		"timezone": null,
 		"website": null,
 		"wikidata": "Q258",
 		"wikipedia": "en:South Africa"
