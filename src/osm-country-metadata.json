@@ -23224,7 +23224,7 @@
 				"cs": "Malvíny",
 				"de": "Malwinen",
 				"eo": "Malvinoj",
-				"es": "Islas Falkland",
+				"es": "Islas Malvinas",
 				"fr": "Îles Malouines",
 				"it": "Isole Malvine",
 				"mk": "Малвински Острови",
@@ -23374,7 +23374,7 @@
 		},
 		"timezone": "Atlantic/Stanley",
 		"website": null,
-		"wikidata": "Q9648",
+		"wikidata": "Q1249802",
 		"wikipedia": null
 	},
 	"FRA": {
@@ -27066,6 +27066,7 @@
 				"zu": "IGreki"
 			},
 			"official_name": {
+				"br": "Republik hellenek",
 				"ca": "República Hel·lènica",
 				"cs": "Řecká republika",
 				"eo": "Helena Respubliko",
@@ -29798,6 +29799,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_India.svg",
 		"lang": {
 			"alt_name": {
+				"br": "Indez",
 				"en": "Bharat;Bharaat",
 				"eo": "Hindio;Hindujo;Hinda Unio",
 				"ks": "بًارت",
@@ -30073,6 +30075,7 @@
 				"az-Arab": "هیندوستان جومهوریتی",
 				"azb": "هیندوستان جومهوریتی",
 				"be": "Рэспубліка Індыя",
+				"br": "Republik India",
 				"cs": "Indická republika",
 				"de": "Republik Indien",
 				"el": "Δημοκρατία της Ινδίας",
@@ -45438,6 +45441,7 @@
 			"name": {
 				"ar": "بالاو",
 				"az": "Palau",
+				"br": "Palau",
 				"bs": "Palau",
 				"ca": "Palau",
 				"cs": "Palau",
@@ -45485,11 +45489,13 @@
 			},
 			"official_name": {
 				"ar": "جمهورية بالاو",
+				"br": "Republik Palau",
 				"ca": "República de Palau",
 				"cs": "Republika Palau",
 				"de": "Republik Palau",
 				"en": "Republic of Palau",
 				"es": "República de Palaos",
+				"fr": "République des Palaos",
 				"gn": "Tavakuairetã Paláu",
 				"hr": "Republika Palau",
 				"is": "Lýðveldið Palaú",
@@ -45497,7 +45503,8 @@
 				"pau": "Beluu er a Belau",
 				"pt": "República de Palau",
 				"ru": "Республика Палау",
-				"th": "สาธารณรัฐปาเลา"
+				"th": "สาธารณรัฐปาเลา",
+				"uk": "Республіка Палау"
 			}
 		},
 		"name": "Belau",
@@ -46947,6 +46954,7 @@
 				"en": "Palestinian Territories",
 				"eo": "Palestina Aŭtonomio",
 				"es": "Territorios Palestinos",
+				"fa": "سرزمین‌های فلسطینی",
 				"fr": "Territoires palestiniens",
 				"ga": "An Phalaistín",
 				"gd": "A' Phalastain",
@@ -46990,6 +46998,7 @@
 				"en": "State of Palestine",
 				"eo": "Ŝtato Palestino",
 				"es": "Estado de Palestina",
+				"fa": "دولت فلسطین",
 				"fi": "Palestiinan valtion",
 				"fr": "État de Palestine",
 				"hu": "Palesztin Állam",
