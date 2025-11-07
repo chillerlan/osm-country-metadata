@@ -14879,6 +14879,7 @@
 				"jbo": ".djunguos.",
 				"jv": "Tiongkok",
 				"koi": "Джунго",
+				"ku": "Komara Gel a Çînê",
 				"la": "Terra Serica",
 				"lez": "Чин",
 				"ln": "Shína",
@@ -21514,7 +21515,7 @@
 				"el": "Δυτική Σαχάρα",
 				"en": "Western Sahara",
 				"eo": "Okcidenta Saharo",
-				"es": "Sáhara Occidental",
+				"es": "Sahara Occidental",
 				"et": "Lääne-Sahara",
 				"eu": "Mendebaldeko Sahara",
 				"ext": "Sáhara Ociental",
@@ -24065,6 +24066,7 @@
 				"wo": "Réew yu Bennoo yu Mikronesi",
 				"wuu": "密克羅尼西亞聯邦",
 				"xal": "Микронезин Ниицәтә Орн Нутгуд",
+				"xmf": "მიკრონეზიაშ ფედერაციული შტატეფი",
 				"yo": "Àwọn Ìpínlẹ̀ Àṣepapọ̀ ilẹ̀ Mikronésíà",
 				"za": "Micronesia Lienzbangh",
 				"zea": "Micronesia",
@@ -24087,6 +24089,9 @@
 				"zh": "密克罗尼西亚联邦 / 密克羅尼西亞聯邦",
 				"zh-Hans": "密克罗尼西亚联邦",
 				"zh-Hant": "密克羅尼西亞聯邦"
+			},
+			"wikipedia": {
+				"xmf": "მიკრონეზიაშ ფედერაციული შტატეფი"
 			}
 		},
 		"name": "Micronesia",
@@ -24181,6 +24186,7 @@
 			"note:ISO3166-1": "Officially assigned from 1993 to 1997. Exceptionally reserved on request of France since 1997.",
 			"population": "65727000",
 			"population:date": "2022",
+			"ref:nuts": "FR",
 			"source": "ORTHO Express IGN 2023",
 			"source:name:br": "proper translation",
 			"source:name:oc": "ieo-bdtopoc",
@@ -27773,7 +27779,7 @@
 				"sv": "Guam",
 				"uk": "Гуам",
 				"vi": "Guam",
-				"zh": "关岛 / 關島",
+				"zh": "关岛;關島",
 				"zh-Hans": "关岛",
 				"zh-Hant": "關島"
 			},
@@ -38719,6 +38725,7 @@
 				"uz": "Marshall orollari",
 				"vi": "Quần đảo Marshall",
 				"vo": "Marjaluäns",
+				"xmf": "მარშალიშ კოკეფი",
 				"zh": "马绍尔群岛 / 馬紹爾群島",
 				"zh-Hans": "马绍尔群岛",
 				"zh-Hant": "馬紹爾群島"
@@ -38729,7 +38736,11 @@
 				"es": "República de las Islas Marshall",
 				"gn": "Tavakuairetã Ypa'ũnguéra Marshall",
 				"pt": "República das Ilhas Marshall",
-				"ru": "Республика Маршалловы Острова"
+				"ru": "Республика Маршалловы Острова",
+				"xmf": "მარშალიშ კოკეფიშ რესპუბლიკა"
+			},
+			"wikipedia": {
+				"xmf": "მარშალიშ კოკეფი"
 			}
 		},
 		"name": "Ṃajeḷ",
@@ -41064,7 +41075,11 @@
 				"cs": "Mauricijská republika",
 				"de": "Republik Mauritius",
 				"fr": "République de Maurice",
-				"sr": "Република Маурицијус"
+				"sr": "Република Маурицијус",
+				"xmf": "მავრიკიშ რესპუბლიკა"
+			},
+			"wikipedia": {
+				"xmf": "მავრიკი"
 			}
 		},
 		"name": "Mauritius / Maurice",
@@ -49659,6 +49674,7 @@
 				"war": "Kapuropod-an Solomon",
 				"wo": "Duni Solomon",
 				"xal": "Соломонин Арлс",
+				"xmf": "სოლომონიშ კოკეფი",
 				"yo": "Àwọn Erékùsù Sólómọ́nì",
 				"yue": "所羅門群島",
 				"zh": "所罗门群岛",
@@ -49667,6 +49683,9 @@
 				"zh-Hant-CN": "所羅門群島",
 				"zh-Hant-HK": "所羅門群島",
 				"zh-Hant-TW": "索羅門群島"
+			},
+			"wikipedia": {
+				"xmf": "xmf:სოლომონიშ კოკეფი"
 			}
 		},
 		"name": "Solomon Islands",
@@ -55937,6 +55956,9 @@
 			},
 			"old_name": {
 				"sk": "Lagúnové ostrovy"
+			},
+			"wikipedia": {
+				"xmf": "xmf:ტუვალუ"
 			}
 		},
 		"name": "Tuvalu",
@@ -57867,12 +57889,12 @@
 				"xmf": "ამერიკაშ აკოართაფილი შტატეფი",
 				"yi": "פאראייניקטע שטאטן פון אמעריקע",
 				"yo": "Àwọn Ìpínlẹ̀ Aṣọ̀kan Amẹ́ríkà",
-				"yue": "美利堅合眾國",
+				"yue": "美國",
 				"za": "Meijgoz",
 				"zea": "Vereênigde Staeten",
-				"zh": "美利坚合众国 / 美利堅合眾國",
-				"zh-Hans": "美利坚合众国",
-				"zh-Hant": "美利堅合眾國",
+				"zh": "美国;美國",
+				"zh-Hans": "美国",
+				"zh-Hant": "美國",
 				"zu": "IMelika"
 			},
 			"official_name": {
@@ -57897,7 +57919,8 @@
 				"ug": "ئامېرىكا قوشما شىتاتلىرى",
 				"ur": "ریاست ہائے متحدہ",
 				"vi": "Hợp chúng quốc Hoa Kỳ;Hợp chúng quốc Hoa Kì;Hợp chủng quốc Hoa Kỳ;Hợp chủng quốc Hoa Kì",
-				"zh": "美利坚合众国 / 美利堅合眾國",
+				"yue": "美利堅合眾國",
+				"zh": "美利坚合众国;美利堅合眾國",
 				"zh-Hans": "美利坚合众国",
 				"zh-Hant": "美利堅合眾國"
 			},
@@ -57936,7 +57959,7 @@
 				"tr": "ABD",
 				"uk": "США",
 				"vi": "Mỹ",
-				"zh": "美国 / 美國",
+				"zh": "美国;美國",
 				"zh-Hans": "美国",
 				"zh-Hant": "美國"
 			}
@@ -58862,7 +58885,11 @@
 		"relation_id": 272644,
 		"tags": {
 			"admin_level": "2",
-			"border_type": "nation"
+			"border_type": "nation",
+			"image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Embalse_la_Vueltosa_2022.jpg",
+			"population": "26458853",
+			"population:date": "2024",
+			"wikimedia_commons": "Category:Venezuela"
 		},
 		"timezone": "America/Caracas",
 		"website": null,
