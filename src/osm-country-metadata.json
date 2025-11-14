@@ -2654,7 +2654,8 @@
 				"bg": "ОАЕ",
 				"eo": "UAE",
 				"pl": "ZEA",
-				"ru": "ОАЭ"
+				"ru": "ОАЭ",
+				"uk": "ОАЕ"
 			}
 		},
 		"name": "الإمارات العربية المتحدة",
@@ -12680,6 +12681,7 @@
 				"bjn": "Karajaan Bhutan",
 				"bn": "ভূটান সাম্রাজ্য",
 				"bpy": "রাজতান্ত্রিক ভুটান",
+				"br": "Rouantelezh Bhoutan",
 				"bs": "Kraljevina Butan",
 				"bxr": "Бутанын Вант Улас",
 				"ceb": "Gingharian sa Bhutan",
@@ -15474,6 +15476,7 @@
 				"tk": "HHR",
 				"tr": "ÇHC",
 				"tt": "КХҖ",
+				"uk": "КНР",
 				"uz": "XXR",
 				"vec": "PRC",
 				"zh": "中国",
@@ -16201,7 +16204,7 @@
 				"ts": "Democratic Republic of the Congo",
 				"tt": "Конго Демократик Җөмһүрияте",
 				"ug": "كونگو دېموكراتىك جۇمھۇرىيىتى",
-				"uk": "Демократична Республіка Конго",
+				"uk": "Демократична Республіка Конґо",
 				"ur": "جمہوری جمہوریہ کانگو",
 				"uz": "Kongo DR",
 				"vec": "Republica Democratica del Congo",
@@ -16264,6 +16267,7 @@
 				"sr": "ДР Конго",
 				"sw": "JK Kongo",
 				"tk": "Kongo DR",
+				"uk": "ДР Конґо",
 				"zu": "IL weKongo"
 			}
 		},
@@ -19056,7 +19060,8 @@
 			},
 			"short_name": {
 				"be": "ФРГ",
-				"ru": "ФРГ"
+				"ru": "ФРГ",
+				"uk": "ФРН"
 			}
 		},
 		"name": "Deutschland",
@@ -28030,7 +28035,6 @@
 		"lang": {
 			"alt_name": {
 				"cs": "Siang-kang;Voňavý přístav",
-				"eo": "Hongkongo",
 				"vi": "Hương Cảng"
 			},
 			"name": {
@@ -28241,22 +28245,26 @@
 		"tags": {
 			"admin_level": "3",
 			"driving_side": "left",
-			"is_in:country": "China",
+			"flag:colour": "red",
+			"flag:wikidata": "Q186456",
+			"flag:wikimedia_commons": "File:Flag_of_Hong_Kong.svg",
+			"int_ref": "HKG",
+			"nat_ref": "港",
+			"nat_ref:vi": "Cảng",
+			"nat_ref:zh": "港",
 			"ne:brk_a3": "B96",
 			"ne_id": "1746708389",
 			"official_ref": "HKSAR",
 			"official_ref:en": "HKSAR",
-			"population": "7291600",
-			"population:date": "2022",
-			"ref": "港",
+			"population": "7346700",
+			"population:date": "2016-07-01",
+			"ref": "HK",
 			"ref:en": "HK",
-			"ref:vi": "Cảng",
-			"ref:zh": "港",
 			"short_name": "HK",
 			"shortest_name": "HK",
 			"source": "Cap 1;Cap 591",
 			"source:name:br": "ofis publik ar brezhoneg",
-			"source:population": "https://www.censtatd.gov.hk/tc/scode150.html"
+			"source:population": "http://www.censtatd.gov.hk/press_release/pressReleaseDetail.jsp?charsetID=2&pressRID=3867"
 		},
 		"timezone": "Asia/Hong_Kong",
 		"website": null,
@@ -38636,11 +38644,13 @@
 				"zu": "IMekisiko"
 			},
 			"official_name": {
+				"br": "Stadoù-Unanet Mec'hiko",
 				"ca": "Estats Units Mexicans",
 				"cnr": "Śedinjene Meksičke Države",
 				"cnr-Cyrl": "С́едињене Мексичке Државе",
 				"cs": "Spojené státy mexické",
 				"cy": "Unol Daleithiau Mecsico",
+				"fr": "États-Unis Mexicains",
 				"sv": "Mexikos förenta stater"
 			}
 		},
@@ -46394,6 +46404,7 @@
 				"ja": "北朝鮮",
 				"pt": "RPDC",
 				"ru": "КНДР",
+				"uk": "КНДР",
 				"zh": "朝鲜 / 北韓",
 				"zh-Hans": "朝鲜",
 				"zh-Hant": "北韓"
@@ -48143,7 +48154,8 @@
 				"ru": "РСФСР"
 			},
 			"short_name": {
-				"ru": "РФ"
+				"ru": "РФ",
+				"uk": "РФ"
 			}
 		},
 		"name": "Россия",
