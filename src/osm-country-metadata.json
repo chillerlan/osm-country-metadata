@@ -8098,7 +8098,8 @@
 				"sw": "Pakistan ya Mashariki",
 				"tr": "Doğu Pakistan",
 				"ur": "مشرقی پاکستان",
-				"vi": "Đông Pakistan"
+				"vi": "Đông Pakistan",
+				"zh": "榜葛剌"
 			}
 		},
 		"name": "বাংলাদেশ",
@@ -9070,7 +9071,6 @@
 				"frr": "Bahaamas",
 				"fy": "Bahama's",
 				"ga": "Bahámaí",
-				"gd": "Bahàmas",
 				"gv": "Bahamaghyn",
 				"he": "בהאמה",
 				"hif": "Bahamas",
@@ -9166,7 +9166,7 @@
 				"fy": "de Bahama's",
 				"ga": "Na Bahámaí",
 				"gag": "Bahamalar",
-				"gd": "Na h-Eileanan Bhathama",
+				"gd": "Na Bahàmas",
 				"gl": "Bahamas",
 				"gn": "Vaamakuéra",
 				"gom": "बहामाज",
@@ -9360,7 +9360,7 @@
 				"frr": "Commonwealth faan a Bahaamas",
 				"fy": "Mienebêst fan de Bahama's",
 				"ga": "Comhlathas na mBahámaí",
-				"gd": "na h-Eileanan Bhathama",
+				"gd": "Co-fhlaitheas nam Bahàmas",
 				"gl": "Mancomunidade das Bahamas",
 				"gn": "Tetã Va'ama",
 				"gv": "Co-unnaneys ny Bahamaghyn",
@@ -10842,7 +10842,7 @@
 			"numeric": "068"
 		},
 		"ISO3166-2": null,
-		"capital": null,
+		"capital": "Sucre;La Paz",
 		"currency": "BOB",
 		"default_language": "es",
 		"flag": "File:Flag of Bolivia.svg",
@@ -11217,8 +11217,23 @@
 			"admin_level": "2",
 			"coat_of_arms": "File:Escudo de Bolivia.svg",
 			"driving_side": "right",
+			"geonames:id": "3923057",
 			"int_name": "Bolivia",
+			"population": "11365333",
+			"population:1831": "1088768",
+			"population:1835": "1060777",
+			"population:1845": "1378896",
+			"population:1854": "2326126",
+			"population:1882": "1172156",
+			"population:1900": "1766451",
+			"population:1950": "2704165",
+			"population:1976": "4613419",
+			"population:1992": "6420792",
+			"population:2001": "8274325",
+			"population:2012": "10059856",
+			"population:date": "2024-03-23",
 			"source": "wikipedia",
+			"source:population": "INE 2024",
 			"start_date": "1825-08-06"
 		},
 		"timezone": "America/La_Paz",
@@ -18422,7 +18437,8 @@
 			"alt_name": {
 				"de": "Tschechei",
 				"eo": "Ĉeĥujo",
-				"gl": "República Checa"
+				"gl": "República Checa",
+				"mk": "Чешка"
 			},
 			"name": {
 				"ab": "Чехиа",
@@ -18552,7 +18568,7 @@
 				"mg": "Tsekia",
 				"mhr": "Чехий",
 				"mi": "Tīekia",
-				"mk": "Чешка",
+				"mk": "Чехија",
 				"ml": "ചെക്ക് റിപ്പബ്ലിക്ക്",
 				"mn": "Бүгд Найрамдах Чех Улс",
 				"mr": "चेक प्रजासत्ताक",
@@ -18695,6 +18711,7 @@
 				"lt": "Čekijos Respublika",
 				"lv": "Čehijas Republika",
 				"mi": "Whenua Tīeke",
+				"mk": "Чешка Република / Република Чешка",
 				"pl": "Republika Czeska",
 				"pt": "República Checa",
 				"pt-BR": "República Tcheca",
@@ -20466,6 +20483,9 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
 		"lang": {
 			"name": {
+				"ace": "Èkuador",
+				"af": "Ecuador",
+				"ak": "Ikuwadɔ",
 				"als": "Ecuador",
 				"am": "ኤኳዶር",
 				"an": "Ecuador",
@@ -20481,6 +20501,7 @@
 				"be": "Эквадор",
 				"be-tarask": "Эквадор",
 				"bg": "Еквадор",
+				"bm": "Ekwatɔr",
 				"bn": "ইকুয়েডর",
 				"bo": "ཨེ་ཁོའོ་ཌོར།",
 				"bpy": "ইকুয়াডর",
@@ -20489,6 +20510,7 @@
 				"ca": "Equador",
 				"ce": "Эквадор",
 				"ceb": "Ecuador",
+				"chr": "ᎡᏆᏙᎵ",
 				"ckb": "ئێکوادۆر",
 				"crh": "Ekvador",
 				"cs": "Ekvádor",
@@ -20499,6 +20521,7 @@
 				"diq": "Ekwador",
 				"dsb": "Ekuador",
 				"dv": "އިކުއެޑޯރު",
+				"dz": "ཨེ་ཁྭ་ཌོར",
 				"ee": "Ecuador",
 				"el": "Ισημερινός (χώρα)",
 				"en": "Ecuador",
@@ -20510,6 +20533,7 @@
 				"eu": "Ekuador",
 				"ext": "Equadol",
 				"fa": "اکوادور",
+				"ff": "Ekuwatoor",
 				"fi": "Ecuador",
 				"fo": "Ekvador",
 				"fr": "Équateur",
@@ -20523,6 +20547,7 @@
 				"gn": "Ekuator",
 				"gu": "ઈક્વેડોર",
 				"gv": "Ecuador",
+				"ha": "Ekwador",
 				"he": "אקוודור",
 				"hi": "ईक्वाडोर",
 				"hif": "Ecuador",
@@ -20542,23 +20567,31 @@
 				"jbo": "ekuador",
 				"jv": "Ekuador",
 				"ka": "ეკვადორი",
+				"kab": "Ikwaṭur",
 				"ki": "Ecuador",
 				"kk": "Эквадор",
 				"kl": "Ecuador",
+				"km": "អេក្វាឌ័រ",
 				"kn": "ಎಕ್ವಡಾರ್",
 				"ko": "에콰도르",
+				"ks": "اِکواڑور",
+				"ksh": "Äkwador",
 				"ku": "Ekuador",
 				"kw": "Pow Ekwadorel",
 				"la": "Aequatoria",
 				"lad": "Ekvador",
 				"lb": "Ecuador",
+				"lfn": "Ecuador",
+				"lg": "Ekwado",
 				"li": "Ecuador",
 				"lij": "Ecuadòr",
 				"lmo": "Ecuador",
 				"ln": "Republíki ya Ekwatéli",
+				"lo": "ເອກວາດໍ",
 				"lt": "Ekvadoras",
 				"ltg": "Ekvadors",
 				"lv": "Ekvadora",
+				"mg": "Ekoatera",
 				"mhr": "Эквадор",
 				"mi": "Ekuatoa",
 				"mk": "Еквадор",
@@ -20597,6 +20630,7 @@
 				"qu": "Ikwadur",
 				"rm": "Ecuador",
 				"rmy": "Ekuador",
+				"rn": "Ekwateri",
 				"ro": "Ecuador",
 				"roa-rup": "Ecuador",
 				"ru": "Эквадор",
@@ -20607,7 +20641,9 @@
 				"scn": "Ecuador",
 				"sco": "Ecuador",
 				"se": "Ecuador",
+				"sg": "Ekuatëre",
 				"sh": "Ekvador",
+				"si": "ඉක්වදෝරය",
 				"simple": "Ecuador",
 				"sk": "Ekvádor",
 				"sl": "Ekvador",
@@ -20625,7 +20661,9 @@
 				"tet": "Ekuadór",
 				"tg": "Экуадор",
 				"th": "ประเทศเอกวาดอร์",
+				"ti": "ኢኳዶር",
 				"tl": "Ecuador",
+				"to": "ʻEkuetoa",
 				"tok": "ma Ekato",
 				"tr": "Ekvador",
 				"tt": "Эквадор",
@@ -20652,23 +20690,40 @@
 				"zh-Hant": "厄瓜多",
 				"zh-Hant-CN": "厄瓜多爾",
 				"zh-Hant-HK": "厄瓜多爾",
-				"zh-Hant-TW": "厄瓜多"
+				"zh-Hant-TW": "厄瓜多",
+				"zu": "i-Ecuador"
 			},
 			"official_name": {
+				"be": "Рэспубліка Эквадор",
 				"cs": "Ekvádorská republika",
 				"de": "Die Republik Ecuador",
+				"el": "Δημοκρατία του Ισημερινού",
 				"en": "Republic of Ecuador",
-				"es": "Republica del Ecuador",
-				"fr": "La République de l'Équateur",
-				"ru": "Республика Эквадор"
+				"eo": "Ekvadora Respubliko",
+				"es": "República del Ecuador",
+				"fr": "République de l'Équateur",
+				"gd": "Poblachd Eacuador",
+				"id": "Republik Ekuador",
+				"ku": "Komara Ekuadorê",
+				"lt": "Ekvadoro Respublika",
+				"lv": "Ekvadoras Republika",
+				"no": "Republikken Ecuador",
+				"pl": "Republika Ekwadoru",
+				"pt": "República do Equador",
+				"ru": "Республика Эквадор",
+				"sk": "Ekvádorská republika",
+				"sv": "Republiken Ecuador",
+				"tl": "Republika ng Ekwador",
+				"vi": "Cộng hoà Ecuador"
 			}
 		},
 		"name": "Ecuador",
-		"official_name": null,
+		"official_name": "República del Ecuador",
 		"relation_id": 108089,
 		"tags": {
 			"admin_level": "2",
-			"border_type": "nation"
+			"border_type": "nation",
+			"int_name": "Ecuador"
 		},
 		"timezone": null,
 		"website": null,
@@ -21437,6 +21492,7 @@
 				"el": "Κράτος της Ερυθραίας",
 				"en": "State of Eritrea",
 				"es": "Estado de Eritrea",
+				"gd": "Stàit Eritrea",
 				"kk-Arab": "ەرىيترەيا مەملەكەتى",
 				"nds": "Staat Eritrea",
 				"nl": "Staat Eritrea",
@@ -22317,7 +22373,7 @@
 				"ga": "an Aetóip",
 				"gag": "Efiopiya",
 				"gan": "埃塞俄比亞",
-				"gd": "An Itiop",
+				"gd": "Etiòpia",
 				"gl": "Etiopía - Ityop'iya",
 				"gn": "Etiopia",
 				"gom": "इथिओपिया",
@@ -22545,7 +22601,7 @@
 				"fy": "Federale Demokratyske Republyk Etioopje",
 				"ga": "Poblacht Dhaonlathach Fheidearálach na hAetóipe",
 				"gan": "埃塞俄比亞聯邦民主共和國",
-				"gd": "Poblachd Fheadarail Dheamocratach na h-Itiop",
+				"gd": "Poblachd Fheadarail Dheamocratach na h-Etiòpia",
 				"gl": "República Democrática Federal de Etiopía",
 				"gn": "Tetã Etiopia",
 				"gu": "સંઘીય અને લોકતાંત્રિક ઇથિયોપિયાનું ગણરાજ્ય",
@@ -24153,6 +24209,7 @@
 				"ja": "フランス・メトロポリテーヌ",
 				"kl": "Franskit Nunaat",
 				"ko": "프랑스 본토",
+				"mk": "Европска Франција",
 				"ms": "Perancis Metropolitan",
 				"nl": "Metropolitaans Frankrijk",
 				"nv": "Dáághahii Dinéʼiʼ Bikéyah",
@@ -28557,7 +28614,8 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
 		"lang": {
 			"alt_name": {
-				"eo": "Kroatujo"
+				"eo": "Kroatujo",
+				"gd": "Croatia"
 			},
 			"name": {
 				"ab": "Хорватиа",
@@ -30128,6 +30186,7 @@
 			"country_code_fips": "IN",
 			"driving_side": "left",
 			"geonames:id": "1269750",
+			"int_name": "India",
 			"population": "1428627663",
 			"population:date": "2023",
 			"source:population": "https://en.wikipedia.org/wiki/India#cite_note-22",
@@ -36152,7 +36211,7 @@
 				"fy": "Litouwen",
 				"ga": "An Liotuáin",
 				"gag": "Litvaniya",
-				"gd": "Liotuàinia",
+				"gd": "Lituàinia",
 				"gl": "Lituania - Lietuva",
 				"gn": "Lituaña",
 				"gu": "લિથુઆનિયા",
@@ -36651,7 +36710,8 @@
 		"lang": {
 			"alt_name": {
 				"eo": "Latvujo",
-				"es": "Latvia"
+				"es": "Latvia",
+				"gd": "An Laitbhe"
 			},
 			"name": {
 				"ab": "Латвиа",
@@ -36721,7 +36781,7 @@
 				"fy": "Letlân",
 				"ga": "An Laitvia",
 				"gag": "Latviya",
-				"gd": "An Laitbhe",
+				"gd": "Latbhia",
 				"gl": "Letonia",
 				"gn": "Letoña",
 				"gu": "લાટવિયા",
@@ -38252,6 +38312,7 @@
 				"chr": "ᎹᎵᏗᏫᏍ",
 				"ckb": "مالدیڤ",
 				"cs": "Maledivy",
+				"cy": "Maldives",
 				"da": "Maldiverne",
 				"de": "Malediven",
 				"dv": "ދިވެހިރާއްޖެ",
@@ -38364,6 +38425,7 @@
 				"ca": "República de les Maldives",
 				"ckb": "کۆماری مالدیڤ",
 				"cs": "Maledivská republika",
+				"cy": "Gweriniaeth Maldives",
 				"en": "Republic of Maldives",
 				"eo": "Respubliko de Maldivoj",
 				"es": "República de Maldivas",
@@ -39787,6 +39849,7 @@
 				"ckb": "مۆنتینیگرۆ",
 				"cnr": "Crna Gora",
 				"cnr-Cyrl": "Црна Гора",
+				"cnr-Latn": "Crna Gora",
 				"crh": "Montenegro",
 				"cs": "Černá Hora",
 				"csb": "Czôrnogóra",
@@ -44152,7 +44215,7 @@
 				"zu": "INyuzilandi"
 			}
 		},
-		"name": "New Zealand / Aotearoa",
+		"name": "Aotearoa / New Zealand",
 		"official_name": null,
 		"relation_id": 556706,
 		"tags": {
@@ -46942,6 +47005,7 @@
 				"fi": "Palestiina",
 				"fr": "Palestine",
 				"ga": "An Phailistín",
+				"gd": "Palastain",
 				"grc": "Παλαιστῑ́νη",
 				"hu": "Palesztina",
 				"ia": "Palestina",
@@ -47428,6 +47492,9 @@
 		"default_language": null,
 		"flag": "http://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
 		"lang": {
+			"alt_name": {
+				"rcf": "La Rényion"
+			},
 			"name": {
 				"af": "Réunion",
 				"ak": "Reyuniɔn",
@@ -47515,6 +47582,7 @@
 				"pl": "Reunion",
 				"pt": "Reunião",
 				"qu": "Riyunyun",
+				"rcf": "La Rényon",
 				"rm": "Réunion",
 				"rn": "Amazinga ya Reyiniyo",
 				"ro": "Reunion",
@@ -48707,7 +48775,7 @@
 				"fy": "Sûdan",
 				"ga": "An tSúdáin",
 				"gag": "Sudan",
-				"gd": "Sudan",
+				"gd": "Sudàn",
 				"gl": "Sudán",
 				"gn": "Sudano",
 				"grc": "Σουδανία",
@@ -48869,6 +48937,7 @@
 				"de": "Republik Sudan",
 				"fa": "جمهوری سودان",
 				"fr": "République du Soudan",
+				"gd": "Poblachd Shudan",
 				"grc": "Πολιτεία τῆς Σουδανίας",
 				"lb": "Republik Sudan",
 				"lt": "Sudano Respublika",
@@ -51418,7 +51487,8 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
 		"lang": {
 			"alt_name": {
-				"eo": "Slovakujo"
+				"eo": "Slovakujo",
+				"gd": "An t-Slòbhac"
 			},
 			"name": {
 				"ace": "Slowakia",
@@ -51482,7 +51552,7 @@
 				"fy": "Slowakije",
 				"ga": "An tSlóvaic",
 				"gag": "Slovakiya",
-				"gd": "An t-Slòbhac",
+				"gd": "Slobhagia",
 				"gl": "Eslovaquia",
 				"gn": "Elovakia",
 				"gu": "સ્લોવાકિયા",
@@ -51671,7 +51741,8 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
 		"lang": {
 			"alt_name": {
-				"eo": "Slovenujo"
+				"eo": "Slovenujo",
+				"gd": "An t-Slòbhain"
 			},
 			"name": {
 				"ace": "Slovenia",
@@ -51735,7 +51806,7 @@
 				"fy": "Sloveenje",
 				"ga": "An tSlóivéin",
 				"gag": "Sloveniya",
-				"gd": "An t-Slòbhain",
+				"gd": "Slobhinia",
 				"gl": "Eslovenia",
 				"gn": "Eloveña",
 				"gu": "સ્લોવેનિયા",
@@ -53147,7 +53218,7 @@
 				"fy": "Turks- en Kaikoseilannen",
 				"ga": "Oileáin na dTurcach agus Caicos",
 				"gag": "Turks hem Caicos Adaları",
-				"gd": "Oileáin na dTurcach agus Caicos",
+				"gd": "Na h-Eileanan Turcach agus Caiceo",
 				"gl": "Turks e Caicos",
 				"gu": "ટર્ક્સ એન્ડ કૈકોસ આઇલેન્ડ્સ",
 				"gv": "Ellanyn ny Turkee as Caicos",
@@ -58467,6 +58538,7 @@
 				"zu": "Indolobha yaseVathikhani"
 			},
 			"official_name": {
+				"br": "Riez Keoded ar Vatikan",
 				"ca": "Estat de la Ciutat del Vaticà",
 				"cs": "Vatikánský městský stát",
 				"cy": "Gwladwriaeth Dinas y Fatican",
@@ -58480,6 +58552,7 @@
 				"pt": "Estado da Cidade do Vaticano"
 			},
 			"short_name": {
+				"br": "Vatikan",
 				"cy": "Y Fatican",
 				"en": "Vatican",
 				"it": "Vaticano"
@@ -58882,6 +58955,7 @@
 			"official_name": {
 				"chr": "ᏉᎵᏪᎵᎠᏂ ᏍᎦᏚᎩ ᎾᎿ ᏪᏁᏑᏪᎳ",
 				"cs": "Bolívarovská republika Venezuela",
+				"cy": "Gweriniaeth Bolivaraidd Venezuela",
 				"de": "Bolivarische Republik Venezuela",
 				"en": "Bolivarian Republic of Venezuela",
 				"es": "República Bolivariana de Venezuela",
@@ -59835,6 +59909,7 @@
 				"chr": "ᎪᏐᏉ",
 				"ckb": "کۆسۆڤۆ",
 				"cnr": "Kosovo",
+				"cnr-Cyrl": "Косово",
 				"crh": "Kosovo",
 				"cs": "Kosovo",
 				"cv": "Косово",
@@ -59860,7 +59935,7 @@
 				"ga": "An Chosaiv",
 				"gag": "Kosova",
 				"gan": "科索沃",
-				"gd": "Cosobho",
+				"gd": "A' Chosobho",
 				"gl": "Kosovo",
 				"gn": "Kosovo",
 				"got": "𐌺𐌰𐌿𐍃𐍉𐌱𐍉",
@@ -59998,6 +60073,7 @@
 				"es": "República de Kosovo",
 				"fa": "جمهوری کوزوو",
 				"fr": "République du Kosovo",
+				"gd": "Poblachd na Cosobho",
 				"ru": "Республика Косово",
 				"sq": "Republika e Kosovës",
 				"sr": "Република Косово",
