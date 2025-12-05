@@ -721,6 +721,7 @@
 				"fr": "Angola",
 				"frp": "Angola",
 				"frr": "Angoola",
+				"fur": "Angole",
 				"fy": "Angoala",
 				"ga": "Angóla",
 				"gag": "Angola",
@@ -952,6 +953,7 @@
 				"fo": "Tjóðveldið Angola",
 				"fr": "République d'Angola",
 				"frr": "Republiik faan Angoola",
+				"fur": "Republiche de Angole",
 				"fy": "Republyk Angoala",
 				"ga": "Poblacht Angóla",
 				"gcr": "Répiblik di Angola",
@@ -4818,6 +4820,7 @@
 				"fy": "Mienebêst Austraalje",
 				"ga": "Comhlathas na hAstráile",
 				"gan": "澳大利亞聯邦",
+				"gd": "Co-fhlaitheas Astràilia",
 				"gl": "Mancomunidade de Australia",
 				"gn": "Tetã Autaralia",
 				"gu": "કોમનવેલ્થ ઓફ ઑસ્ટ્રેલિયા",
@@ -9491,7 +9494,7 @@
 				"eu": "Bosnia-Herzegovina",
 				"ff": "Bosniya",
 				"fi": "Bosnia-Hertsegovina",
-				"fr": "Bosnie-Herzégovine",
+				"fr": "Bosnie-et-Herzégovine",
 				"frp": "Bosnie-Hèrzègovena",
 				"fy": "Bosnje",
 				"gd": "Bosnia-Herzegovina",
@@ -9586,7 +9589,7 @@
 				"ff": "Bosniya e Herzegovina",
 				"fi": "Bosnia ja Hertsegovina",
 				"fo": "Bosnia og Hersegovina",
-				"fr": "Bosnie-et-Herzégovine",
+				"fr": "Bosnie-Herzégovine",
 				"frp": "Bosnie-et-Hèrzègovena",
 				"frr": "Bosnien an Herzegowina",
 				"fur": "Bosgne-Ercegovine",
@@ -13964,7 +13967,7 @@
 				"fur": "Isulis Cocos",
 				"fy": "de Kokoseilannen",
 				"ga": "Oileáin na gCócónna",
-				"gd": "Na h-Eileanan Cocos [Keeling]",
+				"gd": "Na h-Eileanan Cocos",
 				"gl": "Illas Cocos [Keeling]",
 				"gu": "કોકોઝ આઇલેન્ડ",
 				"he": "איי קוקס [קילינג]",
@@ -14025,6 +14028,7 @@
 			"official_name": {
 				"cs": "Území Kokosové ostrovy",
 				"es": "Territorio de las Islas Cocos (Keeling)",
+				"gd": "Ranntair nan Eileanan Cocos (Keeling)",
 				"lv": "Kokosu (Kīlinga) salu teritorija",
 				"pl": "Terytorium Wysp Kokosowych (Keelinga)",
 				"sk": "Teritórium Kokosových ostrovov"
@@ -14968,6 +14972,10 @@
 				"ca": "Xina",
 				"cal": "Siila",
 				"cbk-zam": "China",
+				"cdo": "Dṳ̆ng-guók",
+				"cdo-Hans": "中国",
+				"cdo-Hant": "中國",
+				"cdo-Latn": "Dṳ̆ng-guók",
 				"ce": "Цийн-мохк",
 				"ceb": "Tsina",
 				"ch": "China",
@@ -15054,7 +15062,7 @@
 				"kl": "Kina",
 				"km": "ចិន",
 				"kn": "ಚೀನಿ",
-				"ko": "중화인민공화국",
+				"ko": "중국",
 				"ko-Hani": "中國",
 				"koi": "Кина",
 				"krc": "Къытай",
@@ -15207,7 +15215,7 @@
 				"yo": "Ṣáínà",
 				"yue": "中國",
 				"za": "Cunghgoz",
-				"za-Hani": "中華人民共和國",
+				"za-Hani": "中國",
 				"zea": "China",
 				"zh": "中国",
 				"zh-Hans": "中国",
@@ -15251,6 +15259,9 @@
 				"ca": "República Popular de la Xina",
 				"cbk-zam": "República Popular China",
 				"cdo": "Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók",
+				"cdo-Hans": "中华人民共和国",
+				"cdo-Hant": "中華人民共和國",
+				"cdo-Latn": "Dṳ̆ng-huà Ìng-mìng Gê̤ṳng-huò-guók",
 				"ce": "Цийн Халкъан Респу́блика",
 				"ceb": "Pangmasang Republika sa Tsina",
 				"chr": "ᏴᏫ ᎤᎾᏤᎵᏍᎦᏚᎩ ᎾᎿ ᏓᎶᏂᎨᏍᏛ",
@@ -17985,6 +17996,7 @@
 			"official_name": {
 				"cs": "Území Vánoční ostrov",
 				"es": "Territorio de la Isla de Navidad",
+				"gd": "Ranntair Eilean na Nollaig",
 				"lv": "Ziemsvētku salas teritorija",
 				"pl": "Terytorium Wyspy Bożego Narodzenia"
 			}
@@ -23452,7 +23464,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
 		"lang": {
 			"alt_name": {
-				"br": "Frañs",
+				"br": "Bro-C'hall",
 				"eo": "Francujo",
 				"ja": "仏蘭西;佛蘭西;法蘭西",
 				"zh": "法兰西/法蘭西",
@@ -23486,7 +23498,7 @@
 				"bn": "ফ্রান্স",
 				"bo": "ཧྥ་རན་སི།",
 				"bpy": "ফ্রান্স",
-				"br": "Bro-C'hall",
+				"br": "Frañs",
 				"bs": "Francuska",
 				"bug": "Perancis",
 				"bxr": "Франци",
@@ -28351,6 +28363,7 @@
 				"eo": "Herda kaj Makdonaldaj Insuloj",
 				"es": "Islas Heard y McDonald",
 				"fr": "Îles Heard-et-MacDonald",
+				"gd": "Eilean Heard is Eileanan MhicDhòmhnaill",
 				"he": "האי הרד ואיי מקדונלד",
 				"hi": "हर्ड द्वीप और मैकडोनाल्ड द्वीप",
 				"hr": "Otok Heard i Otočje McDonald",
@@ -28376,7 +28389,8 @@
 				"zh": "赫德岛和麦克唐纳群岛"
 			},
 			"official_name": {
-				"en": "Territory of Heard Island and McDonald Islands"
+				"en": "Territory of Heard Island and McDonald Islands",
+				"gd": "Ranntair Eilean Heard is Eileanan MhicDhòmhnaill"
 			}
 		},
 		"name": "Heard Island and McDonald Islands",
@@ -42418,6 +42432,7 @@
 			},
 			"official_name": {
 				"eo": "Teritorio de Insulo Norfolk",
+				"gd": "Ranntair Eilean Norfolk",
 				"lv": "Norfolkas salas teritorija",
 				"pl": "Terytorium Wyspy Norfolk"
 			}
@@ -44215,7 +44230,7 @@
 				"zu": "INyuzilandi"
 			}
 		},
-		"name": "Aotearoa / New Zealand",
+		"name": "New Zealand / Aotearoa",
 		"official_name": null,
 		"relation_id": 556706,
 		"tags": {
@@ -44226,7 +44241,7 @@
 			"website:tourism": "https://www.newzealand.com"
 		},
 		"timezone": null,
-		"website": "https://www.govt.nz/",
+		"website": "https://www.govt.nz",
 		"wikidata": "Q664",
 		"wikipedia": "en:New Zealand"
 	},
@@ -45325,6 +45340,7 @@
 				"fo": "Filipsoyggjar",
 				"fr": "Philippines",
 				"frp": "Felipines",
+				"fur": "Filipinis",
 				"fy": "Filipinen",
 				"ga": "Na hOileáin Fhilipíneacha",
 				"gan": "菲律賓",
@@ -45488,6 +45504,7 @@
 				"cy": "Gweriniaeth y Philippines",
 				"en": "Republic of the Philippines",
 				"es": "República de Filipinas",
+				"fur": "Republiche des Filipinis",
 				"pt": "República das Filipinas",
 				"ru": "Республика Филиппины",
 				"tl": "Repúblika ng Pilipinas",
@@ -51009,6 +51026,7 @@
 				"fo": "Suðursudan",
 				"fr": "Soudan du Sud",
 				"frr": "Süüdsudaan",
+				"fur": "Sudan dal Sud",
 				"fy": "Súd-Sûdan",
 				"ga": "An tSúdáin Theas",
 				"gd": "Sudàn a Deas",
@@ -58047,7 +58065,7 @@
 				"zh-Hant": "美國"
 			}
 		},
-		"name": "United States of America",
+		"name": "United States",
 		"official_name": "United States of America",
 		"relation_id": 148838,
 		"tags": {
