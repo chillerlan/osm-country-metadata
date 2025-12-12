@@ -22755,7 +22755,7 @@
 				"es": "RDFE"
 			}
 		},
-		"name": "ኢትዮጵያ إثيوبيا",
+		"name": "ኢትዮጵያ",
 		"official_name": "የኢትዮጵያ ፌዴራላዊ ዴሞክራሲያዊ ሪፐብሊክ",
 		"relation_id": 192800,
 		"tags": {
@@ -53170,7 +53170,7 @@
 		"timezone": "Asia/Damascus",
 		"website": null,
 		"wikidata": "Q858",
-		"wikipedia": "ar:سوريا"
+		"wikipedia": "en:Syria"
 	},
 	"TCA": {
 		"ISO3166-1": {
