@@ -15546,7 +15546,7 @@
 			},
 			"name:UN": {
 				"ar": "كوت ديفوار",
-				"en": "Côte d'Ivoire",
+				"en": "Yvory Coast",
 				"es": "Côte d'Ivoire",
 				"fr": "Côte d’Ivoire (la)",
 				"ru": "Кот-д'Ивуар",
@@ -23487,7 +23487,6 @@
 				"az": "Fransa",
 				"ba": "Франция",
 				"bar": "Frankreich",
-				"bat-smg": "Prancūzėjė",
 				"bcl": "Pransya",
 				"be": "Францыя",
 				"be-tarask": "Францыя",
@@ -23671,6 +23670,7 @@
 				"sco": "Fraunce",
 				"se": "Frankriika",
 				"sg": "Farânzi",
+				"sgs": "Prancūzėjė",
 				"sh": "Francuska",
 				"si": "ප්රංශය",
 				"sje": "Frankrijjka",
@@ -31531,7 +31531,6 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
 		"lang": {
 			"alt_name": {
-				"cop": "ⲡⲒⲥⲣⲁⲏⲗ",
 				"vi": "Ixraen;Do Thái"
 			},
 			"name": {
@@ -31566,6 +31565,7 @@
 				"ceb": "Israel",
 				"ckb": "ئیسرائیل",
 				"co": "Israele",
+				"cop": "ⲡⲒⲥⲣⲁⲏⲗ",
 				"crh": "İsrail",
 				"cs": "Izrael",
 				"csb": "Izrael",
@@ -36381,7 +36381,7 @@
 				"wo": "Lituwaani",
 				"wuu": "立陶宛",
 				"xal": "Литдин Орн",
-				"xmf": "ლიტვა",
+				"xmf": "ლიეტუვა",
 				"yi": "ליטע",
 				"yo": "Lituéníà",
 				"yue": "立陶宛",
@@ -47124,6 +47124,7 @@
 		"official_name": "دولة فلسطين",
 		"relation_id": 1703814,
 		"tags": {
+			"admin_level": "2",
 			"alt_name": "فلسطين",
 			"description": "מיפוי שטחי הרשות הפלסטינית B + C + עזה, כאשר לכל אחד מהם יש מיפוי משלו. מיקום התגית הוא במרכז הגאוגרפי של כל השטח ולכן נופל מחוץ לשטחי הרשות.",
 			"description:he": "מיפוי שטחי הרשות הפלסטינית B + C + עזה, כאשר לכל אחד מהם יש מיפוי משלו. מיקום התגית הוא במרכז הגאוגרפי של כל השטח ולכן נופל מחוץ לשטחי הרשות.",
