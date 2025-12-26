@@ -14047,7 +14047,8 @@
 			"geonames:id": "1547376",
 			"int_name": "Cocos (Keeling) Islands",
 			"place": "territory",
-			"ref": "CC"
+			"ref": "CC",
+			"state_code": "WA"
 		},
 		"timezone": "Indian/Cocos",
 		"website": null,
@@ -16931,7 +16932,7 @@
 				"yo": "Kòlómbìà",
 				"yue": "哥倫比亞",
 				"zea": "Colombia",
-				"zh": "哥伦比亚 / 哥倫比亞",
+				"zh": "哥伦比亚",
 				"zh-Hans": "哥伦比亚",
 				"zh-Hant": "哥倫比亞",
 				"zu": "IKolombiya"
@@ -17203,6 +17204,7 @@
 			},
 			"official_name": {
 				"ar": "الاتّحاد القمريّ",
+				"br": "Unaniezh Komorez",
 				"ca": "Unió de les Comores",
 				"cs": "Komorský svaz",
 				"en": "Union of the Comoros",
@@ -18013,7 +18015,8 @@
 			"maritime": "yes",
 			"place": "territory",
 			"ref": "CX",
-			"source:name:br": "ofis publik ar brezhoneg"
+			"source:name:br": "ofis publik ar brezhoneg",
+			"state_code": "WA"
 		},
 		"timezone": "Indian/Christmas",
 		"website": null,
@@ -32791,6 +32794,7 @@
 				"en": "State of Japan",
 				"es": "Estado de Japón",
 				"fr": "État du Japon",
+				"ja": "日本国",
 				"ko": "일본국",
 				"zh-Hans": "日本国",
 				"zh-Hant": "日本國"
@@ -33275,9 +33279,9 @@
 				"yi": "קעניע",
 				"yo": "Kẹ́nyà",
 				"yue": "肯雅",
-				"zh": "肯尼亚 / 肯亞",
+				"zh": "肯尼亚;肯亞;肯尼亞",
 				"zh-Hans": "肯尼亚",
-				"zh-Hant": "肯亞",
+				"zh-Hant": "肯亞;肯尼亞",
 				"zh-Hant-CN": "肯尼亞",
 				"zh-Hant-HK": "肯尼亞",
 				"zh-Hant-TW": "肯亞",
@@ -33457,7 +33461,7 @@
 				"qu": "Kirkisuyu",
 				"ro": "Kârgâzstan",
 				"roa-rup": "Kirghistan",
-				"ru": "Киргизия",
+				"ru": "Кыргызстан",
 				"rw": "Kirigizisitani",
 				"sa": "किरगिस्थान",
 				"sah": "Кыргыстаан",
@@ -33521,7 +33525,7 @@
 				"gn": "Tavakuairetã Kirigitã",
 				"ps": "د قرغزستان جمهوريت",
 				"pt": "República Quirguiz",
-				"ru": "Киргизская Республика",
+				"ru": "Кыргызская Республика",
 				"ug": "قىرغىزىستان جۇمھۇرىيىتى",
 				"ur": "جمہوریہ کرغیز"
 			}
@@ -34667,7 +34671,7 @@
 				"yue": "老撾",
 				"za": "Lao",
 				"zea": "Laos",
-				"zh": "老挝",
+				"zh": "老挝;寮國",
 				"zh-Hans": "老挝",
 				"zh-Hans-CN": "老挝",
 				"zh-Hans-MY": "寮国",
@@ -36133,10 +36137,10 @@
 			"admin_level": "2",
 			"border_type": "country",
 			"driving_side": "left",
-			"fixme": "Official Lesotho constituencies (admin level 6): https://iec.org.ls/maps/\nList: https://www.gov.ls/wp-content/uploads/2022/04/Constituency-Delimitation-Order.pdf\nhttps://iec.org.ls/download/list-of-constituencies/",
+			"fixme": "Official Lesotho constituencies (admin level 6): https://iec.org.ls/maps/ List: https://www.gov.ls/wp-content/uploads/2022/04/Constituency-Delimitation-Order.pdf https://iec.org.ls/download/list-of-constituencies/",
 			"land_area": "administrative"
 		},
-		"timezone": null,
+		"timezone": "Africa/Maseru",
 		"website": null,
 		"wikidata": "Q1013",
 		"wikipedia": "en:Lesotho"
@@ -41653,6 +41657,7 @@
 				"bg": "Мейот",
 				"bm": "Mayoti",
 				"bn": "মায়োত্তে",
+				"br": "Mayotte",
 				"bs": "Majote",
 				"dz": "མེ་ཡོཊ",
 				"ee": "Mayotte nutome",
@@ -42448,7 +42453,8 @@
 			"population": "1748",
 			"source:population": "ABS 2016 Census (State Suburb)",
 			"source:sqkm": "CIA World Factbook",
-			"sqkm": "36"
+			"sqkm": "36",
+			"state_code": "NSW"
 		},
 		"timezone": "Pacific/Norfolk",
 		"website": null,
@@ -42467,6 +42473,9 @@
 		"default_language": "en",
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
 		"lang": {
+			"alt_name": {
+				"br": "Nijeria"
+			},
 			"name": {
 				"af": "Nigerië",
 				"ak": "Nigeria",
@@ -42681,7 +42690,7 @@
 		"tags": {
 			"admin_level": "2"
 		},
-		"timezone": null,
+		"timezone": "Africa/Lagos",
 		"website": null,
 		"wikidata": "Q1033",
 		"wikipedia": "en:Nigeria"
@@ -45837,6 +45846,7 @@
 		"lang": {
 			"alt_name": {
 				"ar": "بولونيا",
+				"br": "Pologn",
 				"eo": "Polio;Polujo"
 			},
 			"long_name": {
@@ -48942,7 +48952,7 @@
 				"yo": "Sudan",
 				"yue": "蘇丹",
 				"zgh": "ⵙⵓⴷⴰⵏ",
-				"zh": "苏丹",
+				"zh": "苏丹;蘇丹",
 				"zh-Hans": "苏丹",
 				"zh-Hant": "蘇丹"
 			},
@@ -48967,7 +48977,7 @@
 				"sv": "Republiken Sudan",
 				"ur": "جمہوریہ سوڈان",
 				"vi": "Cộng hòa Sudan",
-				"zh": "苏丹共和国 / 蘇丹共和國",
+				"zh": "苏丹共和国;蘇丹共和國",
 				"zh-Hans": "苏丹共和国",
 				"zh-Hant": "蘇丹共和國"
 			}
@@ -50287,6 +50297,7 @@
 				"uk": "Сан-Маріно",
 				"ur": "سان مارینو",
 				"vo": "Sanmarinän",
+				"zh": "圣马力诺",
 				"zh-Hans": "圣马力诺",
 				"zh-Hant": "聖馬力諾"
 			},
@@ -52565,7 +52576,7 @@
 			"source:official_name:de": "https://www.auswaertiges-amt.de/blob/215256/e505c18e9cd162813a29f4e5a4ec8e07/laenderverzeichnis-data.pdf (2019-12-24)",
 			"source:official_name:en": "https://www.un.org/en/member-states/index.html (2019-12-24)"
 		},
-		"timezone": null,
+		"timezone": "Africa/Mbabane",
 		"website": null,
 		"wikidata": "Q1050",
 		"wikipedia": "en:Eswatini"
@@ -54049,7 +54060,7 @@
 				"yue": "泰國",
 				"za": "Daigoz",
 				"zea": "Thailand",
-				"zh": "泰国",
+				"zh": "泰国;泰國",
 				"zh-Hans": "泰国",
 				"zh-Hant": "泰國"
 			},
@@ -60815,7 +60826,7 @@
 			"population": "49991300",
 			"source:population": "https://www.statssa.gov.za/publications/P0302/P03022010.pdf 2010-08-10"
 		},
-		"timezone": null,
+		"timezone": "Africa/Johannesburg",
 		"website": null,
 		"wikidata": "Q258",
 		"wikipedia": "en:South Africa"
