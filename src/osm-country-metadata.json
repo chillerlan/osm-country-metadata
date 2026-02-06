@@ -1213,7 +1213,7 @@
 				"tl": "Anggilya",
 				"tr": "Anguilla",
 				"ug": "ئانگۋىللا",
-				"uk": "Ангілья",
+				"uk": "Анґілья",
 				"ur": "اینگویلا",
 				"uz": "Angilya",
 				"vi": "Anguilla",
@@ -4194,7 +4194,7 @@
 				"ti": "የፈረንሳይ ደቡባዊ ግዛቶች",
 				"to": "Potu fonua tonga fakafalanisē",
 				"tr": "Fransız Güney ve Antarktika Toprakları",
-				"uk": "Французькі Південні і Антарктичні Території",
+				"uk": "Французькі Південні й Антарктичні Території",
 				"ur": "فرانسیسی جنوبی خطے",
 				"vi": "Vùng đất phía Nam và châu Nam Cực thuộc Pháp",
 				"zh": "法属南部领地",
@@ -4202,6 +4202,9 @@
 			},
 			"official_name": {
 				"cs": "Teritorium Francouzská jižní a antarktická území"
+			},
+			"short_name": {
+				"uk": "ФПАТ"
 			}
 		},
 		"name": "Terres australes et antarctiques françaises",
@@ -4433,7 +4436,7 @@
 				"tr": "Antigua ve Barbuda",
 				"tt": "Антигуа һәм Барбуда",
 				"ug": "ئانتىگۇئا ۋە باربۇدا",
-				"uk": "Антигуа і Барбуда",
+				"uk": "Антиґуа і Барбуда",
 				"ur": "اینٹیگوا و باربوڈا",
 				"uz": "Antigua va Barbuda",
 				"vec": "Antigua e Barbuda",
@@ -5537,7 +5540,7 @@
 				"tzl": "Adarbaixhan",
 				"udm": "Азербайджан",
 				"ug": "ئەزەربەيجان",
-				"uk": "Азербайджа́н",
+				"uk": "Азербайджан",
 				"ur": "آذربائیجان",
 				"uz": "Ozarbayjon",
 				"vec": "Azerbaigian",
@@ -5729,7 +5732,7 @@
 				"tr": "Azerbaycan Cumhuriyeti",
 				"tt": "Азәрбайҗан Республикасы",
 				"ug": "ئازەربەيجان جۇمھۇرىيىتى",
-				"uk": "Азербайджа́нська Респу́бліка",
+				"uk": "Азербайджанська Республіка",
 				"ur": "جمہوریہ آذربائیجان",
 				"uz": "Ozarbayjon Respublikasi",
 				"vec": "Republica de Azerbaigian",
@@ -6469,7 +6472,7 @@
 				"tzl": "Belxhíc",
 				"udm": "Бельгия",
 				"ug": "بېلگىيە",
-				"uk": "Бельгія",
+				"uk": "Бельґія",
 				"ur": "بلجیئم",
 				"uz": "Belgiya",
 				"vec": "Belgio",
@@ -6654,7 +6657,7 @@
 				"tt": "Бе́льгия Корольлеге́",
 				"udm": "Королевство Бельгия",
 				"ug": "بېلگىيە پادىشاھلىقى",
-				"uk": "Королівство Бельгія",
+				"uk": "Королівство Бельґія",
 				"ur": "مملکت بلجیئم",
 				"uz": "Belgiya Qirolligi",
 				"vec": "Regno del Belgio",
@@ -12272,7 +12275,7 @@
 				"tum": "Brunei",
 				"udm": "Бруней",
 				"ug": "برۇنېي",
-				"uk": "Бруне́й",
+				"uk": "Бруней",
 				"ur": "برونائی",
 				"uz": "Bruney",
 				"vec": "Brunei",
@@ -12422,7 +12425,7 @@
 				"tt": "Бруней Даруссалам Дәүләте",
 				"udm": "Королевство Бруней",
 				"ug": "برۇنېي دارۇسسالام دۆلىتى",
-				"uk": "Держа́ва Бруне́й Даруссала́м",
+				"uk": "Держава Бруней Даруссалам",
 				"ur": "ریاست برونائی دارالسلام",
 				"uz": "Bruney Dorussalam",
 				"vec": "Stato de el Brunei, Dimora de ƚa Paxe",
@@ -17309,6 +17312,7 @@
 			"name": {
 				"ar": "الرأس الأخضر",
 				"be": "Каба-Вердэ",
+				"br": "Kab Glas",
 				"ca": "Cap Verd",
 				"ckb": "کابۆڤێردێ",
 				"cs": "Kapverdy",
@@ -17355,6 +17359,7 @@
 				"zh-Hant-CN": "佛得角"
 			},
 			"official_name": {
+				"br": "Republik Kab Glas",
 				"ca": "República de Cap Verd",
 				"ckb": "کۆماری کابۆڤێردێ",
 				"cs": "Kapverdská republika",
@@ -20096,6 +20101,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
 		"lang": {
 			"alt_name": {
+				"br": "Aljeri",
 				"ceb": "Arhelya",
 				"ckb": "جەزایر",
 				"csb": "Algierskô",
@@ -20884,6 +20890,7 @@
 				"ky": "Мисир",
 				"lfn": "Egipte",
 				"ln": "Ejipiti;Misiri",
+				"pdc": "Egypt",
 				"qu": "Misir",
 				"rn": "Misiri",
 				"scn": "Agittu",
@@ -21087,6 +21094,7 @@
 				"pam": "Ejiptu",
 				"pap": "Egipto",
 				"pcd": "Édjipe",
+				"pdc": "Egypte",
 				"pi": "ईजिप्ट",
 				"pih": "Ejiipt",
 				"pl": "Egipt",
@@ -21156,7 +21164,7 @@
 				"tzl": "Misiria",
 				"udm": "Египет",
 				"ug": "مىسىر",
-				"uk": "Єги́пет",
+				"uk": "Єгипет",
 				"ur": "مصر",
 				"uz": "Misr",
 				"vec": "Egito",
@@ -21353,7 +21361,7 @@
 				"tt": "Гарә́б Мисы́р Җөмһүрияте́",
 				"udm": "Египет Араб Республика",
 				"ug": "مىسىر ئەرەب جۇمھۇرىيىتى",
-				"uk": "Ара́бська Респу́бліка Єги́пет",
+				"uk": "Арабська Республіка Єгипет",
 				"ur": "عرب جمہوریہ مصر",
 				"uz": "Misr Arab Respublikasi",
 				"vec": "Republica Araba d'Egito",
@@ -21680,6 +21688,7 @@
 				"ca": "Sàhara Occidental",
 				"cdo": "Să̤ Sahara",
 				"ceb": "Kasadpang Sahara",
+				"chr": "ᏭᏕᎵᎬᏗᎸ ᏌᎭᏝ",
 				"ckb": "بیابانی ڕۆژاوا",
 				"crh": "Ğarbiy Sahra",
 				"cs": "Západní Sahara",
@@ -24278,6 +24287,9 @@
 				"zh-Hans": "密克罗尼西亚联邦",
 				"zh-Hant": "密克羅尼西亞聯邦"
 			},
+			"short_name": {
+				"uk": "ФШМ"
+			},
 			"wikipedia": {
 				"xmf": "მიკრონეზიაშ ფედერაციული შტატეფი"
 			}
@@ -26759,7 +26771,7 @@
 				"ts": "Gineya ya le Nkaveni",
 				"tt": "Экваториа́ль Гвине́я",
 				"ug": "ئېكۋاتور گۋىنېيىسى",
-				"uk": "Екваторіа́льна Ґвіне́я",
+				"uk": "Екваторіальна Ґвінея",
 				"ur": "استوائی گنی",
 				"uz": "Ekvatorli Gvineya",
 				"vec": "Guinea Equatorial",
@@ -27909,7 +27921,7 @@
 				"sr": "Гуам",
 				"sr-Latn": "Gvam",
 				"sv": "Guam",
-				"uk": "Гуам",
+				"uk": "Ґуам",
 				"vi": "Guam",
 				"zh": "关岛;關島",
 				"zh-Hans": "关岛",
@@ -27950,6 +27962,9 @@
 		"default_language": "en",
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
 		"lang": {
+			"alt_name": {
+				"br": "Gwiana"
+			},
 			"name": {
 				"ace": "Guyana",
 				"af": "Guyana",
@@ -28130,6 +28145,7 @@
 				"zh-Hant-TW": "蓋亞那"
 			},
 			"official_name": {
+				"br": "Republik Kevelourel Gwiana",
 				"cs": "Guyanská kooperativní republika",
 				"en": "Republic of Guyana",
 				"es": "República de Guyana",
@@ -28443,7 +28459,7 @@
 				"sr-Latn": "Ostrvo Herd i ostrva Makdonald",
 				"ta": "ஏர்ட் தீவும் மக்டொனால்ட் தீவும்",
 				"th": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์",
-				"uk": "Острів Херд і острови Макдональд",
+				"uk": "Острів Герд і острови Макдональд",
 				"ur": "جزیرہ ہرڈ و جزائر مکڈونلڈ",
 				"vi": "Đảo Heard và Quần đảo McDonald",
 				"zh": "赫德岛和麦克唐纳群岛"
@@ -33152,6 +33168,7 @@
 				"en": "Republic of Kazakhstan",
 				"eo": "Respubliko Kazaĥio",
 				"es": "República de Kazajistán",
+				"kk": "Қазақстан Республикасы",
 				"pl": "Republika Kazachstanu",
 				"ru": "Республика Казахстан",
 				"zh": "哈萨克斯坦共和国",
@@ -33160,15 +33177,16 @@
 			}
 		},
 		"name": "Қазақстан",
-		"official_name": null,
+		"official_name": "Қазақстан Республикасы",
 		"relation_id": 214665,
 		"tags": {
 			"admin_level": "2",
 			"int_name": "Kazakhstan",
 			"int_ref": "KZ",
-			"population": "20223218",
-			"population:date": "2024",
+			"population": "20495975",
+			"population:date": "2026-01-01",
 			"source:name:oc": "Lo Congrès",
+			"source:population": "https://stat.gov.kz/industries/social-statistics/demography/",
 			"sqkm": "2724902",
 			"wikimedia_commons": "Category:Kazakhstan"
 		},
@@ -35317,6 +35335,7 @@
 				"cbk-zam": "Libya",
 				"ce": "Ливи",
 				"ceb": "Libya",
+				"chr": "ᎵᏈᏯ",
 				"ckb": "لیبیا",
 				"cop": "ϯⲖⲩⲃⲏ",
 				"crh": "Libiya",
@@ -36794,6 +36813,7 @@
 				"zh-Hant": "盧森堡"
 			},
 			"official_name": {
+				"br": "Dugelezh Veur Luksembourg",
 				"ca": "Gran Ducat de Luxemburg",
 				"cs": "Lucemburské velkovévodství",
 				"de": "Großherzogtum Luxemburg",
@@ -38388,7 +38408,7 @@
 				"ty": "Madagascar",
 				"tzl": "Malagasch",
 				"ug": "ماداگاسكار",
-				"uk": "Мадагаскар",
+				"uk": "Мадаґаскар",
 				"ur": "مڈغاسکر",
 				"uz": "Madagaskar",
 				"vec": "Madagascar",
@@ -40450,7 +40470,8 @@
 				"pl": "Mariany Północne",
 				"pt": "Ilhas Marianas Setentrionais",
 				"ru": "Северные Марианские острова",
-				"sv": "Nordmarianerna"
+				"sv": "Nordmarianerna",
+				"uk": "Північні Маріанські Острови"
 			},
 			"official_name": {
 				"cs": "Společenství Severní Mariany"
@@ -41807,6 +41828,7 @@
 				"el": "Μαγιότ",
 				"en": "Mayotte",
 				"eo": "Majoto",
+				"eu": "Mayotte",
 				"fa": "مایوت",
 				"ff": "Mayoot",
 				"fr": "Mayotte",
@@ -41822,6 +41844,7 @@
 				"ko": "마요트",
 				"ks": "مَییٹ",
 				"ksh": "Majott",
+				"kw": "Mayot",
 				"ln": "Mayotɛ",
 				"lo": "ມາຢອດ",
 				"lt": "Majotas",
@@ -41848,6 +41871,8 @@
 				"ur": "مایوٹ",
 				"yo": "Orílẹ́ède Mayote",
 				"zh": "马约特",
+				"zh-Hans": "马约特",
+				"zh-Hant": "馬約特",
 				"zu": "i-Mayotte"
 			}
 		},
@@ -41857,6 +41882,10 @@
 		"tags": {
 			"admin_level": "6",
 			"description": "French overseas department",
+			"is_in:country": "France",
+			"is_in:country_code": "FR",
+			"is_in:ocean": "Indian",
+			"land_area": "administrative",
 			"note": "Cette relation décrit le département de Mayotte",
 			"ref": "976",
 			"ref:FR:SIREN": "229850003",
@@ -43003,7 +43032,7 @@
 				"tt": "Никарагуа",
 				"tzl": "Nicaral",
 				"ug": "نىكاراگۇئا",
-				"uk": "Нікарагуа",
+				"uk": "Нікараґуа",
 				"ur": "نکاراگوا",
 				"uz": "Nikaragua",
 				"vec": "Nicaragua",
@@ -44917,7 +44946,7 @@
 				"bn": "পানামা",
 				"bo": "པ་ན་མ།",
 				"bpy": "পানামা",
-				"br": "Panamá",
+				"br": "Panama",
 				"bs": "Panama",
 				"bxr": "Панама",
 				"ca": "Panamà",
@@ -45827,7 +45856,7 @@
 				"bn": "পাপুয়া নিউ গিনি",
 				"bo": "པ་པུ་འ་ནིའུ་གི་ནེ།",
 				"bpy": "পাপুয়া নিউগিনি",
-				"br": "Papoua Ginea-Nevez",
+				"br": "Papoua Ginea Nevez",
 				"bs": "Papua Nova Gvineja",
 				"bxr": "Папуа-Шэнэ Гвинея",
 				"ca": "Papua Nova Guinea",
@@ -45965,10 +45994,12 @@
 				"zh-Hant-TW": "巴布亞紐幾內亞"
 			},
 			"official_name": {
+				"br": "Stad Dizalc'h Papoua Ginea Nevez",
 				"cs": "Nezávislý stát Papua Nová Guinea",
 				"de": "Unabhängiger Staat Papua-Neuguinea",
 				"en": "Independent State of Papua New Guinea",
 				"es": "Estado Independiente de Papúa Nueva Guinea",
+				"fr": "État indépendant de Papouasie-Nouvelle-Guinée",
 				"gn": "Tetã Hekosãsóva Papúa Ginéa Pyahu",
 				"pt": "Estado Independente da Papua-Nova Guiné",
 				"ru": "Независимое Государство Папуа — Новая Гвинея",
@@ -49745,6 +49776,7 @@
 		"lang": {
 			"name": {
 				"ar": "سانت هيلينا، أسينسيون وتريستان دا كونها",
+				"br": "Santez-Helena, Ascension ha Tristan da Cunha",
 				"ca": "Santa Helena, Ascensió i Tristan da Cunha",
 				"cs": "Svatá Helena, Ascension a Tristan da Cunha",
 				"cy": "Saint Helena, Ascension a Tristan da Cunha",
@@ -49829,7 +49861,7 @@
 				"bn": "সলোমন দ্বীপপুঞ্জ",
 				"bo": "སོ་ལོ་མོན་གླིང་ཕྲན་ཚོ་ཁག",
 				"bpy": "সলোমন দ্বীপমালা",
-				"br": "Inizi Solomon",
+				"br": "Inizi Salomon",
 				"bs": "Solomonska Ostrva",
 				"bxr": "Соломон аралууд",
 				"ca": "Salomó",
@@ -49966,6 +49998,9 @@
 				"zh-Hant-CN": "所羅門群島",
 				"zh-Hant-HK": "所羅門群島",
 				"zh-Hant-TW": "索羅門群島"
+			},
+			"official_name": {
+				"br": "Inizi Salomon"
 			},
 			"wikipedia": {
 				"xmf": "xmf:სოლომონიშ კოკეფი"
@@ -54769,7 +54804,7 @@
 				"qu": "Turkminsuyu",
 				"ro": "Turkmenistan",
 				"roa-rup": "Turcmenistan",
-				"ru": "Туркменистан",
+				"ru": "Туркмения",
 				"rue": "Туркменістан",
 				"rw": "Turukimenisitani",
 				"sa": "तुर्कमिनिस्थान",
@@ -54838,7 +54873,7 @@
 		"timezone": "Asia/Ashgabat",
 		"website": null,
 		"wikidata": "Q874",
-		"wikipedia": "en:Turkmenistan"
+		"wikipedia": "tk:Türkmenistan"
 	},
 	"TLS": {
 		"ISO3166-1": {
@@ -55506,6 +55541,7 @@
 				"ca": "Tunísia",
 				"ce": "Тунис",
 				"ceb": "Tunisia",
+				"chr": "ᏚᏂᏏᏍᎠ",
 				"ckb": "توونس",
 				"crh": "Tunis",
 				"cs": "Tunisko",
@@ -55595,6 +55631,7 @@
 				"no": "Tunisia",
 				"nov": "Tunisia",
 				"nso": "Tunisia",
+				"nv": "Ghą́ą́ʼaskʼidii Biłikahii Bikéyah Yázhí",
 				"oc": "Tunisia",
 				"or": "ଟ୍ୟୁନିସିଆ",
 				"os": "Тунис",
@@ -57353,7 +57390,7 @@
 				"tt": "Уганда",
 				"tzl": "Uganda",
 				"ug": "ئۇگاندا",
-				"uk": "Уганда",
+				"uk": "Уґанда",
 				"ur": "یوگنڈا",
 				"uz": "Uganda",
 				"vec": "Uganda",
@@ -57378,7 +57415,8 @@
 				"en": "Republic of Uganda",
 				"gn": "Tavakuairetã Ugánda",
 				"pt": "República de Uganda",
-				"sk": "Ugandská republika"
+				"sk": "Ugandská republika",
+				"uk": "Республіка Уґанда"
 			}
 		},
 		"name": "Uganda",
@@ -57931,7 +57969,9 @@
 				"en": "America",
 				"es": "Estados Unidos",
 				"fr": "États-Unis",
+				"ja": "米国",
 				"ko": "아메리카",
+				"pdc": "Yuneided Schtaets vun Amerika",
 				"vi": "Hoa Kì;Mĩ;Hợp chúng quốc Hoa Kì"
 			},
 			"alt_official_name": {
@@ -58129,7 +58169,7 @@
 				"pam": "United States ning America",
 				"pap": "Estadonan Uni di Merka",
 				"pcd": "États-Unis Anmérikes",
-				"pdc": "Vereenichde Schtaate vun Amerikaa",
+				"pdc": "Vereinichde Schtaade vun Amerikaa",
 				"pfl": "Verainischde Schdaade vun Ameriga",
 				"pih": "Yunitid Staits",
 				"pl": "Stany Zjednoczone",
