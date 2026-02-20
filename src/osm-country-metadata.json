@@ -6688,6 +6688,7 @@
 			"TMC:cid_58:tabcd_1:LCLversion": "8.00",
 			"TMC:cid_58:tabcd_1:LocationCode": "3",
 			"admin_level": "2",
+			"border_type": "nation",
 			"driving_side": "right",
 			"int_name": "Belgium",
 			"operator": "Belgische Staat / État belge / Belgischer Staat",
@@ -7499,6 +7500,7 @@
 			"official_name": {
 				"an": "Republica de Burkina Faso",
 				"ar": "جمهورية بوركينا فاسو",
+				"br": "Republik Demokratel Burkina Faso",
 				"ca": "República Democràtica de Burkina Faso",
 				"ckb": "کۆماری دیموکراتی بورکینافاسۆ",
 				"fr": "République Démocratique du Burkina Faso",
@@ -7614,6 +7616,7 @@
 				"zh-Hant": "上沃爾特"
 			},
 			"short_name": {
+				"br": "Burkina",
 				"ckb": "بورکینا",
 				"eo": "Burkino",
 				"fi": "Burkina",
@@ -21854,6 +21857,7 @@
 		"flag": "File:Bandera_de_España.svg",
 		"lang": {
 			"alt_name": {
+				"br": "Bro-Spagn",
 				"eo": "Hispanujo",
 				"gl": "Espanha"
 			},
@@ -22106,6 +22110,7 @@
 			"official_name": {
 				"ar": "مملكة إسبانيا",
 				"be": "Каралеўства Іспанія",
+				"br": "Rouantelezh Spagn",
 				"ca": "Regne d’Espanya",
 				"cs": "Španělské království",
 				"el": "Βασίλειο της Ισπανίας",
@@ -23415,6 +23420,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg",
 		"lang": {
 			"alt_name": {
+				"br": "Inizi Falkland",
 				"ca": "Illes Falkland",
 				"cs": "Malvíny",
 				"de": "Malwinen",
@@ -23439,7 +23445,7 @@
 				"bm": "Maluwini Gun",
 				"bn": "ফকল্যান্ড আইল্যান্ড (ইসল্যাস মাসভেনিস)",
 				"bo": "ཕལྐ་ལནྜ་གླིང་ཕྲན།",
-				"br": "Inizi Falkland (Inizi Maloù)",
+				"br": "Inizi Maloù",
 				"bs": "Folklandska ostrva (Malvinska ostrva)",
 				"ca": "Illes Malvines",
 				"chr": "ᏩᎩ ᎤᎦᏚᏛ (ᎢᏍᎳᏍ ᎹᎸᏫᎾᏍ)",
@@ -24844,6 +24850,7 @@
 			},
 			"official_name": {
 				"be": "Злучанае Каралеўства Вялікабрытаніі і Паўночнай Ірландыі",
+				"br": "Rouantelezh-Unanet Breizh-Veur ha Norzhiwerzhon",
 				"ca": "Regne Unit de Gran Bretanya i Irlanda del Nord",
 				"cnr": "Ujedinjeno Kraljevstvo Velike Britanije i Śeverne Irske",
 				"cnr-Cyrl": "Уједињено Краљевство Велике Британије и С́еверне Ирске",
@@ -24874,6 +24881,7 @@
 				"zh-Hant": "大不列顛暨北愛爾蘭聯合王國"
 			},
 			"short_name": {
+				"br": "RU",
 				"cy": "Y DU",
 				"el": "ΗΒ",
 				"fr": "RU",
@@ -25351,7 +25359,8 @@
 				"zh-Hant": "根西"
 			},
 			"official_name": {
-				"eo": "Voktujo Gernezejo"
+				"eo": "Voktujo Gernezejo",
+				"fr": "Bailliage de Guernesey"
 			}
 		},
 		"name": "Guernsey",
@@ -25578,11 +25587,13 @@
 			},
 			"official_name": {
 				"ar": "جمهورية غانا",
+				"br": "Republik Ghana",
 				"cs": "Ghanská republika",
 				"de": "Republik Ghana",
 				"en": "Republic of Ghana",
 				"es": "República de Ghana",
 				"fa": "جمهوری غنا",
+				"fr": "République du Ghana",
 				"gn": "Tavakuairetã Gána",
 				"pt": "República do Gana",
 				"ru": "Республика Гана"
@@ -30733,6 +30744,7 @@
 				"zu": "i-Ireland"
 			},
 			"official_name": {
+				"br": "Republik Iwerzhon",
 				"cs": "Irská republika",
 				"eo": "Respubliko de Irlando",
 				"fi": "Irlannin tasavalta",
@@ -32391,7 +32403,8 @@
 			},
 			"official_name": {
 				"ca": "Batllia de Jersey",
-				"eo": "Voktujo Ĵerzejo"
+				"eo": "Voktujo Ĵerzejo",
+				"fr": "Bailliage de Jersey"
 			}
 		},
 		"name": "Jersey",
@@ -37493,6 +37506,9 @@
 		"default_language": "ar",
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
 		"lang": {
+			"alt_name": {
+				"br": "Marok"
+			},
 			"name": {
 				"ar": "المغرب",
 				"ast": "Marruecos",
@@ -37679,6 +37695,7 @@
 			"official_name": {
 				"ar": "المغرب",
 				"ber": "ⵍⵎⵖⵔⵉⴱ",
+				"br": "Rouantelezh Maroko",
 				"ca": "Regne del Marroc",
 				"cs": "Marocké království",
 				"en": "Morocco",
@@ -42882,6 +42899,9 @@
 		"default_language": "es",
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
 		"lang": {
+			"alt_name": {
+				"br": "Nikaragwa"
+			},
 			"name": {
 				"ace": "Nikaragua",
 				"af": "Nicaragua",
@@ -43052,6 +43072,7 @@
 				"zu": "Nicaragua"
 			},
 			"official_name": {
+				"br": "Republik Nicaragua",
 				"ckb": "کۆماری نیکاراگوا",
 				"cs": "Nikaragujská republika",
 				"es": "República de Nicaragua",
@@ -46718,6 +46739,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
 		"lang": {
 			"alt_name": {
+				"br": "Bro-Bortugal",
 				"eo": "Portugalujo",
 				"la": "Lusitania"
 			},
@@ -46954,6 +46976,7 @@
 			},
 			"official_name": {
 				"ar": "الجمهورية البرتغالية",
+				"br": "Republik Portugal",
 				"ca": "República Portuguesa",
 				"ckb": "کۆماری پورتوگال",
 				"cs": "Portugalská republika",
@@ -46962,6 +46985,7 @@
 				"eo": "Portugala Respubliko",
 				"es": "República Portuguesa",
 				"fi": "Portugalin tasavalta",
+				"fr": "République portugaise",
 				"ku": "Komara Portûgal",
 				"ur": "جمہوریہ پرتگال",
 				"zh": "葡萄牙共和国",
@@ -52533,6 +52557,8 @@
 				"pl": "Suazi",
 				"ro": "Swaziland",
 				"ru": "Свазиленд",
+				"sr": "Свазиленд",
+				"sr-Latn": "Svazilend",
 				"tr": "Svaziland",
 				"uk": "Нгване;Свазіленд",
 				"vi": "E-xoa-ti-ni;Swaziland;Xoa-di-len"
