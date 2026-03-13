@@ -2429,7 +2429,6 @@
 				"ar": "الإمارات العربيّة المتّحدة",
 				"la": "Emiratus Arabici Uniti",
 				"pa": "ਸੰਯੁਕਤ ਅਰਬ ਅਮੀਰਾਤ",
-				"pl": "Zjednoczone Emiraty Arabskie",
 				"vi": "Các quốc gia ngừng bắn;Oman ngừng bắn"
 			},
 			"name": {
@@ -2581,7 +2580,7 @@
 				"pa": "ਸੰਯੁਕਤ ਅਰਬ ਇਮਰਾਤ",
 				"pag": "Emiratos diad Unido ya Arabo",
 				"pam": "Emiratos Arabes Unidos",
-				"pl": "Emiraty Arabskie",
+				"pl": "Zjednoczone Emiraty Arabskie",
 				"pms": "Emirà Àrabo Unì",
 				"pnb": "متحدہ عرب امارات",
 				"ps": "عربي متحده امارات",
@@ -5054,7 +5053,7 @@
 				"fi": "Itävalta",
 				"fo": "Eysturríki",
 				"fr": "Autriche",
-				"frp": "Ôtrich·e",
+				"frp": "Ôtriche",
 				"frr": "Ååstenrik",
 				"fur": "Austrie",
 				"fy": "Eastenryk",
@@ -6011,6 +6010,7 @@
 				"vo": "Rundiyän",
 				"vro": "Burundi",
 				"wa": "Bouroundi",
+				"wal": "Burunddii",
 				"war": "Burundi",
 				"wo": "Buruundi",
 				"wuu": "布隆迪",
@@ -6194,7 +6194,7 @@
 		"timezone": "Africa/Bujumbura",
 		"website": null,
 		"wikidata": "Q967",
-		"wikipedia": "rn:Uburundi"
+		"wikipedia": "en:Burundi"
 	},
 	"BEL": {
 		"ISO3166-1": {
@@ -13194,6 +13194,7 @@
 				"vo": "Zvanän",
 				"vro": "Botswana",
 				"wa": "Boswana",
+				"wal": "Botiswaana",
 				"war": "Botswana",
 				"wo": "Botswana",
 				"wuu": "博茨瓦纳",
@@ -13441,7 +13442,7 @@
 		"timezone": "Africa/Gaborone",
 		"website": null,
 		"wikidata": "Q963",
-		"wikipedia": "tn:Botswana"
+		"wikipedia": "en:Botswana"
 	},
 	"CAF": {
 		"ISO3166-1": {
@@ -16302,6 +16303,7 @@
 				"vo": "Kongoän (Repüblikän Demokratik)",
 				"vro": "Kongo Demokraatlik Vabariik",
 				"wa": "Republike democratike do Congo",
+				"wal": "Diimokraatike Ripaablike Konggo",
 				"war": "Republika Demokratika han Congo",
 				"wo": "Republik Demokaraatik bu Kongóo",
 				"wuu": "刚果民主共和国",
@@ -16373,7 +16375,7 @@
 		"timezone": null,
 		"website": null,
 		"wikidata": "Q974",
-		"wikipedia": "fr:République démocratique du Congo"
+		"wikipedia": "en:Democratic Republic of the Congo"
 	},
 	"COG": {
 		"ISO3166-1": {
@@ -17325,6 +17327,7 @@
 				"eo": "Kaboverdo",
 				"es": "Cabo Verde",
 				"fr": "Cap-Vert",
+				"frp": "Chavon-Vèrd",
 				"fy": "Kaapverdje",
 				"gn": "Kávo Véyde",
 				"hr": "Zelenortski Otoci",
@@ -19407,6 +19410,7 @@
 				"vi": "Djibouti",
 				"vo": "Cibutän",
 				"vro": "Djibouti",
+				"wal": "Jubbuute",
 				"war": "Djibouti",
 				"wo": "Jibuti",
 				"xal": "Җибудин Орн",
@@ -19441,7 +19445,7 @@
 		"timezone": "Africa/Djibouti",
 		"website": null,
 		"wikidata": "Q977",
-		"wikipedia": "ar:جيبوتي"
+		"wikipedia": "en:Djibouti"
 	},
 	"DMA": {
 		"ISO3166-1": {
@@ -21177,6 +21181,7 @@
 				"vo": "Lägüptän",
 				"vro": "Egüptüs",
 				"wa": "Edjipe",
+				"wal": "Gibixe",
 				"war": "Ehipto",
 				"wo": "Isipt",
 				"wuu": "埃及",
@@ -21400,7 +21405,7 @@
 		"timezone": "Africa/Cairo",
 		"website": null,
 		"wikidata": "Q79",
-		"wikipedia": "ar:مصر"
+		"wikipedia": "en:Egypt"
 	},
 	"ERI": {
 		"ISO3166-1": {
@@ -21600,6 +21605,7 @@
 				"vi": "Eritrea",
 				"vo": "Lerüträn",
 				"vro": "Eritrea",
+				"wal": "Erttera",
 				"war": "Eritrea",
 				"wo": "Eritere",
 				"xal": "Эритреймудин Орн",
@@ -21643,7 +21649,7 @@
 		"timezone": "Africa/Asmara",
 		"website": null,
 		"wikidata": "Q986",
-		"wikipedia": "ar:إريتريا"
+		"wikipedia": "en:Eritrea"
 	},
 	"ESH": {
 		"ISO3166-1": {
@@ -22893,7 +22899,7 @@
 		"timezone": "Africa/Addis_Ababa",
 		"website": null,
 		"wikidata": "Q115",
-		"wikipedia": "am:ኢትዮጵያ"
+		"wikipedia": "en:Ethiopia"
 	},
 	"FIN": {
 		"ISO3166-1": {
@@ -25626,6 +25632,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/02/Flag_of_Gibraltar.svg",
 		"lang": {
 			"alt_name": {
+				"fur": "Gibiltiere",
 				"ur": "جبل الطارق"
 			},
 			"name": {
@@ -25667,6 +25674,7 @@
 				"fr": "Gibraltar",
 				"frp": "Gibraltar",
 				"frr": "Gibraltaar",
+				"fur": "Gjibraltar",
 				"fy": "Gibraltar",
 				"ga": "Giobráltar",
 				"gd": "Giobraltair",
@@ -26004,7 +26012,7 @@
 		},
 		"timezone": "Africa/Conakry",
 		"website": null,
-		"wikidata": "Q1006",
+		"wikidata": null,
 		"wikipedia": "en:Guinea"
 	},
 	"GLP": {
@@ -29793,7 +29801,7 @@
 		},
 		"name": "Indonesia",
 		"official_name": "Republik Indonesia",
-		"relation_id": 304751,
+		"relation_id": 20317643,
 		"tags": {
 			"admin_level": "2",
 			"alt_name": "Negara Kesatuan Republik Indonesia",
@@ -32236,6 +32244,7 @@
 				"fy": "Jamaika",
 				"gn": "Hamáika",
 				"hr": "Jamajka",
+				"hu": "Jamaica",
 				"io": "Jamaika",
 				"is": "Jamaíka",
 				"it": "Giamaica",
@@ -33403,6 +33412,7 @@
 				"vi": "Kenya",
 				"vo": "Kenyän",
 				"vro": "Kenya",
+				"wal": "Keeniya",
 				"war": "Kenya",
 				"wo": "Keeñaa",
 				"wuu": "肯尼亚",
@@ -33877,7 +33887,7 @@
 				"uk": "Камбоджа",
 				"ur": "کمبوڈیا",
 				"uz": "Kambodja",
-				"vi": "Cao Miên",
+				"vi": "Campuchia",
 				"vlca": "Cambodja",
 				"vo": "Kambocän",
 				"vro": "Kambodža",
@@ -35736,6 +35746,7 @@
 				"gn": "Liechytenteĩ",
 				"grc": "Λευχεντία",
 				"hr": "Lihtenštajn",
+				"hu": "Liechtenstein",
 				"ia": "Liechtenstein",
 				"io": "Liechtenstein",
 				"is": "Liechtenstein",
@@ -35785,6 +35796,7 @@
 				"fr": "Principauté du Liechtenstein",
 				"gn": "Liechytenteĩ Mburuvichavete ra'y rekuái",
 				"grc": "Πριγκιπᾶτον τῆς Λευχεντίας",
+				"hu": "Liechtensteini Fejedelemség",
 				"is": "Furstadæmið Liechtenstein",
 				"la": "Principatus Lichtensteni",
 				"mk": "Кнежевство Лихтенштајн",
@@ -39072,6 +39084,7 @@
 				"he": "מקדוניה הצפונית",
 				"hif": "Macedonia",
 				"hr": "Sjeverna Makedonija",
+				"hsb": "Sewjerna Makedonska",
 				"hu": "Észak-Macedónia",
 				"hy": "Մակեդոնիայի Հանրապետություն",
 				"is": "Norður-Makedónía",
@@ -39243,6 +39256,7 @@
 				"fy": "Masedoanje",
 				"he": "מקדוניה",
 				"hr": "Makedonija",
+				"hsb": "Makedonska",
 				"ja": "マケドニア",
 				"mk": "Македонија",
 				"nl": "Macedonië",
@@ -40701,6 +40715,7 @@
 				"vi": "Mozambique",
 				"vo": "Mozambikän",
 				"vro": "Mosambiik",
+				"wal": "Moozambike",
 				"war": "Mozambique",
 				"wo": "Mosambik",
 				"xal": "Мозамбикудин Орн",
@@ -40729,7 +40744,7 @@
 		"timezone": "Africa/Maputo",
 		"website": null,
 		"wikidata": "Q1029",
-		"wikipedia": "pt:Moçambique"
+		"wikipedia": "en:Mozambique"
 	},
 	"MRT": {
 		"ISO3166-1": {
@@ -40884,6 +40899,7 @@
 				"vi": "Mauritanie",
 				"vo": "Moritän",
 				"wa": "Moritanreye",
+				"wal": "Mawuritaaniya",
 				"wo": "Gànnaar",
 				"xh": "Mauritania",
 				"yi": "מאריטאניע",
@@ -40921,7 +40937,7 @@
 		"timezone": "Africa/Nouakchott",
 		"website": null,
 		"wikidata": "Q1025",
-		"wikipedia": "ar:موريتانيا"
+		"wikipedia": "en:Mauritania"
 	},
 	"MSR": {
 		"ISO3166-1": {
@@ -41543,6 +41559,7 @@
 				"vi": "Malawi",
 				"vo": "Malaviyän",
 				"vro": "Malawi",
+				"wal": "Malawii",
 				"war": "Malawi",
 				"wo": "Malawi",
 				"xal": "Малавудин Орн",
@@ -43121,6 +43138,7 @@
 				"fr": "Niue",
 				"he": "ניואה",
 				"hr": "Niue",
+				"hu": "Niue",
 				"ja": "ニウエ",
 				"ka": "ნიუე",
 				"kk": "Ниуе",
@@ -44065,6 +44083,7 @@
 				"hr": "Nauru",
 				"hsb": "Nauru",
 				"ht": "Nayouwou",
+				"hu": "Nauru",
 				"hy": "Նաուրու",
 				"ia": "Nauru",
 				"id": "Naúrú",
@@ -44141,6 +44160,7 @@
 				"gcr": "Répiblik di Nauru",
 				"gn": "Tavakuairetā Náuru",
 				"hr": "Republika Nauru",
+				"hu": "Naurui Köztársaság",
 				"ia": "Republica de Nauru",
 				"io": "Ripublik Naoero",
 				"is": "Lýðveldið Naúrú",
@@ -45117,6 +45137,7 @@
 				"vi": "Panama",
 				"vo": "Panamän",
 				"vro": "Panama",
+				"wal": "Paannama",
 				"war": "Panamá",
 				"wo": "Panamaa",
 				"wuu": "巴拿马",
@@ -45146,7 +45167,7 @@
 		"timezone": "America/Panama",
 		"website": null,
 		"wikidata": "Q804",
-		"wikipedia": "es:Panamá"
+		"wikipedia": "en:Panama"
 	},
 	"PCN": {
 		"ISO3166-1": {
@@ -45526,6 +45547,7 @@
 				"bug": "Filipina",
 				"bxr": "Филиппин",
 				"ca": "Filipines",
+				"cbk": "Filipinas",
 				"cbk-zam": "Filipinas",
 				"cdo": "Hĭ-lĭ-pĭng",
 				"ce": "Филиппин",
@@ -45773,6 +45795,7 @@
 				"fr": "Palaos",
 				"gn": "Paláu",
 				"hr": "Palau",
+				"hu": "Palau",
 				"ia": "Palau",
 				"io": "Palau",
 				"is": "Palaú",
@@ -45818,6 +45841,7 @@
 				"fr": "République des Palaos",
 				"gn": "Tavakuairetã Paláu",
 				"hr": "Republika Palau",
+				"hu": "Palaui Köztársaság",
 				"is": "Lýðveldið Palaú",
 				"ko": "팔라우 공화국",
 				"pau": "Beluu er a Belau",
@@ -47356,9 +47380,9 @@
 		"official_name": "دولة فلسطين",
 		"relation_id": 1703814,
 		"tags": {
-			"admin_level": "2",
 			"alt_name": "فلسطين",
 			"description": "מיפוי שטחי הרשות הפלסטינית B + C + עזה, כאשר לכל אחד מהם יש מיפוי משלו. מיקום התגית הוא במרכז הגאוגרפי של כל השטח ולכן נופל מחוץ לשטחי הרשות.",
+			"description:en": "Mapping of the Palestinian Authority areas B + C + Gaza, each with its own mapping. The location of the tag is in the geographical center of the entire area and therefore falls outside the PA territories.",
 			"description:he": "מיפוי שטחי הרשות הפלסטינית B + C + עזה, כאשר לכל אחד מהם יש מיפוי משלו. מיקום התגית הוא במרכז הגאוגרפי של כל השטח ולכן נופל מחוץ לשטחי הרשות.",
 			"disputed": "yes",
 			"driving_side": "right",
@@ -47367,8 +47391,8 @@
 		},
 		"timezone": null,
 		"website": null,
-		"wikidata": "Q42620",
-		"wikipedia": "en:Palestinian Authority"
+		"wikidata": "Q219060",
+		"wikipedia": "ar:دولة فلسطين"
 	},
 	"PYF": {
 		"ISO3166-1": {
@@ -48687,6 +48711,7 @@
 				"vi": "Rwanda",
 				"vo": "Ruandän",
 				"vro": "Rwanda",
+				"wal": "Ruwandda",
 				"war": "Rwanda",
 				"wo": "Ruwandaa",
 				"xal": "Руһандин Орн",
@@ -49170,6 +49195,7 @@
 				"vi": "Sudan",
 				"vo": "Sudän",
 				"vro": "Sudaan",
+				"wal": "Suudaane",
 				"war": "Sudan",
 				"wo": "Sudaan",
 				"wuu": "苏丹",
@@ -49218,7 +49244,7 @@
 		"timezone": "Africa/Khartoum",
 		"website": null,
 		"wikidata": "Q1049",
-		"wikipedia": "ar:السودان"
+		"wikipedia": "en:Sudan"
 	},
 	"SEN": {
 		"ISO3166-1": {
@@ -49779,6 +49805,7 @@
 		"relation_id": 1983628,
 		"tags": {
 			"admin_level": "2",
+			"postal_code": "SIQQ 1ZZ",
 			"source:name:br": "ofis publik ar brezhoneg"
 		},
 		"timezone": "Atlantic/South_Georgia",
@@ -50487,10 +50514,12 @@
 				"fa": "سان مارینو",
 				"fi": "San Marino",
 				"fr": "Saint-Marin",
+				"frp": "Sant-Marin",
 				"fy": "San Marino",
 				"gn": "San Maríno",
 				"grc": "Ἅγιος Μαρῖνος",
 				"hr": "San Marino",
+				"hu": "San Marino",
 				"ia": "San Marino",
 				"io": "San Marino",
 				"is": "San Marínó",
@@ -50547,6 +50576,7 @@
 				"fa": "جمهوری سان مارینو",
 				"fr": "République de Saint-Marin",
 				"grc": "Πολιτεία τοῦ Ἁγίου Μαρίνου",
+				"hu": "San Marino Köztársaság",
 				"ia": "Serenissime Republica de San Marino",
 				"is": "Lýðveldið San Marínó",
 				"kk-Arab": "سان مارىينو مارتەبەلى رەسپۋبلىيكاسى",
@@ -50767,6 +50797,7 @@
 				"vi": "Somalia",
 				"vo": "Somalän",
 				"vro": "Somaalia",
+				"wal": "Sumaaliya",
 				"war": "Somalia",
 				"wo": "Somali",
 				"wuu": "索马里",
@@ -50799,7 +50830,7 @@
 		"timezone": "Africa/Mogadishu",
 		"website": null,
 		"wikidata": "Q1045",
-		"wikipedia": "ar:الصومال"
+		"wikipedia": "en:Somalia"
 	},
 	"SPM": {
 		"ISO3166-1": {
@@ -51390,6 +51421,7 @@
 				"vi": "Nam Sudan",
 				"vls": "Zuud-Soedan",
 				"vo": "Sulüda-Sudän",
+				"wal": "Tohossa Suudaane",
 				"war": "Salatan nga Sudan",
 				"yi": "דרום סודאן",
 				"yo": "Gúúsù Sudan",
@@ -51457,6 +51489,7 @@
 				"gn": "Santo Tome ha Príncipe",
 				"grc": "Ἅγιος Θωμᾶς καὶ Κοίρανος",
 				"hr": "Sveti Toma i Prinsipe",
+				"hu": "São Tomé és Príncipe",
 				"io": "San-Tome e Principe",
 				"is": "Saó Tóme og Prinsípe",
 				"it": "São Tomé e Príncipe",
@@ -51489,6 +51522,7 @@
 				"es": "República Democrática de Santo Tomé y Príncipe",
 				"gn": "Tavakuairetã Jekopytyjojáva Santo Tome ha Príncipe",
 				"hr": "Demokratska Republika Sveti Toma i Prinsipe",
+				"hu": "São Tomé és Príncipe Demokratikus Köztársaság",
 				"is": "Lýðstjórnarlýðveldið Saó Tóme og Prinsípe",
 				"pt": "República Democrática de São Tomé e Príncipe",
 				"zh": "圣多美和普林西比民主共和国 / 聖多美普林西比民主共和國",
@@ -51505,7 +51539,7 @@
 		},
 		"timezone": "Africa/Sao_Tome",
 		"website": null,
-		"wikidata": "Q1039",
+		"wikidata": null,
 		"wikipedia": "pt:São Tomé e Príncipe"
 	},
 	"SUR": {
@@ -51703,6 +51737,7 @@
 				"vi": "Surinam",
 				"vo": "Surinän",
 				"vro": "Suriname",
+				"wal": "Sariname",
 				"war": "Surinam",
 				"wo": "Surinaam",
 				"wuu": "苏里南",
@@ -57188,6 +57223,7 @@
 				"vi": "Tanzania",
 				"vo": "Tansanän",
 				"vro": "Tansaania",
+				"wal": "Tanzaaniya",
 				"war": "Tanzania",
 				"wo": "Tansani",
 				"xal": "Танзнмудин Ниицәтә Орн",
@@ -57423,6 +57459,7 @@
 				"vi": "Uganda",
 				"vo": "Lugandayän",
 				"vro": "Uganda",
+				"wal": "Uugandda",
 				"war": "Uganda",
 				"wo": "Ugandaa",
 				"xal": "Угандин Орн",
@@ -59815,6 +59852,7 @@
 				"hi": "वानूअतु",
 				"hr": "Vanuatu",
 				"ht": "Vanwatou",
+				"hu": "Vanuatu",
 				"hy": "Վանուատու",
 				"is": "Vanúatú",
 				"it": "Vanuatu",
@@ -59878,9 +59916,13 @@
 				"es": "República de Vanuatu",
 				"fr": "République de Vanuatu",
 				"gn": "Tavakuairetã Vanuátu",
+				"hu": "Vanuatui Köztársaság",
 				"pl": "Republika Vanuatu",
 				"pt": "República de Vanuatu",
 				"ru": "Республика Вануату"
+			},
+			"old_name": {
+				"hu": "Új-Hebridák"
 			}
 		},
 		"name": "Vanuatu",
@@ -59898,7 +59940,7 @@
 		"timezone": "Pacific/Efate",
 		"website": null,
 		"wikidata": "Q686",
-		"wikipedia": "bi:Ripablik blong Vanuatu"
+		"wikipedia": "en:Vanuatu"
 	},
 	"WLF": {
 		"ISO3166-1": {
