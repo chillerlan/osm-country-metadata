@@ -29801,7 +29801,7 @@
 		},
 		"name": "Indonesia",
 		"official_name": "Republik Indonesia",
-		"relation_id": 20317643,
+		"relation_id": 20354323,
 		"tags": {
 			"admin_level": "2",
 			"alt_name": "Negara Kesatuan Republik Indonesia",
@@ -39042,6 +39042,7 @@
 		"lang": {
 			"alt_name": {
 				"ar": "مقدونيا الشمالية",
+				"br": "Republik Yougoslaviat Kozh Makedonia",
 				"eo": "Nord-Makedonujo",
 				"vi": "Bắc Ma-xê-đô-ni-a;Ma-xê-đô-ni-a;Bắc Mác-kê-đôn-ni-a;Mác-kê-đôn-ni-a"
 			},
@@ -39058,6 +39059,7 @@
 				"ar": "شمال مقدونيا",
 				"bg": "Северна Македония",
 				"bn": "উত্তর মেসিডোনিয়া",
+				"br": "Makedonia an Norzh",
 				"bs": "Sjeverna Makedonija",
 				"ca": "Macedònia del Nord",
 				"chr": "ᏧᏴᏢ ᎹᏎᏙᏂᏯ",
@@ -39198,6 +39200,7 @@
 			"official_name": {
 				"ar": "جمهورية شمال مقدونيا",
 				"bg": "Република Северна Македония",
+				"br": "Republik Makedonia an Norzh",
 				"bs": "Republika Sjeverna Makedonija",
 				"ca": "República de Macedònia del Nord",
 				"cnr": "Republika Śeverna Makedonija",
@@ -39242,6 +39245,7 @@
 			"old_name": {
 				"ar": "مقدونيا",
 				"bg": "Македония",
+				"br": "Makedonia",
 				"bs": "Makedonija",
 				"ca": "Macedònia",
 				"cs": "Makedonie",
@@ -59309,6 +59313,7 @@
 				"vo": "Venesolän",
 				"vro": "Venezuela",
 				"wa": "Venezwela",
+				"wal": "Venezuweela",
 				"war": "Venezuela",
 				"wo": "Benesuwela",
 				"wuu": "委内瑞拉",
@@ -59353,7 +59358,7 @@
 		"timezone": "America/Caracas",
 		"website": null,
 		"wikidata": "Q717",
-		"wikipedia": "es:Venezuela"
+		"wikipedia": "en:Venezuela"
 	},
 	"VGB": {
 		"ISO3166-1": {
