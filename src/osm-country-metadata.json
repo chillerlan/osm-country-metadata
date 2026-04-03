@@ -2655,13 +2655,17 @@
 			},
 			"official_name": {
 				"ar": "دولة الإمارات العربية المتحدة",
+				"ckb": "دەوڵەتی میرنشینە یەکگرتووە عەرەبییەکان",
 				"cs": "Stát Spojené arabské emiráty",
+				"ku": "Dewleta Mîrnşînên Yekbû Yên Erebî",
 				"pl": "Państwo Zjednoczonych Emiratów Arabskich"
 			},
 			"short_name": {
 				"ar": "الإمارات",
 				"bg": "ОАЕ",
+				"ckb": "ئیمارات",
 				"eo": "UAE",
+				"ku": "Îmarat",
 				"pl": "ZEA",
 				"ru": "ОАЭ",
 				"uk": "ОАЕ"
@@ -6211,6 +6215,7 @@
 			"alt_name": {
 				"ay": "Bilgasuyu",
 				"bar": "Bejgien",
+				"br": "Beljik",
 				"ckb": "بلژیک",
 				"eo": "Belgujo",
 				"frp": "Bèlg·ica",
@@ -6472,7 +6477,7 @@
 				"tzl": "Belxhíc",
 				"udm": "Бельгия",
 				"ug": "بېلگىيە",
-				"uk": "Бельґія",
+				"uk": "Бельгія",
 				"ur": "بلجیئم",
 				"uz": "Belgiya",
 				"vec": "Belgio",
@@ -10297,6 +10302,7 @@
 			"admin_level": "2",
 			"description": "Дзяржава ва Усходняй Еўропе, на захадзе Усходне-Еўрапейскай раўніны.",
 			"description:be": "Дзяржава ва Усходняй Еўропе, на захадзе Усходне-Еўрапейскай раўніны.",
+			"driving_side": "right",
 			"headlight": "recommended",
 			"headlight:conditional": "required @ 25 Aug - 5 Sept",
 			"int_name": "Belarus",
@@ -11779,9 +11785,24 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "right",
+			"headlight": "not_required",
+			"headlight:conditional": "required @ (single carriageways located at rural areas, tunnel, wet, fog, night, unlit ways, motorcycle, moped, mofa, psv, vehicles without Daytime Running Lights)",
+			"headlight:related_law": "Lei Federal Nº 14.071/2020",
+			"headlight:related_law:website": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14071.htm",
 			"int_name": "Brazil",
 			"population": "208714806",
 			"population:date": "2018-07-01",
+			"red_turn:right": "no",
+			"red_turn:right:conditional": "yes @ traffic sign",
+			"red_turn:right:related_law": "Lei Federal Nº 14.071/2020",
+			"red_turn:right:related_law:website": "https://www.planalto.gov.br/ccivil_03/_ato2019-2022/2020/lei/l14071.htm",
+			"smoking": "yes",
+			"smoking:conditional": "no @ all partially and totally covered collective areas",
+			"smoking:related_law": "Decreto Federal Nº 8.262/2014",
+			"smoking:related_law:website": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8262.htm",
+			"smoking_area": "no",
+			"smoking_area:related_law": "Decreto Federal Nº 8.262/2014",
+			"smoking_area:related_law:website": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/decreto/d8262.htm",
 			"wikimedia_commons": "Category:Brazil"
 		},
 		"timezone": null,
@@ -20586,7 +20607,7 @@
 				"ru": "АНДР"
 			}
 		},
-		"name": "Algérie ⵍⵣⵣⴰⵢⴻⵔ الجزائر",
+		"name": "ⵍⵣⵣⴰⵢⴻⵔ الجزائر",
 		"official_name": "République algérienne démocratique et populaire",
 		"relation_id": 192756,
 		"tags": {
@@ -29801,7 +29822,7 @@
 		},
 		"name": "Indonesia",
 		"official_name": "Republik Indonesia",
-		"relation_id": 20354323,
+		"relation_id": 20333713,
 		"tags": {
 			"admin_level": "2",
 			"alt_name": "Negara Kesatuan Republik Indonesia",
@@ -32966,7 +32987,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
 		"lang": {
 			"alt_name": {
-				"ar": "قزخستان;قزاقستان",
+				"ar": "قزخستان;;كزخستان;كازاخستان",
 				"br": "Kazac'hstan",
 				"eo": "Kazaĥujo;Kazaĥstano",
 				"it": "Cazachistan",
@@ -32980,12 +33001,14 @@
 				"am": "ካዛክስታን",
 				"an": "Cazaquistán",
 				"ang": "Casahstan",
-				"ar": "كازاخستان",
+				"ar": "قزاقستان",
 				"arc": "ܩܙܩܣܛܐܢ",
 				"arz": "كازاخستان",
 				"ast": "Kazakstán",
 				"av": "Хъазахъистан",
 				"az": "Qazaxıstan",
+				"az-Arab": "قازاخیستان",
+				"azb": "قازاخیستان",
 				"ba": "Ҡаҙағстан",
 				"bar": "Kasachstan",
 				"bat-smg": "Kazakstans",
@@ -33065,12 +33088,14 @@
 				"kbd": "Къазахъстэн",
 				"kg": "Kazakhstan",
 				"kk": "Қазақстан",
+				"kk-Arab": "قازاقستان",
 				"kl": "Kasakhstani",
 				"km": "កាសាក់ស្ថាន",
 				"kn": "ಕಜಾಕಸ್ಥಾನ್",
 				"ko": "카자흐스탄",
 				"koi": "Казахстан",
 				"krc": "Къазакъстан",
+				"ks": "قازقستان",
 				"ku": "Qazaxistan",
 				"kv": "Казахстан",
 				"kw": "Pow Kazagh",
@@ -33151,6 +33176,7 @@
 				"su": "Kazastan",
 				"sv": "Kazakstan",
 				"sw": "Kazakhstan",
+				"syc": "ܩܙܩܣܛܐܢ",
 				"szl": "Kazachstōn",
 				"ta": "கசக்ஸ்தான்",
 				"te": "కజకస్తాన్",
@@ -33185,11 +33211,13 @@
 				"zh-Hant": "哈薩克"
 			},
 			"official_name": {
-				"ar": "جمهورية كازاخستان",
+				"ar": "جمهورية قزاقستان",
 				"cs": "Republika Kazachstán",
+				"de": "Republik Kasachstan",
 				"en": "Republic of Kazakhstan",
 				"eo": "Respubliko Kazaĥio",
 				"es": "República de Kazajistán",
+				"fr": "République du Kazakhstan",
 				"kk": "Қазақстан Республикасы",
 				"pl": "Republika Kazachstanu",
 				"ru": "Республика Казахстан",
@@ -33203,7 +33231,7 @@
 		"relation_id": 214665,
 		"tags": {
 			"admin_level": "2",
-			"int_name": "Kazakhstan",
+			"int_name": "Qazaqstan",
 			"int_ref": "KZ",
 			"population": "20495975",
 			"population:date": "2026-01-01",
@@ -44168,6 +44196,7 @@
 				"ia": "Republica de Nauru",
 				"io": "Ripublik Naoero",
 				"is": "Lýðveldið Naúrú",
+				"ja": "ナウル共和国",
 				"nl": "Republiek Nauru",
 				"pt": "República de Nauru",
 				"ru": "Республика Науру",
@@ -47350,9 +47379,9 @@
 				"ur": "دولت فلسطین",
 				"wuu": "巴勒斯坦国",
 				"yue": "巴勒斯坦國",
-				"zh": "巴勒斯坦",
-				"zh-Hans": "巴勒斯坦",
-				"zh-Hant": "巴勒斯坦"
+				"zh": "巴勒斯坦国",
+				"zh-Hans": "巴勒斯坦国",
+				"zh-Hant": "巴勒斯坦國"
 			},
 			"official_name": {
 				"ar": "دولة فلسطين",
@@ -47384,7 +47413,7 @@
 		"official_name": "دولة فلسطين",
 		"relation_id": 1703814,
 		"tags": {
-			"alt_name": "فلسطين",
+			"alt_name": "Filistin",
 			"description": "מיפוי שטחי הרשות הפלסטינית B + C + עזה, כאשר לכל אחד מהם יש מיפוי משלו. מיקום התגית הוא במרכז הגאוגרפי של כל השטח ולכן נופל מחוץ לשטחי הרשות.",
 			"description:en": "Mapping of the Palestinian Authority areas B + C + Gaza, each with its own mapping. The location of the tag is in the geographical center of the entire area and therefore falls outside the PA territories.",
 			"description:he": "מיפוי שטחי הרשות הפלסטינית B + C + עזה, כאשר לכל אחד מהם יש מיפוי משלו. מיקום התגית הוא במרכז הגאוגרפי של כל השטח ולכן נופל מחוץ לשטחי הרשות.",
@@ -48538,7 +48567,7 @@
 		"ISO3166-2": null,
 		"capital": null,
 		"currency": "RWF",
-		"default_language": null,
+		"default_language": "en",
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
 		"lang": {
 			"name": {
