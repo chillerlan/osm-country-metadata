@@ -30262,6 +30262,7 @@
 				"vo": "Lindän",
 				"vro": "India",
 				"wa": "Inde",
+				"wal": "Hindde",
 				"war": "Indya",
 				"wo": "End",
 				"wuu": "印度",
@@ -30332,7 +30333,7 @@
 		"timezone": "Asia/Kolkata",
 		"website": null,
 		"wikidata": "Q668",
-		"wikipedia": "hi:भारत"
+		"wikipedia": "en:India"
 	},
 	"IOT": {
 		"ISO3166-1": {
