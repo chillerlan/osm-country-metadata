@@ -4769,6 +4769,7 @@
 				"vo": "Laustralän",
 				"vro": "Austraalia",
 				"wa": "Ostraleye",
+				"wal": "Awusttireeliya",
 				"war": "Australya",
 				"wo": "Óstraali",
 				"wuu": "澳大利亚",
@@ -10304,7 +10305,7 @@
 			"description:be": "Дзяржава ва Усходняй Еўропе, на захадзе Усходне-Еўрапейскай раўніны.",
 			"driving_side": "right",
 			"headlight": "recommended",
-			"headlight:conditional": "required @ 25 Aug - 5 Sept",
+			"headlight:conditional": "required @ Aug 25-Sep 05",
 			"int_name": "Belarus",
 			"int_ref": "BY",
 			"population": "9109280",
@@ -23401,6 +23402,7 @@
 				"vi": "Fiji",
 				"vo": "Ficiyuäns",
 				"vro": "Fidži",
+				"wal": "Fiijii",
 				"war": "Fiyi",
 				"wo": "Fiiji",
 				"xal": "Пуҗи Арлин Орн",
@@ -24292,6 +24294,7 @@
 				"vep": "Federativižed Mikronezijan Valdkundad",
 				"vi": "Liên bang Micronesia",
 				"vo": "Smala-Seanuäns",
+				"wal": "Maykirooniizhiya",
 				"war": "Micronesia",
 				"wo": "Réew yu Bennoo yu Mikronesi",
 				"wuu": "密克羅尼西亞聯邦",
@@ -31888,6 +31891,7 @@
 				"vo": "Yisraelän",
 				"vro": "Iisrael",
 				"wa": "Israyel",
+				"wal": "Israa'eele",
 				"war": "Israel",
 				"wo": "Israayil",
 				"wuu": "以色列",
@@ -47378,6 +47382,7 @@
 				"tr": "Filistin Bölgesi",
 				"uk": "Території Палестини",
 				"ur": "دولت فلسطین",
+				"wal": "Pilisxxeeme",
 				"wuu": "巴勒斯坦国",
 				"yue": "巴勒斯坦國",
 				"zh": "巴勒斯坦国",
@@ -47426,7 +47431,7 @@
 		"timezone": null,
 		"website": null,
 		"wikidata": "Q219060",
-		"wikipedia": "ar:دولة فلسطين"
+		"wikipedia": "en:Palestine"
 	},
 	"PYF": {
 		"ISO3166-1": {
@@ -54414,7 +54419,7 @@
 		"timezone": "Asia/Bangkok",
 		"website": null,
 		"wikidata": "Q869",
-		"wikipedia": "en:Thailand"
+		"wikipedia": "th:ประเทศไทย"
 	},
 	"TJK": {
 		"ISO3166-1": {
