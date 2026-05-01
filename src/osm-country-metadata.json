@@ -627,7 +627,8 @@
 			"admin_level": "2",
 			"coat_of_arms": "File:Arms of the Islamic Emirate of Afghanistan.svg",
 			"driving_side": "right",
-			"population": "32738376"
+			"population": "32738376",
+			"wikimedia_commons": "Category:Afghanistan"
 		},
 		"timezone": "Asia/Kabul",
 		"website": null,
@@ -1101,7 +1102,8 @@
 		"tags": {
 			"admin_level": "2",
 			"int_name": "Angola",
-			"population": "12531357"
+			"population": "12531357",
+			"wikimedia_commons": "Category:Angola"
 		},
 		"timezone": "Africa/Luanda",
 		"website": null,
@@ -1235,7 +1237,8 @@
 		"relation_id": 2177161,
 		"tags": {
 			"admin_level": "2",
-			"population": "15423"
+			"population": "15423",
+			"wikimedia_commons": "Category:Anguilla"
 		},
 		"timezone": "America/Anguilla",
 		"website": null,
@@ -1916,7 +1919,7 @@
 				"en": "Principality of the Valleys of Andorra",
 				"gd": "Prionnsalachd Glinntean Andorra",
 				"hi": "प्रिंसिपालिटी ऑफ़ वैली ऑफ़ अंडोरा",
-				"hu": "Andorrai Fejedelemség",
+				"hu": "Andorrai Hercegség",
 				"kab": "Tageldunt n iɣzṛawen n Andorra",
 				"kn": "ಅಂಡೋರ ರಾಜ್ಯ",
 				"mt": "Prinċipalità tal-Widien tal-Andorra",
@@ -2279,7 +2282,7 @@
 				"hi": "प्रिंसिपालिटी ऑफ़ अंडोरा",
 				"hr": "Kneževina Andora",
 				"hsb": "Wjerchowstwo Andorra",
-				"hu": "Andorrai Hercegség",
+				"hu": "Andorrai Fejedelemség",
 				"ia": "Principato de Andorra",
 				"id": "Kepangeranan Andorra",
 				"ilo": "Principalidad ti Andorra",
@@ -2407,7 +2410,8 @@
 			"land_area": "administrative",
 			"population": "83888",
 			"source:name:oc": "ieo-bdtopoc",
-			"source:population": "CIA World Factbook 2009"
+			"source:population": "CIA World Factbook 2009",
+			"wikimedia_commons": "Category:Andorra"
 		},
 		"timezone": "Europe/Andorra",
 		"website": null,
@@ -2428,9 +2432,10 @@
 		"lang": {
 			"alt_name": {
 				"ar": "الإمارات العربيّة المتّحدة",
+				"hu": "Arab Emírségek",
 				"la": "Emiratus Arabici Uniti",
 				"pa": "ਸੰਯੁਕਤ ਅਰਬ ਅਮੀਰਾਤ",
-				"vi": "Các quốc gia ngừng bắn;Oman ngừng bắn"
+				"vi": "Các Tiểu vương quốc Ả Rập Thống nhất"
 			},
 			"name": {
 				"ace": "Uni Emirat Arab",
@@ -2634,7 +2639,7 @@
 				"uz": "Birlashgan Arab Amirliklari",
 				"vec": "Emirai Àrabi Unii",
 				"vep": "Araban Ühtenzoittud Valdkundad",
-				"vi": "Các Tiểu vương quốc Ả Rập Thống nhất",
+				"vi": "UAE",
 				"vo": "Lemiräns Larabik Pebalöl",
 				"vro": "Araabia Ütisemiraadiq",
 				"war": "Emiratos Arabes Unidos",
@@ -2659,13 +2664,15 @@
 				"ckb": "دەوڵەتی میرنشینە یەکگرتووە عەرەبییەکان",
 				"cs": "Stát Spojené arabské emiráty",
 				"ku": "Dewleta Mîrnşînên Yekbû Yên Erebî",
-				"pl": "Państwo Zjednoczonych Emiratów Arabskich"
+				"pl": "Państwo Zjednoczonych Emiratów Arabskich",
+				"vi": "Các Tiểu vương quốc Ả Rập Thống nhất"
 			},
 			"short_name": {
 				"ar": "الإمارات",
 				"bg": "ОАЕ",
 				"ckb": "ئیمارات",
 				"eo": "UAE",
+				"hu": "EAE",
 				"ku": "Îmarat",
 				"pl": "ZEA",
 				"ru": "ОАЭ",
@@ -2681,7 +2688,8 @@
 			"population": "4600000",
 			"ref": "AE",
 			"short_name": "الإمارات",
-			"state_code": "AE"
+			"state_code": "AE",
+			"wikimedia_commons": "Category:United Arab Emirates"
 		},
 		"timezone": "Asia/Dubai",
 		"website": null,
@@ -4491,7 +4499,8 @@
 			"driving_side": "left",
 			"int_name": "Antigua and Barbuda",
 			"population": "69842",
-			"source:name:oc": "Lo Congrès"
+			"source:name:oc": "Lo Congrès",
+			"wikimedia_commons": "Category:Antigua and Barbuda"
 		},
 		"timezone": "America/Antigua",
 		"website": null,
@@ -5252,6 +5261,7 @@
 				"cs": "Rakouská republika",
 				"el": "Δημοκρατία της Αυστρίας",
 				"eo": "Respubliko Aŭstrio",
+				"hu": "Osztrák Köztársaság",
 				"mi": "Whenua Ateria"
 			}
 		},
@@ -5270,7 +5280,8 @@
 			"population": "8932664",
 			"population:date": "2021-01-01",
 			"ref:at:gkz": "0",
-			"source:population": "statistik.at"
+			"source:population": "statistik.at",
+			"wikimedia_commons": "Category:Austria"
 		},
 		"timezone": "Europe/Vienna",
 		"website": null,
@@ -6196,7 +6207,8 @@
 		"tags": {
 			"admin_level": "2",
 			"int_name": "Burundi",
-			"population": "10557000"
+			"population": "10557000",
+			"wikimedia_commons": "Category:Burundi"
 		},
 		"timezone": "Africa/Bujumbura",
 		"website": null,
@@ -6947,7 +6959,7 @@
 				"uz": "Benin",
 				"vec": "Benin",
 				"vep": "Benin",
-				"vi": "Bénin",
+				"vi": "Benin",
 				"vo": "Beninän",
 				"vro": "Benin",
 				"war": "Benin",
@@ -7234,7 +7246,8 @@
 			"admin_level": "2",
 			"int_name": "Benin",
 			"old_name": "Dahomey",
-			"population": "8971944"
+			"population": "8971944",
+			"wikimedia_commons": "Category:Benin"
 		},
 		"timezone": null,
 		"website": null,
@@ -7484,7 +7497,7 @@
 				"uz": "Burkina Faso",
 				"vec": "Burkina Faso",
 				"vep": "Burkina Faso",
-				"vi": "Buốc-ki-na Pha-xô",
+				"vi": "Burkina Faso",
 				"vls": "Burkina Faso",
 				"vo": "Burkinän",
 				"vro": "Burkina Faso",
@@ -7658,7 +7671,8 @@
 			"old_name": "République de Haute-Volta",
 			"population": "16751455",
 			"short_name": "Burkina",
-			"source:name:oc": "Lo Congrès"
+			"source:name:oc": "Lo Congrès",
+			"wikimedia_commons": "Category:Burkina Faso"
 		},
 		"timezone": null,
 		"website": null,
@@ -7915,7 +7929,7 @@
 				"ve": "Bangladesh",
 				"vec": "Bangladesh",
 				"vep": "Bangladeš",
-				"vi": "Băng-la-đét",
+				"vi": "Bangladesh",
 				"vo": "Bangladejän",
 				"vro": "Bangladesh",
 				"war": "Bangladesh",
@@ -8113,7 +8127,7 @@
 				"he": "מזרח פקיסטן",
 				"hif": "East Pakistan",
 				"hsb": "Wuchodny Pakistan",
-				"hu": "Kelet-Pakisztánra",
+				"hu": "Kelet-Pakisztán",
 				"ia": "Pakistan Oriental",
 				"id": "Pakistan Timur",
 				"io": "Estala Pakistan",
@@ -8153,7 +8167,8 @@
 			"old_name": "পূর্ব পাকিস্তান",
 			"population": "172954319",
 			"population:date": "2023",
-			"source:population": "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
+			"source:population": "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)",
+			"wikimedia_commons": "Category:Bangladesh"
 		},
 		"timezone": "Asia/Dhaka",
 		"website": null,
@@ -9076,7 +9091,8 @@
 		"tags": {
 			"admin_level": "2",
 			"int_name:ar": "al-Baḥrayn",
-			"population": "1234571"
+			"population": "1234571",
+			"wikimedia_commons": "Category:Bahrain"
 		},
 		"timezone": "Asia/Bahrain",
 		"website": null,
@@ -9120,6 +9136,7 @@
 				"he": "בהאמה",
 				"hif": "Bahamas",
 				"ht": "Bahamas",
+				"hu": "Bahamák",
 				"hy": "Բահամյան Կղզիներ",
 				"ilo": "Bahamas",
 				"it": "Bahama",
@@ -9500,7 +9517,8 @@
 			"alt_name": "Bahamas",
 			"driving_side": "left",
 			"int_name": "Bahamas",
-			"place": "archipelago"
+			"place": "archipelago",
+			"wikimedia_commons": "Category:The Bahamas"
 		},
 		"timezone": "America/Nassau",
 		"website": null,
@@ -9841,6 +9859,7 @@
 				"gu": "બોસ્નિયા",
 				"ha": "Bosnia",
 				"hr": "BiH",
+				"hu": "Bosznia",
 				"ilo": "Bosnia",
 				"it": "Bosnia",
 				"jv": "Bosnia",
@@ -10046,6 +10065,7 @@
 				"ca": "Belarús",
 				"ckb": "کۆماری بیلاڕووس",
 				"eo": "Belorusujo;Belarusio;Belarusujo",
+				"hu": "Belarusz",
 				"vi": "Bạch Nga",
 				"zh": "白罗斯/白羅斯",
 				"zh-Hans": "白罗斯",
@@ -10271,6 +10291,7 @@
 				"eo": "Respubliko Belorusio",
 				"es": "República de Belarús",
 				"fr": "La République du Bélarus",
+				"hu": "Fehérorosz Köztársaság",
 				"lt": "Baltarusijos respublika",
 				"nl": "Republiek Belarus",
 				"pl": "Republika Białorusi",
@@ -10665,7 +10686,8 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"description": "Belize is an independent and sovereign country located on the north eastern coast of Central America.",
-			"population": "327719"
+			"population": "327719",
+			"wikimedia_commons": "Category:Belize"
 		},
 		"timezone": "America/Belize",
 		"website": null,
@@ -10883,7 +10905,8 @@
 			"population:date": "2023",
 			"source:name:br": "ofis publik ar brezhoneg",
 			"source:name:oc": "Lo Congrès",
-			"source:population": "CIA World Factbook"
+			"source:population": "CIA World Factbook",
+			"wikimedia_commons": "Category:Bermuda"
 		},
 		"timezone": "Atlantic/Bermuda",
 		"website": null,
@@ -11289,7 +11312,8 @@
 			"population:date": "2024-03-23",
 			"source": "wikipedia",
 			"source:population": "INE 2024",
-			"start_date": "1825-08-06"
+			"start_date": "1825-08-06",
+			"wikimedia_commons": "Category:Bolivia"
 		},
 		"timezone": "America/La_Paz",
 		"website": null,
@@ -12058,7 +12082,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "286705"
+			"population": "286705",
+			"wikimedia_commons": "Category:Barbados"
 		},
 		"timezone": "America/Barbados",
 		"website": null,
@@ -12082,6 +12107,7 @@
 				"cs": "Brunej Darussalam",
 				"gd": "Brunai",
 				"he": "אומת ברוניי, משכן השלום",
+				"hu": "Brunei Szultanátus",
 				"ka": "ბრუნეის სახელმწიფო",
 				"la": "Natio Bruneii, Loci Pacis",
 				"lo": "ບຣູໄນ",
@@ -12376,7 +12402,7 @@
 				"hif": "Sultanate of Brunei",
 				"hr": "Brunej Darussalam",
 				"hsb": "Sultanat Brunei Darussalam",
-				"hu": "Brunei Szultanátus",
+				"hu": "Brunei Darussalam Állam",
 				"ia": "Sultanato de Brunei",
 				"id": "Negara Brunei Darussalam",
 				"ilo": "Pagilian ti Brunei, ti Pagtaengan ti Kappia",
@@ -12476,7 +12502,8 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"driving_side": "left",
-			"int_name": "Brunei"
+			"int_name": "Brunei",
+			"wikimedia_commons": "Category:Brunei"
 		},
 		"timezone": "Asia/Brunei",
 		"website": null,
@@ -12905,7 +12932,8 @@
 		"relation_id": 184629,
 		"tags": {
 			"admin_level": "2",
-			"driving_side": "left"
+			"driving_side": "left",
+			"wikimedia_commons": "Category:Bhutan"
 		},
 		"timezone": "Asia/Thimphu",
 		"website": null,
@@ -13215,7 +13243,7 @@
 				"ve": "Vhu-Tswana",
 				"vec": "Botswana",
 				"vep": "Botsvan",
-				"vi": "Bốt-xoa-na",
+				"vi": "Botswana",
 				"vo": "Zvanän",
 				"vro": "Botswana",
 				"wa": "Boswana",
@@ -13462,7 +13490,8 @@
 			"driving_side": "left",
 			"int_name": "Botswana",
 			"old_name": "Bechuanaland",
-			"population": "1639833"
+			"population": "1639833",
+			"wikimedia_commons": "Category:Botswana"
 		},
 		"timezone": "Africa/Gaborone",
 		"website": null,
@@ -13684,6 +13713,7 @@
 				"es": "Republica Centroafricana",
 				"fa": "جمهوری آفریقای مرکزی",
 				"fr": "République centrafricaine",
+				"hu": "Közép-afrikai Köztársaság",
 				"kk-Arab": "ورتالىق افرىيكا رەسپۋبلىيكاسى",
 				"ks": "مرکٔزی اَفریٖکی جموٗریَت",
 				"lrc": "کومرٱ ڤلات آفریقا میٛنجایی",
@@ -13703,7 +13733,8 @@
 		"relation_id": 192790,
 		"tags": {
 			"admin_level": "2",
-			"alt_name": "Centrafrique"
+			"alt_name": "Centrafrique",
+			"wikimedia_commons": "Category:Central African Republic"
 		},
 		"timezone": "Africa/Bangui",
 		"website": null,
@@ -14145,13 +14176,14 @@
 		"ISO3166-2": null,
 		"capital": "Bern",
 		"currency": null,
-		"default_language": "de",
+		"default_language": "la",
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
 		"lang": {
 			"alt_name": {
 				"cs": "Švýcarská konfederace",
 				"eo": "Svisio;Svisujo",
-				"gsw": "Schwiz"
+				"gsw": "Schwiz",
+				"la": "Helvetia"
 			},
 			"name": {
 				"ace": "Swiss",
@@ -14260,7 +14292,7 @@
 				"kv": "Швейцария",
 				"kw": "Swistir",
 				"ky": "Швейцария",
-				"la": "Helvetia",
+				"la": "Confoederatio Helvetica",
 				"lad": "Suisa",
 				"lb": "Schwäiz",
 				"lez": "Швейцария",
@@ -14391,6 +14423,7 @@
 				"eo": "Svisa Konfederacio",
 				"fi": "Sveitsin valaliitto",
 				"fr": "Confédération suisse",
+				"hu": "Svájci Államszövetség",
 				"id": "Konfederasi Swiss",
 				"it": "Confederazione Svizzera",
 				"ja": "スイス連邦",
@@ -14406,7 +14439,8 @@
 				"zh-Hant": "瑞士聯邦"
 			},
 			"old_name": {
-				"eo": "Helvetio;Helvetujo"
+				"eo": "Helvetio;Helvetujo",
+				"hu": "Helvécia"
 			}
 		},
 		"name": "Schweiz/Suisse/Svizzera/Svizra",
@@ -14955,7 +14989,8 @@
 			"driving_side": "right",
 			"int_name": "Chile",
 			"population": "18480432",
-			"population:date": "2024"
+			"population:date": "2024",
+			"wikimedia_commons": "Category:Chile"
 		},
 		"timezone": null,
 		"website": null,
@@ -15872,6 +15907,7 @@
 				"fa": "جمهوری ساحل عاج",
 				"fr": "République de Côte d’Ivoire",
 				"gn": "Tavakuairetã Marfil Rembe'y",
+				"hu": "Elefántcsontparti Köztársaság",
 				"ku": "کۆماری کۆدیڤوار",
 				"pt": "República de Côte d'Ivoire",
 				"sdh": "کۆماری کۆدیڤوار"
@@ -15883,7 +15919,8 @@
 		"tags": {
 			"admin_level": "2",
 			"alt_name": "Côte d'Ivoire",
-			"short_name": "RCI"
+			"short_name": "RCI",
+			"wikimedia_commons": "Category:Ivory Coast"
 		},
 		"timezone": "Africa/Abidjan",
 		"website": null,
@@ -16112,6 +16149,7 @@
 				"fa": "جمهوری کامرون",
 				"fr": "République du Cameroun",
 				"gn": "Kamerũ Tavakuairetã",
+				"hu": "Kameruni Köztársaság",
 				"pt": "República dos Camarões",
 				"sr": "Република Камерун",
 				"ur": "جمہوریہ کیمرون"
@@ -16122,7 +16160,8 @@
 		"relation_id": 192830,
 		"tags": {
 			"admin_level": "2",
-			"population": "20549221"
+			"population": "20549221",
+			"wikimedia_commons": "Category:Cameroon"
 		},
 		"timezone": "Africa/Douala",
 		"website": null,
@@ -16346,6 +16385,7 @@
 				"ca": "República Democràtica del Congo",
 				"en": "Democratic Republic of the Congo",
 				"fr": "République démocratique du Congo",
+				"hu": "Kongói Demokratikus Köztársaság",
 				"kg": "Repubilika ya Kongo Demokratiki",
 				"ku": "Komara Demokratîk a Kongo",
 				"ln": "Republiki ya Kongó Demokratíki",
@@ -16365,6 +16405,7 @@
 				"fr:1908-1960": "Congo Belge",
 				"fr:1960-1966": "Republic of Congo-Léopoldville",
 				"fr:1971-1997": "Zaïre",
+				"hu:1971-1997": "Zaire",
 				"is:1971-1997": "Saír",
 				"sk:1971-1997": "Zair"
 			},
@@ -16395,7 +16436,8 @@
 			"admin_level": "2",
 			"alt_name": "Congo-Kinshasa",
 			"population": "68692542",
-			"short_name": "RD Congo;DR Congo;RDC;DRC"
+			"short_name": "RD Congo;DR Congo;RDC;DRC",
+			"wikimedia_commons": "Category:Democratic Republic of the Congo"
 		},
 		"timezone": null,
 		"website": null,
@@ -16417,6 +16459,7 @@
 			"alt_name": {
 				"en": "Congo (Brazzaville)",
 				"eo": "Kongo Brazavila",
+				"hu": "Kongó-Brazzaville",
 				"sv": "Konto-Brazzaville",
 				"zh": "刚果（布）"
 			},
@@ -16597,6 +16640,7 @@
 				"en": "Republic of the Congo",
 				"es": "Republica del Congo",
 				"fr": "République du Congo",
+				"hu": "Kongói Köztársaság",
 				"pl": "Republika Konga",
 				"zh": "刚果共和国 / 剛果共和國",
 				"zh-Hans": "刚果共和国",
@@ -16607,7 +16651,8 @@
 		"official_name": "République du Congo",
 		"relation_id": 192794,
 		"tags": {
-			"admin_level": "2"
+			"admin_level": "2",
+			"wikimedia_commons": "Category:Republic of the Congo"
 		},
 		"timezone": "Africa/Brazzaville",
 		"website": null,
@@ -16812,7 +16857,8 @@
 			"geonames:id": "1899402",
 			"int_name": "Cook Islands",
 			"maritime": "yes",
-			"population": "18600"
+			"population": "18600",
+			"wikimedia_commons": "Category:Cook Islands"
 		},
 		"timezone": "Pacific/Rarotonga",
 		"website": null,
@@ -17038,6 +17084,7 @@
 				"eo": "Kolombia Respubliko",
 				"es": "República de Colombia",
 				"fr": "République de Colombie",
+				"hu": "Kolumbiai Köztársaság",
 				"ku": "Komara Kolombiya",
 				"ru": "Республика Колумбия"
 			}
@@ -17047,7 +17094,8 @@
 		"relation_id": 120027,
 		"tags": {
 			"admin_level": "2",
-			"population": "44050548"
+			"population": "44050548",
+			"wikimedia_commons": "Category:Colombia"
 		},
 		"timezone": "America/Bogota",
 		"website": null,
@@ -17306,6 +17354,7 @@
 				"fa": "مجمع‌الجزایر قمر",
 				"fr": "Union des Comores",
 				"he": "האיחוד של איי קומורו",
+				"hu": "Comore-szigeteki Unió",
 				"ru": "Союз Коморских Островов",
 				"ur": "اتحاد القمری"
 			}
@@ -17316,7 +17365,8 @@
 		"tags": {
 			"admin_level": "2",
 			"border_type": "nation",
-			"population": "614000"
+			"population": "614000",
+			"wikimedia_commons": "Category:Comoros"
 		},
 		"timezone": "Indian/Comoro",
 		"website": null,
@@ -17385,6 +17435,7 @@
 				"tzl": "Cap Virt",
 				"uk": "Кабо-Верде",
 				"uz": "Kabo-Verde",
+				"vi": "Cabo Verde",
 				"vls": "Koapverdië",
 				"vo": "Kabovärduäns",
 				"zh": "佛得角 / 維德角",
@@ -17399,6 +17450,7 @@
 				"cs": "Kapverdská republika",
 				"eo": "Kabo-Verda Respubliko",
 				"gn": "Tavakuairetã Kávo Véyde",
+				"hu": "Zöld-foki Köztársaság",
 				"kea": "Repúblika di Kabu Verdi",
 				"pt": "República de Cabo Verde"
 			}
@@ -17409,7 +17461,8 @@
 		"tags": {
 			"admin_level": "2",
 			"long_name": "República de Cabo Verde",
-			"population": "516000"
+			"population": "516000",
+			"wikimedia_commons": "Category:Cape Verde"
 		},
 		"timezone": "Atlantic/Cape_Verde",
 		"website": null,
@@ -17625,6 +17678,7 @@
 				"de": "Republik Costa Rica",
 				"en": "Republic of Costa Rica",
 				"es": "República de Costa Rica",
+				"hu": "Costa Rica Köztársaság",
 				"pl": "Republika Kostaryki",
 				"ru": "Республика Коста-Рика"
 			}
@@ -17636,7 +17690,9 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"population": "5044197",
-			"population:date": "2022"
+			"population:date": "2022",
+			"source:official_name:hu": "https://e-nyelv.hu/2010-11-17/costa-ricabol",
+			"wikimedia_commons": "Category:Costa Rica"
 		},
 		"timezone": "America/Costa_Rica",
 		"website": null,
@@ -17882,6 +17938,7 @@
 				"cs": "Kubánská republika",
 				"en": "Republic of Cuba",
 				"es": "República de Cuba",
+				"hu": "Kubai Köztársaság",
 				"ru": "Республика Куба"
 			}
 		},
@@ -17893,7 +17950,8 @@
 			"border_type": "nation",
 			"maritime": "yes",
 			"population": "11451652",
-			"source:population": "CIA_World_Factbook 2009"
+			"source:population": "CIA_World_Factbook 2009",
+			"wikimedia_commons": "Category:Cuba"
 		},
 		"timezone": null,
 		"website": null,
@@ -18295,7 +18353,8 @@
 			"geonames:id": "3580718",
 			"int_name": "Cayman Islands",
 			"maritime": "yes",
-			"population": "49035"
+			"population": "49035",
+			"wikimedia_commons": "Category:Cayman Islands"
 		},
 		"timezone": "America/Cayman",
 		"website": null,
@@ -18560,7 +18619,8 @@
 			"border_type": "nation",
 			"description": "This is the full country, de jure, as recognized by the United Nations",
 			"driving_side": "left",
-			"population": "885041"
+			"population": "885041",
+			"wikimedia_commons": "Category:Cyprus"
 		},
 		"timezone": "Europe/Nicosia",
 		"website": null,
@@ -18849,6 +18909,7 @@
 				"fr": "République tchèque",
 				"ga": "Poblacht na Seice",
 				"hsb": "Čěska republika",
+				"hu": "Cseh Köztársaság",
 				"it": "Repubblica Ceca",
 				"ja": "チェコ共和国",
 				"kab": "Tagduda Tačikit",
@@ -19213,6 +19274,7 @@
 				"fa": "جمهوری فدرال آلمان",
 				"fi": "Saksan liittotasavalta",
 				"fr": "République fédérale d'Allemagne",
+				"hu": "Német Szövetségi Köztársaság",
 				"mi": "Tūwehe Whakaminenga o Tiamana",
 				"nl": "Bondsrepubliek Duitsland",
 				"pl": "Republika Federalna Niemiec",
@@ -19461,6 +19523,7 @@
 				"es": "República de Yibuti",
 				"fr": "République de Djibouti",
 				"gn": "Tavakuairetã Jimbúti",
+				"hu": "Dzsibuti Köztársaság",
 				"pt": "República do Djibuti",
 				"ru": "Республика Джибути"
 			}
@@ -19469,7 +19532,8 @@
 		"official_name": null,
 		"relation_id": 192801,
 		"tags": {
-			"admin_level": "2"
+			"admin_level": "2",
+			"wikimedia_commons": "Category:Djibouti"
 		},
 		"timezone": "Africa/Djibouti",
 		"website": null,
@@ -19530,7 +19594,7 @@
 				"he": "דומיניקה",
 				"hi": "डोमिनिका",
 				"hr": "Dominika",
-				"hu": "Dominikai Közösség",
+				"hu": "Dominika",
 				"hy": "Դոմինիկա",
 				"ia": "Dominica",
 				"id": "Dominika",
@@ -19610,6 +19674,7 @@
 				"eo": "Dominika Komunumo",
 				"gcf": "Dominik",
 				"gn": "Ñembojoaju Ndominíka",
+				"hu": "Dominikai Közösség",
 				"lt": "Dominikos Sandrauga",
 				"pt": "Comunidade da Dominica",
 				"th": "เครือรัฐดอมินีกา"
@@ -19624,7 +19689,8 @@
 			"driving_side": "left",
 			"population": "70739",
 			"source": "https://www.dominica.gov.dm/cms/files/2011_census_report.pdf",
-			"source:name:br": "ofis publik ar brezhoneg"
+			"source:name:br": "ofis publik ar brezhoneg",
+			"wikimedia_commons": "Category:Dominica"
 		},
 		"timezone": "America/Dominica",
 		"website": null,
@@ -19879,6 +19945,7 @@
 				"el": "Βασίλειο της Δανίας",
 				"en": "Kingdom of Denmark",
 				"eo": "Reĝlando Danio",
+				"hu": "Dán Királyság",
 				"pl": "Królestwo Danii",
 				"sv": "Konungariket Danmark"
 			},
@@ -20101,6 +20168,7 @@
 				"eo": "Dominika Respubliko",
 				"es": "República Dominicana",
 				"grc": "Δομινικανὴ Πολιτεία",
+				"hu": "Dominikai Köztársaság",
 				"pa": "ਦੋਮੀਨੀਕਾਨਾ ਗਣਰਾਜ",
 				"pl": "Republika Dominikany",
 				"sr": "Доминиканска Република",
@@ -20119,7 +20187,8 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"population": "10464474",
-			"short_name": "R.D."
+			"short_name": "R.D.",
+			"wikimedia_commons": "Category:Dominican Republic"
 		},
 		"timezone": "America/Santo_Domingo",
 		"website": null,
@@ -20400,7 +20469,7 @@
 				"uz": "Jazoir",
 				"vec": "Algeria",
 				"vep": "Alžir",
-				"vi": "Algérie",
+				"vi": "Algeria",
 				"vls": "Algereye",
 				"vo": "Laljerän",
 				"vro": "Alžeeriä",
@@ -20624,7 +20693,8 @@
 			"admin_level": "2",
 			"alt_name": "El Djazaïr",
 			"border_type": "nation",
-			"short_name": "RADP"
+			"short_name": "RADP",
+			"wikimedia_commons": "Category:Algeria"
 		},
 		"timezone": "Africa/Algiers",
 		"website": null,
@@ -20865,6 +20935,7 @@
 				"es": "República del Ecuador",
 				"fr": "République de l'Équateur",
 				"gd": "Poblachd Eacuador",
+				"hu": "Ecuadori Köztársaság",
 				"id": "Republik Ekuador",
 				"ku": "Komara Ekuadorê",
 				"lt": "Ekvadoro Respublika",
@@ -20886,7 +20957,8 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"int_name": "Ecuador",
-			"population": "13755680"
+			"population": "13755680",
+			"wikimedia_commons": "Category:Ecuador"
 		},
 		"timezone": null,
 		"website": null,
@@ -20923,6 +20995,7 @@
 				"gu": "મિસર",
 				"gv": "Eajipt",
 				"hif": "Misr",
+				"hu": "Miszr",
 				"is": "Egiptaland",
 				"kab": "Igibt",
 				"kg": "Ngipiti",
@@ -21432,7 +21505,8 @@
 			"admin_level": "2",
 			"driving_side": "right",
 			"population": "112716599",
-			"source:population": "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
+			"source:population": "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)",
+			"wikimedia_commons": "Category:Egypt"
 		},
 		"timezone": "Africa/Cairo",
 		"website": null,
@@ -21676,7 +21750,8 @@
 			"admin_level": "2",
 			"population": "3497000",
 			"population:date": "2019-08",
-			"source:population": "United Nations Department of Economic and Social Affairs title World Population Prospects 2019 (English)"
+			"source:population": "United Nations Department of Economic and Social Affairs title World Population Prospects 2019 (English)",
+			"wikimedia_commons": "Category:Eritrea"
 		},
 		"timezone": "Africa/Asmara",
 		"website": null,
@@ -22156,6 +22231,7 @@
 				"fa": "پادشاهی اسپانیا",
 				"gaceria": "Engrullada de España",
 				"gl": "Reino de España",
+				"hu": "Spanyol Királyság",
 				"pt": "Reino de Espanha",
 				"ur": "مملکت ہسپانیہ",
 				"zh": "西班牙王国",
@@ -22426,6 +22502,7 @@
 				"cs": "Estonská republika",
 				"el": "Δημοκρατία της Εσθονίας",
 				"eo": "Respubliko Estonio",
+				"hu": "Észt Köztársaság",
 				"mi": "Whenua Etonia",
 				"pt": "República da Estónia"
 			}
@@ -22785,7 +22862,7 @@
 				"hi": "इथियोपिया संघीय लोकतांत्रिक गणराज्य",
 				"hr": "Savezna Demokratska Republika Etiopija",
 				"hsb": "Etiopiska federalna demokratiska republika",
-				"hu": "Etióp Szövetségi Demokratikus Köztársaság",
+				"hu": "Etióp Demokratikus Szövetségi Köztársaság",
 				"hy": "Եթովպիայի Դաշնային Ժողովրդավարական Հանրապետություն",
 				"ia": "Republica Democratic Federal de Ethiopia",
 				"id": "Republik Demokratik Federal Etiopia",
@@ -22892,6 +22969,7 @@
 				"ext": "Abisinia",
 				"fi": "Abessinia",
 				"fr": "Abessinien",
+				"hu": "Abesszínia",
 				"ig": "Oromo",
 				"io": "Abisinia",
 				"it": "Abissinia",
@@ -22926,7 +23004,8 @@
 			"old_name": "Abyssinia",
 			"population": "126527060",
 			"short_name": "ኢ.ፌ.ዲ.ሪ.",
-			"source:population": "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)"
+			"source:population": "https://en.wikipedia.org/wiki/List_of_countries_by_population_(United_Nations)",
+			"wikimedia_commons": "Category:Ethiopia"
 		},
 		"timezone": "Africa/Addis_Ababa",
 		"website": null,
@@ -23204,6 +23283,7 @@
 				"fa": "جمهوری فنلاند",
 				"fi": "Suomen tasavalta",
 				"fr": "République de Finlande",
+				"hu": "Finn Köztársaság",
 				"id": "Republik Finlandia",
 				"is": "Lýðveldið Finnland",
 				"it": "Repubblica di Finlandia",
@@ -23428,6 +23508,7 @@
 				"cs": "Republika Fidžijských ostrovů",
 				"en": "Republic of Fiji",
 				"gn": "Tavakuairetã Fíji",
+				"hu": "Fidzsi-szigeteki Köztársaság",
 				"pt": "República das Fiji"
 			},
 			"short_name": {
@@ -23439,7 +23520,8 @@
 		"relation_id": 571747,
 		"tags": {
 			"admin_level": "2",
-			"driving_side": "left"
+			"driving_side": "left",
+			"wikimedia_commons": "Category:Fiji"
 		},
 		"timezone": "Pacific/Fiji",
 		"website": null,
@@ -23595,6 +23677,7 @@
 				"eo": "Insuloj Falklandoj",
 				"es": "Islas Malvinas",
 				"fr": "Îles Falkland (Îles Malouines)",
+				"hu": "Falkland-szigetek",
 				"lv": "Folklenda salas"
 			},
 			"short_name": {
@@ -23611,12 +23694,13 @@
 			"int_name": "Falkland Islands (Malvinas)",
 			"maritime": "yes",
 			"note:name": "OSM policy is that the 'name' to be used is that spoken by the inhabitants. Plural. Malvinas is the Spanish name, and is entered in name:es. The UN naming convention is shown as 'int_name'",
-			"population": "2955"
+			"population": "2955",
+			"wikimedia_commons": "Category:Falkland Islands"
 		},
 		"timezone": "Atlantic/Stanley",
 		"website": null,
-		"wikidata": "Q1249802",
-		"wikipedia": null
+		"wikidata": "Q9648",
+		"wikipedia": "en:Falkland Islands"
 	},
 	"FRA": {
 		"ISO3166-1": {
@@ -23918,6 +24002,7 @@
 				"fa": "جمهوری فرانسه",
 				"fr": "République française",
 				"gd": "Poblachd na Frainge",
+				"hu": "Francia Köztársaság",
 				"id": "Republik Perancis",
 				"it": "Repubblica francese",
 				"ja": "フランス共和国",
@@ -23982,7 +24067,8 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Flag_of_the_Faroe_Islands.svg",
 		"lang": {
 			"alt_name": {
-				"hr": "Farski otoci"
+				"hr": "Farski otoci",
+				"hu": "Feröer szigetek"
 			},
 			"name": {
 				"ace": "Pulo-pulo Faroe",
@@ -24039,7 +24125,7 @@
 				"hi": "फ़रो द्वीपसमूह",
 				"hr": "Ferojski otoci",
 				"hsb": "Fereje",
-				"hu": "Feröer szigetek",
+				"hu": "Feröer",
 				"hy": "Ֆարերյան կղզիներ",
 				"ia": "Insulas Feroe",
 				"id": "Kepulauan Faroe",
@@ -24138,7 +24224,8 @@
 			"admin_level": "2",
 			"driving_side": "right",
 			"int_name": "Faroe Islands",
-			"population": "48565"
+			"population": "48565",
+			"wikimedia_commons": "Category:Faroe Islands"
 		},
 		"timezone": "Atlantic/Faroe",
 		"website": null,
@@ -24216,7 +24303,7 @@
 				"hr": "Mikronezija",
 				"hsb": "Mikroneziska",
 				"ht": "Mikwonezi",
-				"hu": "Mikronéziai Szövetségi Államok",
+				"hu": "Mikronézia",
 				"hy": "Միկրոնեզիայի Դաշնային Նահանգներ",
 				"ia": "Micronesia",
 				"id": "Federasi Mikronesia",
@@ -24327,6 +24414,7 @@
 				"eo": "Federaciaj Ŝtatoj de Mikronezio;Federacio de Mikronezio",
 				"es": "Estados Federados de Micronesia",
 				"fr": "États fédérés de Micronésie",
+				"hu": "Mikronéziai Szövetségi Államok",
 				"pl": "Sfederowane Stany Mikronezji",
 				"ru": "Федеративные Штаты Микронезии",
 				"sk": "Mikronézske federatívne štáty",
@@ -24349,7 +24437,8 @@
 			"admin_level": "2",
 			"driving_side": "right",
 			"source:name:br": "ofis publik ar brezhoneg",
-			"source:name:oc": "Lo Congrès"
+			"source:name:oc": "Lo Congrès",
+			"wikimedia_commons": "Category:Federated States of Micronesia"
 		},
 		"timezone": null,
 		"website": null,
@@ -24569,6 +24658,7 @@
 				"cs": "Gabonská republika",
 				"fa": "جمهوری گابن",
 				"gn": "Gavõ Tavakuairetã",
+				"hu": "Gaboni Köztársaság",
 				"pt": "República Gabonesa",
 				"zh": "加蓬共和国 / 加彭共和國",
 				"zh-Hans": "加蓬共和国",
@@ -24580,7 +24670,8 @@
 		"relation_id": 192793,
 		"tags": {
 			"admin_level": "2",
-			"population": "1576665"
+			"population": "1576665",
+			"wikimedia_commons": "Category:Gabon"
 		},
 		"timezone": "Africa/Libreville",
 		"website": null,
@@ -24601,7 +24692,8 @@
 		"lang": {
 			"alt_name": {
 				"be": "Вялікая Брытанія;Брытанія;Злучанае Каралеўства",
-				"eo": "Britio;Britujo"
+				"eo": "Britio;Britujo",
+				"hu": "Nagy-Britannia"
 			},
 			"name": {
 				"ab": "Британиа Ду",
@@ -24905,6 +24997,7 @@
 				"eo": "Unuiĝinta Reĝlando de Granda Britio kaj Nord-Irlando",
 				"fr": "Royaume-Uni de Grande-Bretagne et d'Irlande du Nord",
 				"hr": "Ujedinjeno Kraljevstvo Velike Britanije i Sjeverne Irske",
+				"hu": "Nagy-Britannia és Észak-Írország Egyesült Királysága",
 				"is": "Sameinaða konungsveldi Stóra-Bretlands og Norður-Írlands",
 				"it": "Regno Unito di Gran Bretagna e Irlanda del Nord",
 				"la": "Coniunctum Britanniae Maioris et Hiberniae Septentrionalis Regnum",
@@ -24927,6 +25020,7 @@
 				"cy": "Y DU",
 				"el": "ΗΒ",
 				"fr": "RU",
+				"hu": "EK",
 				"nl": "VK",
 				"pcd": "RU",
 				"ru": "Великобритания",
@@ -24972,7 +25066,8 @@
 		"lang": {
 			"alt_name": {
 				"ckb": "جۆرجیا",
-				"eo": "Kartvelujo"
+				"eo": "Kartvelujo",
+				"hu": "Georgia"
 			},
 			"name": {
 				"ab": "Қырҭтәыла",
@@ -25224,7 +25319,7 @@
 				"uz": "Gurjiston",
 				"vec": "Zorzania",
 				"vep": "Gruzii",
-				"vi": "Gruzia",
+				"vi": "Georgia",
 				"vls": "Georgië",
 				"vo": "Grusiyän",
 				"vro": "Gruusia",
@@ -25246,6 +25341,9 @@
 				"zh-Hant-HK": "格魯吉亞",
 				"zh-Hant-TW": "喬治亞"
 			},
+			"official_name": {
+				"hu": "Grúzia"
+			},
 			"old_name": {
 				"fi": "Gruusia",
 				"ja": "グルジア",
@@ -25263,6 +25361,7 @@
 			"int_ref": "GE",
 			"population": "3694608",
 			"population:date": "2024-01-01",
+			"source:official_name:hu": "Földrajzinév-bizottság, 130/1124. (2025. III. 11.) FNB. Hat.",
 			"source:population": "https://www.geostat.ge",
 			"wikimedia_commons": "Category:Georgia (country)"
 		},
@@ -25403,7 +25502,8 @@
 			},
 			"official_name": {
 				"eo": "Voktujo Gernezejo",
-				"fr": "Bailliage de Guernesey"
+				"fr": "Bailliage de Guernesey",
+				"hu": "Guernsey Bailiffség"
 			}
 		},
 		"name": "Guernsey",
@@ -25412,7 +25512,8 @@
 		"tags": {
 			"admin_level": "2",
 			"alt_name2:el": "Λισία",
-			"int_name": "Guernsey"
+			"int_name": "Guernsey",
+			"wikimedia_commons": "Category:Bailiwick of Guernsey"
 		},
 		"timezone": "Europe/Guernsey",
 		"website": null,
@@ -25638,6 +25739,7 @@
 				"fa": "جمهوری غنا",
 				"fr": "République du Ghana",
 				"gn": "Tavakuairetã Gána",
+				"hu": "Ghánai Köztársaság",
 				"pt": "República do Gana",
 				"ru": "Республика Гана"
 			}
@@ -25649,7 +25751,8 @@
 			"admin_level": "2",
 			"population": "30792608",
 			"population:date": "2021",
-			"source:population": "https://census2021.statsghana.gov.gh/"
+			"source:population": "https://census2021.statsghana.gov.gh/",
+			"wikimedia_commons": "Category:Ghana"
 		},
 		"timezone": "Africa/Accra",
 		"website": null,
@@ -25824,12 +25927,13 @@
 			"source": "CIA World Databank II (+Yahoo images)",
 			"source:name:br": "ofis publik ar brezhoneg",
 			"source:population": "wikipedia",
-			"wdb:source": "CIA World database II - europe-bdy.txt - segment 81"
+			"wdb:source": "CIA World database II - europe-bdy.txt - segment 81",
+			"wikimedia_commons": "Category:Gibraltar"
 		},
 		"timezone": "Europe/Gibraltar",
 		"website": null,
 		"wikidata": "Q1410",
-		"wikipedia": null
+		"wikipedia": "en:Gibraltar"
 	},
 	"GIN": {
 		"ISO3166-1": {
@@ -26012,7 +26116,7 @@
 				"ur": "جمہوریہ گنی",
 				"uz": "Gvineya",
 				"vec": "Guinea",
-				"vi": "Guinée",
+				"vi": "Guinea",
 				"vo": "Gineyän",
 				"vro": "Ginea",
 				"war": "Guinea",
@@ -26033,9 +26137,11 @@
 				"ar": "جمهورية غينيا",
 				"ca": "República de Guinea",
 				"cs": "Guinejská republika",
+				"en": "Republic of Guinea",
 				"fa": "جمهوری گینه",
 				"fr": "République de Guinée",
 				"gn": "Tavakuairetã Ginéa",
+				"hu": "Guineai Köztársaság",
 				"pt": "República da Guiné",
 				"ur": "جمہوریہ گنی"
 			}
@@ -26045,11 +26151,12 @@
 		"relation_id": 192778,
 		"tags": {
 			"admin_level": "2",
-			"population": "10187320"
+			"population": "10187320",
+			"wikimedia_commons": "Category:Guinea"
 		},
 		"timezone": "Africa/Conakry",
 		"website": null,
-		"wikidata": null,
+		"wikidata": "Q1006",
 		"wikipedia": "en:Guinea"
 	},
 	"GLP": {
@@ -26390,6 +26497,7 @@
 				"fa": "جمهوری گامبیا",
 				"fr": "République de Gambie",
 				"gn": "Tavakuairetã Gámbia",
+				"hu": "Gambiai Köztársaság",
 				"pa": "ਗਾਂਬੀਆ ਦਾ ਗਣਰਾਜ",
 				"pl": "Islamska Republika Gambii",
 				"pt": "República da Gâmbia",
@@ -26403,7 +26511,8 @@
 		"tags": {
 			"admin_level": "2",
 			"alt_name": "The Gambia",
-			"population": "1713267"
+			"population": "1713267",
+			"wikimedia_commons": "Category:The Gambia"
 		},
 		"timezone": "Africa/Banjul",
 		"website": null,
@@ -26582,7 +26691,7 @@
 				"ur": "گنی بساؤ",
 				"uz": "Gvineya-Bissau",
 				"vec": "Guinea-Bissau",
-				"vi": "Guiné-Bissau",
+				"vi": "Guinea Bissau",
 				"vo": "Gineyän-Bisauän",
 				"vro": "Ginea-Bissau",
 				"war": "Guinea-Bissau",
@@ -26597,7 +26706,8 @@
 				"zu": "IGini Bisawu"
 			},
 			"official_name": {
-				"cs": "Republika Guinea-Bissau"
+				"cs": "Republika Guinea-Bissau",
+				"hu": "Bissau-guineai Köztársaság"
 			}
 		},
 		"name": "Guiné-Bissau",
@@ -26605,7 +26715,8 @@
 		"relation_id": 192776,
 		"tags": {
 			"admin_level": "2",
-			"population": "1449230"
+			"population": "1449230",
+			"wikimedia_commons": "Category:Guinea-Bissau"
 		},
 		"timezone": "Africa/Bissau",
 		"website": null,
@@ -26903,7 +27014,7 @@
 				"hif": "Republic of Equatorial Guinea",
 				"hr": "Republika Ekvatorska Gvineja",
 				"hsb": "Republika Ekwatorialna Gineja",
-				"hu": "Egyenlítői-Guinea-i Köztársaság",
+				"hu": "Egyenlítői-guineai Köztársaság",
 				"ia": "Republica de Guinea Equatorial",
 				"id": "Republik Guinea Khatulistiwa",
 				"ilo": "Republika iti Guinea Ekuatorial",
@@ -26992,7 +27103,10 @@
 		"relation_id": 192791,
 		"tags": {
 			"admin_level": "2",
-			"population": "1000000"
+			"population": "1847549",
+			"population:date": "2023",
+			"source:population": "https://data.who.int/countries/226",
+			"wikimedia_commons": "Category:Equatorial Guinea"
 		},
 		"timezone": "Africa/Malabo",
 		"website": null,
@@ -27253,6 +27367,7 @@
 				"cs": "Řecká republika",
 				"eo": "Helena Respubliko",
 				"fi": "Helleenien tasavalta",
+				"hu": "Görög Köztársaság",
 				"pl": "Republika Grecka"
 			}
 		},
@@ -27326,6 +27441,7 @@
 				"tr": "Grenada",
 				"tzl": "Grenada",
 				"uk": "Гренада",
+				"vi": "Grenada",
 				"vo": "Grenadeän",
 				"zh": "格林纳达",
 				"zh-Hans": "格林纳达",
@@ -27341,8 +27457,11 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "107850",
-			"source:name:br": "ofis publik ar brezhoneg"
+			"population": "117081",
+			"population:date": "2023",
+			"source:name:br": "ofis publik ar brezhoneg",
+			"source:population": "https://data.who.int/countries/308",
+			"wikimedia_commons": "Category:Grenada"
 		},
 		"timezone": "America/Grenada",
 		"website": null,
@@ -27560,7 +27679,7 @@
 			"image": "https://upload.wikimedia.org/wikipedia/commons/4/46/Greenland_scenery.jpg",
 			"population": "57564",
 			"sqkm": "2166086",
-			"wikimedia_commons": "Category:Greenland Island"
+			"wikimedia_commons": "Category:Greenland"
 		},
 		"timezone": null,
 		"website": null,
@@ -27761,6 +27880,7 @@
 				"cs": "Guatemalská republika",
 				"de": "Republik Guatemala",
 				"es": "República de Guatemala",
+				"hu": "Guatemalai Köztársaság",
 				"ru": "Республика Гватемала"
 			}
 		},
@@ -27771,7 +27891,8 @@
 			"admin_level": "2",
 			"population": "17980803",
 			"population:date": "2023-01-01",
-			"source:population": "wikipedia"
+			"source:population": "wikipedia",
+			"wikimedia_commons": "Category:Guatemala"
 		},
 		"timezone": "America/Guatemala",
 		"website": null,
@@ -28207,6 +28328,7 @@
 				"cs": "Guyanská kooperativní republika",
 				"en": "Republic of Guyana",
 				"es": "República de Guyana",
+				"hu": "Guyanai Szövetkezeti Köztársaság",
 				"ru": "Республика Гайана"
 			}
 		},
@@ -28217,7 +28339,8 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"driving_side": "left",
-			"population": "752940"
+			"population": "752940",
+			"wikimedia_commons": "Category:Guyana"
 		},
 		"timezone": "America/Guyana",
 		"website": null,
@@ -28238,6 +28361,7 @@
 		"lang": {
 			"alt_name": {
 				"cs": "Siang-kang;Voňavý přístav",
+				"hu": "Hong Kong",
 				"vi": "Hương Cảng"
 			},
 			"name": {
@@ -28304,7 +28428,7 @@
 				"hif": "Hong Kong",
 				"hr": "Hong Kong",
 				"ht": "Hong Kong",
-				"hu": "Hong Kong",
+				"hu": "Hongkong",
 				"hy": "Հոնկոնգ",
 				"ia": "Hong Kong",
 				"id": "Hong Kong",
@@ -28420,6 +28544,7 @@
 				"eo": "Speciala Administra Regiono de Honkongo",
 				"fr": "Région administrative spéciale de Hong Kong",
 				"hr": "Posebna upravna regija Hong Kong",
+				"hu": "Hongkong Különleges Közigazgatási Terület",
 				"nan": "hiong-káng Tek-pia̍t Hêng-chèng-khu",
 				"nan-Hant": "香港特別行政區",
 				"nan-Latn-pehoeji": "Hiong-káng Te̍k-pia̍t Hêng-chèng-khu",
@@ -28464,10 +28589,10 @@
 			"ref": "HK",
 			"ref:en": "HK",
 			"short_name": "HK",
-			"shortest_name": "HK",
 			"source": "Cap 1;Cap 591",
 			"source:name:br": "ofis publik ar brezhoneg",
-			"source:population": "http://www.censtatd.gov.hk/press_release/pressReleaseDetail.jsp?charsetID=2&pressRID=3867"
+			"source:population": "http://www.censtatd.gov.hk/press_release/pressReleaseDetail.jsp?charsetID=2&pressRID=3867",
+			"wikimedia_commons": "Category:Hong Kong"
 		},
 		"timezone": "Asia/Hong_Kong",
 		"website": null,
@@ -28501,6 +28626,7 @@
 				"he": "האי הרד ואיי מקדונלד",
 				"hi": "हर्ड द्वीप और मैकडोनाल्ड द्वीप",
 				"hr": "Otok Heard i Otočje McDonald",
+				"hu": "Heard-sziget és McDonald-szigetek",
 				"is": "Heard og McDonaldseyjar",
 				"it": "Isole Heard e McDonald",
 				"ja": "ハード島とマクドナルド諸島",
@@ -28536,7 +28662,8 @@
 			"population": "0",
 			"population:date": "2011",
 			"ref": "HIMI",
-			"source:population": "wikipedia"
+			"source:population": "wikipedia",
+			"wikimedia_commons": "Category:Heard Island and McDonald Islands"
 		},
 		"timezone": null,
 		"website": null,
@@ -28735,6 +28862,7 @@
 			"official_name": {
 				"cs": "Honduraská republika",
 				"es": "República de Honduras",
+				"hu": "Hondurasi Köztársaság",
 				"ru": "Республика Гондурас"
 			}
 		},
@@ -28744,7 +28872,8 @@
 		"tags": {
 			"admin_level": "2",
 			"border_type": "nation",
-			"population": "7989415"
+			"population": "7989415",
+			"wikimedia_commons": "Category:Honduras"
 		},
 		"timezone": "America/Tegucigalpa",
 		"website": null,
@@ -28989,6 +29118,7 @@
 				"cs": "Chorvatská republika",
 				"el": "Δημοκρατία της Κροατίας",
 				"eo": "Respubliko Kroatio",
+				"hu": "Horvát Köztársaság",
 				"zh": "克罗地亚共和国;克羅埃西亞共和國;克羅地亞共和國",
 				"zh-Hans": "克罗地亚共和国",
 				"zh-Hant": "克羅埃西亞共和國;克羅地亞共和國"
@@ -29004,7 +29134,8 @@
 			"population": "3871833",
 			"population:date": "2021-08-31",
 			"ref:nuts:1": "HR0",
-			"source:population": "DZS 2021"
+			"source:population": "DZS 2021",
+			"wikimedia_commons": "Category:Croatia"
 		},
 		"timezone": "Europe/Zagreb",
 		"website": null,
@@ -29214,6 +29345,7 @@
 				"gn": "Tavakuairetã Haiti",
 				"grc": "Πολιτεία τῆς Ἁϊτῆς",
 				"ht": "Repiblik Ayiti",
+				"hu": "Haiti Köztársaság",
 				"pl": "Republika Haiti",
 				"pt": "República do Haiti",
 				"sk": "Haitská republika",
@@ -29228,7 +29360,8 @@
 		"relation_id": 307829,
 		"tags": {
 			"admin_level": "2",
-			"border_type": "nation"
+			"border_type": "nation",
+			"wikimedia_commons": "Category:Haiti"
 		},
 		"timezone": "America/Port-au-Prince",
 		"website": null,
@@ -29532,11 +29665,13 @@
 			"admin_level": "2",
 			"country_code_fips": "HU",
 			"driving_side": "right",
+			"flag:wikidata": "Q81970",
+			"flag:wikipedia": "hu:Magyarország zászlaja",
 			"int_name": "Hungary",
 			"land_area": "administrative",
-			"population": "9730772",
-			"population:date": "2021-01-01",
-			"source:population": "ksh.hu",
+			"population": "9603634",
+			"population:date": "2022-10-01",
+			"source:population": "https://nepszamlalas2022.ksh.hu",
 			"wikimedia_commons": "Category:Hungary"
 		},
 		"timezone": "Europe/Budapest",
@@ -29831,6 +29966,7 @@
 				"en": "Republic of Indonesia",
 				"es": "República de Indonesia",
 				"fa": "جمهوری اندونزی",
+				"hu": "Indonéz Köztársaság",
 				"id": "Republik Indonesia",
 				"ku": "Komara Îndonezya",
 				"ru": "Республика Индонезия",
@@ -29851,7 +29987,8 @@
 			"population": "270203917",
 			"population:census:2020": "https://en.wikipedia.org/wiki/Indonesia#cite_note-2020census-8",
 			"ref": "ID",
-			"short_name": "NKRI"
+			"short_name": "NKRI",
+			"wikimedia_commons": "Category:Indonesia"
 		},
 		"timezone": null,
 		"website": null,
@@ -30008,7 +30145,8 @@
 		"tags": {
 			"admin_level": "2",
 			"population": "75049",
-			"source": "landsat;Isle of Man Government aerial imagery (2001)"
+			"source": "landsat;Isle of Man Government aerial imagery (2001)",
+			"wikimedia_commons": "Category:Isle of Man"
 		},
 		"timezone": "Europe/Isle_of_Man",
 		"website": null,
@@ -30315,6 +30453,7 @@
 				"fa": "جمهوری هندوستان",
 				"fr": "République de l'Inde",
 				"hi": "भारत गणराज्य",
+				"hu": "Indiai Köztársaság",
 				"id": "Republik India",
 				"it": "Repubblica dell'India",
 				"ks": "جۆمہوٗرِیہَ ہِندوستان",
@@ -30412,7 +30551,7 @@
 				"he": "טריטוריה בריטית באוקיאנוס ההודי",
 				"hi": "ब्रिटिश हिंद महासागर क्षेत्र",
 				"hr": "Britanski Indijskooceanski Teritoriji",
-				"hu": "Brit Indiai-óceáni Terület",
+				"hu": "Brit Indiai-óceáni terület",
 				"ia": "Territorio oceanic britanno-indian",
 				"id": "Teritorial Britania di Samudra Hindia",
 				"io": "Britaniana teritorio en Indiana Oceano",
@@ -30497,7 +30636,8 @@
 			"int_name": "British Indian Ocean Territory",
 			"loc_name": "Chagos Islands",
 			"population": "3500",
-			"short_name": "BIOT"
+			"short_name": "BIOT",
+			"wikimedia_commons": "Category:British Indian Ocean Territory"
 		},
 		"timezone": null,
 		"website": null,
@@ -30517,8 +30657,7 @@
 		"flag": "File:Flag_of_Ireland.svg",
 		"lang": {
 			"alt_name": {
-				"ca": "República d’Irlanda",
-				"vi": "Ireland;Ái Nhĩ Lan"
+				"ca": "República d’Irlanda"
 			},
 			"name": {
 				"ab": "Ирландиа",
@@ -30773,7 +30912,7 @@
 				"ve": "Ireland",
 				"vec": "Irlanda",
 				"vep": "Irlandii",
-				"vi": "Ai-len",
+				"vi": "Ireland",
 				"vls": "Republiek Ierland",
 				"vo": "Lireyän",
 				"vro": "Iirimaa",
@@ -30800,6 +30939,7 @@
 				"eo": "Respubliko de Irlando",
 				"fi": "Irlannin tasavalta",
 				"ga": "Éire",
+				"hu": "Ír Köztársaság",
 				"io": "Republiko di Irlando",
 				"la": "Hibernia",
 				"mi": "Whenua Airangi",
@@ -31093,6 +31233,7 @@
 				"en": "Islamic Republic of Iran",
 				"es": "República Islámica de Irán",
 				"fr": "République islamique d'Iran",
+				"hu": "Iráni Iszlám Köztársaság",
 				"pa": "ਈਰਾਨ ਦਾ ਇਸਲਾਮੀ ਗਣਤੰਤਰ",
 				"ru": "Исламская Республика Иран",
 				"sr": "Исламска Република Иран",
@@ -31107,6 +31248,7 @@
 				"es": "Persia",
 				"fr": "Perse",
 				"grc": "Περσίς",
+				"hu": "Perzsia",
 				"pa": "ਪਾਰਸ",
 				"ur": "پارس"
 			}
@@ -31391,6 +31533,7 @@
 				"et": "Iraagi Vabariik",
 				"gd": "Poblachd Ioràic",
 				"gn": "Tetã Iráke",
+				"hu": "Iraki Köztársaság",
 				"id": "Republik Irak",
 				"ku": "Komara Êraqê",
 				"lb": "Republik Irak",
@@ -31414,7 +31557,8 @@
 			"alt_name": "العِرَاقُ",
 			"border_type": "nation",
 			"int_name": "Iraq",
-			"population": "28946000"
+			"population": "28946000",
+			"wikimedia_commons": "Category:Iraq"
 		},
 		"timezone": "Asia/Baghdad",
 		"website": null,
@@ -31684,7 +31828,8 @@
 			"ref:nuts": "IS0;IS00",
 			"ref:nuts:1": "IS0",
 			"ref:nuts:2": "IS00",
-			"source:population": "https://px.hagstofa.is/pxis/pxweb/is/Ibuar/Ibuar__mannfjoldi__1_yfirlit__Yfirlit_mannfjolda/MAN00000.px/"
+			"source:population": "https://px.hagstofa.is/pxis/pxweb/is/Ibuar/Ibuar__mannfjoldi__1_yfirlit__Yfirlit_mannfjolda/MAN00000.px/",
+			"wikimedia_commons": "Category:Iceland"
 		},
 		"timezone": "Atlantic/Reykjavik",
 		"website": null,
@@ -31931,6 +32076,7 @@
 				"en": "State of Israel",
 				"eo": "Ŝtato Israelo",
 				"fr": "État d’Israël",
+				"hu": "Izraeli Állam",
 				"pl": "Państwo Izrael",
 				"ru": "Государство Израиль"
 			},
@@ -31968,7 +32114,7 @@
 		"lang": {
 			"alt_name": {
 				"eo": "Italujo",
-				"vi": "I-ta-li-a"
+				"vi": "Ý;Italy"
 			},
 			"name": {
 				"ab": "Италиа",
@@ -32204,7 +32350,7 @@
 				"ve": "Italy",
 				"vec": "Itałia",
 				"vep": "Italii",
-				"vi": "Ý",
+				"vi": "Italia",
 				"vls": "Itoalië",
 				"vo": "Litaliyän",
 				"vro": "Itaalia",
@@ -32229,12 +32375,10 @@
 				"de": "Republik Italien",
 				"el": "Ιταλική Δημοκρατία",
 				"eo": "Itala Respubliko",
+				"hu": "Olasz Köztársaság",
 				"zh": "意大利共和国;義大利共和國",
 				"zh-Hans": "意大利共和国",
 				"zh-Hant": "義大利共和國"
-			},
-			"old_name": {
-				"vi": "Ý Đại Lợi"
 			}
 		},
 		"name": "Italia",
@@ -32311,6 +32455,7 @@
 				"tk": "Ýamaýka",
 				"tzl": "Xhamieca",
 				"uk": "Ямайка",
+				"vi": "Jamaica",
 				"vo": "Camekeän",
 				"zh": "牙买加 / 牙買加",
 				"zh-Hans": "牙买加",
@@ -32328,7 +32473,8 @@
 			"border_type": "nation",
 			"driving_side": "left",
 			"population": "2890300",
-			"source:name:br": "ofis publik ar brezhoneg"
+			"source:name:br": "ofis publik ar brezhoneg",
+			"wikimedia_commons": "Category:Jamaica"
 		},
 		"timezone": "America/Jamaica",
 		"website": null,
@@ -32459,7 +32605,8 @@
 			"official_name": {
 				"ca": "Batllia de Jersey",
 				"eo": "Voktujo Ĵerzejo",
-				"fr": "Bailliage de Jersey"
+				"fr": "Bailliage de Jersey",
+				"hu": "Jersey Bailiffség"
 			}
 		},
 		"name": "Jersey",
@@ -32468,7 +32615,8 @@
 		"tags": {
 			"admin_level": "2",
 			"int_name": "Jersey",
-			"population": "97857"
+			"population": "97857",
+			"wikimedia_commons": "Category:Jersey"
 		},
 		"timezone": "Europe/Jersey",
 		"website": null,
@@ -32692,6 +32840,7 @@
 				"fr": "Royaume hachémite de Jordanie",
 				"gn": "Tavetã Hachemita Horytáña",
 				"he": "הממלכה הירדנית ההאשמית",
+				"hu": "Jordán Hásimita Királyság",
 				"pt": "Reino Haxemita da Jordânia",
 				"ru": "Иорданское Хашимитское Королевство",
 				"ur": "ہاشمی مملکت اردن",
@@ -32705,7 +32854,8 @@
 			"admin_level": "2",
 			"border_type": "administrative",
 			"population": "6343000",
-			"sqkm": "89342"
+			"sqkm": "89342",
+			"wikimedia_commons": "Category:Jordan"
 		},
 		"timezone": "Asia/Amman",
 		"website": null,
@@ -32974,6 +33124,7 @@
 				"en": "State of Japan",
 				"es": "Estado de Japón",
 				"fr": "État du Japon",
+				"hu": "Japán Állam",
 				"ja": "日本国",
 				"ko": "일본국",
 				"zh-Hans": "日本国",
@@ -33243,6 +33394,7 @@
 				"eo": "Respubliko Kazaĥio",
 				"es": "República de Kazajistán",
 				"fr": "République du Kazakhstan",
+				"hu": "Kazah Köztársaság",
 				"kk": "Қазақстан Республикасы",
 				"pl": "Republika Kazachstanu",
 				"ru": "Республика Казахстан",
@@ -33485,6 +33637,7 @@
 				"cs": "Keňská republika",
 				"en": "Republic of Kenya",
 				"gn": "Tavakuairetã Kéña",
+				"hu": "Kenyai Köztársaság",
 				"pt": "República do Quênia"
 			}
 		},
@@ -33494,7 +33647,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "38610097"
+			"population": "38610097",
+			"wikimedia_commons": "Category:Kenya"
 		},
 		"timezone": "Africa/Nairobi",
 		"website": null,
@@ -33718,6 +33872,7 @@
 				"es": "República Kirguisa",
 				"fa": "جمهوری قرقیزستان",
 				"gn": "Tavakuairetã Kirigitã",
+				"hu": "Kirgiz Köztársaság",
 				"ps": "د قرغزستان جمهوريت",
 				"pt": "República Quirguiz",
 				"ru": "Кыргызская Республика",
@@ -33964,6 +34119,7 @@
 				"es": "Reino de Camboya",
 				"fi": "Kambodžan kuningaskunta",
 				"fr": "Royaume du Cambodge",
+				"hu": "Kambodzsai Királyság",
 				"it": "Regno di Cambogia",
 				"ja": "カンボジア王国",
 				"ko": "캄보디아 왕국",
@@ -33981,7 +34137,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "right",
-			"int_name": "Cambodia"
+			"int_name": "Cambodia",
+			"wikimedia_commons": "Category:Cambodia"
 		},
 		"timezone": "Asia/Phnom_Penh",
 		"website": null,
@@ -34052,6 +34209,7 @@
 				"es": "República de Kiribati",
 				"fr": "République de Kiribati",
 				"gn": "Tavakuairetã Kiriváti",
+				"hu": "Kiribati Köztársaság",
 				"is": "Lýðveldið Kíribatí",
 				"pl": "Republika Kiribati",
 				"pt": "República de Kiribati",
@@ -34065,7 +34223,8 @@
 			"admin_level": "2",
 			"driving_side": "left",
 			"population": "120000",
-			"source:name:oc": "Lo Congrès"
+			"source:name:oc": "Lo Congrès",
+			"wikimedia_commons": "Category:Kiribati"
 		},
 		"timezone": null,
 		"website": null,
@@ -34129,6 +34288,7 @@
 				"tk": "Sent-Kits we Newis",
 				"tr": "Saint Kitts ve Nevis",
 				"uk": "Сент-Кiтс i Невiс",
+				"vi": "Saint Kitts và Nevis",
 				"vo": "Sankiteän e Neviseän",
 				"zh": "圣基茨和尼维斯",
 				"zh-Hans": "圣基茨和尼维斯",
@@ -34143,9 +34303,13 @@
 				"es": "Federación de San Cristóbal y Nieves",
 				"fr": "Fédération de Saint-Christophe-et-Niévès",
 				"gn": "Tetã Ñembyatypyre San Cristóbal ha Nieves",
+				"hu": "Saint Kitts és Nevis",
 				"is": "Sambandsríkið Sankti Kitts og Nevis",
 				"lt": "Sent Kristoferio ir Nevio Federacija",
 				"pt": "Federação de São Cristóvão e Neves"
+			},
+			"old_official_name": {
+				"hu": "Saint Christopher és Nevis Államszövetség"
 			}
 		},
 		"name": "Saint Kitts and Nevis",
@@ -34155,7 +34319,8 @@
 			"admin_level": "2",
 			"driving_side": "left",
 			"population": "42696",
-			"source:name:br": "ofis publik ar brezhoneg"
+			"source:name:br": "ofis publik ar brezhoneg",
+			"wikimedia_commons": "Category:Saint Kitts and Nevis"
 		},
 		"timezone": "America/St_Kitts",
 		"website": null,
@@ -34453,7 +34618,8 @@
 			"geonames:id": "1835841",
 			"int_name": "대한민국",
 			"is_capital": "country",
-			"population": "51635256"
+			"population": "51635256",
+			"wikimedia_commons": "Category:South Korea"
 		},
 		"timezone": "Asia/Seoul",
 		"website": null,
@@ -34656,6 +34822,7 @@
 				"en": "State of Kuwait",
 				"es": "Estado de Kuwait",
 				"gn": "Tetã Kuáite",
+				"hu": "Kuvaiti Állam",
 				"pt": "Estado do Kuwait",
 				"ru": "Государство Кувейт"
 			}
@@ -34666,7 +34833,8 @@
 		"tags": {
 			"admin_level": "2",
 			"border_type": "nation",
-			"population": "3399637"
+			"population": "3399637",
+			"wikimedia_commons": "Category:Kuwait"
 		},
 		"timezone": "Asia/Kuwait",
 		"website": null,
@@ -34891,6 +35059,7 @@
 				"es": "República Democrática Popular Lao",
 				"fr": "République populaire démocratique du Laos",
 				"gn": "Láo Tekoha Tavakuairetã Jekopytyjojápe",
+				"hu": "Laoszi Népi Demokratikus Köztársaság",
 				"pl": "Laotańska Republika Ludowo-Demokratyczna",
 				"pt": "República Democrática Popular do Laos",
 				"ru": "Лаосская Народно-Демократическая Республика"
@@ -34905,7 +35074,8 @@
 			"int_name": "Laos",
 			"population": "6200894",
 			"source": "CIA World database II",
-			"wdb:source": "CIA World database II - asia-bdy.txt - segment 99"
+			"wdb:source": "CIA World database II - asia-bdy.txt - segment 99",
+			"wikimedia_commons": "Category:Laos"
 		},
 		"timezone": "Asia/Vientiane",
 		"website": null,
@@ -35102,7 +35272,7 @@
 				"ur": "لبنان",
 				"uz": "Livan",
 				"vec": "Libano",
-				"vi": "Liban",
+				"vi": "Lebanon",
 				"vo": "Libanän",
 				"vro": "Liibanon",
 				"war": "Libano",
@@ -35124,6 +35294,7 @@
 				"en": "Lebanese Republic",
 				"es": "República Libanesa",
 				"fa": "جمهوری لبنان",
+				"hu": "Libanoni Köztársaság",
 				"ru": "Ливанская Республика",
 				"ur": "لبنانی جمہوریہ"
 			}
@@ -35346,6 +35517,7 @@
 				"eo": "Liberia Respubliko",
 				"fa": "جمهوری لیبریا",
 				"gn": "Tavakuairetã Livéria",
+				"hu": "Libériai Köztársaság",
 				"pt": "República da Libéria"
 			}
 		},
@@ -35355,7 +35527,8 @@
 		"tags": {
 			"admin_level": "2",
 			"population": "3476608",
-			"source": "Open Cities Monrovia - HOT Field Survey"
+			"source": "Open Cities Monrovia - HOT Field Survey",
+			"wikimedia_commons": "Category:Liberia"
 		},
 		"timezone": "Africa/Monrovia",
 		"website": null,
@@ -35607,6 +35780,7 @@
 				"fa": "دولت لیبی",
 				"fr": "État de Libye",
 				"grc": "Πολιτεία τῆς Κυρηναϊκῆς",
+				"hu": "Líbia Állam",
 				"nl": "Staat Libië",
 				"sr": "Држава Либија",
 				"ur": "ریاست لیبیا"
@@ -35617,7 +35791,8 @@
 		"relation_id": 192758,
 		"tags": {
 			"admin_level": "2",
-			"population": "5613380"
+			"population": "5613380",
+			"wikimedia_commons": "Category:Libya"
 		},
 		"timezone": "Africa/Tripoli",
 		"website": null,
@@ -35760,8 +35935,8 @@
 			"admin_level": "2",
 			"driving_side": "left",
 			"population": "173907",
-			"route": "power",
-			"source:name:br": "ofis publik ar brezhoneg"
+			"source:name:br": "ofis publik ar brezhoneg",
+			"wikimedia_commons": "Category:Saint Lucia"
 		},
 		"timezone": "America/St_Lucia",
 		"website": null,
@@ -35836,6 +36011,7 @@
 				"tzl": "Lic'htenschtain",
 				"uk": "Ліхтенштейн",
 				"ur": "لخٹنشٹائن",
+				"vi": "Liechtenstein",
 				"vo": "Ligtänstän",
 				"zh": "列支敦士登 / 列支敦斯登",
 				"zh-Hans": "列支敦士登",
@@ -35876,7 +36052,8 @@
 			"ref:nuts:1": "LI0",
 			"ref:nuts:2": "LI00",
 			"ref:nuts:3": "LI000",
-			"source:population": "Amt für Statistik"
+			"source:population": "Amt für Statistik",
+			"wikimedia_commons": "Category:Liechtenstein"
 		},
 		"timezone": "Europe/Vaduz",
 		"website": null,
@@ -36102,6 +36279,7 @@
 				"es": "República Democrática Socialista de Sri Lanka",
 				"fr": "République socialiste démocratique du Sri Lanka",
 				"gn": "Tavakuairetã Jekopytyjojápe Socialista Sri Lanka",
+				"hu": "Srí Lanka Demokratikus Szocialista Köztársaság",
 				"ja": "スリランカ民主社会主義共和国",
 				"ko": "스리랑카 민주 사회주의 공화국",
 				"pa": "ਸ਼੍ਰੀਲੰਕਾ ਦਾ ਲੋਕਤੰਤਰੀ ਸਮਾਜਵਾਦੀ ਗਣਰਾਜ",
@@ -36127,7 +36305,8 @@
 			"alt_name": "Ceylon",
 			"border_type": "nation",
 			"driving_side": "left",
-			"note": "Also Known As Ceylon"
+			"note": "Also Known As Ceylon",
+			"wikimedia_commons": "Category:Sri Lanka"
 		},
 		"timezone": "Asia/Colombo",
 		"website": null,
@@ -36343,6 +36522,7 @@
 				"eo": "Lesota Reĝlando",
 				"fr": "Royaume du Lesotho",
 				"gn": "Tavetã Lesóto",
+				"hu": "Lesothói Királyság",
 				"pt": "Reino do Lesoto",
 				"st": "Muso oa Lesotho",
 				"sv": "Kungariket Lesotho",
@@ -36359,7 +36539,8 @@
 			"fixme": "Official Lesotho constituencies (admin level 6): https://iec.org.ls/maps/ List: https://www.gov.ls/wp-content/uploads/2022/04/Constituency-Delimitation-Order.pdf https://iec.org.ls/download/list-of-constituencies/",
 			"land_area": "administrative",
 			"population": "2067000",
-			"population:date": "2009"
+			"population:date": "2009",
+			"wikimedia_commons": "Category:Lesotho"
 		},
 		"timezone": "Africa/Maseru",
 		"website": null,
@@ -36629,6 +36810,7 @@
 				"es": "República de Lituania",
 				"et": "Leedu Vabariik",
 				"fr": "République de Lituanie",
+				"hu": "Litván Köztársaság",
 				"id": "Republik Lituania",
 				"it": "Repubblica di Lituania",
 				"ka": "ლიეტუვის რესპუბლიკა",
@@ -36903,6 +37085,7 @@
 				"eo": "Grandduklando Luksemburgio",
 				"fi": "Luxemburgin suurherttuakunta",
 				"fr": "Grand-duché de Luxembourg",
+				"hu": "Luxemburgi Nagyhercegség",
 				"it": "Granducato del Lussemburgo",
 				"lb": "Groussherzogtum Lëtzebuerg",
 				"li": "Groethertogdom Luxembörg",
@@ -36931,7 +37114,8 @@
 			"ref:nuts:1": "LU0",
 			"ref:nuts:2": "LU00",
 			"ref:nuts:3": "LU000",
-			"source:population": "wikipedia"
+			"source:population": "wikipedia",
+			"wikimedia_commons": "Category:Luxembourg"
 		},
 		"timezone": "Europe/Luxembourg",
 		"website": null,
@@ -37202,6 +37386,7 @@
 				"eo": "Respubliko Latvio",
 				"es": "República de Letonia",
 				"et": "Läti Vabariik",
+				"hu": "Lett Köztársaság",
 				"id": "Republik Latvia",
 				"it": "Repubblica di Lettonia",
 				"lt": "Latvijos Respublika",
@@ -37380,6 +37565,7 @@
 				"en": "Macao Special Administrative Region",
 				"eo": "Speciala Administra Divido de Makao",
 				"fr": "Région administrative spéciale de Macao",
+				"hu": "Makaó Különleges Közigazgatási Terület",
 				"nan": "Ò-mn̂g Tek-pia̍t Hêng-chèng-khu",
 				"nan-Hant": "澳門特別行政區",
 				"nan-Latn-pehoeji": "Ò-mn̂g Tek-pia̍t Hêng-chèng-khu",
@@ -37408,8 +37594,8 @@
 			"ref": "澳",
 			"ref:en": "MO",
 			"ref:zh": "澳",
-			"source": "Guess from Bing",
-			"timezone:note": "Incomplete object"
+			"timezone:note": "Incomplete object",
+			"wikimedia_commons": "Category:Macau"
 		},
 		"timezone": "Asia/Macau",
 		"website": null,
@@ -37743,7 +37929,7 @@
 				"uz": "Marokash",
 				"vec": "Maroco",
 				"vep": "Marok",
-				"vi": "Maroc",
+				"vi": "Morocco",
 				"vo": "Marokän",
 				"vro": "Maroko",
 				"wa": "Marok",
@@ -37769,6 +37955,7 @@
 				"en": "Morocco",
 				"fr": "Maroc",
 				"gn": "Mburuvi Marruéko",
+				"hu": "Marokkói Királyság",
 				"pt": "Marrocos"
 			},
 			"old_name": {
@@ -37783,7 +37970,8 @@
 			"old_name": "مراكش",
 			"population": "36828330",
 			"population:date": "2024",
-			"source:population": "Haut-Commissariat au Plan"
+			"source:population": "Haut-Commissariat au Plan",
+			"wikimedia_commons": "Category:Morocco"
 		},
 		"timezone": null,
 		"website": null,
@@ -38015,6 +38203,7 @@
 				"fr": "Principauté de Monaco",
 				"gn": "Mburuvichavete ra'y rekuái Mónako",
 				"hr": "Kneževina Monako",
+				"hu": "Monacói Hercegség",
 				"lij": "Principatu de Múnegu",
 				"oc": "Principat de Mónegue",
 				"pt": "Principado do Mónaco",
@@ -38035,7 +38224,8 @@
 			"population": "39050",
 			"population:date": "2022-12-31",
 			"source:name:oc": "ieo-bdtopoc",
-			"source:population": "IMSEE 2023"
+			"source:population": "IMSEE 2023",
+			"wikimedia_commons": "Category:Monaco"
 		},
 		"timezone": "Europe/Monaco",
 		"website": "https://www.gouv.mc/",
@@ -38276,6 +38466,7 @@
 				"fr": "République de Moldavie",
 				"gag": "Moldova Republikası",
 				"gn": "Tavakuairetã Moyndávia",
+				"hu": "Moldovai Köztársaság",
 				"la": "Res publica Moldavica",
 				"na": "Ripubrikin Mordowa",
 				"ru": "Республика Молдова"
@@ -38517,6 +38708,7 @@
 				"cs": "Madagaskarská republika",
 				"cv": "Мадагаскар Республики",
 				"din": "Paankɔc ke Madagathkar",
+				"hu": "Madagaszkári Köztársaság",
 				"ky": "Мадагаскар Республикасы"
 			}
 		},
@@ -38665,6 +38857,7 @@
 				"tzl": "Divehins",
 				"uk": "Мальдіви",
 				"ur": "مالدیپ",
+				"vi": "Maldives",
 				"vo": "Maldivuäns",
 				"wuu": "马尔代芙",
 				"yo": "Orílẹ́ède Maladifi",
@@ -38689,6 +38882,7 @@
 				"fr": "îles Maldives",
 				"gn": "Tavakuairetã Mayndíva",
 				"hr": "Republika Maldivi",
+				"hu": "Maldív Köztársaság",
 				"id": "Republik Maladewa",
 				"it": "Repubblica delle Maledive",
 				"ko": "몰디브 공화국",
@@ -38708,7 +38902,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "328536"
+			"population": "328536",
+			"wikimedia_commons": "Category:Maldives"
 		},
 		"timezone": "Indian/Maldives",
 		"website": null,
@@ -38945,7 +39140,7 @@
 				"uz": "Meksika",
 				"vec": "Mèsico",
 				"vep": "Meksik",
-				"vi": "México",
+				"vi": "Mexico",
 				"vo": "Mäxikän",
 				"vro": "Mehhiko",
 				"war": "Mehiko",
@@ -38969,6 +39164,7 @@
 				"cs": "Spojené státy mexické",
 				"cy": "Unol Daleithiau Mecsico",
 				"fr": "États-Unis Mexicains",
+				"hu": "Mexikói Egyesült Államok",
 				"sv": "Mexikos förenta stater"
 			}
 		},
@@ -39065,6 +39261,7 @@
 				"en": "Republic of the Marshall Islands",
 				"es": "República de las Islas Marshall",
 				"gn": "Tavakuairetã Ypa'ũnguéra Marshall",
+				"hu": "Marshall-szigeteki Köztársaság",
 				"pt": "República das Ilhas Marshall",
 				"ru": "Республика Маршалловы Острова",
 				"xmf": "მარშალიშ კოკეფიშ რესპუბლიკა"
@@ -39079,7 +39276,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "right",
-			"source:name:oc": "Lo Congrès"
+			"source:name:oc": "Lo Congrès",
+			"wikimedia_commons": "Category:Marshall Islands"
 		},
 		"timezone": null,
 		"website": null,
@@ -39277,6 +39475,7 @@
 				"gl": "República de Macedonia do Norte",
 				"he": "רפובליקת מקדוניה הצפונית",
 				"hr": "Republika Sjeverna Makedonija",
+				"hu": "Észak-macedón Köztársaság",
 				"is": "Lýðveldið Norður-Makedónía",
 				"it": "Repubblica della Macedonia del Nord",
 				"mk": "Република Северна Македонија",
@@ -39319,6 +39518,7 @@
 				"he": "מקדוניה",
 				"hr": "Makedonija",
 				"hsb": "Makedonska",
+				"hu": "Macedónia",
 				"ja": "マケドニア",
 				"mk": "Македонија",
 				"nl": "Macedonië",
@@ -39354,6 +39554,7 @@
 				"fr": "République de Macédoine",
 				"he": "רפובליקת מקדוניה",
 				"hr": "Republika Makedonija",
+				"hu": "Macedón Köztársaság",
 				"it": "Repubblica di Macedonia",
 				"mk": "Република Македонија",
 				"ro": "Republica Macedonia de Nord",
@@ -39393,7 +39594,8 @@
 			"ref:nuts": "MK0;MK00",
 			"ref:nuts:1": "MK0",
 			"ref:nuts:2": "MK00",
-			"source:name": "Prespa agreement, which came into effect on 8 February 2019."
+			"source:name": "Prespa agreement, which came into effect on 8 February 2019.",
+			"wikimedia_commons": "Category:North Macedonia"
 		},
 		"timezone": "Europe/Skopje",
 		"website": null,
@@ -39609,6 +39811,7 @@
 				"es": "República de Malí",
 				"fr": "République du Mali",
 				"gn": "Tavakuairetã Mali",
+				"hu": "Mali Köztársaság",
 				"pt": "República do Mali",
 				"ru": "Республика Мали",
 				"zh": "马里共和国",
@@ -39621,7 +39824,8 @@
 		"relation_id": 192785,
 		"tags": {
 			"admin_level": "2",
-			"population": "14517176"
+			"population": "14517176",
+			"wikimedia_commons": "Category:Mali"
 		},
 		"timezone": "Africa/Bamako",
 		"website": null,
@@ -39749,6 +39953,7 @@
 				"en": "Republic of Malta",
 				"eo": "Malta Respubliko",
 				"fi": "Maltan tasavalta",
+				"hu": "Máltai Köztársaság",
 				"id": "Republik Malta",
 				"ja": "マルタ共和国",
 				"ku": "Komara Maltayê",
@@ -39772,7 +39977,8 @@
 			"int_name": "Malta",
 			"population": "423282",
 			"ref:nuts:1": "MT0",
-			"ref:nuts:2": "MT00"
+			"ref:nuts:2": "MT00",
+			"wikimedia_commons": "Category:Malta"
 		},
 		"timezone": "Europe/Malta",
 		"website": null,
@@ -39811,6 +40017,7 @@
 				"pl": "Birma",
 				"sd": "ميانمار (برما)",
 				"sw": "Myanmar (Burma)",
+				"th": "ประเทศพม่า",
 				"tr": "Birmanya",
 				"yo": "Manamari"
 			},
@@ -39988,7 +40195,7 @@
 				"te": "మయన్మార్",
 				"tet": "Birmánia",
 				"tg": "Мянма",
-				"th": "ประเทศพม่า",
+				"th": "ประเทศเมียนมา",
 				"tk": "Mýanma",
 				"tl": "Myanmar",
 				"tn": "Myanmar",
@@ -40001,7 +40208,7 @@
 				"ur": "میانمار",
 				"uz": "Birma",
 				"vec": "Birmania",
-				"vi": "Myanma",
+				"vi": "Myanmar",
 				"vo": "Mianmarän",
 				"vro": "Birma",
 				"war": "Myanmar",
@@ -40030,12 +40237,14 @@
 				"fi": "Myanmarin liitto",
 				"gn": "Tavakuairetã Joaty Miamar",
 				"hr": "Republika Unija Mjanmar",
+				"hu": "Mianmari Szövetségi Köztársaság",
 				"nl": "Unie van Myanmar",
 				"no": "Unionen Myanmar",
 				"pl": "Republika Związku Mjanmy",
 				"pt": "República da União de Myanmar",
 				"ru": "Республика Союз Мьянма",
-				"sv": "Unionen Myanmar"
+				"sv": "Unionen Myanmar",
+				"th": "สาธารณรัฐแห่งสหภาพเมียนมา"
 			},
 			"old_name": {
 				"bn": "বার্মা",
@@ -40046,6 +40255,7 @@
 				"et": "Birma",
 				"eu": "Birmania",
 				"fi": "Burma",
+				"hu": "Burma",
 				"kn": "ಮ್ಯಾನ್ಮಾರ್",
 				"ko": "버마",
 				"mt": "Burma",
@@ -40064,7 +40274,8 @@
 			"driving_side": "right",
 			"int_name": "Myanmar",
 			"population": "55167330",
-			"source": "generated from SRTM"
+			"source": "generated from SRTM",
+			"wikimedia_commons": "Category:Myanmar"
 		},
 		"timezone": "Asia/Yangon",
 		"website": null,
@@ -40298,7 +40509,8 @@
 			"ref:nuts": "ME0;ME00;ME000",
 			"ref:nuts:1": "ME0",
 			"ref:nuts:2": "ME00",
-			"ref:nuts:3": "ME000"
+			"ref:nuts:3": "ME000",
+			"wikimedia_commons": "Category:Montenegro"
 		},
 		"timezone": "Europe/Podgorica",
 		"website": null,
@@ -40793,7 +41005,8 @@
 			},
 			"official_name": {
 				"cs": "Mosambická republika",
-				"cy": "Gweriniaeth Mozambique"
+				"cy": "Gweriniaeth Mozambique",
+				"hu": "Mozambiki Köztársaság"
 			}
 		},
 		"name": "Moçambique",
@@ -40801,7 +41014,8 @@
 		"relation_id": 195273,
 		"tags": {
 			"admin_level": "2",
-			"driving_side": "left"
+			"driving_side": "left",
+			"wikimedia_commons": "Category:Mozambique"
 		},
 		"timezone": "Africa/Maputo",
 		"website": null,
@@ -40958,7 +41172,7 @@
 				"uk": "Мавританія",
 				"ur": "موریتانیہ",
 				"uz": "Mavritaniya",
-				"vi": "Mauritanie",
+				"vi": "Mauritania",
 				"vo": "Moritän",
 				"wa": "Moritanreye",
 				"wal": "Mawuritaaniya",
@@ -40985,6 +41199,7 @@
 				"es": "República Islámica de Mauritania",
 				"fr": "République islamique de Mauritanie",
 				"gn": "Tavakuairetã Islã rapépe Mauritáña",
+				"hu": "Mauritániai Iszlám Köztársaság",
 				"kk-Arab": "ماۆرىيتانىييا ىيسلام رەسپۋبلىيكاسى",
 				"pt": "República Islâmica da Mauritânia",
 				"syc": "ܩܘܛܢܝܘܬܐ ܡܫܠܡܢܝܬܐ ܕܡܘܪܝܛܢܝܐ"
@@ -40994,7 +41209,8 @@
 		"official_name": "الجمهورية الإسلامية الموريتانية",
 		"relation_id": 192763,
 		"tags": {
-			"admin_level": "2"
+			"admin_level": "2",
+			"wikimedia_commons": "Category:Mauritania"
 		},
 		"timezone": "Africa/Nouakchott",
 		"website": null,
@@ -41121,7 +41337,8 @@
 		"tags": {
 			"admin_level": "2",
 			"description": "british overseas territory",
-			"population": "4922"
+			"population": "4922",
+			"wikimedia_commons": "Category:Montserrat"
 		},
 		"timezone": "America/Montserrat",
 		"website": null,
@@ -41422,6 +41639,7 @@
 				"cs": "Mauricijská republika",
 				"de": "Republik Mauritius",
 				"fr": "République de Maurice",
+				"hu": "Mauritiusi Köztársaság",
 				"sr": "Република Маурицијус",
 				"xmf": "მავრიკიშ რესპუბლიკა"
 			},
@@ -41435,7 +41653,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "1265475"
+			"population": "1265475",
+			"wikimedia_commons": "Category:Mauritius"
 		},
 		"timezone": "Indian/Mauritius",
 		"website": null,
@@ -41639,6 +41858,7 @@
 			"official_name": {
 				"cs": "Malawiská republika",
 				"gn": "Tavakuairetã Maláui",
+				"hu": "Malawi Köztársaság",
 				"pt": "República do Malawi"
 			}
 		},
@@ -41648,7 +41868,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "14212000"
+			"population": "14212000",
+			"wikimedia_commons": "Category:Malawi"
 		},
 		"timezone": "Africa/Blantyre",
 		"website": null,
@@ -41889,7 +42110,8 @@
 			"border_type": "nation",
 			"driving_side": "left",
 			"note": "Please connect Malaysia with W. P in KL then connect W.P to Labuan, Putrajaya and KL",
-			"population": "28334135"
+			"population": "28334135",
+			"wikimedia_commons": "Category:Malaysia"
 		},
 		"timezone": null,
 		"website": null,
@@ -42201,6 +42423,7 @@
 				"cs": "Namibijská republika",
 				"en": "Namibia",
 				"gn": "Tavakuairetã Namívia",
+				"hu": "Namíbiai Köztársaság",
 				"pt": "República da Namíbia"
 			}
 		},
@@ -42210,7 +42433,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "2113077"
+			"population": "2113077",
+			"wikimedia_commons": "Category:Namibia"
 		},
 		"timezone": "Africa/Windhoek",
 		"website": null,
@@ -42569,6 +42793,7 @@
 				"es": "República del Níger",
 				"fr": "République du Niger",
 				"gn": "Tavakuairetã Níger",
+				"hu": "Nigeri Köztársaság",
 				"nds": "Republiek Niger",
 				"pt": "República do Níger",
 				"ru": "Республика Нигер"
@@ -42579,7 +42804,8 @@
 		"relation_id": 192786,
 		"tags": {
 			"admin_level": "2",
-			"population": "17129076"
+			"population": "17129076",
+			"wikimedia_commons": "Category:Niger"
 		},
 		"timezone": "Africa/Niamey",
 		"website": null,
@@ -42952,7 +43178,8 @@
 				"ar": "جمهورية نيجيريا الاتحادية",
 				"cs": "Nigerijská federativní republika",
 				"en": "Federal Republic of Nigeria",
-				"fa": "جمهوری فدرال نیجریه"
+				"fa": "جمهوری فدرال نیجریه",
+				"hu": "Nigériai Szövetségi Köztársaság"
 			}
 		},
 		"name": "Nigeria",
@@ -42960,7 +43187,8 @@
 		"relation_id": 192787,
 		"tags": {
 			"admin_level": "2",
-			"population": "152217341"
+			"population": "152217341",
+			"wikimedia_commons": "Category:Nigeria"
 		},
 		"timezone": "Africa/Lagos",
 		"website": null,
@@ -43157,6 +43385,7 @@
 				"ckb": "کۆماری نیکاراگوا",
 				"cs": "Nikaragujská republika",
 				"es": "República de Nicaragua",
+				"hu": "Nicaraguai Köztársaság",
 				"ru": "Республика Никарагуа"
 			}
 		},
@@ -43166,7 +43395,8 @@
 		"tags": {
 			"admin_level": "2",
 			"border_type": "nation",
-			"population": "6393824"
+			"population": "6393824",
+			"wikimedia_commons": "Category:Nicaragua"
 		},
 		"timezone": "America/Managua",
 		"website": null,
@@ -43235,7 +43465,8 @@
 		"tags": {
 			"addr:country": "NU",
 			"admin_level": "2",
-			"source:name:br": "ofis publik ar brezhoneg"
+			"source:name:br": "ofis publik ar brezhoneg",
+			"wikimedia_commons": "Category:Niue"
 		},
 		"timezone": "Pacific/Niue",
 		"website": null,
@@ -43508,6 +43739,7 @@
 				"fi": "Alankomaiden kuningaskunta",
 				"fr": "Royaume des Pays-Bas",
 				"grc": "Βασιλεία Βαταυίας",
+				"hu": "Holland Királyság",
 				"it": "Regno dei Paesi Bassi",
 				"nds": "Königriek vun de Nedderlannen",
 				"nl": "Koninkrijk der Nederlanden",
@@ -43810,6 +44042,7 @@
 				"en": "Kingdom of Norway",
 				"eo": "Reĝlando Norvegio",
 				"fr": "Royaume de Norvège",
+				"hu": "Norvég Királyság",
 				"pl": "Królestwo Norwegii",
 				"sv": "Konungariket Norge"
 			}
@@ -43826,7 +44059,8 @@
 			"population:date": "2025-01-01",
 			"ref:nuts": "NO0",
 			"ref:nuts:1": "NO0",
-			"source:population": "wikipedia"
+			"source:population": "wikipedia",
+			"wikimedia_commons": "Category:Norway"
 		},
 		"timezone": null,
 		"website": null,
@@ -44069,6 +44303,8 @@
 				"fa": "جمهوری فدرال دموکراتیک نپال",
 				"fr": "République démocratique fédérale du Népal",
 				"gn": "Nepal Tavakuairetã Ñembyatypyre Jekopytyjojáva",
+				"hu": "Nepál",
+				"hu:-2021-05-18": "Nepáli Demokratikus Szövetségi Köztársaság",
 				"ne": "सङ्घीय लोकतान्त्रिक गणतन्त्र नेपाल",
 				"pl": "Federalna Demokratyczna Republika Nepalu",
 				"pt": "República Democrática Federal do Nepal",
@@ -44082,7 +44318,9 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "29519114"
+			"population": "29519114",
+			"source:official_name:hu": "Földrajzinév-bizottság (115/1023. (2021. V. 18.) FNB. Hat.)",
+			"wikimedia_commons": "Category:Nepal"
 		},
 		"timezone": "Asia/Kathmandu",
 		"website": null,
@@ -44202,6 +44440,7 @@
 				"uk": "Науру",
 				"ur": "ناورو",
 				"vec": "Nauru",
+				"vi": "Nauru",
 				"vo": "Naureän",
 				"wo": "Nauru",
 				"xal": "Орн",
@@ -44248,7 +44487,8 @@
 			"admin_level": "2",
 			"driving_side": "left",
 			"old_name": "Pleasant Island",
-			"population": "10175"
+			"population": "10175",
+			"wikimedia_commons": "Category:Nauru"
 		},
 		"timezone": "Pacific/Nauru",
 		"website": null,
@@ -44535,7 +44775,8 @@
 			"driving_side": "left",
 			"population": "5158113",
 			"source:population": "Statistics NZ 20121-11-27",
-			"website:tourism": "https://www.newzealand.com"
+			"website:tourism": "https://www.newzealand.com",
+			"wikimedia_commons": "Category:New Zealand"
 		},
 		"timezone": null,
 		"website": "https://www.govt.nz",
@@ -44736,6 +44977,7 @@
 				"ckb": "سەڵتەنەتی عومان",
 				"cs": "Sultanát Omán",
 				"eo": "Omana Sultanlando",
+				"hu": "Ománi Szultánság",
 				"pl": "Sułtanat Omanu"
 			}
 		},
@@ -44747,7 +44989,8 @@
 			"border_type": "nation",
 			"population": "2577000",
 			"ref": "OM",
-			"state_code": "OM"
+			"state_code": "OM",
+			"wikimedia_commons": "Category:Oman"
 		},
 		"timezone": "Asia/Muscat",
 		"website": null,
@@ -44997,6 +45240,7 @@
 				"es": "República Islámica del Pakistán",
 				"fa": "جمهوری اسلامی پاکستان",
 				"fr": "République islamique du Pakistan",
+				"hu": "Pakisztáni Iszlám Köztársaság",
 				"kk-Arab": "پاكىستان ىيسلام رەسپۋبلىيكاسى",
 				"ks": "اِسلامی جمہوٗرِیت پاکِستان",
 				"pl": "Islamska Republika Pakistanu",
@@ -45013,7 +45257,8 @@
 			"border_type": "nation",
 			"driving_side": "left",
 			"population": "241499431",
-			"source:population": "https://en.wikipedia.org/wiki/Pakistan#cite_note-2023census-12"
+			"source:population": "https://en.wikipedia.org/wiki/Pakistan#cite_note-2023census-12",
+			"wikimedia_commons": "Category:Pakistan"
 		},
 		"timezone": "Asia/Karachi",
 		"website": null,
@@ -45220,6 +45465,7 @@
 				"cs": "Panamská republika",
 				"en": "Republic of Panama",
 				"es": "República de Panamá",
+				"hu": "Panamai Köztársaság",
 				"ru": "Республика Панама"
 			}
 		},
@@ -45228,7 +45474,8 @@
 		"relation_id": 287668,
 		"tags": {
 			"admin_level": "2",
-			"border_type": "nation"
+			"border_type": "nation",
+			"wikimedia_commons": "Category:Panama"
 		},
 		"timezone": "America/Panama",
 		"website": null,
@@ -45297,9 +45544,6 @@
 			},
 			"short_name": {
 				"cy": "Ynysoedd Pitcairn"
-			},
-			"wikipedia": {
-				"en": "Pitcairn Islands"
 			}
 		},
 		"name": "Pitcairn Islands",
@@ -45309,7 +45553,8 @@
 			"admin_level": "2",
 			"description": "Considered a Non-Self-Governing Territory by the United Nations.",
 			"maritime": "yes",
-			"place": "archipelago"
+			"place": "archipelago",
+			"wikimedia_commons": "Category:Pitcairn Islands"
 		},
 		"timezone": "Pacific/Pitcairn",
 		"website": null,
@@ -45543,6 +45788,7 @@
 				"et": "Peruu Vabariik",
 				"eu": "Peruko Errepublika",
 				"fr": "République du Pérou",
+				"hu": "Perui Köztársaság",
 				"id": "Republik Peru",
 				"lb": "Republik Peru",
 				"lt": "Peru Respublika",
@@ -45560,7 +45806,8 @@
 		"tags": {
 			"admin_level": "2",
 			"int_name": "Peru",
-			"population": "29180899"
+			"population": "29180899",
+			"wikimedia_commons": "Category:Peru"
 		},
 		"timezone": "America/Lima",
 		"website": null,
@@ -45809,6 +46056,7 @@
 				"en": "Republic of the Philippines",
 				"es": "República de Filipinas",
 				"fur": "Republiche des Filipinis",
+				"hu": "Fülöp-szigeteki Köztársaság",
 				"pt": "República das Filipinas",
 				"ru": "Республика Филиппины",
 				"tl": "Repúblika ng Pilipinas",
@@ -45825,9 +46073,9 @@
 			"driving_side": "right",
 			"note": "do not modify nor delete this boundary unless a consensus is reached",
 			"old_name": "Las Felipinas",
-			"population": "113757002",
-			"population:date": "2023-04-11",
-			"source:population": "https://www.worldometers.info/world-population/philippines-population/",
+			"population": "112729484",
+			"population:date": "2024-07-01",
+			"source:population": "Philippine Statistics Authority",
 			"wikimedia_commons": "Category:Philippines"
 		},
 		"timezone": "Asia/Manila",
@@ -45926,7 +46174,8 @@
 			"admin_level": "2",
 			"driving_side": "right",
 			"population": "21680",
-			"source:name:oc": "Lo Congrès"
+			"source:name:oc": "Lo Congrès",
+			"wikimedia_commons": "Category:Palau"
 		},
 		"timezone": "Pacific/Palau",
 		"website": null,
@@ -46114,6 +46363,7 @@
 				"es": "Estado Independiente de Papúa Nueva Guinea",
 				"fr": "État indépendant de Papouasie-Nouvelle-Guinée",
 				"gn": "Tetã Hekosãsóva Papúa Ginéa Pyahu",
+				"hu": "Pápua Új-Guinea Független Állam",
 				"pt": "Estado Independente da Papua-Nova Guiné",
 				"ru": "Независимое Государство Папуа — Новая Гвинея",
 				"uk": "Незалежна Держава Папуа Нова Ґвінея"
@@ -46126,7 +46376,8 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"driving_side": "left",
-			"int_name": "Papua New Guinea"
+			"int_name": "Papua New Guinea",
+			"wikimedia_commons": "Category:Papua New Guinea"
 		},
 		"timezone": null,
 		"website": null,
@@ -46413,6 +46664,7 @@
 				"es": "República de Polonia",
 				"fi": "Puolan tasavalta",
 				"fr": "République de Pologne",
+				"hu": "Lengyel Köztársaság",
 				"mi": "Whenua Pōrana",
 				"pl": "Rzeczpospolita Polska",
 				"ru": "Республика Польша",
@@ -46752,7 +47004,7 @@
 				"ur": "شمالی کوریا",
 				"uz": "Koreya Xalq Demokratik Respublikasi",
 				"vec": "Corea del Nord",
-				"vi": "Bắc Triều Tiên",
+				"vi": "Triều Tiên",
 				"vo": "Nolüda-Koreyän",
 				"vro": "Põh'a-Korea",
 				"war": "Amihanan nga Korea",
@@ -46811,8 +47063,10 @@
 		"relation_id": 192734,
 		"tags": {
 			"admin_level": "2",
+			"alt_name": "Bắc Triều Tiên",
 			"driving_side": "right",
-			"population": "24052231"
+			"population": "24052231",
+			"wikimedia_commons": "Category:North Korea"
 		},
 		"timezone": "Asia/Pyongyang",
 		"website": null,
@@ -47079,6 +47333,7 @@
 				"es": "República Portuguesa",
 				"fi": "Portugalin tasavalta",
 				"fr": "République portugaise",
+				"hu": "Portugál Köztársaság",
 				"ku": "Komara Portûgal",
 				"ur": "جمہوریہ پرتگال",
 				"zh": "葡萄牙共和国",
@@ -47303,6 +47558,7 @@
 				"en": "Republic of Paraguay",
 				"es": "República del Paraguay",
 				"gn": "Tavakuairetã Paraguái",
+				"hu": "Paraguayi Köztársaság",
 				"ru": "Республика Парагвай"
 			}
 		},
@@ -47314,7 +47570,8 @@
 			"border_type": "nation",
 			"population": "7012433",
 			"population:date": "2015",
-			"source:population": "wikipedia"
+			"source:population": "wikipedia",
+			"wikimedia_commons": "Category:Paraguay"
 		},
 		"timezone": "America/Asuncion",
 		"website": null,
@@ -47809,6 +48066,7 @@
 				"en": "State of Qatar",
 				"es": "Estado de Catar",
 				"gn": "Tetã Katára",
+				"hu": "Katari Állam",
 				"pt": "Estado do Catar",
 				"ru": "Государство Катар"
 			}
@@ -47821,7 +48079,8 @@
 			"border_type": "nation",
 			"population": "1699435",
 			"ref": "QA",
-			"state_code": "QA"
+			"state_code": "QA",
+			"wikimedia_commons": "Category:Qatar"
 		},
 		"timezone": "Asia/Qatar",
 		"website": null,
@@ -48548,6 +48807,7 @@
 				"et": "Venemaa Föderatsioon",
 				"fi": "Venäjän Federaatio",
 				"fr": "Fédération de Russie",
+				"hu": "Oroszországi Föderáció",
 				"nl": "Russische Federatie",
 				"pl": "Federacja Rosyjska",
 				"pt": "Federação Russa",
@@ -48563,10 +48823,12 @@
 			},
 			"old_name": {
 				"ca": "República Socialista Federativa Soviètica de Rússia;Imperi Rus",
+				"hu": "Szovjet Szocialista Köztársaságok Szövetsége",
 				"is": "Garðaríki"
 			},
 			"old_short_name": {
 				"en": "RSFSR",
+				"hu": "SZSZKSZ",
 				"ru": "РСФСР"
 			},
 			"short_name": {
@@ -48798,6 +49060,7 @@
 			"official_name": {
 				"cs": "Rwandská republika",
 				"gn": "Tavakuairetã Rruánda",
+				"hu": "Ruandai Köztársaság",
 				"pt": "República de Ruanda"
 			}
 		},
@@ -48806,7 +49069,8 @@
 		"relation_id": 171496,
 		"tags": {
 			"admin_level": "2",
-			"population": "11400000"
+			"population": "11400000",
+			"wikimedia_commons": "Category:Rwanda"
 		},
 		"timezone": "Africa/Kigali",
 		"website": null,
@@ -48828,7 +49092,7 @@
 			"alt_name": {
 				"ca": "Aràbia Saudí",
 				"eo": "Sauda Arabujo;Saud-Arabio;Saud-Arabujo",
-				"vi": "Ả Rập Xê Út;A-rập Xê-út"
+				"vi": "Ả Rập Saudi;Saudi Arabia"
 			},
 			"name": {
 				"ace": "Arab Saudi",
@@ -49009,7 +49273,7 @@
 				"ur": "سعودی عرب",
 				"uz": "Saudiya Arabistoni",
 				"vec": "Arabia Saudìa",
-				"vi": "Ả Rập Saudi",
+				"vi": "Arab Saudi",
 				"vo": "Sauda-Larabän",
 				"vro": "Saudi Araabia",
 				"war": "Arabya Saudita",
@@ -49032,6 +49296,7 @@
 				"eo": "Reĝlando Sauda Arabio",
 				"es": "Reino de Arabia Saudita",
 				"fr": "Royaume d’Arabie saoudite",
+				"hu": "Szaúd-arábiai Királyság",
 				"pt": "Reino da Arábia Saudita",
 				"ru": "Королевство Саудовская Аравия"
 			}
@@ -49044,7 +49309,8 @@
 			"border_type": "nation",
 			"population": "32175224",
 			"population:date": "2022",
-			"source:population": "https://portal.saudicensus.sa/portal"
+			"source:population": "https://portal.saudicensus.sa/portal",
+			"wikimedia_commons": "Category:Saudi Arabia"
 		},
 		"timezone": "Asia/Riyadh",
 		"website": null,
@@ -49291,6 +49557,7 @@
 				"fr": "République du Soudan",
 				"gd": "Poblachd Shudan",
 				"grc": "Πολιτεία τῆς Σουδανίας",
+				"hu": "Szudáni Köztársaság",
 				"lb": "Republik Sudan",
 				"lt": "Sudano Respublika",
 				"pa": "ਸੂਦਾਨ ਦਾ ਗਣਰਾਜ",
@@ -49311,7 +49578,8 @@
 		"relation_id": 192789,
 		"tags": {
 			"admin_level": "2",
-			"population": "39379358"
+			"population": "39379358",
+			"wikimedia_commons": "Category:Sudan"
 		},
 		"timezone": "Africa/Khartoum",
 		"website": null,
@@ -49505,7 +49773,7 @@
 				"ur": "سینیگال",
 				"uz": "Senegal",
 				"vec": "Senegal",
-				"vi": "Sénégal",
+				"vi": "Senegal",
 				"vo": "Senegalän",
 				"vro": "Senegal",
 				"wa": "Senegal",
@@ -49526,6 +49794,7 @@
 				"fa": "جمهوری سنگال",
 				"fr": "République du Sénégal",
 				"gn": "Tavakuairetã Senegal",
+				"hu": "Szenegáli Köztársaság",
 				"pt": "República do Senegal",
 				"ur": "جمہوریہ سینیگال"
 			}
@@ -49535,7 +49804,8 @@
 		"relation_id": 192775,
 		"tags": {
 			"admin_level": "2",
-			"population": "12643799"
+			"population": "12643799",
+			"wikimedia_commons": "Category:Senegal"
 		},
 		"timezone": "Africa/Dakar",
 		"website": null,
@@ -49756,7 +50026,7 @@
 				"uz": "Singapur",
 				"vec": "Singapore",
 				"vep": "Singapur",
-				"vi": "Tân Gia Ba",
+				"vi": "Singapore",
 				"vlca": "Singapur",
 				"vls": "Singapore",
 				"vo": "Singapurän",
@@ -49780,6 +50050,7 @@
 				"en": "Republic of Singapore",
 				"fr": "République de Singapour",
 				"gn": "Tavakuairetã Singapur",
+				"hu": "Szingapúri Köztársaság",
 				"pt": "República de Singapura",
 				"ur": "جمہوریہ سنگاپور",
 				"vls": "Republiek Singapore"
@@ -49794,7 +50065,8 @@
 			"driving_side": "left",
 			"population": "4839400",
 			"ref:LOCODE": "SGSIN",
-			"route": "horse"
+			"route": "horse",
+			"wikimedia_commons": "Category:Singapore"
 		},
 		"timezone": "Asia/Singapore",
 		"website": null,
@@ -49878,7 +50150,8 @@
 		"tags": {
 			"admin_level": "2",
 			"postal_code": "SIQQ 1ZZ",
-			"source:name:br": "ofis publik ar brezhoneg"
+			"source:name:br": "ofis publik ar brezhoneg",
+			"wikimedia_commons": "Category:South Georgia and the South Sandwich Islands"
 		},
 		"timezone": "Atlantic/South_Georgia",
 		"website": null,
@@ -49937,6 +50210,7 @@
 			},
 			"old_name": {
 				"eo": "Sankta Heleno kaj Dependaĵoj",
+				"hu": "Szent Ilona és Tartozékai",
 				"vi": "Saint Helena và những lãnh thổ phụ thuộc"
 			}
 		},
@@ -49945,7 +50219,8 @@
 		"relation_id": 1964272,
 		"tags": {
 			"admin_level": "2",
-			"old_name": "Saint Helena and Dependencies"
+			"old_name": "Saint Helena and Dependencies",
+			"wikimedia_commons": "Category:Saint Helena, Ascension and Tristan da Cunha"
 		},
 		"timezone": "Atlantic/St_Helena",
 		"website": null,
@@ -50139,7 +50414,8 @@
 			"border_type": "nation",
 			"driving_side": "left",
 			"population": "538000",
-			"source": "wikipedia & aproximation"
+			"source": "wikipedia & aproximation",
+			"wikimedia_commons": "Category:Solomon Islands"
 		},
 		"timezone": "Pacific/Guadalcanal",
 		"website": null,
@@ -50339,6 +50615,7 @@
 				"cs": "Republika Sierra Leone",
 				"fa": "جمهوری سیرالئون",
 				"gn": "Tavakuairetã Siérra Leõ",
+				"hu": "Sierra Leone Köztársaság",
 				"pt": "República da Serra Leoa"
 			}
 		},
@@ -50347,7 +50624,8 @@
 		"relation_id": 192777,
 		"tags": {
 			"admin_level": "2",
-			"population": "5293327"
+			"population": "5293327",
+			"wikimedia_commons": "Category:Sierra Leone"
 		},
 		"timezone": "Africa/Freetown",
 		"website": null,
@@ -50541,6 +50819,7 @@
 				"cs": "Salvadorská republika",
 				"de": "Republik El Salvador",
 				"es": "República de El Salvador",
+				"hu": "Salvadori Köztársaság",
 				"ru": "Республика Эль-Сальвадор"
 			}
 		},
@@ -50551,7 +50830,8 @@
 			"admin_level": "2",
 			"denomination": "roman_catholic",
 			"population": "6029976",
-			"religion": "christian"
+			"religion": "christian",
+			"wikimedia_commons": "Category:El Salvador"
 		},
 		"timezone": "America/El_Salvador",
 		"website": null,
@@ -50635,6 +50915,7 @@
 				"ug": "سان مارىنو",
 				"uk": "Сан-Маріно",
 				"ur": "سان مارینو",
+				"vi": "San Marino",
 				"vo": "Sanmarinän",
 				"zh": "圣马力诺",
 				"zh-Hans": "圣马力诺",
@@ -50892,6 +51173,7 @@
 				"cs": "Somálská federativní republika",
 				"en": "Federal Republic of Somalia",
 				"gn": "Tavakuairetã Ñembyatypyre Somália",
+				"hu": "Szomáli Szövetségi Köztársaság",
 				"pl": "Federalna Republika Somalii",
 				"pt": "República Federal da Somália"
 			}
@@ -50900,7 +51182,8 @@
 		"official_name": null,
 		"relation_id": 192799,
 		"tags": {
-			"admin_level": "2"
+			"admin_level": "2",
+			"wikimedia_commons": "Category:Somalia"
 		},
 		"timezone": "Africa/Mogadishu",
 		"website": null,
@@ -51284,6 +51567,7 @@
 				"eo": "Respubliko Serbio",
 				"es": "República de Serbia",
 				"fr": "République de Serbie",
+				"hu": "Szerb Köztársaság",
 				"ru": "Республика Сербия",
 				"sr": "Република Србија",
 				"sr-Latn": "Republika Srbija"
@@ -51516,6 +51800,7 @@
 				"fa": "جمهوری سودان جنوبی",
 				"fr": "République du Soudan du Sud",
 				"gn": "Tavakuairetã Yvy Sudã",
+				"hu": "Dél-szudáni Köztársaság",
 				"pt": "República do Sudão do Sul",
 				"ru": "Республика Южный Судан",
 				"th": "สาธารณรัฐซูดานใต้",
@@ -51527,7 +51812,8 @@
 		"official_name": null,
 		"relation_id": 1656678,
 		"tags": {
-			"admin_level": "2"
+			"admin_level": "2",
+			"wikimedia_commons": "Category:South Sudan"
 		},
 		"timezone": "Africa/Juba",
 		"website": null,
@@ -51586,6 +51872,7 @@
 				"tzl": "Sant-Tomás-es-Prinç",
 				"uk": "Сан-Томе і Принсіпі",
 				"ur": "ساؤ ٹومے و پرنسپے",
+				"vi": "São Tomé và Príncipe",
 				"vo": "Saluda-Tomeän e Prinsipeän",
 				"zh": "圣多美和普林西比 / 聖多美普林西比",
 				"zh-Hans": "圣多美和普林西比",
@@ -51611,11 +51898,12 @@
 		"relation_id": 535880,
 		"tags": {
 			"admin_level": "2",
-			"population": "206178"
+			"population": "206178",
+			"wikimedia_commons": "Category:São Tomé and Príncipe"
 		},
 		"timezone": "Africa/Sao_Tome",
 		"website": null,
-		"wikidata": null,
+		"wikidata": "Q1039",
 		"wikipedia": "pt:São Tomé e Príncipe"
 	},
 	"SUR": {
@@ -51811,7 +52099,7 @@
 				"ur": "سورینام",
 				"uz": "Surinam",
 				"vec": "Suriname",
-				"vi": "Surinam",
+				"vi": "Suriname",
 				"vo": "Surinän",
 				"vro": "Suriname",
 				"wal": "Sariname",
@@ -51837,6 +52125,7 @@
 				"cs": "Surinamská republika",
 				"en": "Republic of Surinam",
 				"es": "República de Surinam",
+				"hu": "Suriname Köztársaság",
 				"ru": "Республика Суринам"
 			}
 		},
@@ -51847,7 +52136,8 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"driving_side": "left",
-			"population": "492829"
+			"population": "492829",
+			"wikimedia_commons": "Category:Suriname"
 		},
 		"timezone": "America/Paramaribo",
 		"website": null,
@@ -52088,6 +52378,7 @@
 				"el": "Σλοβακική Δημοκρατία",
 				"eo": "Slovaka Respubliko",
 				"fi": "Slovakian tasavalta",
+				"hu": "Szlovák Köztársaság",
 				"mi": "Whenua Horowākia",
 				"nds": "Slowaaksche Republiek",
 				"uk": "Словацька республіка"
@@ -52104,7 +52395,8 @@
 			"population:date": "2021-06-30",
 			"ref:nuts": "SK0",
 			"ref:nuts:1": "SK0",
-			"source:population": "Štatistický úrad"
+			"source:population": "Štatistický úrad",
+			"wikimedia_commons": "Category:Slovakia"
 		},
 		"timezone": "Europe/Bratislava",
 		"website": null,
@@ -52343,6 +52635,7 @@
 				"el": "Δημοκρατία της Σλοβενίας",
 				"eo": "Respubliko Slovenio",
 				"fi": "Slovenian tasavalta",
+				"hu": "Szlovén Köztársaság",
 				"uk": "Республіка Словенія"
 			}
 		},
@@ -52619,6 +52912,7 @@
 				"de": "Königreich Schweden",
 				"el": "Βασίλειο της Σουηδίας",
 				"eo": "Reĝlando Svedio",
+				"hu": "Svéd Királyság",
 				"pl": "Królestwo Szwecji",
 				"sv": "Konungariket Sverige"
 			}
@@ -52869,6 +53163,7 @@
 				"gn": "Tavetã Esuatíni",
 				"he": "ממלכת אסוואטיני",
 				"hr": "Kraljevina Esvatini",
+				"hu": "Szváziföldi Királyság",
 				"ka": "ესვატინის სამეფო",
 				"nn": "Kongeriket Eswatini",
 				"no": "Kongeriket Eswatini",
@@ -52937,7 +53232,8 @@
 			"source:name:de": "https://www.auswaertiges-amt.de/blob/215256/e505c18e9cd162813a29f4e5a4ec8e07/laenderverzeichnis-data.pdf (2019-12-24)",
 			"source:name:zh-Hant-TW": "https://www.mofa.gov.tw/CountryInfo.aspx?CASN=D33B55D537402BAA&n=1C6028CA080A27B3&sms=26470E539B6FA395&s=29B3D06675FAF607",
 			"source:official_name:de": "https://www.auswaertiges-amt.de/blob/215256/e505c18e9cd162813a29f4e5a4ec8e07/laenderverzeichnis-data.pdf (2019-12-24)",
-			"source:official_name:en": "https://www.un.org/en/member-states/index.html (2019-12-24)"
+			"source:official_name:en": "https://www.un.org/en/member-states/index.html (2019-12-24)",
+			"wikimedia_commons": "Category:Eswatini"
 		},
 		"timezone": "Africa/Mbabane",
 		"website": null,
@@ -53290,7 +53586,8 @@
 				"zu": "IsiSeyisheli"
 			},
 			"official_name": {
-				"cs": "Seychelská republika"
+				"cs": "Seychelská republika",
+				"hu": "Seychelle Köztársaság"
 			}
 		},
 		"name": "Sesel",
@@ -53298,7 +53595,8 @@
 		"relation_id": 536765,
 		"tags": {
 			"admin_level": "2",
-			"driving_side": "left"
+			"driving_side": "left",
+			"wikimedia_commons": "Category:Seychelles"
 		},
 		"timezone": "Indian/Mahe",
 		"website": null,
@@ -53526,6 +53824,7 @@
 				"fa": "جمهوری عربی سوریه",
 				"fr": "République arabe syrienne",
 				"gn": "Tavakuairetã Árave Síria",
+				"hu": "Szíriai Arab Köztársaság",
 				"pt": "República Árabe Síria",
 				"ru": "Сирийская Арабская Республика"
 			}
@@ -53540,7 +53839,8 @@
 			"int_name": "Syria",
 			"population": "17951639",
 			"population:date": "2014",
-			"source:population": "wikipedia"
+			"source:population": "wikipedia",
+			"wikimedia_commons": "Category:Syria"
 		},
 		"timezone": "Asia/Damascus",
 		"website": null,
@@ -53738,7 +54038,8 @@
 		"tags": {
 			"admin_level": "2",
 			"description": "British overseas territory",
-			"population": "41000"
+			"population": "41000",
+			"wikimedia_commons": "Category:Turks and Caicos Islands"
 		},
 		"timezone": "America/Grand_Turk",
 		"website": null,
@@ -53933,7 +54234,7 @@
 				"ur": "چاڈ",
 				"uz": "Chad",
 				"vec": "Ciad",
-				"vi": "Tchad",
+				"vi": "Chad",
 				"vo": "Tjadän",
 				"vro": "Tšaad",
 				"wa": "Tchad",
@@ -53961,6 +54262,7 @@
 				"fa": "جمهوری چاد",
 				"fr": "République du Tchad",
 				"gn": "Tavakuairetã Cháde",
+				"hu": "Csádi Köztársaság",
 				"ku": "Komara Çad",
 				"pt": "República do Chade",
 				"ru": "Республика Чад",
@@ -53972,7 +54274,8 @@
 		"relation_id": 2361304,
 		"tags": {
 			"admin_level": "2",
-			"population": "10329208"
+			"population": "10329208",
+			"wikimedia_commons": "Category:Chad"
 		},
 		"timezone": "Africa/Ndjamena",
 		"website": null,
@@ -54184,6 +54487,7 @@
 				"fa": "جمهوری توگو",
 				"fr": "République Togolaise",
 				"gn": "Tavakuairetã Tógo",
+				"hu": "Togói Köztársaság",
 				"pt": "República Togolesa",
 				"ru": "Тоголезская Республика"
 			}
@@ -54193,7 +54497,8 @@
 		"relation_id": 192782,
 		"tags": {
 			"admin_level": "2",
-			"population": "6587239"
+			"population": "6587239",
+			"wikimedia_commons": "Category:Togo"
 		},
 		"timezone": "Africa/Lome",
 		"website": null,
@@ -54440,6 +54745,7 @@
 				"en": "Kingdom of Thailand",
 				"eo": "Tajlanda Reĝlando",
 				"fa": "پادشاهی تایلند",
+				"hu": "Thaiföldi Királyság",
 				"ko": "타이왕국",
 				"nl": "Koninkrijk Thailand",
 				"no": "Kongeriket Thailand",
@@ -54456,7 +54762,8 @@
 			"alt_name": "Prades Thai;Sayam;Siam",
 			"driving_side": "left",
 			"fee": "no",
-			"population": "69522234"
+			"population": "69522234",
+			"wikimedia_commons": "Category:Thailand"
 		},
 		"timezone": "Asia/Bangkok",
 		"website": null,
@@ -54668,6 +54975,7 @@
 				"eo": "Respubliko Taĝikio",
 				"es": "República de Tayikistán",
 				"gn": "Tavakuairetã Tajikitã",
+				"hu": "Tádzsik Köztársaság",
 				"pt": "República do Tajiquistão",
 				"ru": "Республика Таджикистан"
 			}
@@ -54790,7 +55098,8 @@
 			"int_name": "Tokelau",
 			"is_in:ocean": "Pacific",
 			"maritime": "yes",
-			"population": "1411"
+			"population": "1411",
+			"wikimedia_commons": "Category:Tokelau"
 		},
 		"timezone": "Pacific/Fakaofo",
 		"website": null,
@@ -55029,6 +55338,9 @@
 		"default_language": "pt",
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
 		"lang": {
+			"alt_name": {
+				"vi": "Đông Timor"
+			},
 			"name": {
 				"ace": "Timor Leste",
 				"af": "Oos-Timor",
@@ -55233,7 +55545,7 @@
 				"uz": "Sharqiy Timor",
 				"vec": "Timor Est",
 				"vep": "Päivnouzmaine Timor",
-				"vi": "Đông Timor",
+				"vi": "Timor Leste",
 				"vls": "Ôost-Timor",
 				"war": "Sinirangan nga Timor",
 				"wo": "Timoor gu Penku",
@@ -55255,6 +55567,7 @@
 				"en": "Democratic Republic of Timor-Leste",
 				"es": "República Democrática de Timor Oriental",
 				"fr": "République démocratique du Timor-Leste",
+				"hu": "Kelet-timori Demokratikus Köztársaság",
 				"pt": "República Democrática de Timor-Leste",
 				"ru": "Демократическая Республика Восточный Тимор"
 			}
@@ -55266,7 +55579,8 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"driving_side": "left",
-			"population": "1115000"
+			"population": "1115000",
+			"wikimedia_commons": "Category:East Timor"
 		},
 		"timezone": "Asia/Dili",
 		"website": null,
@@ -55450,6 +55764,7 @@
 				"es": "Reino de Tonga",
 				"gn": "Tónga Mburuvi",
 				"hr": "Kraljevina Tonga",
+				"hu": "Tongai Királyság",
 				"pt": "Reino de Tonga",
 				"ru": "Королевство Тонга"
 			}
@@ -55462,7 +55777,8 @@
 			"driving_side": "left",
 			"maritime": "yes",
 			"note": "hideous polygon covering the tonga islands",
-			"population": "104000"
+			"population": "104000",
+			"wikimedia_commons": "Category:Tonga"
 		},
 		"timezone": "Pacific/Tongatapu",
 		"website": null,
@@ -55616,6 +55932,7 @@
 				"fr": "République de Trinité-et-Tobago",
 				"gn": "Tavakuairetã Trinidad ha Továgo",
 				"grc": "Πολιτεία τῆς Τριάδος καὶ Ταβάκου",
+				"hu": "Trinidad és Tobago Köztársaság",
 				"lt": "Trinidado ir Tobago Respublika",
 				"pt": "República de Trindade e Tobago",
 				"ru": "Республика Тринидад и Тобаго"
@@ -55631,7 +55948,8 @@
 			"admin_level": "2",
 			"driving_side": "left",
 			"population": "1328019",
-			"source:name:br": "ofis publik ar brezhoneg"
+			"source:name:br": "ofis publik ar brezhoneg",
+			"wikimedia_commons": "Category:Trinidad and Tobago"
 		},
 		"timezone": "America/Port_of_Spain",
 		"website": null,
@@ -55861,6 +56179,7 @@
 				"es": "República de Túnez",
 				"fa": "جمهوری تونس",
 				"gn": "Tavakuairetã Tunísia",
+				"hu": "Tunéziai Köztársaság",
 				"pt": "República Tunisina",
 				"ru": "Тунисская Республика",
 				"ur": "جمہوریہ تونس"
@@ -55872,7 +56191,8 @@
 		"tags": {
 			"admin_level": "2",
 			"border_type": "nation",
-			"population": "10276158"
+			"population": "10276158",
+			"wikimedia_commons": "Category:Tunisia"
 		},
 		"timezone": "Africa/Tunis",
 		"website": null,
@@ -56185,6 +56505,7 @@
 				"fi": "Turkin tasavalta",
 				"fr": "République de Turquie",
 				"he": "הרפובליקה הטורקית",
+				"hu": "Török Köztársaság",
 				"ko": "튀르키예 공화국",
 				"ku": "Komara Tirkiyeyê",
 				"ky": "Түркия Республикасы",
@@ -56464,7 +56785,8 @@
 			"int_name": "Tuvalu",
 			"old_name": "Ellice Islands",
 			"population": "10000",
-			"source:name:oc": "Lo Congrès"
+			"source:name:oc": "Lo Congrès",
+			"wikimedia_commons": "Category:Tuvalu"
 		},
 		"timezone": "Pacific/Funafuti",
 		"website": "https://www.timelesstuvalu.com/",
@@ -57328,6 +57650,7 @@
 				"es": "República Unida de Tanzania",
 				"et": "Tansaania Ühendvabariik",
 				"gn": "Tavakuairetã Tãsaña Joaju",
+				"hu": "Tanzániai Egyesült Köztársaság",
 				"id": "Persatuan Republik Tanzania",
 				"ku": "Yekîtiya Komarên Tanzanya",
 				"lb": "Vereenegt Republik Tansania",
@@ -57349,7 +57672,8 @@
 			"population": "59441988",
 			"population:date": "2021-06-01",
 			"source": "maxar",
-			"source:population": "https://www.nbs.go.tz/nbs/takwimu/census2012/Projection-Report-20132035.pdf"
+			"source:population": "https://www.nbs.go.tz/nbs/takwimu/census2012/Projection-Report-20132035.pdf",
+			"wikimedia_commons": "Category:Tanzania"
 		},
 		"timezone": "Africa/Dar_es_Salaam",
 		"website": null,
@@ -57560,6 +57884,7 @@
 				"de": "Republik Uganda",
 				"en": "Republic of Uganda",
 				"gn": "Tavakuairetã Ugánda",
+				"hu": "Ugandai Köztársaság",
 				"pt": "República de Uganda",
 				"sk": "Ugandská republika",
 				"uk": "Республіка Уґанда"
@@ -57571,7 +57896,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "34509205"
+			"population": "34509205",
+			"wikimedia_commons": "Category:Uganda"
 		},
 		"timezone": "Africa/Kampala",
 		"website": null,
@@ -57592,7 +57918,7 @@
 		"lang": {
 			"alt_name": {
 				"eo": "Ukrainujo",
-				"vi": "Uy Kiên"
+				"vi": "Ukraina"
 			},
 			"name": {
 				"ab": "Украина",
@@ -57805,7 +58131,7 @@
 				"uz": "Ukraina",
 				"vec": "Ucraina",
 				"vep": "Ukrain",
-				"vi": "Ukraina",
+				"vi": "Ukraine",
 				"vls": "Oekraïne",
 				"vo": "Lukrayän",
 				"vro": "Ukraina",
@@ -58073,6 +58399,7 @@
 				"en": "Oriental Republic of Uruguay",
 				"es": "República Oriental del Uruguay",
 				"fr": "République Orientale de l'Uruguay",
+				"hu": "Uruguayi Keleti Köztársaság",
 				"id": "Republik Timur Uruguay",
 				"ku": "Komara Rojhelata Ûrûguayê",
 				"lb": "Republik östlich vum Uruguay",
@@ -58091,7 +58418,8 @@
 			"admin_level": "2",
 			"border_type": "nation",
 			"population": "3286314",
-			"source:population": "https://www.ine.gub.uy/censos2011/index.html"
+			"source:population": "https://www.ine.gub.uy/censos2011/index.html",
+			"wikimedia_commons": "Category:Uruguay"
 		},
 		"timezone": "America/Montevideo",
 		"website": null,
@@ -58116,6 +58444,7 @@
 				"en": "America",
 				"es": "Estados Unidos",
 				"fr": "États-Unis",
+				"hu": "Amerika",
 				"ja": "米国",
 				"ko": "아메리카",
 				"pdc": "Yuneided Schtaets vun Amerika",
@@ -58224,7 +58553,7 @@
 				"hr": "Sjedinjene Američke Države",
 				"hsb": "Zjednoćene staty Ameriki",
 				"ht": "Etazini",
-				"hu": "Amerikai Egyesült Államok",
+				"hu": "Egyesült Államok",
 				"hy": "Ամերիկայի Միացյալ Նահանգներ",
 				"ia": "Statos Unite de America",
 				"id": "Amerika Serikat",
@@ -58416,6 +58745,7 @@
 				"eo": "Unuiĝintaj Ŝtatoj de Ameriko",
 				"es": "Estados Unidos de América",
 				"grc": "Ἡνωμέναι Πολιτεῖαι τῆς Ἀμερικῆς",
+				"hu": "Amerikai Egyesült Államok",
 				"kk-Arab": "امەرىيكا قۇراما شتاتتارى",
 				"ko": "미합중국",
 				"ks": "ریاست ہائے متحدہ",
@@ -58459,6 +58789,7 @@
 				"en": "U.S.",
 				"es": "EE.UU.",
 				"fr": "É.-U.",
+				"hu": "AEÁ",
 				"ko": "미국",
 				"mo": "СУА",
 				"nl": "VS",
@@ -58710,6 +59041,7 @@
 				"eo": "Uzbeka Respubliko",
 				"fa": "جمهوری ازبکستان",
 				"gn": "Tavakuairetã Uvekitã",
+				"hu": "Üzbég Köztársaság",
 				"pl": "Republika Uzbekistanu",
 				"pt": "República do Uzbequistão",
 				"ru": "Республика Узбекистан",
@@ -58746,6 +59078,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg",
 		"lang": {
 			"alt_name": {
+				"hu": "Vatikánváros",
 				"is": "Páfagarður"
 			},
 			"name": {
@@ -58948,7 +59281,7 @@
 				"uz": "Vatikan shahri",
 				"vec": "Sità del Vatican",
 				"vep": "Vatikan",
-				"vi": "Thành Vatican",
+				"vi": "Vatican",
 				"vls": "Vaticoanstad",
 				"vo": "Vatikän",
 				"vro": "Vatikan",
@@ -58976,6 +59309,7 @@
 				"eo": "Ŝtato Vatikano",
 				"es": "Estado de la Ciudad del Vaticano",
 				"fr": "État de la cité du Vatican",
+				"hu": "Vatikánvárosi Állam",
 				"it": "Stato della Città del Vaticano",
 				"la": "Status Civitatis Vaticanæ",
 				"pt": "Estado da Cidade do Vaticano"
@@ -59073,7 +59407,7 @@
 				"he": "סנט וינסנט והגרנדינים",
 				"hi": "सेंट विनसेंट एंड ग्रेनाडाइन्स",
 				"hr": "Sveti Vincent i Grenadini",
-				"hu": "Saint Vincent és a Grenadine-szigetek",
+				"hu": "Saint Vincent és Grenadine-szigetek",
 				"hy": "Սենտ Վիսենտ-Գրենադիններ",
 				"ia": "Sancte Vincente e le Grenadinas",
 				"id": "Saint Vincent dan Grenadines",
@@ -59158,7 +59492,8 @@
 			"admin_level": "2",
 			"driving_side": "left",
 			"population": "117200",
-			"source:name:br": "ofis publik ar brezhoneg"
+			"source:name:br": "ofis publik ar brezhoneg",
+			"wikimedia_commons": "Category:Saint Vincent and the Grenadines"
 		},
 		"timezone": "America/St_Vincent",
 		"website": null,
@@ -59419,6 +59754,7 @@
 				"fr": "République bolivarienne du Venezuela",
 				"gcf": "Bénézwèl",
 				"guc": "Mma Woliwarianakat Wenesueela",
+				"hu": "Venezuelai Bolívari Köztársaság",
 				"qu": "Wuliwarpi Republika Winisuyla",
 				"ru": "Боливарианская Республика Венесуэла"
 			}
@@ -59500,7 +59836,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "31148"
+			"population": "31148",
+			"wikimedia_commons": "Category:British Virgin Islands"
 		},
 		"timezone": "America/Tortola",
 		"website": null,
@@ -59878,6 +60215,7 @@
 				"eo": "Socialista Respubliko de Vjetnamio",
 				"es": "República Socialista de Vietnam",
 				"hr": "Socijalistička Republika Vijetnam",
+				"hu": "Vietnámi Szocialista Köztársaság",
 				"ru": "Социалистическая Республика Вьетнам",
 				"vi": "Cộng hòa xã hội chủ nghĩa Việt Nam",
 				"vi-Hani": "共和社會主義越南",
@@ -59989,6 +60327,7 @@
 				"ug": "ۋانۇئاتۇ",
 				"uk": "Вануату",
 				"ur": "وانواتو",
+				"vi": "Vanuatu",
 				"vo": "Vanuatuäns",
 				"wo": "Wanuatu",
 				"yo": "Fanuatu",
@@ -60022,9 +60361,11 @@
 			"alt_name": "Tân Đảo",
 			"driving_side": "right",
 			"maritime": "yes",
-			"population": "234023",
-			"population:date": "2009",
-			"source:name:oc": "Lo Congrès"
+			"population": "300019",
+			"population:date": "2020",
+			"source:name:oc": "Lo Congrès",
+			"source:population": "Census 2020",
+			"wikimedia_commons": "Category:Vanuatu"
 		},
 		"timezone": "Pacific/Efate",
 		"website": null,
@@ -60305,6 +60646,7 @@
 				"fr": "Samoa occidentales",
 				"gn": "Tetã Hekosãsóva Samóa",
 				"hr": "Nezavisna Država Samoa",
+				"hu": "Szamoai Független Állam",
 				"ja": "サモア独立国",
 				"ku": "Dewleta Serbixweya Samoa",
 				"lb": "Unabhängiger Stat Samoa",
@@ -60322,6 +60664,7 @@
 				"de": "Westsamoa",
 				"eo": "Okcidenta Samoo",
 				"hr": "Zapadna Samoa",
+				"hu": "Nyugat-Szamoa;Német Szamoa",
 				"sl": "Zahodna Samoa"
 			}
 		},
@@ -60332,7 +60675,8 @@
 			"admin_level": "2",
 			"driving_side": "left",
 			"old_name": "Western Samoa;German Samoa",
-			"population": "193000"
+			"population": "193000",
+			"wikimedia_commons": "Category:Samoa"
 		},
 		"timezone": "Pacific/Apia",
 		"website": null,
@@ -60548,6 +60892,7 @@
 				"fa": "جمهوری کوزوو",
 				"fr": "République du Kosovo",
 				"gd": "Poblachd na Cosobho",
+				"hu": "Koszovói Köztársaság",
 				"ru": "Республика Косово",
 				"sq": "Republika e Kosovës",
 				"sr": "Република Косово",
@@ -60570,7 +60915,8 @@
 			"int_name": "Kosovo",
 			"ref:RS:pokrajina": "RS-KO",
 			"ref:nuts:1": "XK0",
-			"ref:nuts:2": "XK00"
+			"ref:nuts:2": "XK00",
+			"wikimedia_commons": "Category:Kosovo"
 		},
 		"timezone": "Europe/Pristina",
 		"website": null,
@@ -60795,6 +61141,7 @@
 				"cs": "Jemenská republika",
 				"eo": "Jemena Respubliko",
 				"fa": "جمهوری یمن",
+				"hu": "Jemeni Köztársaság",
 				"ru": "Йеменская Республика",
 				"ur": "جمہوریہ یمن"
 			}
@@ -60807,7 +61154,8 @@
 			"border_type": "nation",
 			"population": "30491000",
 			"population:date": "2021-07-01",
-			"source:population": "https://population.un.org/wpp/"
+			"source:population": "https://population.un.org/wpp/",
+			"wikimedia_commons": "Category:Yemen"
 		},
 		"timezone": "Asia/Aden",
 		"website": null,
@@ -61124,7 +61472,7 @@
 				"hr": "Republika Južna Afrika",
 				"hsb": "Republika Južna Afrika",
 				"ht": "Repiblik Afrik disid",
-				"hu": "Dél-Afrikai Köztársaság",
+				"hu": "Dél-afrikai Köztársaság",
 				"ia": "Republica del Africa del Sud",
 				"id": "Republik Afrika Selatan",
 				"ie": "Republic de Sudafrica",
@@ -61268,7 +61616,8 @@
 			"int_name": "South Africa",
 			"note": "Three capitals: Pretoria (executive and administrative), Bloemfontein (judicial), Cape Town (legislative)",
 			"population": "49991300",
-			"source:population": "https://www.statssa.gov.za/publications/P0302/P03022010.pdf 2010-08-10"
+			"source:population": "https://www.statssa.gov.za/publications/P0302/P03022010.pdf 2010-08-10",
+			"wikimedia_commons": "Category:South Africa"
 		},
 		"timezone": "Africa/Johannesburg",
 		"website": null,
@@ -61482,6 +61831,7 @@
 				"en": "Republic of Zambia",
 				"es": "República de Zambia",
 				"gn": "Tavakuairetã Sámbia",
+				"hu": "Zambiai Köztársaság",
 				"pt": "República da Zâmbia",
 				"ru": "Республика Замбия"
 			}
@@ -61492,7 +61842,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "16405229"
+			"population": "16405229",
+			"wikimedia_commons": "Category:Zambia"
 		},
 		"timezone": "Africa/Lusaka",
 		"website": null,
@@ -61710,6 +62061,7 @@
 				"en": "Republic of Zimbabwe",
 				"es": "República de Zimbabue",
 				"gn": "Tavakuairetã Simbávue",
+				"hu": "Zimbabwei Köztársaság",
 				"pt": "República do Zimbabwe",
 				"ru": "Республика Зимбабве",
 				"sk": "Zimbabwianska republika"
@@ -61721,7 +62073,8 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
-			"population": "12521000"
+			"population": "12521000",
+			"wikimedia_commons": "Category:Zimbabwe"
 		},
 		"timezone": "Africa/Harare",
 		"website": null,
