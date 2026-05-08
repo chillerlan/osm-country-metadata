@@ -23552,7 +23552,8 @@
 				"mk": "Малвински Острови",
 				"pl": "Malwiny",
 				"pt": "Ilhas Malvinas",
-				"ru": "Мальвинские острова"
+				"ru": "Мальвинские острова",
+				"sl": "Malvini"
 			},
 			"name": {
 				"af": "Falklandeilande",
@@ -29688,8 +29689,8 @@
 		"ISO3166-2": null,
 		"capital": null,
 		"currency": null,
-		"default_language": "id",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+		"default_language": null,
+		"flag": null,
 		"lang": {
 			"alt_name": {
 				"as": "ইণ্ডোনেছিয়া",
@@ -29803,7 +29804,7 @@
 				"jbo": "bidgu'e",
 				"jei": "Indonesia",
 				"jel": "Indonesia",
-				"jv": "Indonésia",
+				"jv": "ꦆꦤ꧀ꦢꦺꦴꦤꦺꦱꦶꦪ",
 				"ka": "ინდონეზია",
 				"kab": "Indunisya",
 				"kbd": "Индонезиэ",
@@ -29967,7 +29968,7 @@
 				"es": "República de Indonesia",
 				"fa": "جمهوری اندونزی",
 				"hu": "Indonéz Köztársaság",
-				"id": "Republik Indonesia",
+				"id": "Negara Kesatuan Republik Indonesia",
 				"ku": "Komara Îndonezya",
 				"ru": "Республика Индонезия",
 				"ur": "جمہوریہ انڈونیشیا",
@@ -29977,17 +29978,18 @@
 			}
 		},
 		"name": "Indonesia",
-		"official_name": "Republik Indonesia",
-		"relation_id": 20333713,
+		"official_name": "Negara Kesatuan Republik Indonesia",
+		"relation_id": 304751,
 		"tags": {
 			"admin_level": "2",
 			"alt_name": "Negara Kesatuan Republik Indonesia",
-			"border_type": "nation",
+			"check_date": "2026-04-13",
 			"driving_side": "left",
 			"population": "270203917",
-			"population:census:2020": "https://en.wikipedia.org/wiki/Indonesia#cite_note-2020census-8",
+			"population:date": "2020",
 			"ref": "ID",
 			"short_name": "NKRI",
+			"source:population": "https://sensus.bps.go.id/main/index/sp2020",
 			"wikimedia_commons": "Category:Indonesia"
 		},
 		"timezone": null,
@@ -58698,6 +58700,7 @@
 				"tl": "Estados Unidos",
 				"tn": "USA",
 				"to": "Puleʻanga Fakataha 'o 'Amelika",
+				"tok": "ma Mewika",
 				"tpi": "Yunaitet Stet bilong Amerika",
 				"tr": "Amerika Birleşik Devletleri",
 				"ts": "United States",
