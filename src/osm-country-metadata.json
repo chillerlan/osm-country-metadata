@@ -76,6 +76,7 @@
 		"lang": {
 			"alt_name": {
 				"af": "Afganistan",
+				"br": "Afganistan",
 				"ce": "ОвхӀан",
 				"eo": "Afganujo;Afganistano",
 				"gd": "Afghanastàn",
@@ -2478,6 +2479,7 @@
 				"ckb": "میرنشینە یەکگرتووە عەرەبییەکان",
 				"crh": "Birleşken Arap Emirlikleri",
 				"cs": "Spojené arabské emiráty",
+				"cv": "Пӗрлешнӗ Араб Эмирачӗсем",
 				"cy": "Yr Emiradau Arabaidd Unedig",
 				"da": "Forenede Arabiske Emirater",
 				"de": "Vereinigte Arabische Emirate",
@@ -2671,6 +2673,7 @@
 				"ar": "الإمارات",
 				"bg": "ОАЕ",
 				"ckb": "ئیمارات",
+				"cv": "ПАЭ",
 				"eo": "UAE",
 				"hu": "EAE",
 				"ku": "Îmarat",
@@ -8190,6 +8193,7 @@
 			"alt_name": {
 				"ba": "Болғарстан",
 				"ckb": "بولگارستان",
+				"cv": "Болгари",
 				"eo": "Bulgarujo",
 				"gd": "A' Bhulgair;Bulgaria",
 				"ht": "Boulgari",
@@ -8250,7 +8254,7 @@
 				"cs": "Bulharsko",
 				"csb": "Bùlgarskô",
 				"cu": "Блъгарїꙗ",
-				"cv": "Пăлхарĕ",
+				"cv": "Пӑлхар",
 				"cy": "Bwlgaria",
 				"da": "Bulgarien",
 				"de": "Bulgarien",
@@ -8503,7 +8507,7 @@
 				"crh": "Bulğaristan Cumhuriyeti",
 				"cs": "Bulharská republika",
 				"cu": "Блъгарі́ꙗ Димократі́ꙗ",
-				"cv": "Тăнайçи Пăлхарĕ",
+				"cv": "Пӑлхар Республики",
 				"cy": "Gweriniaeth Bwlgaria",
 				"da": "Republikken Bulgarien",
 				"de": "Republik Bulgarien",
@@ -10749,6 +10753,7 @@
 				"chr": "ᏆᏊᏓ",
 				"ckb": "بەرموودا",
 				"cs": "Bermudy",
+				"cv": "Бермуда утравӗсем",
 				"cy": "Bermwda",
 				"da": "Bermuda",
 				"de": "Bermuda",
@@ -12103,6 +12108,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
 		"lang": {
 			"alt_name": {
+				"ar": "بروناي دار السلام",
 				"arz": "بروناى دار السلام",
 				"cs": "Brunej Darussalam",
 				"gd": "Brunai",
@@ -12133,6 +12139,7 @@
 				"as": "ব্ৰুণেই",
 				"ast": "Brunéi",
 				"az": "Bruney",
+				"az-Arab": "برونئی",
 				"azb": "برونئی",
 				"ba": "Бруней",
 				"bar": "Brunei",
@@ -12252,7 +12259,7 @@
 				"mn": "Бруней",
 				"mr": "ब्रुनेई",
 				"ms": "Brunei",
-				"ms-jawi": "بروني دارالسلام",
+				"ms-Arab": "بروني دارالسلام",
 				"mt": "Brunej",
 				"mwl": "Brunei",
 				"my": "ဘရူနိုင်းနိုင်ငံ",
@@ -12430,6 +12437,7 @@
 				"mn": "Бруней Даруссалам Улс",
 				"mr": "ब्रुनेई दारुस्सलाम",
 				"ms": "Negara Brunei, Rumah Yang Aman",
+				"ms-Arab": "نݢارا بروني دارالسلام",
 				"mt": "Nazzjon tal-Brunej Darussalam",
 				"nah": "Tlahtohcāyōtl Brunei Yōcoxcānemiliztli Īchān",
 				"nan": "Brunei Darussalam Kok",
@@ -12495,14 +12503,13 @@
 				"zh-Hant": "汶萊伊斯蘭教君主國"
 			}
 		},
-		"name": "Brunei",
+		"name": "Brunei بروني",
 		"official_name": "Negara Brunei, Rumah Yang Aman",
 		"relation_id": 2103120,
 		"tags": {
 			"admin_level": "2",
 			"border_type": "nation",
 			"driving_side": "left",
-			"int_name": "Brunei",
 			"wikimedia_commons": "Category:Brunei"
 		},
 		"timezone": "Asia/Brunei",
@@ -18246,6 +18253,7 @@
 				"chr": "ᎨᎢᎹᏂ ᏚᎦᏚᏛᎢ",
 				"ckb": "دوورگەکانی کایمان",
 				"cs": "Kajmanské ostrovy",
+				"cv": "Кайман утравӗсем",
 				"cy": "Ynysoedd Cayman",
 				"da": "Caymanøerne",
 				"de": "Kaimaninseln",
@@ -18620,11 +18628,15 @@
 			"description": "This is the full country, de jure, as recognized by the United Nations",
 			"driving_side": "left",
 			"population": "885041",
+			"ref:nuts": "CY0;CY00;CY000",
+			"ref:nuts:1": "CY0",
+			"ref:nuts:2": "CY00",
+			"ref:nuts:3": "CY000",
 			"wikimedia_commons": "Category:Cyprus"
 		},
 		"timezone": "Europe/Nicosia",
 		"website": null,
-		"wikidata": "Q229",
+		"wikidata": null,
 		"wikipedia": "en:Cyprus"
 	},
 	"CZE": {
@@ -18970,6 +18982,7 @@
 		"flag": "File:Flag of Germany.svg",
 		"lang": {
 			"alt_name": {
+				"cv": "Нимӗҫ Ен",
 				"eo": "Germanujo",
 				"pa-Arab": "جرمنی",
 				"pnb": "جرمنی"
@@ -19267,6 +19280,7 @@
 				"be": "Федэратыўная Рэспубліка Германія",
 				"ca": "República Federal d'Alemanya",
 				"cs": "Spolková republika Německo",
+				"cv": "Федерациллӗ Германи Республики",
 				"de": "Bundesrepublik Deutschland",
 				"el": "Ομοσπονδιακή Δημοκρατία της Γερμανίας",
 				"en": "Federal Republic of Germany",
@@ -19288,6 +19302,7 @@
 			},
 			"short_name": {
 				"be": "ФРГ",
+				"cv": "ФГР",
 				"ru": "ФРГ",
 				"uk": "ФРН"
 			}
@@ -20016,6 +20031,7 @@
 				"ckb": "کۆماری دۆمینیکا",
 				"crh": "Dominikan Cumhuriyeti",
 				"cs": "Dominikánská republika",
+				"cv": "Доминикан Республики",
 				"cy": "Gweriniaeth Dominica",
 				"da": "Dominikanske Republik",
 				"de": "Dominikanische Republik",
@@ -24095,6 +24111,7 @@
 				"ce": "Фарерийн гІайренаш",
 				"ckb": "دوڕگەکانی فارۆ",
 				"cs": "Faerské ostrovy",
+				"cv": "Фарер утравӗсем",
 				"cy": "Føroyar",
 				"da": "Færøerne",
 				"de": "Färöer",
@@ -24751,7 +24768,7 @@
 				"cs": "Spojené království",
 				"csb": "Wiôlgô Britanijô",
 				"cu": "Вєлика Британїꙗ",
-				"cv": "Аслă Британи",
+				"cv": "Аслӑ Британи",
 				"cy": "Y Deyrnas Unedig",
 				"da": "Storbritannien",
 				"de": "Vereinigtes Königreich",
@@ -26267,14 +26284,14 @@
 		"tags": {
 			"admin_level": "4",
 			"description": "France, départements et régions d'outre-mer, territoire régi par l’article 73 de la Constitution",
+			"is_in:ref:nuts:2": "FRY1",
+			"is_in:ref:nuts:3": "FRY10",
 			"land_area": "administrative",
 			"note": "Cette relation représente la région (et non le département) sur ses frontières terrestres (et non maritimes)",
 			"population": "384239",
 			"population:date": "2019",
 			"ref:FR:SIREN": "229710017",
 			"ref:INSEE": "01",
-			"ref:nuts": "FRY1",
-			"ref:nuts:2": "FRY1",
 			"source:population": "INSEE 2022"
 		},
 		"timezone": null,
@@ -28011,7 +28028,7 @@
 				"to": "Falanise Kuiana",
 				"tr": "Fransız Guyanası",
 				"tt": "Француз Гвианасы",
-				"uk": "Французька Гвіана",
+				"uk": "Французька Ґвіана",
 				"ur": "فرینچ گیانا",
 				"vi": "Guyane thuộc Pháp",
 				"yo": "Orílẹ́ède Firenṣi Guana",
@@ -28031,14 +28048,14 @@
 		"tags": {
 			"admin_level": "4",
 			"description": "France, départements et régions d'outre-mer, territoire régi par l’article 73 de la Constitution",
+			"is_in:ref:nuts:2": "FRY3",
+			"is_in:ref:nuts:3": "FRY30",
 			"land_area": "administrative",
 			"note": "Fusion de la Région et du Département conformément à la loi de 2015 qui a créé la Collectivité Territoriale Unique",
 			"population": "276128",
 			"population:date": "2018",
 			"ref:FR:SIREN": "200052678",
 			"ref:INSEE": "973R",
-			"ref:nuts:2": "FRY3",
-			"ref:nuts:3": "FRY30",
 			"source:official_name": "https://www.ctguyane.fr/la-collectivite/la-loi/",
 			"source:population": "https://www.insee.fr/fr/statistiques/6007534#tableau-figure2",
 			"source:ref:INSEE": "https://www.insee.fr/fr/information/3528272"
@@ -32073,6 +32090,7 @@
 			},
 			"official_name": {
 				"ar": "دولة إسرائيل",
+				"br": "Stad Israel",
 				"ca": "Estat d'Israel",
 				"cs": "Stát Izrael",
 				"en": "State of Israel",
@@ -32638,6 +32656,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
 		"lang": {
 			"alt_name": {
+				"br": "Bro-Jordan",
 				"vi": "Gioóc-đa-ni;Gioócđani;Gioocđani;Ước Đán"
 			},
 			"name": {
@@ -32831,6 +32850,7 @@
 			"official_name": {
 				"ang": "Hascemisce Cynerīce þæs Iordanes",
 				"ar": "المملكة الأردنية الهاشمية",
+				"br": "Rouantelezh hachemit Jordania",
 				"ca": "Regne Haiximita de Jordània",
 				"cs": "Jordánské hášimovské království",
 				"cy": "Teyrnas Hashimaidd Gwlad yr Iorddonen",
@@ -33710,7 +33730,7 @@
 				"crh": "Qırğızistan",
 				"cs": "Kyrgyzstán",
 				"csb": "Kirgistan",
-				"cv": "Киргизи",
+				"cv": "Кӑркӑсстан",
 				"cy": "Kyrgyzstan",
 				"da": "Kirgisistan",
 				"de": "Kirgisistan",
@@ -33868,6 +33888,7 @@
 				"ca": "República Kirguís",
 				"ckb": "کۆماری قرغیزستان",
 				"cs": "Kyrgyzská republika",
+				"cv": "Кӑркӑс Республики",
 				"cy": "Gweriniaeth Kyrgyzstan",
 				"en": "Kyrgyz Republic",
 				"eo": "Kirgiza Respubliko",
@@ -34342,6 +34363,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
 		"lang": {
 			"alt_name": {
+				"cv": "Кӑнтӑр Корея",
 				"en": "Korea",
 				"eo": "Sud-Koreujo;Sud-Koreo",
 				"ko-KP": "남조선",
@@ -34389,6 +34411,7 @@
 				"crh": "Cenübiy Koreya",
 				"cs": "Jižní Korea",
 				"csb": "Repùblika Kòreji",
+				"cv": "Корея Республики",
 				"cy": "De Korea",
 				"da": "Sydkorea",
 				"de": "Südkorea",
@@ -34575,6 +34598,7 @@
 				"br": "Republik Korea",
 				"ca": "República de Corea",
 				"cdo": "Dâi-hàng Mìng-guók",
+				"cv": "Корея Республики",
 				"cy": "Gweriniaeth Korea",
 				"el": "Δημοκρατία της Κορέας",
 				"en": "Republic of Korea",
@@ -35290,6 +35314,7 @@
 			},
 			"official_name": {
 				"ar": "الجمهورية اللبنانية",
+				"br": "Republik Liban",
 				"ca": "República Libanesa",
 				"cs": "Libanonská republika",
 				"de": "Libanesische Republik",
@@ -37694,6 +37719,7 @@
 				"sv": "Saint Martin",
 				"sw": "Saint Martin",
 				"ta": "செயிண்ட் மார்டின்",
+				"th": "แซ็ง-มาร์แต็ง",
 				"tl": "San Martin",
 				"tr": "Saint Martin",
 				"uk": "Сен-Мартен",
@@ -37737,6 +37763,8 @@
 			"description:en": "France, overseas collectivity",
 			"description:nl": "Frankrijk, overzeese gemeenschap",
 			"int_name": "Saint-Martin",
+			"is_in:ref:nuts:2": "FRY1",
+			"is_in:ref:nuts:3": "FRY10",
 			"place": "state",
 			"population": "32489",
 			"population:date": "2019",
@@ -41382,14 +41410,14 @@
 		"tags": {
 			"admin_level": "4",
 			"description": "France, départements et régions d'outre-mer, territoire régi par l’article 73 de la Constitution",
+			"is_in:ref:nuts:2": "FRY2",
+			"is_in:ref:nuts:3": "FRY20",
 			"land_area": "administrative",
 			"note": "Fusion de la Région et du Département conformément à la loi de 2015 qui a créé la Collectivité Territoriale Unique",
 			"population": "364508",
 			"population:date": "2019",
 			"ref:FR:SIREN": "200055507",
 			"ref:INSEE": "972R",
-			"ref:nuts:2": "FRY2",
-			"ref:nuts:3": "FRY20",
 			"source:population": "INSEE 2022",
 			"source:ref:INSEE": "https://www.insee.fr/fr/information/3528272"
 		},
@@ -42205,13 +42233,13 @@
 			"is_in:country": "France",
 			"is_in:country_code": "FR",
 			"is_in:ocean": "Indian",
+			"is_in:ref:nuts:2": "FRY5",
+			"is_in:ref:nuts:3": "FRY50",
 			"land_area": "administrative",
 			"note": "Cette relation décrit le département de Mayotte",
 			"ref": "976",
 			"ref:FR:SIREN": "229850003",
-			"ref:INSEE": "976",
-			"ref:nuts": "FRY50",
-			"ref:nuts:3": "FRY50"
+			"ref:INSEE": "976"
 		},
 		"timezone": null,
 		"website": "https://mayotte.fr/",
@@ -42620,6 +42648,7 @@
 				"bcl": "Niger",
 				"be": "Нігер",
 				"be-tarask": "Нігер",
+				"ber": "ⵏⵏⵉⵊⵔ",
 				"bg": "Нигер",
 				"bjn": "Niger",
 				"bm": "Nijer",
@@ -44013,7 +44042,7 @@
 				"tzl": "Norvexhà",
 				"udm": "Норвегия",
 				"ug": "نورۋېگىيە",
-				"uk": "Норвегія",
+				"uk": "Норвеґія",
 				"ur": "ناروے",
 				"uz": "Norvegiya",
 				"vec": "Norveja",
@@ -44046,7 +44075,8 @@
 				"fr": "Royaume de Norvège",
 				"hu": "Norvég Királyság",
 				"pl": "Królestwo Norwegii",
-				"sv": "Konungariket Norge"
+				"sv": "Konungariket Norge",
+				"uk": "Королівство Норвеґія"
 			}
 		},
 		"name": "Norge",
@@ -46100,6 +46130,7 @@
 			"name": {
 				"ar": "بالاو",
 				"az": "Palau",
+				"be": "Палау",
 				"br": "Palau",
 				"bs": "Palau",
 				"ca": "Palau",
@@ -46150,6 +46181,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية بالاو",
+				"be": "Рэспубліка Палау",
 				"br": "Republik Palau",
 				"ca": "República de Palau",
 				"cs": "Republika Palau",
@@ -46796,6 +46828,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/51/Flag_of_North_Korea.svg",
 		"lang": {
 			"alt_name": {
+				"cv": "Ҫурҫӗр Корея",
 				"eo": "Nord-Koreujo;Nord-Koreo",
 				"ko-KP": "조선",
 				"ko-KR": "북한",
@@ -46836,7 +46869,7 @@
 				"bn": "উত্তর কোরিয়া",
 				"bo": "བྱང་ཀོ་རི་ཡ།",
 				"bpy": "ঔয়াং কোরিয়া",
-				"br": "Republik Poblel ha Demokratel Korea",
+				"br": "Korea an Norzh",
 				"bs": "Sjeverna Koreja",
 				"bug": "Korea Utara",
 				"bxr": "Хойто Солонгос",
@@ -46850,6 +46883,7 @@
 				"crh": "Şimaliy Koreya",
 				"cs": "Severní Korea",
 				"csb": "Kòrejańskô Lëdowò-Demokratnô Repùblika",
+				"cv": "Демократиллӗ Корея Халӑх Республики",
 				"cy": "Gogledd Korea",
 				"da": "Nordkorea",
 				"de": "Nordkorea",
@@ -47026,9 +47060,11 @@
 			},
 			"official_name": {
 				"ar": "جمهورية كوريا الديمقراطية الشعبية",
+				"br": "Republik Poblel ha Demokratel Korea",
 				"ca": "República Popular Democràtica de Corea",
 				"cnr": "Demokratska Narodna Republika Koreja",
 				"cs": "Korejská lidově demokratická republika",
+				"cv": "Демократиллӗ Корея Халӑх Республики",
 				"cy": "Gweriniaeth Ddemocrataidd y Bobl Korea",
 				"de": "Demokratische Volksrepublik Korea",
 				"en": "Democratic People's Republic of Korea",
@@ -47050,6 +47086,7 @@
 				"zh-Hant": "朝鮮民主主義人民共和國"
 			},
 			"short_name": {
+				"cv": "ДКХР",
 				"en": "DPRK",
 				"ja": "北朝鮮",
 				"pt": "RPDC",
@@ -48232,14 +48269,14 @@
 		"tags": {
 			"admin_level": "4",
 			"description": "France, départements et régions d'outre-mer, territoire régi par l’article 73 de la Constitution",
+			"is_in:ref:nuts:2": "FRY4",
+			"is_in:ref:nuts:3": "FRY40",
 			"land_area": "administrative",
 			"note": "Cette relation représente la région française \"La Réunion\"",
 			"population": "861210",
 			"population:date": "2019",
 			"ref:FR:SIREN": "239740012",
 			"ref:INSEE": "04",
-			"ref:nuts": "FRY4",
-			"ref:nuts:2": "FRY4",
 			"source:population": "INSEE 2022"
 		},
 		"timezone": null,
@@ -48825,15 +48862,18 @@
 			},
 			"old_name": {
 				"ca": "República Socialista Federativa Soviètica de Rússia;Imperi Rus",
+				"cv": "Раҫҫей Федерациллӗ Социализмлӑ Совет Республики;Раҫҫей империйӗ;Руҫ",
 				"hu": "Szovjet Szocialista Köztársaságok Szövetsége",
 				"is": "Garðaríki"
 			},
 			"old_short_name": {
+				"cv": "РСФСР",
 				"en": "RSFSR",
 				"hu": "SZSZKSZ",
 				"ru": "РСФСР"
 			},
 			"short_name": {
+				"cv": "РФ",
 				"ru": "РФ",
 				"uk": "РФ"
 			}
@@ -53142,13 +53182,13 @@
 				"yi": "סוואזילאנד",
 				"yo": "Swásílándì",
 				"yue": "斯威士蘭",
-				"zh": "斯威士兰 / 史瓦蒂尼 / 斯威士蘭",
+				"zh": "斯威士兰 / 史瓦帝尼 / 斯威士蘭",
 				"zh-Hans": "斯威士兰",
 				"zh-Hans-CN": "斯威士兰",
 				"zh-Hant": "史瓦帝尼",
 				"zh-Hant-CN": "斯威士蘭",
 				"zh-Hant-HK": "斯威士蘭",
-				"zh-Hant-TW": "史瓦蒂尼",
+				"zh-Hant-TW": "史瓦帝尼",
 				"zu": "ISwazilandi"
 			},
 			"official_name": {
@@ -55992,6 +56032,7 @@
 				"bcl": "Tunisya",
 				"be": "Туніс",
 				"be-tarask": "Туніс",
+				"ber": "ⵜⵓⵏⵙ",
 				"bg": "Тунис",
 				"bjn": "Tunisia",
 				"bm": "Tunizi",
