@@ -21758,7 +21758,9 @@
 				"pa": "ਇਰੀਤਰੀਆ ਦਾ ਮੁਲਕ",
 				"ps": "د اریتریا هیواد ولسمشریزه",
 				"pt": "Estado da Eritreia",
-				"ru": "Государство Эритрея"
+				"ru": "Государство Эритрея",
+				"sv": "Staten Eritrea",
+				"ti": "ሃገረ ኤርትራ"
 			}
 		},
 		"name": "ኤርትራ Eritrea إرتريا",
@@ -27385,10 +27387,13 @@
 				"br": "Republik hellenek",
 				"ca": "República Hel·lènica",
 				"cs": "Řecká republika",
+				"el": "Ελληνική Δημοκρατία",
+				"en": "Hellenic Republic",
 				"eo": "Helena Respubliko",
 				"fi": "Helleenien tasavalta",
 				"hu": "Görög Köztársaság",
-				"pl": "Republika Grecka"
+				"pl": "Republika Grecka",
+				"sv": "Republiken Grekland"
 			}
 		},
 		"name": "Ελλάς",
@@ -28661,6 +28666,7 @@
 				"ru": "Остров Херд и острова Макдональд",
 				"sr": "Острво Херд и острва Мaкдоналд",
 				"sr-Latn": "Ostrvo Herd i ostrva Makdonald",
+				"sv": "Heard- och McDonaldöarna",
 				"ta": "ஏர்ட் தீவும் மக்டொனால்ட் தீவும்",
 				"th": "เกาะเฮิร์ดและหมู่เกาะแมกดอนัลด์",
 				"uk": "Острів Герд і острови Макдональд",
@@ -37440,8 +37446,8 @@
 			"driving_side": "right",
 			"geonames:id": "458258",
 			"int_name": "Latvia",
-			"population": "1860565",
-			"population:date": "2025",
+			"population": "1845096",
+			"population:date": "2026",
 			"ref:nuts": "LV0;LV00",
 			"ref:nuts:1": "LV0",
 			"ref:nuts:2": "LV00",
@@ -38241,7 +38247,8 @@
 				"pt": "Principado do Mónaco",
 				"pt-BR": "Principado de Mônaco",
 				"ru": "Княжество Монако",
-				"sk": "Monacké kniežatstvo"
+				"sk": "Monacké kniežatstvo",
+				"sv": "Furstendömet Monaco"
 			}
 		},
 		"name": "Monaco",
@@ -47945,7 +47952,6 @@
 			"border_type": "territorial",
 			"description": "France, collectivités d'outre-mer, territoires régis par l’article 74 de la Constitution",
 			"int_name": "French Polynesia",
-			"is_in:ocean": "Pacific",
 			"maritime": "yes",
 			"place": "state",
 			"population": "275918",
@@ -50243,6 +50249,7 @@
 				"sk": "Svätá Helena, Ascension a Tristan da Cunha",
 				"sl": "Sveta Helena, Ascension in Tristan da Cunha",
 				"sr": "Света Хелена, Асенсион, и Тристан да Куња",
+				"sv": "Sankt Helena, Ascension och Tristan da Cunha",
 				"tr": "Saint Helena, Ascension ve Tristan da Cunha",
 				"uk": "Острови Святої Єлени, Вознесіння і Тристан-да-Кунья",
 				"vi": "Saint Helena, Ascension và Tristan da Cunha",
