@@ -3857,6 +3857,7 @@
 		"flag": null,
 		"lang": {
 			"alt_name": {
+				"nl": "Zuidpoolgebied",
 				"vi": "Nam Cực Châu",
 				"vo": "Sulüdop"
 			},
@@ -10071,6 +10072,7 @@
 				"ckb": "کۆماری بیلاڕووس",
 				"eo": "Belorusujo;Belarusio;Belarusujo",
 				"hu": "Belarusz",
+				"nl": "Wit-Rusland",
 				"vi": "Bạch Nga",
 				"zh": "白罗斯/白羅斯",
 				"zh-Hans": "白罗斯",
@@ -23116,7 +23118,7 @@
 				"ga": "An Fhionlainn",
 				"gag": "Finlandiya",
 				"gan": "芬蘭",
-				"gd": "An Fhionnlann",
+				"gd": "An Fhionnlainn",
 				"gl": "Finlandia",
 				"gn": "Hĩlandia",
 				"gsw": "Finnlànd",
@@ -32181,6 +32183,7 @@
 				"ceb": "Italya",
 				"chr": "ᎢᏔᎵᏱ",
 				"chy": "Italy",
+				"cjy": "意大利",
 				"ckb": "ئیتالیا",
 				"cnr": "Italija",
 				"co": "Italia",
@@ -32392,7 +32395,7 @@
 				"yo": "Itálíà",
 				"yue": "意大利",
 				"zea": "Itâlië",
-				"zh": "意大利;意大利",
+				"zh": "意大利;義大利",
 				"zh-Hans": "意大利",
 				"zh-Hant": "義大利",
 				"zu": "ITaliya"
