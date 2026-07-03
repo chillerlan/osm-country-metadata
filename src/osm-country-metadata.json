@@ -27467,7 +27467,7 @@
 				"ta": "கிரெனடா",
 				"tr": "Grenada",
 				"tzl": "Grenada",
-				"uk": "Гренада",
+				"uk": "Ґренада",
 				"vi": "Grenada",
 				"vo": "Grenadeän",
 				"zh": "格林纳达",
@@ -27882,7 +27882,7 @@
 				"tt": "Гватемала",
 				"tzl": "Guatemala",
 				"ug": "گۋاتېمالا",
-				"uk": "Гватемала",
+				"uk": "Ґватемала",
 				"ur": "گوئٹے مالا",
 				"uz": "Gvatemala",
 				"vi": "Guatemala",
@@ -27908,7 +27908,8 @@
 				"de": "Republik Guatemala",
 				"es": "República de Guatemala",
 				"hu": "Guatemalai Köztársaság",
-				"ru": "Республика Гватемала"
+				"ru": "Республика Гватемала",
+				"uk": "Республіка Ґватемала"
 			}
 		},
 		"name": "Guatemala",
@@ -28037,7 +28038,7 @@
 				"to": "Falanise Kuiana",
 				"tr": "Fransız Guyanası",
 				"tt": "Француз Гвианасы",
-				"uk": "Французька Ґвіана",
+				"uk": "Ґвіана",
 				"ur": "فرینچ گیانا",
 				"vi": "Guyane thuộc Pháp",
 				"yo": "Orílẹ́ède Firenṣi Guana",
@@ -28048,7 +28049,8 @@
 				"zu": "isi-French Guiana"
 			},
 			"old_name": {
-				"fr": "Guyane française"
+				"fr": "Guyane française",
+				"uk": "Французька Ґвіана"
 			}
 		},
 		"name": "Guyane",
@@ -28329,7 +28331,7 @@
 				"tt": "Гайана",
 				"tzl": "Güiana",
 				"ug": "گايانا",
-				"uk": "Гаяна",
+				"uk": "Ґаяна",
 				"ur": "گیانا",
 				"uz": "Gayana",
 				"vec": "Guyana",
@@ -28356,7 +28358,8 @@
 				"en": "Republic of Guyana",
 				"es": "República de Guyana",
 				"hu": "Guyanai Szövetkezeti Köztársaság",
-				"ru": "Республика Гайана"
+				"ru": "Республика Гайана",
+				"uk": "Кооперативна Республіка Ґаяна"
 			}
 		},
 		"name": "Guyana",
@@ -55970,7 +55973,7 @@
 				"tt": "Тринидад һәм Тобаго",
 				"tzl": "Þriadia-es-Tobago",
 				"ug": "ترىنىداد ۋە توباگو",
-				"uk": "Трінідад та Тобаго",
+				"uk": "Трінідад та Тобаґо",
 				"ur": "ترینیداد اور ٹوباگو",
 				"vi": "Trinidad và Tobago",
 				"vo": "Trinidadeän e Tobageäns",
@@ -55993,7 +55996,8 @@
 				"hu": "Trinidad és Tobago Köztársaság",
 				"lt": "Trinidado ir Tobago Respublika",
 				"pt": "República de Trindade e Tobago",
-				"ru": "Республика Тринидад и Тобаго"
+				"ru": "Республика Тринидад и Тобаго",
+				"uk": "Республіка Тринідад і Тобаґо"
 			},
 			"wikipedia": {
 				"es": "Trinidad y Tobago"
