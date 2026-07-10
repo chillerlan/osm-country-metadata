@@ -12968,6 +12968,7 @@
 			},
 			"name": {
 				"ar": "جزيرة بوفيه",
+				"be": "Востраў Бувэ",
 				"bn": "বোভেত দ্বীপ",
 				"br": "Enez Bouvet",
 				"ca": "Illa Bouvet",
@@ -16411,6 +16412,7 @@
 				"en:1885-1908": "Congo Free State",
 				"en:1908-1960": "Belgian Congo",
 				"en:1971-1997": "Zaire",
+				"fa:1971-1997": "زئیر",
 				"fr:1908-1960": "Congo Belge",
 				"fr:1960-1966": "Republic of Congo-Léopoldville",
 				"fr:1971-1997": "Zaïre",
@@ -16623,7 +16625,7 @@
 				"ts": "Riphabliki ya Congo",
 				"tt": "Конго Җөмһүрияте",
 				"ug": "كونگو جۇمھۇرىيىتى",
-				"uk": "Республіка Конго",
+				"uk": "Республіка Конґо",
 				"ur": "جمہوریہ کانگو",
 				"uz": "Kongo Respublikasi",
 				"vec": "Republica del Congo",
@@ -18078,6 +18080,7 @@
 		"flag": null,
 		"lang": {
 			"alt_name": {
+				"be": "Востраў Ражства;Востраў Божага Нараджэння;Востраў Каляд",
 				"vi": "Đảo Christmas"
 			},
 			"name": {
@@ -18086,7 +18089,7 @@
 				"ar": "جزيرة الميلاد",
 				"ast": "Islla Christmas",
 				"az": "Çristmas Adası",
-				"be": "Востраў Ражства",
+				"be": "Востраў Раства",
 				"bg": "Рождество",
 				"bn": "ক্রিসমাস দ্বীপ",
 				"bpy": "ক্রিসমাস দ্বীপমালা",
@@ -21793,7 +21796,6 @@
 		"flag": null,
 		"lang": {
 			"alt_name": {
-				"be": "Заходняя Сахара",
 				"ckb": "سەحرای ڕۆژاوا",
 				"uz": "Gʻarbiy Sahroi Kabir"
 			},
@@ -21814,7 +21816,7 @@
 				"ba": "Көнбайыш Сахара",
 				"bar": "Westsahara",
 				"bcl": "Sulnupan na Sahara",
-				"be": "Көнбайыш Сахара",
+				"be": "Заходняя Сахара",
 				"be-tarask": "Заходняя Сахара",
 				"ber": "Taneẓroft Tutrimt",
 				"bg": "Западна Сахара",
@@ -21963,6 +21965,9 @@
 				"yue": "西撒哈拉",
 				"zea": "Westelijke Sahara",
 				"zh": "西撒哈拉"
+			},
+			"old_name": {
+				"be": "Іспанская Сахара"
 			}
 		},
 		"name": "الصحراء الغربية",
@@ -26276,7 +26281,7 @@
 				"ti": "ጉዋደሉፕ",
 				"to": "Kuatalupe",
 				"tr": "Guadalupe",
-				"uk": "Гваделупа",
+				"uk": "Ґваделупа",
 				"ur": "گواڈیلوپ",
 				"vi": "Guadeloupe",
 				"yo": "Gadelope",
@@ -28390,6 +28395,7 @@
 		"flag": "File:Flag_of_Hong_Kong.svg",
 		"lang": {
 			"alt_name": {
+				"be": "Сянган",
 				"cs": "Siang-kang;Voňavý přístav",
 				"hu": "Hong Kong",
 				"vi": "Hương Cảng"
@@ -28568,6 +28574,7 @@
 			},
 			"official_name": {
 				"ar": "منطقة هونغ كونغ الإدارية الخاصة",
+				"be": "Спецыяльны адміністрацыйны раён Ганконг",
 				"cs": "Zvláštní administrativní oblast Hongkong",
 				"de": "Sonderverwaltungszone Hongkong",
 				"en": "Hong Kong Special Administrative Region",
@@ -31342,6 +31349,7 @@
 				"bcl": "Iraq",
 				"be": "Ірак",
 				"be-tarask": "Ірак",
+				"ber": "ⵍⵄⵉⵔⴰⵇ",
 				"bg": "Ирак",
 				"bm": "Iraki",
 				"bn": "ইরাক",
@@ -33466,7 +33474,7 @@
 		},
 		"ISO3166-2": null,
 		"capital": null,
-		"currency": null,
+		"currency": "Ksh",
 		"default_language": null,
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
 		"lang": {
@@ -35096,6 +35104,7 @@
 				"zh-Hant-TW": "寮國"
 			},
 			"official_name": {
+				"be": "Лаоская Народна-Дэмакратычная Рэспубліка",
 				"cs": "Laoská lidově demokratická republika",
 				"en": "Lao People's Democratic Republic",
 				"es": "República Democrática Popular Lao",
@@ -35154,6 +35163,7 @@
 				"bcl": "Lebanon",
 				"be": "Ліван",
 				"be-tarask": "Лібан",
+				"ber": "ⵍⵓⴱⵏⴰⵏ",
 				"bg": "Ливан",
 				"bm": "Lubenan",
 				"bn": "লেবানন",
@@ -35829,11 +35839,12 @@
 				"ur": "ریاست لیبیا"
 			}
 		},
-		"name": "ليبيا",
+		"name": "ⵍⵉⴱⵢⴰ ليبيا Libya",
 		"official_name": "دولة ليبيا",
 		"relation_id": 192758,
 		"tags": {
 			"admin_level": "2",
+			"nat_name": "ⵍⵉⴱⵢⴰ",
 			"population": "5613380",
 			"wikimedia_commons": "Category:Libya"
 		},
@@ -36062,6 +36073,7 @@
 				"zh-Hant": "列支敦斯登"
 			},
 			"official_name": {
+				"be": "Княства Ліхтэнштэйн",
 				"ca": "Principat de Liechtenstein",
 				"cs": "Lichtenštejnské knížectví",
 				"de": "Fürstentum Liechtenstein",
@@ -37481,6 +37493,7 @@
 		"flag": "File:Flag_of_Macau.svg",
 		"lang": {
 			"alt_name": {
+				"be": "Макао;Макаў;Аамэнь;Аамынь",
 				"en": "Macao",
 				"eo": "Macau"
 			},
@@ -37605,6 +37618,7 @@
 			},
 			"official_name": {
 				"ar": "ماكاو المنطقة الإدارية الخاصة",
+				"be": "Спецыяльны адміністрацыйны раён Макаа",
 				"cs": "Zvláštní administrativní oblast Macao",
 				"en": "Macao Special Administrative Region",
 				"eo": "Speciala Administra Divido de Makao",
@@ -38240,6 +38254,7 @@
 			},
 			"official_name": {
 				"ar": "إمارة موناكو",
+				"be": "Княства Манака",
 				"br": "Priñselezh Monako",
 				"ca": "Principat de Mònaco",
 				"cs": "Monacké knížectví",
@@ -44344,6 +44359,7 @@
 			},
 			"official_name": {
 				"ar": "جمهورية نيبال الديمقراطية الاتحادية",
+				"be": "Федэратыўная Дэмакратычная Рэспубліка Непал",
 				"ca": "República Federal Democràtica del Nepal",
 				"ckb": "کۆماری دیموکراتیی فیدراڵیی نیپال",
 				"cs": "Nepálská federativní demokratická republika",
@@ -53700,6 +53716,7 @@
 				"bcl": "Sirya",
 				"be": "Сірыя",
 				"be-tarask": "Сырыя",
+				"ber": "ⵙⵓⵔⵢⴰ",
 				"bg": "Сирия",
 				"bm": "Suriya",
 				"bn": "সিরিয়া",
@@ -54660,7 +54677,7 @@
 				"hu": "Thaiföld",
 				"hy": "Թաիլանդ",
 				"ia": "Thailanda",
-				"id": "Thailand",
+				"id": "Tailan",
 				"ie": "Thailand",
 				"ig": "Tailand",
 				"ilo": "Tailandia",
@@ -57498,7 +57515,7 @@
 		},
 		"ISO3166-2": null,
 		"capital": null,
-		"currency": null,
+		"currency": "Tsh",
 		"default_language": null,
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
 		"lang": {
@@ -59364,6 +59381,7 @@
 				"zu": "Indolobha yaseVathikhani"
 			},
 			"official_name": {
+				"be": "Дзяржава Ватыкан",
 				"br": "Riez Keoded ar Vatikan",
 				"ca": "Estat de la Ciutat del Vaticà",
 				"cs": "Vatikánský městský stát",
@@ -60273,6 +60291,7 @@
 				"zu": "IViyetnami"
 			},
 			"official_name": {
+				"be": "Сацыялістычная Рэспубліка В'етнам",
 				"ca": "República Socialista del Vietnam",
 				"cs": "Vietnamská socialistická republika",
 				"en": "Socialist Republic of Vietnam",
