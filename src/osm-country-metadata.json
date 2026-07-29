@@ -13,6 +13,7 @@
 		"lang": {
 			"name": {
 				"ar": "أروبا",
+				"be": "Аруба",
 				"br": "Aruba",
 				"ca": "Aruba",
 				"ckb": "ئارووبا",
@@ -4562,8 +4563,8 @@
 				"bar": "Australien",
 				"bat-smg": "Australėjė",
 				"bcl": "Australya",
-				"be": "Аўстра́лія",
-				"be-tarask": "Аўстра́лія",
+				"be": "Аўстралія",
+				"be-tarask": "Аўстралія",
 				"bg": "Австралия",
 				"bh": "ऑस्ट्रेलिया",
 				"bi": "Ostrelia",
@@ -4816,7 +4817,7 @@
 				"azb": "اوستورالیا بیرلیگی",
 				"bar": "Commonwealth vu Australien",
 				"bat-smg": "Australijės Sondrauga",
-				"be": "Аўстралі́йскі Саю́з",
+				"be": "Аўстралійскі Саюз",
 				"be-tarask": "Аўстралійскі Саюз",
 				"bg": "Австралийският съюз",
 				"bh": "ऑस्ट्रेलियाई राष्ट्रमंडल",
@@ -14279,7 +14280,7 @@
 				"hu": "Svájc",
 				"hy": "Շվեյցարիա",
 				"ia": "Suissa",
-				"id": "Swiss",
+				"id": "Swis",
 				"ie": "Svissia",
 				"ilo": "Switzerland",
 				"io": "Suisia",
@@ -14779,7 +14780,7 @@
 				"tzl": "Cile",
 				"udm": "Чили",
 				"ug": "چىلى",
-				"uk": "Чи́лі",
+				"uk": "Чилі",
 				"ur": "چلی",
 				"uz": "Chili",
 				"ve": "Shile",
@@ -14966,7 +14967,7 @@
 				"tt": "Чи́ли Җөмһүрияте́",
 				"tyv": "Чили Республика",
 				"udm": "Чили Республика",
-				"uk": "Респу́бліка Чи́лі",
+				"uk": "Респу́бліка Чилі",
 				"ur": "جمہوریہ چلی",
 				"uz": "Chili Respublikasi",
 				"vec": "Republica del Ciłe",
@@ -25631,7 +25632,7 @@
 				"hu": "Ghána",
 				"hy": "Գանա",
 				"ia": "Ghana",
-				"id": "Ghana",
+				"id": "Gana",
 				"ie": "Ghana",
 				"ig": "Ghana",
 				"ilo": "Ghana",
@@ -26627,7 +26628,7 @@
 				"hu": "Bissau-Guinea",
 				"hy": "Գվինեա Բիսաու",
 				"ia": "Guinea-Bissau",
-				"id": "Guinea-Bissau",
+				"id": "Ginea dan Bisau",
 				"ie": "Guinea-Bissau",
 				"ilo": "Guinea-Bissau",
 				"io": "Guinea Bisau",
@@ -30786,6 +30787,7 @@
 				"gn": "Ilandia",
 				"gom": "आयर्लंड",
 				"got": "𐌴𐌹𐍂𐌰𐌻𐌰𐌽𐌳",
+				"gsw": "Irlànd",
 				"gu": "આયર્લેંડ",
 				"gv": "Nerin",
 				"ha": "Ayalan",
@@ -32699,6 +32701,7 @@
 				"bcl": "Yordanya",
 				"be": "Іарданія",
 				"be-tarask": "Ярданія",
+				"ber": "ⵍⵓⵔⴷⵓⵏ",
 				"bg": "Йордания",
 				"bjn": "Yordania",
 				"bm": "Ordon",
@@ -37672,6 +37675,9 @@
 		"default_language": null,
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Flag_of_France.svg",
 		"lang": {
+			"alt_name": {
+				"be": "Святы Марцін;Святы Мартын"
+			},
 			"name": {
 				"af": "Sint Maartin",
 				"an": "Sant Martín",
@@ -37763,6 +37769,7 @@
 				"zh-Hant": "聖馬丁"
 			},
 			"official_name": {
+				"be": "Супольнасць Сэн-Мартэн",
 				"ca": "Col·lectivitat de Saint-Martin",
 				"cs": "Společenství Svatý Martin",
 				"de": "Kollektivität Saint-Martin",
@@ -40819,6 +40826,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Flag_of_the_Northern_Mariana_Islands.svg",
 		"lang": {
 			"name": {
+				"be": "Паўночныя Марыянскія Астравы",
 				"br": "Inizi Mariana an Norzh",
 				"ca": "illes Marianes del Nord",
 				"cal": "Commonwealth Téél Falúw kka Efáng llól Marianas",
@@ -40843,6 +40851,7 @@
 				"uk": "Північні Маріанські Острови"
 			},
 			"official_name": {
+				"be": "Садружнасць Паўночных Марыянскіх Астравоў",
 				"cs": "Společenství Severní Mariany"
 			}
 		},
@@ -45873,7 +45882,9 @@
 		"tags": {
 			"admin_level": "2",
 			"int_name": "Peru",
-			"population": "29180899",
+			"population": "34157732",
+			"population:date": "2025",
+			"source:population": "INEI",
 			"wikimedia_commons": "Category:Peru"
 		},
 		"timezone": "America/Lima",
@@ -46757,11 +46768,11 @@
 			"daytime_headlight": "yes",
 			"driving_side": "right",
 			"int_name": "Polska",
-			"population": "38151000",
-			"population:date": "2021-09-30",
+			"population": "37332500",
+			"population:date": "2026-01-01",
 			"short_name": "RP",
 			"source": "geoportal.gov.pl;PRG;Urząd Morski w Gdyni;Ustawa o obszarach morskich Rzeczypospolitej Polskiej i Administracji Morskiej;Act on maritime areas of the Republic of Poland and Maritime Administration;United Nations Convention on the Law of the Sea",
-			"source:population": "https://stat.gov.pl/",
+			"source:population": "https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultaktualnosci/5468/7/23/1/powierzchnia_i_ludnosc_w_przekroju_terytorialnym_w_2026_r.pdf",
 			"teryt:terc": "1",
 			"wikimedia_commons": "Category:Poland"
 		},
@@ -53330,6 +53341,7 @@
 		"flag": null,
 		"lang": {
 			"alt_name": {
+				"be": "Святы Мартын;Святы Марцін",
 				"fr": "Sint Maarten"
 			},
 			"name": {
