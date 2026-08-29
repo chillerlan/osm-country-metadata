@@ -62,7 +62,7 @@
 		"timezone": "America/Aruba",
 		"website": null,
 		"wikidata": "Q21203",
-		"wikipedia": "en:Aruba"
+		"wikipedia": "nl:Aruba"
 	},
 	"AFG": {
 		"ISO3166-1": {
@@ -1913,7 +1913,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": "ca",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Andorra.svg",
+		"flag": "File:Flag of Andorra.svg",
 		"lang": {
 			"alt_name": {
 				"af": "Prinsdom van die Valleie van Andorra",
@@ -3480,7 +3480,7 @@
 				"tzl": "Haiastan",
 				"udm": "Армения",
 				"ug": "ئەرمېنىيە",
-				"uk": "Вірме́нія",
+				"uk": "Вірменія",
 				"ur": "آرمینیا",
 				"uz": "Armaniston",
 				"vec": "Armenia",
@@ -3658,7 +3658,7 @@
 				"tt": "Әрмәнстан Җөмһүрияте",
 				"udm": "Армян Элькун",
 				"ug": "ئارمېنىيە جۇمىۇرىيىتى",
-				"uk": "Респу́бліка Вірме́нія",
+				"uk": "Республіка Вірменія",
 				"ur": "جمہوریہ آرمینیا",
 				"uz": "Armaniston Respublikasi",
 				"vec": "Republica de Armenia",
@@ -14213,7 +14213,7 @@
 		"capital": "Bern",
 		"currency": null,
 		"default_language": "la",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg",
+		"flag": "File:Flag of Switzerland.svg",
 		"lang": {
 			"alt_name": {
 				"cs": "Švýcarská konfederace",
@@ -17352,7 +17352,7 @@
 				"stq": "Komore",
 				"su": "Komoro",
 				"sv": "Komorerna",
-				"sw": "Komori",
+				"sw": "Visiwa Vya Ngazija; Visiwa vya Komoro",
 				"szl": "Kůmory",
 				"ta": "கொமொரோசு",
 				"te": "కొమొరోస్",
@@ -18003,7 +18003,7 @@
 		"timezone": null,
 		"website": null,
 		"wikidata": "Q241",
-		"wikipedia": "en:Cuba"
+		"wikipedia": "es:Cuba"
 	},
 	"CUW": {
 		"ISO3166-1": {
@@ -19595,6 +19595,7 @@
 		"relation_id": 192801,
 		"tags": {
 			"admin_level": "2",
+			"old_name": "French Somaliland",
 			"source:name:oc": "ieo-bdtopoc",
 			"wikimedia_commons": "Category:Djibouti"
 		},
@@ -21197,6 +21198,7 @@
 				"is": "Egyptaland",
 				"it": "Egitto",
 				"ja": "エジプト",
+				"ja-Latn": "Ejiputo",
 				"jam": "Iijip",
 				"jbo": "misrygu'e",
 				"jv": "Mesir",
@@ -22042,7 +22044,7 @@
 		"capital": null,
 		"currency": "EUR",
 		"default_language": "es",
-		"flag": "File:Bandera_de_España.svg",
+		"flag": "File:Flag of the Kingdom of Spain.svg",
 		"lang": {
 			"alt_name": {
 				"br": "Bro-Spagn",
@@ -22254,7 +22256,7 @@
 				"stq": "Spanien",
 				"su": "Spanyol",
 				"sv": "Spanien",
-				"sw": "Hispania",
+				"sw": "Uhispania",
 				"szl": "Szpanijŏ",
 				"ta": "எசுப்பானியா",
 				"te": "స్పెయిన్",
@@ -22835,7 +22837,7 @@
 				"stq": "Äthiopien",
 				"su": "Étiopia",
 				"sv": "Etiopien",
-				"sw": "Ethiopia",
+				"sw": "Uhabeshi",
 				"szl": "Etjopijo",
 				"ta": "எத்தியோப்பியா",
 				"te": "ఇథియోపియా",
@@ -23622,6 +23624,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_the_Falkland_Islands.svg",
 		"lang": {
 			"alt_name": {
+				"be": "Мальвінскія астравы",
 				"br": "Inizi Falkland",
 				"ca": "Illes Falkland",
 				"cs": "Malvíny",
@@ -23643,7 +23646,7 @@
 				"ar": "جزر الفولكلاند",
 				"ast": "Islles Malvines",
 				"az": "Folkland Adaları",
-				"be": "Фалклендскія астравы",
+				"be": "Фалклэндскія астравы",
 				"bg": "Фолкландски острови (Малвини)",
 				"bm": "Maluwini Gun",
 				"bn": "ফকল্যান্ড আইল্যান্ড (ইসল্যাস মাসভেনিস)",
@@ -25838,6 +25841,7 @@
 		"relation_id": 192781,
 		"tags": {
 			"admin_level": "2",
+			"old_name": "Gold Coast",
 			"population": "30792608",
 			"population:date": "2021",
 			"source:name:oc": "ieo-bdtopoc",
@@ -25876,6 +25880,7 @@
 				"az": "Cəbəli-Tariq",
 				"ba": "Гибралтар",
 				"bar": "Gibraltar",
+				"be": "Гібралтар",
 				"be-tarask": "Гібральтар",
 				"bg": "Гибралтар",
 				"bn": "জিব্রাল্টার",
@@ -30277,7 +30282,7 @@
 		"lang": {
 			"alt_name": {
 				"br": "Indez",
-				"en": "Bharat;Bharaat",
+				"en": "Bharat;Hindustan",
 				"eo": "Hindio;Hindujo;Hinda Unio",
 				"ks": "بًارت",
 				"lfn": "India",
@@ -30390,6 +30395,7 @@
 				"iu": "ᐃᓐᑎᐊ",
 				"iu-Latn": "intia",
 				"ja": "インド",
+				"ja-Latn": "Indo",
 				"jbo": "xingu'e",
 				"jv": "India",
 				"ka": "ინდოეთი",
@@ -31691,7 +31697,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": "is",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+		"flag": "File:Flag of Iceland.svg",
 		"lang": {
 			"name": {
 				"ace": "Islandia",
@@ -32228,7 +32234,7 @@
 		"capital": null,
 		"currency": "EUR",
 		"default_language": "it",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/0/03/Flag_of_Italy.svg",
+		"flag": "File:Flag of Italy.svg",
 		"lang": {
 			"alt_name": {
 				"eo": "Italujo",
@@ -32334,6 +32340,7 @@
 				"is": "Ítalía",
 				"it": "Italia",
 				"ja": "イタリア",
+				"ja-Latn": "Itaria",
 				"jbo": "italias",
 				"jv": "Italia",
 				"ka": "იტალია",
@@ -36101,7 +36108,7 @@
 		"capital": null,
 		"currency": null,
 		"default_language": "de",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+		"flag": "File:Flag of Liechtenstein.svg",
 		"lang": {
 			"name": {
 				"ar": "ليختنشتاين",
@@ -38153,7 +38160,7 @@
 		"capital": null,
 		"currency": "EUR",
 		"default_language": "fr",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+		"flag": "File:Flag of Monaco.svg",
 		"lang": {
 			"name": {
 				"ace": "Monakô",
@@ -38385,7 +38392,6 @@
 		"tags": {
 			"admin_level": "2",
 			"border_type": "nation",
-			"image": "https://cs.wikipedia.org/wiki/Monako#/media/Soubor:Flag_of_Monaco.svg",
 			"int_name": "Monaco",
 			"note": "this includes the full country (outer roles), i.e. the all territorial waters and the landarea (which is not an \"inner\" role excluding it, but just a link)",
 			"population": "39050",
@@ -38395,7 +38401,7 @@
 			"wikimedia_commons": "Category:Monaco"
 		},
 		"timezone": "Europe/Monaco",
-		"website": "https://www.gouv.mc/",
+		"website": "https://www.gouv.mc",
 		"wikidata": "Q235",
 		"wikipedia": "fr:Monaco"
 	},
@@ -41392,7 +41398,7 @@
 		"timezone": "Africa/Nouakchott",
 		"website": null,
 		"wikidata": "Q1025",
-		"wikipedia": "en:Mauritania"
+		"wikipedia": "ar:موريتانيا"
 	},
 	"MSR": {
 		"ISO3166-1": {
@@ -42045,6 +42051,7 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
+			"old_name": "Nyasaland",
 			"population": "14212000",
 			"source:name:oc": "ieo-bdtopoc",
 			"wikimedia_commons": "Category:Malawi"
@@ -43127,8 +43134,6 @@
 			"country_code_fips": "NF",
 			"geonames:id": "2155115",
 			"place": "territory",
-			"population": "1748",
-			"source:population": "ABS 2016 Census (State Suburb)",
 			"source:sqkm": "CIA World Factbook",
 			"sqkm": "36",
 			"state_code": "NSW"
@@ -45671,7 +45676,7 @@
 		"timezone": "America/Panama",
 		"website": null,
 		"wikidata": "Q804",
-		"wikipedia": "en:Panama"
+		"wikipedia": "es:Panamá"
 	},
 	"PCN": {
 		"ISO3166-1": {
@@ -47288,7 +47293,7 @@
 		"capital": null,
 		"currency": "EUR",
 		"default_language": "pt",
-		"flag": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Portugal.svg",
+		"flag": "File:Flag of Portugal (official).svg",
 		"lang": {
 			"alt_name": {
 				"br": "Bro-Bortugal",
@@ -48952,7 +48957,7 @@
 				"stq": "Ruslound",
 				"su": "Rusia",
 				"sv": "Ryssland",
-				"sw": "Shirikisho la Urusi",
+				"sw": "Urusi",
 				"szl": "Rusyjŏ",
 				"ta": "உருசியா",
 				"te": "రష్యా",
@@ -49475,7 +49480,7 @@
 				"th": "ประเทศซาอุดีอาระเบีย",
 				"tk": "Saud Arabystany",
 				"tl": "Arabyang Saudi",
-				"tok": "ma Sawusi",
+				"tok": "ma Sajusi",
 				"tr": "Suudi Arabistan",
 				"tt": "Согуд Гарәбстаны",
 				"tzl": "Arabxha Saudì",
@@ -49798,7 +49803,7 @@
 		"timezone": "Africa/Khartoum",
 		"website": null,
 		"wikidata": "Q1049",
-		"wikipedia": "en:Sudan"
+		"wikipedia": "ar:السودان"
 	},
 	"SEN": {
 		"ISO3166-1": {
@@ -52089,6 +52094,7 @@
 				"smn": "São Tomé já Principe",
 				"sms": "São Tomé da Principe",
 				"sr": "Сао Томе и Принсипе",
+				"sw": "Sao Tome na Principe",
 				"ta": "சாவோ தொமே மற்றும் பிரின்சிப்பி",
 				"tk": "San-Tome we Prinsipi",
 				"tzl": "Sant-Tomás-es-Prinç",
@@ -52364,7 +52370,7 @@
 		"timezone": "America/Paramaribo",
 		"website": null,
 		"wikidata": "Q730",
-		"wikipedia": "en:Suriname"
+		"wikipedia": "nl:Suriname"
 	},
 	"SVK": {
 		"ISO3166-1": {
@@ -58926,7 +58932,7 @@
 				"stq": "Fereende Stoaten fon Amerikoa",
 				"su": "Amérika Sarikat",
 				"sv": "USA",
-				"sw": "Muungano wa Madola ya Amerika",
+				"sw": "Marekani",
 				"syc": "ܐܘܚܕܢܐ ܡܚܝܕܐ",
 				"szl": "Zjednoczōne Sztaty Ameryki",
 				"ta": "ஐக்கிய அமெரிக்கா",
@@ -60018,7 +60024,7 @@
 		"timezone": "America/Caracas",
 		"website": null,
 		"wikidata": "Q717",
-		"wikipedia": "en:Venezuela"
+		"wikipedia": "es:Venezuela"
 	},
 	"VGB": {
 		"ISO3166-1": {
@@ -60669,6 +60675,7 @@
 				"ga": "Vailís agus Futúna",
 				"gd": "Uallas agus Futuna",
 				"gl": "Wallis e Futuna",
+				"gsw": "Wallis ùn Fùtùna",
 				"gu": "વૉલિસ એંડ ફ્યુચુના આઇલેન્ડ્સ",
 				"ha": "Walis Da Futuna",
 				"he": "איי ווליס ופוטונה",
@@ -62091,6 +62098,7 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
+			"old_name": "Northern Rhodesia",
 			"population": "16405229",
 			"source:name:oc": "ieo-bdtopoc",
 			"wikimedia_commons": "Category:Zambia"
@@ -62326,6 +62334,7 @@
 		"tags": {
 			"admin_level": "2",
 			"driving_side": "left",
+			"old_name": "Southern Rhodesia",
 			"population": "12521000",
 			"source:name:oc": "ieo-bdtopoc",
 			"wikimedia_commons": "Category:Zimbabwe"
