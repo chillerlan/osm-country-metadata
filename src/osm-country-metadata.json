@@ -10132,7 +10132,7 @@
 				"cv": "Беларуç",
 				"cy": "Belarws",
 				"da": "Hviderusland",
-				"de": "Belarus",
+				"de": "Weißrussland",
 				"din": "Belaruc",
 				"diq": "Belarus",
 				"dsb": "Běłoruska",
@@ -13793,6 +13793,7 @@
 		"flag": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Canada.svg",
 		"lang": {
 			"alt_name": {
+				"dak": "C̣aƞṡuṡka Maḳoc̣e",
 				"vi": "Ca-na-đa"
 			},
 			"name": {
@@ -13842,6 +13843,7 @@
 				"cv": "Канада",
 				"cy": "Canada",
 				"da": "Canada",
+				"dak": "Uƞciyapi Maḳoc̣e",
 				"de": "Kanada",
 				"diq": "Kanada",
 				"dsb": "Kanada",
@@ -13918,6 +13920,7 @@
 				"lez": "Канада",
 				"li": "Canada",
 				"lij": "Canada",
+				"lkt": "Uŋčíyapi-Makȟóčhe",
 				"lmo": "Canada",
 				"ln": "Kanadá",
 				"lt": "Kanada",
@@ -39165,6 +39168,7 @@
 				"cv": "Мексика",
 				"cy": "Mecsico",
 				"da": "Mexico",
+				"dak": "Spayo Maḳoc̣e",
 				"de": "Mexiko",
 				"diq": "Meksika",
 				"dsb": "Mexiko",
@@ -39234,6 +39238,7 @@
 				"lez": "Мексика",
 				"li": "Mexico",
 				"lij": "Mescico",
+				"lkt": "Spaóla-Makȟóčhe",
 				"lmo": "Messich",
 				"ln": "Mexiko",
 				"lt": "Meksika",
@@ -45712,6 +45717,7 @@
 			"name": {
 				"ar": "جزر بيتكيرن",
 				"az": "Pitkern adaları",
+				"be": "Астравы Піткэрн",
 				"bg": "Питкерн",
 				"br": "Inizi Pitcairn",
 				"ca": "Illes Pitcairn",
@@ -58786,6 +58792,7 @@
 				"cv": "Америкăри Пĕрлешӳллĕ Штатсем",
 				"cy": "Yr Unol Daleithiau",
 				"da": "Amerikas Forenede Stater",
+				"dak": "Isaƞṭaƞka Ṭamaḳoc̣e",
 				"de": "Vereinigte Staaten von Amerika",
 				"din": "Amatnhom Pawut",
 				"diq": "Dewletê Amerikayê Yewbiyayey",
@@ -58873,6 +58880,7 @@
 				"lg": "Amereka",
 				"li": "Vereinegde State van Amerika",
 				"lij": "Stati Unïi d'America",
+				"lkt": "Mílahaŋska-Tȟamákȟočhe",
 				"lmo": "Stat Ünì d'America",
 				"ln": "Lisangá lya Ameríka",
 				"lo": "ສະຫະລັດອາເມລິກາ",
